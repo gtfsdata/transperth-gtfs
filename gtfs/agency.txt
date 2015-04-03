@@ -1,0 +1,16 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang
+1,Transperth,http://www.transperth.wa.gov.au,Australia/Perth,en
+2,TransAlbany,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
+3,TransBunbury,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
+5,TransCollie,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
+6,TransBusselton,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
+7,TransEsperance,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
+8,TransGeraldton,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
+10,Fortesque Bus Service,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
+11,2K Tours,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
+12,TransManjimup,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
+13,TransNarrogin,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
+14,Hedland Bus Lines,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
+16,TransGoldfields,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
+25,TransBroome,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
+26,TransCarnarvon,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
