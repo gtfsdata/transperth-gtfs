@@ -1,0 +1,23 @@
+From: http://www.transperth.wa.gov.au/About/Spatial-Data-Access
+
+The Public Transport Authority (PTA) hereby grants you (Licensee) non-exclusive, limited and revocable rights to use, reproduce, and redistribute PTA Data comprising only the data that is available for download from this page (Data) subject to the following Terms:
+
+PTA trademarks (for example Public Transport Authority, PTA, Transperth, TransWA, SmartRider etc) and copyrighted materials, including any confusingly similar variants, may not be used in association with Data
+
+If you, the Licensee, give this data to another person or incorporate this data into another product for use by another person, you must state in doing so that this data is available free of charge from www.transperth.wa.gov.au
+
+Data is provided on an "as is" and "as available" basis. PTA makes no representations or warranties of any kind, express or implied. PTA disclaims all warranties, express or implied, including but not limited to implied warranties of merchantability and fitness for a particular purpose. PTA and its employees, officers, directors and agents will not be liable for damages of any kind arising from the use of Data including but not limited to direct, indirect, incidental, punitive and consequential damages
+
+PTA reserves the right to alter and/or no longer provide Data at any time without prior notice
+
+PTA maintains title, ownership, rights and interest in and to Data
+
+By using PTA Data, you agree to be bound by all of the Terms and Conditions set forth in this agreement.
+
+Applicable Law
+The laws of the State of Western Australia shall govern all rights and obligations under this Agreement, without giving effect to any principles of conflicts of laws and by entering into the agreement you agree to be subject to the jurisdiction of the courts of Western Australia.
+
+Entire Agreement
+This Agreement constitutes the complete and exclusive agreement between PTA and Licensee with respect to the subject matter hereof and supersedes all prior oral or written understandings, communications, or agreements not specifically incorporated herein. PTA reserves the right to modify or revoke this agreement at any time.
+
+
