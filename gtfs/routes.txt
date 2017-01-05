@@ -100,7 +100,6 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 1873,1,100,,,3,http://www.transperth.wa.gov.au/timetables/details?Bus=100,F2A900,000000
 1878,1,555,,,3,http://www.transperth.wa.gov.au/timetables/details?Bus=555,CB6015,FFFFFF
 1880,1,101,,,3,http://www.transperth.wa.gov.au/timetables/details?Bus=101,F2A900,000000
-1915,1,630,,,3,http://www.transperth.wa.gov.au/timetables/details?Bus=630,009639,FFFFFF
 1965,1,347,,,3,http://www.transperth.wa.gov.au/timetables/details?Bus=347,910048,FFFFFF
 1971,1,349,,,3,http://www.transperth.wa.gov.au/timetables/details?Bus=349,910048,FFFFFF
 1977,1,346,,,3,http://www.transperth.wa.gov.au/timetables/details?Bus=346,910048,FFFFFF
@@ -196,7 +195,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 2722,1,203,,,3,http://www.transperth.wa.gov.au/timetables/details?Bus=203,F2A900,000000
 2724,1,282,,,3,http://www.transperth.wa.gov.au/timetables/details?Bus=282,910048,FFFFFF
 2725,1,283,,,3,http://www.transperth.wa.gov.au/timetables/details?Bus=283,910048,FFFFFF
-2726,1,284,,,3,http://www.transperth.wa.gov.au/timetables/details?Bus=284,910048,FFFFFF
+2726,1,284,,,3,http://www.transperth.wa.gov.au/timetables/details?Bus=284,009639,FFFFFF
 2727,1,285,,,3,http://www.transperth.wa.gov.au/timetables/details?Bus=285,910048,FFFFFF
 2728,1,286,,,3,http://www.transperth.wa.gov.au/timetables/details?Bus=286,910048,FFFFFF
 2729,1,287,,,3,http://www.transperth.wa.gov.au/timetables/details?Bus=287,910048,FFFFFF
@@ -339,4 +338,3 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 3712,28,880,,,3,,009639,FFFFFF
 3713,28,881,,,3,,009639,FFFFFF
 3732,1,665,,,3,http://www.transperth.wa.gov.au/timetables/details?Bus=665,009639,FFFFFF
-3736,1,675,,,3,http://www.transperth.wa.gov.au/timetables/details?Bus=675,009639,FFFFFF
