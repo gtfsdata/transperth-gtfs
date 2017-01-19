@@ -56,7 +56,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10058,10058,"Albany Hwy After Coolgardie St","",-32.0006068439,115.91784276,1
 0,,10059,10059,"Albany Hwy After Walpole St","",-31.9981022954,115.9157958080,1
 0,,10060,10060,"Albany Hwy After Boundary Rd","",-31.99575388888890,115.914021111111,1
-0,,10061,10061,"Albany Hwy After Wyndham St","",-31.9949577019,115.9135030820,1
 0,,10062,10062,"Shepperton Rd After Somerset St","Shepperton Rd / Somerset St",-31.9885914945,115.9101658420,1
 0,,10063,10063,"Shepperton Rd Before Dane St","",-31.9862201986,115.9086093670,1
 0,,10064,10064,"Shepperton Rd After Mint St","",-31.9819185708,115.9057295970,1
@@ -446,7 +445,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10507,10507,"Ranford Rd After Bannister Rd","",-32.07265111111110,115.893886666667,2
 0,,10508,10508,"Ranford Rd Before Livingstone Dr","",-32.077790,115.901503333333,2
 0,,10509,10509,"Ranford Rd Before Waratah Bvd","",-32.0798002751,115.9053607380,2
-0,,10512,10512,"Ranford Rd After Brennan Av","Ranford Rd / Brennan Av",-32.08468222222220,115.913325555556,2
+0,,10512,10512,"Ranford Rd After Banksia Esplanade","Ranford Rd / Brennan Av",-32.08554166666660,115.914290,2
 0,,10513,10513,"Ranford Rd - Livingston Marketplace","Livingston Marketplace",-32.08704611111110,115.915929444444,2
 0,,10514,10514,"Ranford Rd Before Grand Bvd","",-32.0895561111111010,115.918777222222,2
 0,,10515,10515,"Ranford Rd Before Campbell Rd","Ranford Rd / Campbell Rd",-32.09250388888890,115.925230555556,2
@@ -2475,7 +2474,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12872,12872,"Newcastle St After Carr Pl","",-31.9381594706,115.8435305780,1
 0,,12873,12873,"Newcastle St Before Loftus St","",-31.9388356950,115.8450100920,1
 0,,12874,12874,"Newcastle St After Cleaver St","",-31.9405658947,115.8487837190,FTZ
-0,,12875,12875,"Newcastle St Before Charles St","",-31.941375,115.850495,FTZ
+0,,12875,12875,"Newcastle St Before Charles St","",-31.9417321979,115.8513368210,FTZ
 0,,12880,12880,"Newcastle St After Beaufort St","",-31.9476512410,115.8642980640,FTZ
 0,,12881,12881,"Newcastle St Before Pier St","",-31.9485151251,115.8661115550,FTZ
 0,,12883,12883,"Newcastle St After Lord St","",-31.9494103480,115.8677665710,FTZ
@@ -10399,8 +10398,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,25525,25525,"Wanliss St After Lewington St","",-32.2744433895,115.7358207860,5
 0,,25526,25526,"Safety Bay Rd After Hokin St","",-32.3259771974,115.7503763220,5
 0,,25527,25527,"Safety Bay Rd Before Hokin St","",-32.3260418319,115.7502375280,5
-0,,25528,25528,"Brearley Av After Second St","",-31.933465,115.948537777778,2
-0,,25529,25529,"Brearley Av Before Second St","",-31.93333111111110,115.949173888889,2
 0,,25536,25536,"Two Rocks Rd Before Montebello Bvd","",-31.5082313730,115.5996610370,6
 0,,25537,25537,"Two Rocks Rd After Montebello Bvd","",-31.5087494617,115.6001893160,6
 0,,25539,25539,"School Rd St Brigids College","St Brigids College",-31.996910,116.051826666667,3
@@ -10432,13 +10429,9 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,25570,25570,"Peelwood Pde After Mahogany Dr","",-32.5453490529,115.69597134,8
 0,,25571,25571,"Peelwood Pde After Binda Wy","",-32.5521492531,115.6861304050,8
 0,,25572,25572,"Peelwood Pde After Hibbertia Folw","",-32.5528564894,115.6853035810,8
-0,,25573,25573,"Peelwood Pde After Buttercup Wy","",-32.5549424912,115.68218677,8
-0,,25574,25574,"Peelwood Pde Before Buttercup Pwy","",-32.5548104611,115.6822272460,8
-0,,25575,25575,"Peelwood Pde After Sugarwood Tce","Peelwood Pde / Sugarwood Tce",-32.5566192119,115.6793881410,8
-0,,25576,25576,"Peelwood Pde Before Sugarwood Tce","Peelwood Pde / Sugarwood Tce",-32.5564620577,115.6794981830,8
-0,,25577,25577,"Peelwood Pde After Seascapes Bvd","Peelwood Pde / Seascapes Bvd",-32.5586131251,115.67695017,8
+0,,25573,25573,"Peelwood Pde After Buttercup Parkway","Peelwood Pde / Carissa Trn",-32.5549424912,115.68218677,8
+0,,25574,25574,"Peelwood Pde Before Buttercup Pwy","Peelwood Pde / Carissa Trn",-32.5548104611,115.6822272460,8
 0,,25578,25578,"Peelwood Pde Before Seascapes Bvd","Peelwood Pde / Seascapes Bvd",-32.5584746359,115.6769900760,8
-0,,25579,25579,"Peelwood Pde After Beaufortia Turn","",-32.5611092731,115.6751887920,8
 0,,25580,25580,"Peelwood Pde Before Acerosa Tce","",-32.5606730733,115.6753298460,8
 0,,25581,25581,"Peelwood Pde After Decora Wy","",-32.5637297549,115.6749889940,8
 0,,25582,25582,"Peelwood Pde Before Decora Wy","",-32.5636775231,115.6748782090,8
@@ -11460,7 +11453,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27257,27257,"May Dr Kings Park Shuttle Bus","Fraser Av / Kings Park",-31.95908277777780,115.839745,FTZ
 0,,27258,27258,"Albany Hwy Before Tonkin Hwy","",-32.0932063445,116.0130953260,3
 0,,27260,27260,"Mather Dr Mather Dr Carpark Shuttle","Mather Dr Carpark",-31.67978722222220,115.788967777778,4
-0,,27261,27261,"Kanowna Av After Second St","",-31.93512055555560,115.945736111111,2
 0,,27264,27264,"Progress Dr Ice Arena West","",-32.0994869844,115.8215295160,2
 0,,27265,27265,"Progress Dr Cockburn Ice Arena ","",-32.0995469283,115.8217307740,2
 0,,27268,27268,"Banrock Dr   After Elmridge Pwy","Banrock Dr / Elmridge Pwy",-31.7584924206,115.9870748640,3
@@ -11899,7 +11891,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,70458,70458,"Maitland St After Augustus St","Nagle College",-28.77819833333330,114.610701666667,1
 0,,70465,70465,"Eaton Dr After Peninsula Lakes Dr","Eaton Dr / Jindalee Wy",-33.30489222222220,115.729445,2
 0,,70473,70473,"Eaton Dr After Millbridge Bvd","Eaton Dr / Jindalee Wy",-33.30485166666670,115.729369444444,2
-0,,70485,70485,"Albert St Before Queen St","Albert St / Queen St",-33.6519222222221970,115.346126111111,1
+0,,70485,70485,"Albert St Before Queen St","Albert St / Queen St",-33.65192222222220,115.346126111111,1
 0,,70486,70486,"Bussell Hwy Before Gale St","Bussell Hwy / Gale St",-33.65337666666670,115.339346666667,1
 0,,70487,70487,"Bussell Hwy After Abbey St","",-33.65539166666670,115.328722777778,1
 0,,70488,70488,"Bussell Hwy After Garter St","",-33.656120,115.321123333333,1
@@ -12049,7 +12041,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,70641,70641,"Strelly St After Causeway Rd","Strelly St / Southern Dr",-33.65877611111110,115.350950,1
 0,,70642,70642,"Strelly St After Goldsmith St ","Strelly St Depot",-33.6644494444444010,115.348941666667,1
 0,,70643,70643,"Strelly St After Fairlawn Rd","Strelly St Depot",-33.6651961111111010,115.349188888889,1
-0,,70644,70644,"Albert St After Queen St","Albert St / Queen St",-33.6518077777777980,115.346192777778,1
+0,,70644,70644,"Albert St After Queen St","Albert St / Queen St",-33.65180777777780,115.346192777778,1
 0,,70650,70650,"Cammilleri St After Kent St","",-33.65068111111110,115.348133333333,1
 0,,70661,70661,"Caves Rd Before Chain Av","",-33.64401222222220,115.181298333333,2
 0,,70662,70662,"Caves Rd Opposite Backwater Rtt","",-33.63823388888890,115.156565,2
