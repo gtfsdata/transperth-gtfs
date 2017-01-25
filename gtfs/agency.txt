@@ -10,6 +10,7 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang
 12,TransManjimup,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
 13,TransNarrogin,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
 16,TransGoldfields,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
+17,Transwa,http://www.transwa.wa.gov.au,Australia/Perth,en
 25,TransBroome,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
 26,TransCarnarvon,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
 27,TransHedland,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
