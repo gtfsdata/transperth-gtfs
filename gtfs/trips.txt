@@ -6305,6 +6305,21 @@ route_id,service_id,trip_id,direction_id,trip_headsign,shape_id
 1657,32,764536,1,Crawley,46582
 1657,32,764537,1,Crawley,46582
 2500,15_46643,765090,0,Stirling Stn,46643
+3140,108,765096,1,Morley Bus Stn,46644
+3140,109,765098,1,Morley Bus Stn,46644
+3140,111,765100,1,Morley Bus Stn,46644
+3140,108,765106,0,Nib Stadium,46645
+3140,111,765109,0,Nib Stadium,46645
+3140,109,765110,0,Nib Stadium,46645
+2548,108,765112,1,Karrinyup Bus Stn,46646
+2548,109,765113,1,Karrinyup Bus Stn,46646
+2548,111,765115,1,Karrinyup Bus Stn,46646
+2548,109,765118,0,Nib Stadium,46647
+2548,108,765121,0,Nib Stadium,46647
+2548,111,765122,0,Nib Stadium,46647
+2548,108,765124,0,Nib Stadium,46648
+2548,109,765125,0,Nib Stadium,46648
+2548,111,765127,0,Nib Stadium,46648
 2708,32,767647,1,Como,46738
 2708,32,767648,1,Como,46738
 2708,32,767649,1,Como,46738
@@ -9283,6 +9298,38 @@ route_id,service_id,trip_id,direction_id,trip_headsign,shape_id
 1798,32,800667,0,Rockingham Stn,47241
 1798,32,800668,0,Rockingham Stn,47241
 1798,32,800669,0,Rockingham Stn,47241
+1916,75,786347,1,Karrinyup Bus Stn,47310
+1916,74,786348,1,Karrinyup Bus Stn,47310
+1916,76,786349,1,Karrinyup Bus Stn,47310
+1916,112,786351,1,Karrinyup Bus Stn,47310
+1916,74,786355,0,Domain Stadium,47311
+1916,75,786356,0,Domain Stadium,47311
+1916,76,786357,0,Domain Stadium,47311
+1916,112,786359,0,Domain Stadium,47311
+1916,75,786363,0,Domain Stadium,47312
+1916,74,786364,0,Domain Stadium,47312
+1916,76,786365,0,Domain Stadium,47312
+1916,74,786368,0,Domain Stadium,47312
+1916,75,786369,0,Domain Stadium,47312
+1916,76,786370,0,Domain Stadium,47312
+1916,112,786371,0,Domain Stadium,47312
+1916,112,786372,0,Domain Stadium,47312
+3139,74,786407,1,Morley Bus Stn,47315
+3139,76,786409,1,Morley Bus Stn,47315
+3139,112,786410,1,Morley Bus Stn,47315
+3139,75,786412,1,Morley Bus Stn,47315
+3139,75,786415,0,Domain Stadium,47316
+3139,76,786416,0,Domain Stadium,47316
+3139,76,786417,0,Domain Stadium,47316
+3139,75,786419,0,Domain Stadium,47316
+3139,76,786420,0,Domain Stadium,47316
+3139,74,786421,0,Domain Stadium,47316
+3139,112,786422,0,Domain Stadium,47316
+3139,112,786423,0,Domain Stadium,47316
+3139,112,786424,0,Domain Stadium,47316
+3139,74,786433,0,Domain Stadium,47316
+3139,74,786434,0,Domain Stadium,47316
+3139,75,786435,0,Domain Stadium,47316
 2462,32,786499,1,Alkimos,47320
 2462,32,786500,1,Alkimos,47320
 2462,32,786501,1,Alkimos,47320
@@ -10498,6 +10545,8 @@ route_id,service_id,trip_id,direction_id,trip_headsign,shape_id
 2638,15,792730,0,Armadale Stn,47606
 2638,15,792731,0,Armadale Stn,47607
 1808,15,793694,1,Dawesville,47619
+2548,109,793260,1,Karrinyup Bus Stn,47620
+2548,111,793262,1,Karrinyup Bus Stn,47620
 2144,15,793643,1,Frederick Irwin Anglican Sch,47626
 2144,15,793644,1,Frederick Irwin Anglican Sch,47626
 2144,15,793645,1,Frederick Irwin Anglican Sch,47626
@@ -11726,6 +11775,43 @@ route_id,service_id,trip_id,direction_id,trip_headsign,shape_id
 2725,32,801334,1,Kalamunda Bus Stn,48003
 2725,15,801335,1,Kalamunda Bus Stn,48004
 2725,15,801336,1,Kalamunda Bus Stn,48005
+1865,112,801543,0,West Leederville Stn,48044
+1865,112,801544,0,West Leederville Stn,48044
+1865,112,801545,0,West Leederville Stn,48044
+1865,112,801546,0,West Leederville Stn,48044
+1865,76,801547,0,West Leederville Stn,48044
+1865,76,801548,0,West Leederville Stn,48044
+1865,76,801549,0,West Leederville Stn,48044
+1865,76,801550,0,West Leederville Stn,48044
+1865,76,801551,0,West Leederville Stn,48044
+1865,76,801552,0,West Leederville Stn,48044
+1865,76,801553,0,West Leederville Stn,48044
+1865,112,801554,0,West Leederville Stn,48044
+1865,112,801555,0,West Leederville Stn,48044
+1865,112,801556,0,West Leederville Stn,48044
+1865,74,801571,0,West Leederville Stn,48044
+1865,74,801572,0,West Leederville Stn,48044
+1865,74,801573,0,West Leederville Stn,48044
+1865,74,801574,0,West Leederville Stn,48044
+1865,74,801575,0,West Leederville Stn,48044
+1865,74,801576,0,West Leederville Stn,48044
+1865,74,801577,0,West Leederville Stn,48044
+1865,75,801585,1,Mandurah Stn,48045
+1865,75,801586,1,Mandurah Stn,48045
+1865,75,801587,1,Mandurah Stn,48045
+1865,75,801588,1,Mandurah Stn,48045
+1865,112,801589,1,Mandurah Stn,48045
+1865,112,801590,1,Mandurah Stn,48045
+1865,112,801591,1,Mandurah Stn,48045
+1865,112,801592,1,Mandurah Stn,48045
+1865,76,801593,1,Mandurah Stn,48045
+1865,76,801594,1,Mandurah Stn,48045
+1865,76,801595,1,Mandurah Stn,48045
+1865,76,801596,1,Mandurah Stn,48045
+1865,74,801601,1,Mandurah Stn,48045
+1865,74,801602,1,Mandurah Stn,48045
+1865,74,801603,1,Mandurah Stn,48045
+1865,74,801604,1,Mandurah Stn,48045
 3275,15,802695,1,South Regional Tafe,48046
 2850,32,801665,1,Leederville,48050
 2850,32,801666,1,Leederville,48050
@@ -15432,6 +15518,28 @@ route_id,service_id,trip_id,direction_id,trip_headsign,shape_id
 1880,32,809487,0,Canning Bridge Stn,48630
 1880,32,809488,0,Canning Bridge Stn,48630
 1880,32,809489,0,Canning Bridge Stn,48630
+2821,74,809699,1,Curtin University Bus Stn,48644
+2821,75,809701,1,Curtin University Bus Stn,48644
+2821,76,809702,1,Curtin University Bus Stn,48644
+2821,112,809703,1,Curtin University Bus Stn,48644
+2821,74,809710,0,Domain Stadium,48645
+2821,74,809711,0,Domain Stadium,48645
+2821,74,809712,0,Domain Stadium,48645
+2821,75,809713,0,Domain Stadium,48645
+2821,75,809714,0,Domain Stadium,48645
+2821,75,809715,0,Domain Stadium,48645
+2821,76,809716,0,Domain Stadium,48645
+2821,76,809717,0,Domain Stadium,48645
+2821,76,809718,0,Domain Stadium,48645
+2821,112,809722,0,Domain Stadium,48645
+2821,112,809723,0,Domain Stadium,48645
+2821,112,809724,0,Domain Stadium,48645
+2825,108,809730,1,Curtin University Bus Stn,48646
+2825,109,809731,1,Curtin University Bus Stn,48646
+2825,111,809733,1,Curtin University Bus Stn,48646
+2825,108,809736,0,Nib Stadium,48647
+2825,109,809737,0,Nib Stadium,48647
+2825,111,809739,0,Nib Stadium,48647
 815,14,810053,1,Gosnells Stn,48668
 815,32,810054,1,Gosnells Stn,48668
 815,14,810055,1,Gosnells Stn,48668
@@ -18826,7 +18934,7 @@ route_id,service_id,trip_id,direction_id,trip_headsign,shape_id
 773,32,820467,0,Perth Busport,49029
 773,32,820468,0,Perth Busport,49029
 773,32,820469,0,Perth Busport,49030
-773,15,820470,0,Perth Busport,49031
+773,15_49031,820470,0,Perth Busport,49031
 773,15,820471,0,Perth Busport,49032
 773,15,820472,0,Perth Busport,49032
 758,21,820473,0,Perth Busport,49033
@@ -31642,60 +31750,7 @@ route_id,service_id,trip_id,direction_id,trip_headsign,shape_id
 2463,15,854405,0,Butler Stn,50214
 3145,15,854407,1,Yanchep,50215
 2463,15,854401,0,Butler Stn,50216
-2463,15,854408,1,Two Rocks Shop Ctr,50217
 3145,15,854409,0,Butler Stn,50218
-2463,32,854265,1,Two Rocks Shop Ctr,50219
-2463,32,854266,1,Two Rocks Shop Ctr,50219
-2463,32,854267,1,Two Rocks Shop Ctr,50219
-2463,32,854268,1,Two Rocks Shop Ctr,50219
-2463,32,854269,1,Two Rocks Shop Ctr,50219
-2463,32,854270,1,Two Rocks Shop Ctr,50219
-2463,32,854271,1,Two Rocks Shop Ctr,50219
-2463,32,854272,1,Two Rocks Shop Ctr,50219
-2463,13,854273,1,Two Rocks Shop Ctr,50219
-2463,32,854274,1,Two Rocks Shop Ctr,50219
-2463,32,854275,1,Two Rocks Shop Ctr,50219
-2463,32,854276,1,Two Rocks Shop Ctr,50219
-2463,32,854277,1,Two Rocks Shop Ctr,50219
-2463,14,854278,1,Two Rocks Shop Ctr,50219
-2463,14,854279,1,Two Rocks Shop Ctr,50219
-2463,14,854280,1,Two Rocks Shop Ctr,50219
-2463,14,854281,1,Two Rocks Shop Ctr,50219
-2463,14,854282,1,Two Rocks Shop Ctr,50219
-2463,14,854283,1,Two Rocks Shop Ctr,50219
-2463,14,854284,1,Two Rocks Shop Ctr,50219
-2463,14,854285,1,Two Rocks Shop Ctr,50219
-2463,21,854286,1,Two Rocks Shop Ctr,50219
-2463,21,854287,1,Two Rocks Shop Ctr,50219
-2463,21,854288,1,Two Rocks Shop Ctr,50219
-2463,21,854289,1,Two Rocks Shop Ctr,50219
-2463,21,854290,1,Two Rocks Shop Ctr,50219
-2463,21,854291,1,Two Rocks Shop Ctr,50219
-2463,32,854292,1,Two Rocks Shop Ctr,50219
-2463,32,854293,1,Two Rocks Shop Ctr,50219
-2463,32,854294,1,Two Rocks Shop Ctr,50219
-2463,14,854295,1,Two Rocks Shop Ctr,50219
-2463,32,854296,1,Two Rocks Shop Ctr,50219
-2463,14,854297,1,Two Rocks Shop Ctr,50219
-2463,32,854298,1,Two Rocks Shop Ctr,50219
-2463,14,854299,1,Two Rocks Shop Ctr,50219
-2463,32,854300,1,Two Rocks Shop Ctr,50219
-2463,32,854301,1,Two Rocks Shop Ctr,50219
-2463,32,854303,1,Two Rocks Shop Ctr,50219
-2463,32,854304,1,Two Rocks Shop Ctr,50219
-2463,32,854305,1,Two Rocks Shop Ctr,50219
-2463,13,854306,1,Two Rocks Shop Ctr,50219
-2463,14,854307,1,Two Rocks Shop Ctr,50219
-2463,14,854308,1,Two Rocks Shop Ctr,50219
-2463,14,854309,1,Two Rocks Shop Ctr,50219
-2463,21,854310,1,Two Rocks Shop Ctr,50219
-2463,21,854311,1,Two Rocks Shop Ctr,50219
-2463,21,854312,1,Two Rocks Shop Ctr,50219
-2463,21,854313,1,Two Rocks Shop Ctr,50219
-2463,21,854314,1,Two Rocks Shop Ctr,50219
-2463,21,854315,1,Two Rocks Shop Ctr,50219
-2463,15,854316,1,Two Rocks Shop Ctr,50219
-2463,13,854404,1,Two Rocks Shop Ctr,50219
 2463,32,854317,0,Butler Stn,50220
 2463,14,854318,0,Butler Stn,50220
 2463,14,854319,0,Butler Stn,50220
@@ -31973,279 +32028,6 @@ route_id,service_id,trip_id,direction_id,trip_headsign,shape_id
 1865,96,856260,0,Perth Underground Stn,50358
 1865,96,856261,0,Perth Underground Stn,50358
 1865,96,856262,0,Perth Underground Stn,50358
-3615,32_50381,856991,1,Mirrabooka Bus Stn,50381
-3615,32_50381,856992,1,Mirrabooka Bus Stn,50381
-3615,32_50381,856993,1,Mirrabooka Bus Stn,50381
-3615,32_50381,856994,1,Mirrabooka Bus Stn,50381
-3615,32_50381,856995,1,Mirrabooka Bus Stn,50381
-3615,32_50381,856996,1,Mirrabooka Bus Stn,50381
-3615,32_50381,856997,1,Mirrabooka Bus Stn,50381
-3615,32_50381,856998,1,Mirrabooka Bus Stn,50381
-3615,32_50381,856999,1,Mirrabooka Bus Stn,50381
-3615,32_50381,857000,1,Mirrabooka Bus Stn,50381
-3615,32_50381,857001,1,Mirrabooka Bus Stn,50381
-3615,32_50381,857002,1,Mirrabooka Bus Stn,50381
-3615,32_50381,857003,1,Mirrabooka Bus Stn,50381
-3615,32_50381,857004,1,Mirrabooka Bus Stn,50381
-3615,32_50381,857005,1,Mirrabooka Bus Stn,50381
-3615,32_50381,857006,1,Mirrabooka Bus Stn,50381
-3615,32_50381,857007,1,Mirrabooka Bus Stn,50381
-3615,32_50381,857008,1,Mirrabooka Bus Stn,50381
-3615,32_50381,857009,1,Mirrabooka Bus Stn,50381
-3615,32_50381,857010,1,Mirrabooka Bus Stn,50381
-3615,32_50381,857011,1,Mirrabooka Bus Stn,50381
-3615,32_50381,857012,1,Mirrabooka Bus Stn,50381
-3615,32_50381,857013,1,Mirrabooka Bus Stn,50381
-3615,32_50381,857014,1,Mirrabooka Bus Stn,50381
-3615,32_50381,857015,1,Mirrabooka Bus Stn,50381
-3615,32_50381,857016,1,Mirrabooka Bus Stn,50381
-3615,14_50381,857017,1,Mirrabooka Bus Stn,50381
-3615,14_50381,857018,1,Mirrabooka Bus Stn,50381
-3615,14_50381,857019,1,Mirrabooka Bus Stn,50381
-3615,14_50381,857020,1,Mirrabooka Bus Stn,50381
-3615,14_50381,857021,1,Mirrabooka Bus Stn,50381
-3615,14_50381,857022,1,Mirrabooka Bus Stn,50381
-3615,14_50381,857023,1,Mirrabooka Bus Stn,50381
-3615,14_50381,857024,1,Mirrabooka Bus Stn,50381
-3615,14_50381,857025,1,Mirrabooka Bus Stn,50381
-3615,14_50381,857026,1,Mirrabooka Bus Stn,50381
-3615,314_50381,857674,1,Mirrabooka Bus Stn,50381
-3615,314_50381,857675,1,Mirrabooka Bus Stn,50381
-3615,314_50381,857676,1,Mirrabooka Bus Stn,50381
-3615,314_50381,857677,1,Mirrabooka Bus Stn,50381
-3615,314_50381,857678,1,Mirrabooka Bus Stn,50381
-3615,314_50381,857679,1,Mirrabooka Bus Stn,50381
-3615,314_50381,857680,1,Mirrabooka Bus Stn,50381
-3615,314_50381,857681,1,Mirrabooka Bus Stn,50381
-3615,314_50381,857682,1,Mirrabooka Bus Stn,50381
-3615,14_50382,857036,1,Edith Cowan University Mount Lawley,50382
-3615,14_50382,857037,1,Edith Cowan University Mount Lawley,50382
-3615,14_50382,857038,1,Edith Cowan University Mount Lawley,50382
-3615,14_50382,857039,1,Edith Cowan University Mount Lawley,50382
-3615,14_50382,857040,1,Edith Cowan University Mount Lawley,50382
-3615,14_50382,857041,1,Edith Cowan University Mount Lawley,50382
-3615,14_50382,857042,1,Edith Cowan University Mount Lawley,50382
-3615,14_50382,857043,1,Edith Cowan University Mount Lawley,50382
-3615,14_50382,857044,1,Edith Cowan University Mount Lawley,50382
-3615,14_50382,857045,1,Edith Cowan University Mount Lawley,50382
-3615,32_50382,857046,1,Edith Cowan University Mount Lawley,50382
-3615,32_50382,857047,1,Edith Cowan University Mount Lawley,50382
-3615,32_50382,857048,1,Edith Cowan University Mount Lawley,50382
-3615,32_50382,857049,1,Edith Cowan University Mount Lawley,50382
-3615,32_50382,857050,1,Edith Cowan University Mount Lawley,50382
-3615,32_50382,857051,1,Edith Cowan University Mount Lawley,50382
-3615,32_50382,857052,1,Edith Cowan University Mount Lawley,50382
-3615,32_50382,857053,1,Edith Cowan University Mount Lawley,50382
-3615,32_50382,857054,1,Edith Cowan University Mount Lawley,50382
-3615,32_50382,857055,1,Edith Cowan University Mount Lawley,50382
-3615,32_50382,857056,1,Edith Cowan University Mount Lawley,50382
-3615,32_50382,857057,1,Edith Cowan University Mount Lawley,50382
-3615,32_50382,857058,1,Edith Cowan University Mount Lawley,50382
-3615,32_50382,857059,1,Edith Cowan University Mount Lawley,50382
-3615,32_50382,857060,1,Edith Cowan University Mount Lawley,50382
-3615,32_50382,857061,1,Edith Cowan University Mount Lawley,50382
-3615,32_50382,857062,1,Edith Cowan University Mount Lawley,50382
-3615,32_50382,857063,1,Edith Cowan University Mount Lawley,50382
-3615,32_50382,857064,1,Edith Cowan University Mount Lawley,50382
-3615,32_50382,857065,1,Edith Cowan University Mount Lawley,50382
-3615,32_50382,857066,1,Edith Cowan University Mount Lawley,50382
-3615,32_50382,857067,1,Edith Cowan University Mount Lawley,50382
-3615,32_50382,857068,1,Edith Cowan University Mount Lawley,50382
-3615,32_50382,857069,1,Edith Cowan University Mount Lawley,50382
-3615,32_50382,857070,1,Edith Cowan University Mount Lawley,50382
-3615,32_50382,857071,1,Edith Cowan University Mount Lawley,50382
-3615,32_50382,857072,1,Edith Cowan University Mount Lawley,50382
-3615,14_50382,857082,1,Edith Cowan University Mount Lawley,50382
-3615,14_50382,857083,1,Edith Cowan University Mount Lawley,50382
-3615,14_50382,857084,1,Edith Cowan University Mount Lawley,50382
-3615,14_50382,857085,1,Edith Cowan University Mount Lawley,50382
-3615,314_50382,857692,1,Edith Cowan University Mount Lawley,50382
-3615,314_50382,857693,1,Edith Cowan University Mount Lawley,50382
-3615,314_50382,857694,1,Edith Cowan University Mount Lawley,50382
-3615,314_50382,857695,1,Edith Cowan University Mount Lawley,50382
-3615,314_50382,857696,1,Edith Cowan University Mount Lawley,50382
-3615,314_50382,857697,1,Edith Cowan University Mount Lawley,50382
-3615,314_50382,857698,1,Edith Cowan University Mount Lawley,50382
-3615,314_50382,857699,1,Edith Cowan University Mount Lawley,50382
-3615,314_50382,857700,1,Edith Cowan University Mount Lawley,50382
-3615,32_50383,857086,0,Curtin University Bus Stn,50383
-3615,32_50383,857087,0,Curtin University Bus Stn,50383
-3615,32_50383,857088,0,Curtin University Bus Stn,50383
-3615,32_50383,857089,0,Curtin University Bus Stn,50383
-3615,32_50383,857090,0,Curtin University Bus Stn,50383
-3615,32_50383,857091,0,Curtin University Bus Stn,50383
-3615,32_50383,857092,0,Curtin University Bus Stn,50383
-3615,32_50383,857093,0,Curtin University Bus Stn,50383
-3615,32_50383,857094,0,Curtin University Bus Stn,50383
-3615,32_50383,857095,0,Curtin University Bus Stn,50383
-3615,32_50383,857096,0,Curtin University Bus Stn,50383
-3615,32_50383,857097,0,Curtin University Bus Stn,50383
-3615,32_50383,857098,0,Curtin University Bus Stn,50383
-3615,32_50383,857099,0,Curtin University Bus Stn,50383
-3615,32_50383,857100,0,Curtin University Bus Stn,50383
-3615,32_50383,857101,0,Curtin University Bus Stn,50383
-3615,32_50383,857102,0,Curtin University Bus Stn,50383
-3615,32_50383,857103,0,Curtin University Bus Stn,50383
-3615,32_50383,857104,0,Curtin University Bus Stn,50383
-3615,32_50383,857105,0,Curtin University Bus Stn,50383
-3615,32_50383,857106,0,Curtin University Bus Stn,50383
-3615,32_50383,857107,0,Curtin University Bus Stn,50383
-3615,32_50383,857108,0,Curtin University Bus Stn,50383
-3615,32_50383,857109,0,Curtin University Bus Stn,50383
-3615,32_50383,857110,0,Curtin University Bus Stn,50383
-3615,32_50383,857111,0,Curtin University Bus Stn,50383
-3615,14_50383,857112,0,Curtin University Bus Stn,50383
-3615,14_50383,857113,0,Curtin University Bus Stn,50383
-3615,14_50383,857114,0,Curtin University Bus Stn,50383
-3615,14_50383,857115,0,Curtin University Bus Stn,50383
-3615,14_50383,857116,0,Curtin University Bus Stn,50383
-3615,14_50383,857117,0,Curtin University Bus Stn,50383
-3615,14_50383,857118,0,Curtin University Bus Stn,50383
-3615,14_50383,857119,0,Curtin University Bus Stn,50383
-3615,14_50383,857120,0,Curtin University Bus Stn,50383
-3615,14_50383,857121,0,Curtin University Bus Stn,50383
-3615,14_50383,857122,0,Curtin University Bus Stn,50383
-3615,14_50383,857123,0,Curtin University Bus Stn,50383
-3615,314_50383,857710,0,Curtin University Bus Stn,50383
-3615,314_50383,857711,0,Curtin University Bus Stn,50383
-3615,314_50383,857712,0,Curtin University Bus Stn,50383
-3615,314_50383,857713,0,Curtin University Bus Stn,50383
-3615,314_50383,857714,0,Curtin University Bus Stn,50383
-3615,314_50383,857715,0,Curtin University Bus Stn,50383
-3615,314_50383,857716,0,Curtin University Bus Stn,50383
-3615,314_50383,857717,0,Curtin University Bus Stn,50383
-3615,314_50383,857718,0,Curtin University Bus Stn,50383
-3615,32_50384,857133,0,Curtin University Bus Stn,50384
-3615,14_50384,857143,0,Curtin University Bus Stn,50384
-3615,14_50384,857144,0,Curtin University Bus Stn,50384
-3615,14_50384,857145,0,Curtin University Bus Stn,50384
-3615,14_50384,857146,0,Curtin University Bus Stn,50384
-3615,14_50384,857147,0,Curtin University Bus Stn,50384
-3615,14_50384,857148,0,Curtin University Bus Stn,50384
-3615,14_50384,857149,0,Curtin University Bus Stn,50384
-3615,14_50384,857150,0,Curtin University Bus Stn,50384
-3615,14_50384,857151,0,Curtin University Bus Stn,50384
-3615,14_50384,857152,0,Curtin University Bus Stn,50384
-3615,14_50384,857153,0,Curtin University Bus Stn,50384
-3615,14_50384,857154,0,Curtin University Bus Stn,50384
-3615,32_50384,857155,0,Curtin University Bus Stn,50384
-3615,32_50384,857156,0,Curtin University Bus Stn,50384
-3615,32_50384,857157,0,Curtin University Bus Stn,50384
-3615,32_50384,857158,0,Curtin University Bus Stn,50384
-3615,32_50384,857159,0,Curtin University Bus Stn,50384
-3615,32_50384,857160,0,Curtin University Bus Stn,50384
-3615,32_50384,857161,0,Curtin University Bus Stn,50384
-3615,32_50384,857162,0,Curtin University Bus Stn,50384
-3615,32_50384,857163,0,Curtin University Bus Stn,50384
-3615,32_50384,857164,0,Curtin University Bus Stn,50384
-3615,32_50384,857165,0,Curtin University Bus Stn,50384
-3615,32_50384,857166,0,Curtin University Bus Stn,50384
-3615,32_50384,857167,0,Curtin University Bus Stn,50384
-3615,32_50384,857168,0,Curtin University Bus Stn,50384
-3615,32_50384,857169,0,Curtin University Bus Stn,50384
-3615,32_50384,857170,0,Curtin University Bus Stn,50384
-3615,32_50384,857171,0,Curtin University Bus Stn,50384
-3615,32_50384,857172,0,Curtin University Bus Stn,50384
-3615,32_50384,857173,0,Curtin University Bus Stn,50384
-3615,32_50384,857174,0,Curtin University Bus Stn,50384
-3615,32_50384,857175,0,Curtin University Bus Stn,50384
-3615,32_50384,857176,0,Curtin University Bus Stn,50384
-3615,32_50384,857177,0,Curtin University Bus Stn,50384
-3615,32_50384,857178,0,Curtin University Bus Stn,50384
-3615,32_50384,857179,0,Curtin University Bus Stn,50384
-3615,314_50384,857728,0,Curtin University Bus Stn,50384
-3615,314_50384,857729,0,Curtin University Bus Stn,50384
-3615,314_50384,857730,0,Curtin University Bus Stn,50384
-3615,314_50384,857731,0,Curtin University Bus Stn,50384
-3615,314_50384,857732,0,Curtin University Bus Stn,50384
-3615,314_50384,857733,0,Curtin University Bus Stn,50384
-3615,314_50384,862073,0,Curtin University Bus Stn,50384
-3615,314_50384,862074,0,Curtin University Bus Stn,50384
-3615,314_50384,862075,0,Curtin University Bus Stn,50384
-3614,32_50388,857180,1,Mirrabooka Bus Stn,50388
-3614,32_50388,857181,1,Mirrabooka Bus Stn,50388
-3614,32_50388,857182,1,Mirrabooka Bus Stn,50388
-3614,32_50388,857183,1,Mirrabooka Bus Stn,50388
-3614,32_50388,857184,1,Mirrabooka Bus Stn,50388
-3614,32_50388,857185,1,Mirrabooka Bus Stn,50388
-3614,32_50388,857186,1,Mirrabooka Bus Stn,50388
-3614,32_50388,857187,1,Mirrabooka Bus Stn,50388
-3614,32_50388,857188,1,Mirrabooka Bus Stn,50388
-3614,32_50388,857189,1,Mirrabooka Bus Stn,50388
-3614,32_50388,857190,1,Mirrabooka Bus Stn,50388
-3614,32_50388,857191,1,Mirrabooka Bus Stn,50388
-3614,32_50388,857192,1,Mirrabooka Bus Stn,50388
-3614,32_50388,857193,1,Mirrabooka Bus Stn,50388
-3614,14_50388,857194,1,Mirrabooka Bus Stn,50388
-3614,14_50388,857195,1,Mirrabooka Bus Stn,50388
-3614,14_50388,857196,1,Mirrabooka Bus Stn,50388
-3614,14_50388,857197,1,Mirrabooka Bus Stn,50388
-3614,14_50388,857198,1,Mirrabooka Bus Stn,50388
-3614,14_50388,857199,1,Mirrabooka Bus Stn,50388
-3614,14_50388,857200,1,Mirrabooka Bus Stn,50388
-3614,14_50388,857201,1,Mirrabooka Bus Stn,50388
-3614,14_50388,857202,1,Mirrabooka Bus Stn,50388
-3614,14_50388,857203,1,Mirrabooka Bus Stn,50388
-3614,14_50388,857204,1,Mirrabooka Bus Stn,50388
-3614,14_50388,857205,1,Mirrabooka Bus Stn,50388
-3614,14_50388,857206,1,Mirrabooka Bus Stn,50388
-3614,14_50388,857207,1,Mirrabooka Bus Stn,50388
-3614,14_50388,857208,1,Mirrabooka Bus Stn,50388
-3614,14_50388,857209,1,Mirrabooka Bus Stn,50388
-3614,14_50388,857210,1,Mirrabooka Bus Stn,50388
-3614,14_50388,857211,1,Mirrabooka Bus Stn,50388
-3614,14_50388,857212,1,Mirrabooka Bus Stn,50388
-3614,14_50388,857213,1,Mirrabooka Bus Stn,50388
-3614,32_50388,857235,1,Mirrabooka Bus Stn,50388
-3614,32_50388,857236,1,Mirrabooka Bus Stn,50388
-3614,32_50388,857237,1,Mirrabooka Bus Stn,50388
-3614,32_50388,857238,1,Mirrabooka Bus Stn,50388
-3614,32_50388,857239,1,Mirrabooka Bus Stn,50388
-3614,32_50388,857240,1,Mirrabooka Bus Stn,50388
-3614,32_50388,857241,1,Mirrabooka Bus Stn,50388
-3614,32_50388,857242,1,Mirrabooka Bus Stn,50388
-3614,32_50388,857243,1,Mirrabooka Bus Stn,50388
-3614,32_50388,857244,1,Mirrabooka Bus Stn,50388
-3614,32_50388,857245,1,Mirrabooka Bus Stn,50388
-3614,32_50388,857246,1,Mirrabooka Bus Stn,50388
-3614,32_50388,857247,1,Mirrabooka Bus Stn,50388
-3614,32_50388,857248,1,Mirrabooka Bus Stn,50388
-3614,32_50388,857249,1,Mirrabooka Bus Stn,50388
-3614,32_50388,857250,1,Mirrabooka Bus Stn,50388
-3614,32_50388,857251,1,Mirrabooka Bus Stn,50388
-3614,32_50388,857252,1,Mirrabooka Bus Stn,50388
-3614,14_50388,857253,1,Mirrabooka Bus Stn,50388
-3614,14_50388,857254,1,Mirrabooka Bus Stn,50388
-3614,14_50388,857255,1,Mirrabooka Bus Stn,50388
-3614,14_50388,857256,1,Mirrabooka Bus Stn,50388
-3614,14_50388,857257,1,Mirrabooka Bus Stn,50388
-3614,14_50388,857258,1,Mirrabooka Bus Stn,50388
-3614,14_50388,857259,1,Mirrabooka Bus Stn,50388
-3614,314_50388,857465,1,Mirrabooka Bus Stn,50388
-3614,314_50388,857466,1,Mirrabooka Bus Stn,50388
-3614,314_50388,857467,1,Mirrabooka Bus Stn,50388
-3614,314_50388,857468,1,Mirrabooka Bus Stn,50388
-3614,314_50388,857469,1,Mirrabooka Bus Stn,50388
-3614,314_50388,857470,1,Mirrabooka Bus Stn,50388
-3614,314_50388,857471,1,Mirrabooka Bus Stn,50388
-3614,314_50388,857472,1,Mirrabooka Bus Stn,50388
-3614,314_50388,857473,1,Mirrabooka Bus Stn,50388
-3614,314_50388,857474,1,Mirrabooka Bus Stn,50388
-3614,314_50388,857475,1,Mirrabooka Bus Stn,50388
-3614,314_50388,857476,1,Mirrabooka Bus Stn,50388
-3614,314_50388,857477,1,Mirrabooka Bus Stn,50388
-3614,314_50388,857478,1,Mirrabooka Bus Stn,50388
-3614,314_50388,857479,1,Mirrabooka Bus Stn,50388
-3614,314_50388,857480,1,Mirrabooka Bus Stn,50388
-3614,314_50388,857481,1,Mirrabooka Bus Stn,50388
-3614,314_50388,857482,1,Mirrabooka Bus Stn,50388
-3614,314_50388,857483,1,Mirrabooka Bus Stn,50388
-3614,314_50388,857484,1,Mirrabooka Bus Stn,50388
-3614,314_50388,857485,1,Mirrabooka Bus Stn,50388
-3614,314_50388,857486,1,Mirrabooka Bus Stn,50388
-3614,314_50388,857487,1,Mirrabooka Bus Stn,50388
-3614,314_50388,857488,1,Mirrabooka Bus Stn,50388
-3614,314_50388,857489,1,Mirrabooka Bus Stn,50388
 1830,90,858027,1,Armadale Stn,50400
 1830,90,858028,1,Armadale Stn,50400
 1830,90,858029,1,Armadale Stn,50400
@@ -34794,202 +34576,6 @@ route_id,service_id,trip_id,direction_id,trip_headsign,shape_id
 2506,32,862216,0,Stirling Stn,50537
 2506,32,862217,0,Stirling Stn,50537
 2506,32,862218,0,Stirling Stn,50537
-3614,32_50548,862229,1,Edith Cowan University Mount Lawley,50548
-3614,32_50548,862230,1,Edith Cowan University Mount Lawley,50548
-3614,32_50548,862231,1,Edith Cowan University Mount Lawley,50548
-3614,32_50548,862232,1,Edith Cowan University Mount Lawley,50548
-3614,32_50548,862233,1,Edith Cowan University Mount Lawley,50548
-3614,32_50548,862234,1,Edith Cowan University Mount Lawley,50548
-3614,32_50548,862235,1,Edith Cowan University Mount Lawley,50548
-3614,32_50548,862236,1,Edith Cowan University Mount Lawley,50548
-3614,32_50548,862237,1,Edith Cowan University Mount Lawley,50548
-3614,32_50548,862238,1,Edith Cowan University Mount Lawley,50548
-3614,32_50548,862239,1,Edith Cowan University Mount Lawley,50548
-3614,32_50548,862240,1,Edith Cowan University Mount Lawley,50548
-3614,32_50548,862241,1,Edith Cowan University Mount Lawley,50548
-3614,32_50548,862242,1,Edith Cowan University Mount Lawley,50548
-3614,32_50548,862243,1,Edith Cowan University Mount Lawley,50548
-3614,32_50548,862244,1,Edith Cowan University Mount Lawley,50548
-3614,32_50548,862245,1,Edith Cowan University Mount Lawley,50548
-3614,32_50548,862246,1,Edith Cowan University Mount Lawley,50548
-3614,32_50548,862247,1,Edith Cowan University Mount Lawley,50548
-3614,32_50548,862248,1,Edith Cowan University Mount Lawley,50548
-3614,32_50548,862249,1,Edith Cowan University Mount Lawley,50548
-3614,32_50548,862250,1,Edith Cowan University Mount Lawley,50548
-3614,32_50548,862251,1,Edith Cowan University Mount Lawley,50548
-3614,32_50548,862252,1,Edith Cowan University Mount Lawley,50548
-3614,32_50548,862253,1,Edith Cowan University Mount Lawley,50548
-3614,32_50548,862254,1,Edith Cowan University Mount Lawley,50548
-3614,32_50548,862255,1,Edith Cowan University Mount Lawley,50548
-3614,32_50548,862256,1,Edith Cowan University Mount Lawley,50548
-3614,32_50548,862257,1,Edith Cowan University Mount Lawley,50548
-3614,14_50548,862258,1,Edith Cowan University Mount Lawley,50548
-3614,14_50548,862259,1,Edith Cowan University Mount Lawley,50548
-3614,14_50548,862260,1,Edith Cowan University Mount Lawley,50548
-3614,14_50548,862261,1,Edith Cowan University Mount Lawley,50548
-3614,14_50548,862262,1,Edith Cowan University Mount Lawley,50548
-3614,14_50548,862263,1,Edith Cowan University Mount Lawley,50548
-3614,14_50548,862264,1,Edith Cowan University Mount Lawley,50548
-3614,14_50548,862265,1,Edith Cowan University Mount Lawley,50548
-3614,14_50548,862266,1,Edith Cowan University Mount Lawley,50548
-3614,14_50548,862267,1,Edith Cowan University Mount Lawley,50548
-3614,14_50548,862268,1,Edith Cowan University Mount Lawley,50548
-3614,14_50548,862269,1,Edith Cowan University Mount Lawley,50548
-3614,314_50548,862270,1,Edith Cowan University Mount Lawley,50548
-3614,314_50548,862271,1,Edith Cowan University Mount Lawley,50548
-3614,314_50548,862272,1,Edith Cowan University Mount Lawley,50548
-3614,314_50548,862273,1,Edith Cowan University Mount Lawley,50548
-3614,314_50548,862274,1,Edith Cowan University Mount Lawley,50548
-3614,314_50548,862275,1,Edith Cowan University Mount Lawley,50548
-3614,314_50548,862276,1,Edith Cowan University Mount Lawley,50548
-3614,314_50548,862277,1,Edith Cowan University Mount Lawley,50548
-3614,314_50548,862278,1,Edith Cowan University Mount Lawley,50548
-3614,314_50548,862279,1,Edith Cowan University Mount Lawley,50548
-3614,314_50548,862280,1,Edith Cowan University Mount Lawley,50548
-3614,314_50548,862281,1,Edith Cowan University Mount Lawley,50548
-3614,314_50548,862282,1,Edith Cowan University Mount Lawley,50548
-3614,314_50548,862283,1,Edith Cowan University Mount Lawley,50548
-3614,314_50548,862284,1,Edith Cowan University Mount Lawley,50548
-3614,32_50549,862298,0,Curtin University Bus Stn,50549
-3614,32_50549,862299,0,Curtin University Bus Stn,50549
-3614,32_50549,862300,0,Curtin University Bus Stn,50549
-3614,32_50549,862301,0,Curtin University Bus Stn,50549
-3614,32_50549,862302,0,Curtin University Bus Stn,50549
-3614,32_50549,862303,0,Curtin University Bus Stn,50549
-3614,32_50549,862304,0,Curtin University Bus Stn,50549
-3614,32_50549,862305,0,Curtin University Bus Stn,50549
-3614,32_50549,862306,0,Curtin University Bus Stn,50549
-3614,32_50549,862307,0,Curtin University Bus Stn,50549
-3614,32_50549,862308,0,Curtin University Bus Stn,50549
-3614,32_50549,862309,0,Curtin University Bus Stn,50549
-3614,32_50549,862310,0,Curtin University Bus Stn,50549
-3614,32_50549,862311,0,Curtin University Bus Stn,50549
-3614,32_50549,862312,0,Curtin University Bus Stn,50549
-3614,32_50549,862313,0,Curtin University Bus Stn,50549
-3614,32_50549,862314,0,Curtin University Bus Stn,50549
-3614,32_50549,862315,0,Curtin University Bus Stn,50549
-3614,32_50549,862316,0,Curtin University Bus Stn,50549
-3614,32_50549,862317,0,Curtin University Bus Stn,50549
-3614,32_50549,862318,0,Curtin University Bus Stn,50549
-3614,32_50549,862319,0,Curtin University Bus Stn,50549
-3614,32_50549,862320,0,Curtin University Bus Stn,50549
-3614,32_50549,862321,0,Curtin University Bus Stn,50549
-3614,32_50549,862322,0,Curtin University Bus Stn,50549
-3614,32_50549,862323,0,Curtin University Bus Stn,50549
-3614,32_50549,862324,0,Curtin University Bus Stn,50549
-3614,32_50549,862325,0,Curtin University Bus Stn,50549
-3614,32_50549,862326,0,Curtin University Bus Stn,50549
-3614,32_50549,862327,0,Curtin University Bus Stn,50549
-3614,32_50549,862328,0,Curtin University Bus Stn,50549
-3614,32_50549,862329,0,Curtin University Bus Stn,50549
-3614,32_50549,862330,0,Curtin University Bus Stn,50549
-3614,32_50549,862331,0,Curtin University Bus Stn,50549
-3614,14_50549,862332,0,Curtin University Bus Stn,50549
-3614,14_50549,862333,0,Curtin University Bus Stn,50549
-3614,14_50549,862334,0,Curtin University Bus Stn,50549
-3614,14_50549,862335,0,Curtin University Bus Stn,50549
-3614,14_50549,862336,0,Curtin University Bus Stn,50549
-3614,14_50549,862337,0,Curtin University Bus Stn,50549
-3614,14_50549,862338,0,Curtin University Bus Stn,50549
-3614,14_50549,862339,0,Curtin University Bus Stn,50549
-3614,14_50549,862340,0,Curtin University Bus Stn,50549
-3614,14_50549,862341,0,Curtin University Bus Stn,50549
-3614,14_50549,862342,0,Curtin University Bus Stn,50549
-3614,14_50549,862343,0,Curtin University Bus Stn,50549
-3614,14_50549,862344,0,Curtin University Bus Stn,50549
-3614,14_50549,862345,0,Curtin University Bus Stn,50549
-3614,14_50549,862346,0,Curtin University Bus Stn,50549
-3614,14_50549,862347,0,Curtin University Bus Stn,50549
-3614,14_50549,862348,0,Curtin University Bus Stn,50549
-3614,14_50549,862349,0,Curtin University Bus Stn,50549
-3614,14_50549,862350,0,Curtin University Bus Stn,50549
-3614,14_50549,862351,0,Curtin University Bus Stn,50549
-3614,14_50549,862352,0,Curtin University Bus Stn,50549
-3614,14_50549,862353,0,Curtin University Bus Stn,50549
-3614,14_50549,862354,0,Curtin University Bus Stn,50549
-3614,14_50549,862355,0,Curtin University Bus Stn,50549
-3614,14_50549,862356,0,Curtin University Bus Stn,50549
-3614,314_50549,862370,0,Curtin University Bus Stn,50549
-3614,314_50549,862371,0,Curtin University Bus Stn,50549
-3614,314_50549,862372,0,Curtin University Bus Stn,50549
-3614,314_50549,862373,0,Curtin University Bus Stn,50549
-3614,314_50549,862374,0,Curtin University Bus Stn,50549
-3614,314_50549,862375,0,Curtin University Bus Stn,50549
-3614,314_50549,862376,0,Curtin University Bus Stn,50549
-3614,314_50549,862377,0,Curtin University Bus Stn,50549
-3614,314_50549,862378,0,Curtin University Bus Stn,50549
-3614,314_50549,862379,0,Curtin University Bus Stn,50549
-3614,314_50549,862380,0,Curtin University Bus Stn,50549
-3614,314_50549,862381,0,Curtin University Bus Stn,50549
-3614,314_50549,862382,0,Curtin University Bus Stn,50549
-3614,314_50549,862383,0,Curtin University Bus Stn,50549
-3614,314_50549,862384,0,Curtin University Bus Stn,50549
-3614,314_50549,862385,0,Curtin University Bus Stn,50549
-3614,314_50549,862386,0,Curtin University Bus Stn,50549
-3614,314_50549,862387,0,Curtin University Bus Stn,50549
-3614,314_50549,862388,0,Curtin University Bus Stn,50549
-3614,314_50549,862389,0,Curtin University Bus Stn,50549
-3614,314_50549,862390,0,Curtin University Bus Stn,50549
-3614,314_50549,862391,0,Curtin University Bus Stn,50549
-3614,314_50549,862392,0,Curtin University Bus Stn,50549
-3614,314_50549,862393,0,Curtin University Bus Stn,50549
-3614,314_50549,862394,0,Curtin University Bus Stn,50549
-3614,32_50550,862407,0,Curtin University Bus Stn,50550
-3614,32_50550,862408,0,Curtin University Bus Stn,50550
-3614,32_50550,862409,0,Curtin University Bus Stn,50550
-3614,32_50550,862410,0,Curtin University Bus Stn,50550
-3614,32_50550,862411,0,Curtin University Bus Stn,50550
-3614,32_50550,862412,0,Curtin University Bus Stn,50550
-3614,32_50550,862413,0,Curtin University Bus Stn,50550
-3614,32_50550,862414,0,Curtin University Bus Stn,50550
-3614,32_50550,862415,0,Curtin University Bus Stn,50550
-3614,32_50550,862416,0,Curtin University Bus Stn,50550
-3614,32_50550,862417,0,Curtin University Bus Stn,50550
-3614,32_50550,862418,0,Curtin University Bus Stn,50550
-3614,32_50550,862419,0,Curtin University Bus Stn,50550
-3614,32_50550,862420,0,Curtin University Bus Stn,50550
-3614,32_50550,862421,0,Curtin University Bus Stn,50550
-3614,32_50550,862422,0,Curtin University Bus Stn,50550
-3614,32_50550,862423,0,Curtin University Bus Stn,50550
-3614,32_50550,862424,0,Curtin University Bus Stn,50550
-3614,32_50550,862425,0,Curtin University Bus Stn,50550
-3614,32_50550,862426,0,Curtin University Bus Stn,50550
-3614,32_50550,862427,0,Curtin University Bus Stn,50550
-3614,32_50550,862428,0,Curtin University Bus Stn,50550
-3614,32_50550,862429,0,Curtin University Bus Stn,50550
-3614,32_50550,862430,0,Curtin University Bus Stn,50550
-3614,32_50550,862431,0,Curtin University Bus Stn,50550
-3614,32_50550,862432,0,Curtin University Bus Stn,50550
-3614,32_50550,862433,0,Curtin University Bus Stn,50550
-3614,14_50550,862434,0,Curtin University Bus Stn,50550
-3614,14_50550,862435,0,Curtin University Bus Stn,50550
-3614,14_50550,862436,0,Curtin University Bus Stn,50550
-3614,14_50550,862437,0,Curtin University Bus Stn,50550
-3614,14_50550,862438,0,Curtin University Bus Stn,50550
-3614,14_50550,862439,0,Curtin University Bus Stn,50550
-3614,14_50550,862440,0,Curtin University Bus Stn,50550
-3614,14_50550,862441,0,Curtin University Bus Stn,50550
-3614,14_50550,862442,0,Curtin University Bus Stn,50550
-3614,14_50550,862443,0,Curtin University Bus Stn,50550
-3614,14_50550,862444,0,Curtin University Bus Stn,50550
-3614,14_50550,862445,0,Curtin University Bus Stn,50550
-3614,14_50550,862446,0,Curtin University Bus Stn,50550
-3614,14_50550,862447,0,Curtin University Bus Stn,50550
-3614,314_50550,862448,0,Curtin University Bus Stn,50550
-3614,314_50550,862449,0,Curtin University Bus Stn,50550
-3614,314_50550,862450,0,Curtin University Bus Stn,50550
-3614,314_50550,862451,0,Curtin University Bus Stn,50550
-3614,314_50550,862452,0,Curtin University Bus Stn,50550
-3614,314_50550,862453,0,Curtin University Bus Stn,50550
-3614,314_50550,862454,0,Curtin University Bus Stn,50550
-3614,314_50550,862455,0,Curtin University Bus Stn,50550
-3614,314_50550,862456,0,Curtin University Bus Stn,50550
-3614,314_50550,862457,0,Curtin University Bus Stn,50550
-3614,314_50550,862458,0,Curtin University Bus Stn,50550
-3614,314_50550,862459,0,Curtin University Bus Stn,50550
-3614,314_50550,862460,0,Curtin University Bus Stn,50550
-3614,314_50550,862461,0,Curtin University Bus Stn,50550
-3614,314_50550,862462,0,Curtin University Bus Stn,50550
 3,8,862463,1,Mends St Jetty,50552
 3,8,862464,1,Mends St Jetty,50552
 3,8,862465,1,Mends St Jetty,50552
@@ -35352,472 +34938,526 @@ route_id,service_id,trip_id,direction_id,trip_headsign,shape_id
 943,71,862923,0,Carnarvon,50554
 943,73,862925,0,Carnarvon,50554
 943,73,862926,0,Carnarvon,50554
-3615,32_50597,864567,1,Mirrabooka Bus Stn,50597
-3615,32_50597,864568,1,Mirrabooka Bus Stn,50597
-3615,32_50597,864569,1,Mirrabooka Bus Stn,50597
-3615,32_50597,864570,1,Mirrabooka Bus Stn,50597
-3615,32_50597,864571,1,Mirrabooka Bus Stn,50597
-3615,32_50597,864572,1,Mirrabooka Bus Stn,50597
-3615,32_50597,864573,1,Mirrabooka Bus Stn,50597
-3615,32_50597,864574,1,Mirrabooka Bus Stn,50597
-3615,32_50597,864575,1,Mirrabooka Bus Stn,50597
-3615,32_50597,864576,1,Mirrabooka Bus Stn,50597
-3615,32_50597,864577,1,Mirrabooka Bus Stn,50597
-3615,32_50597,864578,1,Mirrabooka Bus Stn,50597
-3615,32_50597,864579,1,Mirrabooka Bus Stn,50597
-3615,32_50597,864580,1,Mirrabooka Bus Stn,50597
-3615,32_50597,864581,1,Mirrabooka Bus Stn,50597
-3615,32_50597,864582,1,Mirrabooka Bus Stn,50597
-3615,32_50597,864583,1,Mirrabooka Bus Stn,50597
-3615,32_50597,864584,1,Mirrabooka Bus Stn,50597
-3615,32_50597,864585,1,Mirrabooka Bus Stn,50597
-3615,32_50597,864586,1,Mirrabooka Bus Stn,50597
-3615,32_50597,864587,1,Mirrabooka Bus Stn,50597
-3615,32_50597,864588,1,Mirrabooka Bus Stn,50597
-3615,32_50597,864589,1,Mirrabooka Bus Stn,50597
-3615,32_50597,864590,1,Mirrabooka Bus Stn,50597
-3615,32_50597,864591,1,Mirrabooka Bus Stn,50597
-3615,32_50597,864592,1,Mirrabooka Bus Stn,50597
-3615,14_50597,864593,1,Mirrabooka Bus Stn,50597
-3615,14_50597,864594,1,Mirrabooka Bus Stn,50597
-3615,14_50597,864595,1,Mirrabooka Bus Stn,50597
-3615,14_50597,864596,1,Mirrabooka Bus Stn,50597
-3615,14_50597,864597,1,Mirrabooka Bus Stn,50597
-3615,14_50597,864598,1,Mirrabooka Bus Stn,50597
-3615,14_50597,864599,1,Mirrabooka Bus Stn,50597
-3615,14_50597,864600,1,Mirrabooka Bus Stn,50597
-3615,14_50597,864601,1,Mirrabooka Bus Stn,50597
-3615,14_50597,864602,1,Mirrabooka Bus Stn,50597
-3615,21_50597,865203,1,Mirrabooka Bus Stn,50597
-3615,21_50597,865204,1,Mirrabooka Bus Stn,50597
-3615,21_50597,865205,1,Mirrabooka Bus Stn,50597
-3615,21_50597,865206,1,Mirrabooka Bus Stn,50597
-3615,21_50597,865207,1,Mirrabooka Bus Stn,50597
-3615,21_50597,865208,1,Mirrabooka Bus Stn,50597
-3615,21_50597,865209,1,Mirrabooka Bus Stn,50597
-3615,21_50597,865210,1,Mirrabooka Bus Stn,50597
-3615,21_50597,865211,1,Mirrabooka Bus Stn,50597
-3615,14_50598,864619,1,Edith Cowan University Mount Lawley,50598
-3615,14_50598,864620,1,Edith Cowan University Mount Lawley,50598
-3615,14_50598,864621,1,Edith Cowan University Mount Lawley,50598
-3615,14_50598,864622,1,Edith Cowan University Mount Lawley,50598
-3615,14_50598,864623,1,Edith Cowan University Mount Lawley,50598
-3615,14_50598,864624,1,Edith Cowan University Mount Lawley,50598
-3615,14_50598,864625,1,Edith Cowan University Mount Lawley,50598
-3615,14_50598,864626,1,Edith Cowan University Mount Lawley,50598
-3615,14_50598,864627,1,Edith Cowan University Mount Lawley,50598
-3615,14_50598,864628,1,Edith Cowan University Mount Lawley,50598
-3615,32_50598,864629,1,Edith Cowan University Mount Lawley,50598
-3615,32_50598,864630,1,Edith Cowan University Mount Lawley,50598
-3615,32_50598,864631,1,Edith Cowan University Mount Lawley,50598
-3615,32_50598,864632,1,Edith Cowan University Mount Lawley,50598
-3615,32_50598,864633,1,Edith Cowan University Mount Lawley,50598
-3615,32_50598,864634,1,Edith Cowan University Mount Lawley,50598
-3615,32_50598,864635,1,Edith Cowan University Mount Lawley,50598
-3615,32_50598,864636,1,Edith Cowan University Mount Lawley,50598
-3615,32_50598,864637,1,Edith Cowan University Mount Lawley,50598
-3615,32_50598,864638,1,Edith Cowan University Mount Lawley,50598
-3615,32_50598,864639,1,Edith Cowan University Mount Lawley,50598
-3615,32_50598,864640,1,Edith Cowan University Mount Lawley,50598
-3615,32_50598,864641,1,Edith Cowan University Mount Lawley,50598
-3615,32_50598,864642,1,Edith Cowan University Mount Lawley,50598
-3615,32_50598,864643,1,Edith Cowan University Mount Lawley,50598
-3615,32_50598,864644,1,Edith Cowan University Mount Lawley,50598
-3615,32_50598,864645,1,Edith Cowan University Mount Lawley,50598
-3615,32_50598,864646,1,Edith Cowan University Mount Lawley,50598
-3615,32_50598,864647,1,Edith Cowan University Mount Lawley,50598
-3615,32_50598,864648,1,Edith Cowan University Mount Lawley,50598
-3615,32_50598,864649,1,Edith Cowan University Mount Lawley,50598
-3615,32_50598,864650,1,Edith Cowan University Mount Lawley,50598
-3615,32_50598,864651,1,Edith Cowan University Mount Lawley,50598
-3615,32_50598,864652,1,Edith Cowan University Mount Lawley,50598
-3615,32_50598,864653,1,Edith Cowan University Mount Lawley,50598
-3615,32_50598,864654,1,Edith Cowan University Mount Lawley,50598
-3615,32_50598,864655,1,Edith Cowan University Mount Lawley,50598
-3615,14_50598,864656,1,Edith Cowan University Mount Lawley,50598
-3615,14_50598,864657,1,Edith Cowan University Mount Lawley,50598
-3615,14_50598,864658,1,Edith Cowan University Mount Lawley,50598
-3615,14_50598,864659,1,Edith Cowan University Mount Lawley,50598
-3615,21_50598,865212,1,Edith Cowan University Mount Lawley,50598
-3615,21_50598,865213,1,Edith Cowan University Mount Lawley,50598
-3615,21_50598,865214,1,Edith Cowan University Mount Lawley,50598
-3615,21_50598,865215,1,Edith Cowan University Mount Lawley,50598
-3615,21_50598,865216,1,Edith Cowan University Mount Lawley,50598
-3615,21_50598,865217,1,Edith Cowan University Mount Lawley,50598
-3615,21_50598,865218,1,Edith Cowan University Mount Lawley,50598
-3615,21_50598,865219,1,Edith Cowan University Mount Lawley,50598
-3615,21_50598,865220,1,Edith Cowan University Mount Lawley,50598
-3615,32_50599,864675,0,Curtin University Bus Stn,50599
-3615,32_50599,864676,0,Curtin University Bus Stn,50599
-3615,32_50599,864677,0,Curtin University Bus Stn,50599
-3615,32_50599,864678,0,Curtin University Bus Stn,50599
-3615,32_50599,864679,0,Curtin University Bus Stn,50599
-3615,32_50599,864680,0,Curtin University Bus Stn,50599
-3615,32_50599,864681,0,Curtin University Bus Stn,50599
-3615,32_50599,864682,0,Curtin University Bus Stn,50599
-3615,32_50599,864683,0,Curtin University Bus Stn,50599
-3615,32_50599,864684,0,Curtin University Bus Stn,50599
-3615,32_50599,864685,0,Curtin University Bus Stn,50599
-3615,32_50599,864686,0,Curtin University Bus Stn,50599
-3615,32_50599,864687,0,Curtin University Bus Stn,50599
-3615,32_50599,864688,0,Curtin University Bus Stn,50599
-3615,32_50599,864689,0,Curtin University Bus Stn,50599
-3615,32_50599,864690,0,Curtin University Bus Stn,50599
-3615,32_50599,864691,0,Curtin University Bus Stn,50599
-3615,32_50599,864692,0,Curtin University Bus Stn,50599
-3615,32_50599,864693,0,Curtin University Bus Stn,50599
-3615,32_50599,864694,0,Curtin University Bus Stn,50599
-3615,32_50599,864695,0,Curtin University Bus Stn,50599
-3615,32_50599,864696,0,Curtin University Bus Stn,50599
-3615,32_50599,864697,0,Curtin University Bus Stn,50599
-3615,32_50599,864698,0,Curtin University Bus Stn,50599
-3615,32_50599,864699,0,Curtin University Bus Stn,50599
-3615,32_50599,864700,0,Curtin University Bus Stn,50599
-3615,14_50599,864701,0,Curtin University Bus Stn,50599
-3615,14_50599,864702,0,Curtin University Bus Stn,50599
-3615,14_50599,864703,0,Curtin University Bus Stn,50599
-3615,14_50599,864704,0,Curtin University Bus Stn,50599
-3615,14_50599,864705,0,Curtin University Bus Stn,50599
-3615,14_50599,864706,0,Curtin University Bus Stn,50599
-3615,14_50599,864707,0,Curtin University Bus Stn,50599
-3615,14_50599,864708,0,Curtin University Bus Stn,50599
-3615,14_50599,864709,0,Curtin University Bus Stn,50599
-3615,14_50599,864710,0,Curtin University Bus Stn,50599
-3615,14_50599,864711,0,Curtin University Bus Stn,50599
-3615,14_50599,864712,0,Curtin University Bus Stn,50599
-3615,21_50599,865221,0,Curtin University Bus Stn,50599
-3615,21_50599,865222,0,Curtin University Bus Stn,50599
-3615,21_50599,865223,0,Curtin University Bus Stn,50599
-3615,21_50599,865224,0,Curtin University Bus Stn,50599
-3615,21_50599,865225,0,Curtin University Bus Stn,50599
-3615,21_50599,865226,0,Curtin University Bus Stn,50599
-3615,21_50599,865227,0,Curtin University Bus Stn,50599
-3615,21_50599,865228,0,Curtin University Bus Stn,50599
-3615,21_50599,865229,0,Curtin University Bus Stn,50599
-3615,32_50600,864729,0,Curtin University Bus Stn,50600
-3615,14_50600,864730,0,Curtin University Bus Stn,50600
-3615,14_50600,864731,0,Curtin University Bus Stn,50600
-3615,14_50600,864732,0,Curtin University Bus Stn,50600
-3615,14_50600,864733,0,Curtin University Bus Stn,50600
-3615,14_50600,864734,0,Curtin University Bus Stn,50600
-3615,14_50600,864735,0,Curtin University Bus Stn,50600
-3615,14_50600,864736,0,Curtin University Bus Stn,50600
-3615,14_50600,864737,0,Curtin University Bus Stn,50600
-3615,14_50600,864738,0,Curtin University Bus Stn,50600
-3615,14_50600,864739,0,Curtin University Bus Stn,50600
-3615,14_50600,864740,0,Curtin University Bus Stn,50600
-3615,14_50600,864741,0,Curtin University Bus Stn,50600
-3615,32_50600,864742,0,Curtin University Bus Stn,50600
-3615,32_50600,864743,0,Curtin University Bus Stn,50600
-3615,32_50600,864744,0,Curtin University Bus Stn,50600
-3615,32_50600,864745,0,Curtin University Bus Stn,50600
-3615,32_50600,864746,0,Curtin University Bus Stn,50600
-3615,32_50600,864747,0,Curtin University Bus Stn,50600
-3615,32_50600,864748,0,Curtin University Bus Stn,50600
-3615,32_50600,864749,0,Curtin University Bus Stn,50600
-3615,32_50600,864750,0,Curtin University Bus Stn,50600
-3615,32_50600,864751,0,Curtin University Bus Stn,50600
-3615,32_50600,864752,0,Curtin University Bus Stn,50600
-3615,32_50600,864753,0,Curtin University Bus Stn,50600
-3615,32_50600,864754,0,Curtin University Bus Stn,50600
-3615,32_50600,864755,0,Curtin University Bus Stn,50600
-3615,32_50600,864756,0,Curtin University Bus Stn,50600
-3615,32_50600,864757,0,Curtin University Bus Stn,50600
-3615,32_50600,864758,0,Curtin University Bus Stn,50600
-3615,32_50600,864759,0,Curtin University Bus Stn,50600
-3615,32_50600,864760,0,Curtin University Bus Stn,50600
-3615,32_50600,864761,0,Curtin University Bus Stn,50600
-3615,32_50600,864762,0,Curtin University Bus Stn,50600
-3615,32_50600,864763,0,Curtin University Bus Stn,50600
-3615,32_50600,864764,0,Curtin University Bus Stn,50600
-3615,32_50600,864765,0,Curtin University Bus Stn,50600
-3615,32_50600,864766,0,Curtin University Bus Stn,50600
-3615,21_50600,865230,0,Curtin University Bus Stn,50600
-3615,21_50600,865231,0,Curtin University Bus Stn,50600
-3615,21_50600,865232,0,Curtin University Bus Stn,50600
-3615,21_50600,865233,0,Curtin University Bus Stn,50600
-3615,21_50600,865234,0,Curtin University Bus Stn,50600
-3615,21_50600,865235,0,Curtin University Bus Stn,50600
-3615,21_50600,865236,0,Curtin University Bus Stn,50600
-3615,21_50600,865237,0,Curtin University Bus Stn,50600
-3615,21_50600,865238,0,Curtin University Bus Stn,50600
-3614,32_50601,864807,1,Mirrabooka Bus Stn,50601
-3614,32_50601,864808,1,Mirrabooka Bus Stn,50601
-3614,32_50601,864809,1,Mirrabooka Bus Stn,50601
-3614,32_50601,864810,1,Mirrabooka Bus Stn,50601
-3614,32_50601,864811,1,Mirrabooka Bus Stn,50601
-3614,32_50601,864812,1,Mirrabooka Bus Stn,50601
-3614,32_50601,864813,1,Mirrabooka Bus Stn,50601
-3614,32_50601,864814,1,Mirrabooka Bus Stn,50601
-3614,32_50601,864815,1,Mirrabooka Bus Stn,50601
-3614,32_50601,864816,1,Mirrabooka Bus Stn,50601
-3614,32_50601,864817,1,Mirrabooka Bus Stn,50601
-3614,32_50601,864818,1,Mirrabooka Bus Stn,50601
-3614,32_50601,864819,1,Mirrabooka Bus Stn,50601
-3614,32_50601,864820,1,Mirrabooka Bus Stn,50601
-3614,14_50601,864821,1,Mirrabooka Bus Stn,50601
-3614,14_50601,864822,1,Mirrabooka Bus Stn,50601
-3614,14_50601,864823,1,Mirrabooka Bus Stn,50601
-3614,14_50601,864824,1,Mirrabooka Bus Stn,50601
-3614,14_50601,864825,1,Mirrabooka Bus Stn,50601
-3614,14_50601,864826,1,Mirrabooka Bus Stn,50601
-3614,14_50601,864827,1,Mirrabooka Bus Stn,50601
-3614,14_50601,864828,1,Mirrabooka Bus Stn,50601
-3614,14_50601,864829,1,Mirrabooka Bus Stn,50601
-3614,14_50601,864830,1,Mirrabooka Bus Stn,50601
-3614,14_50601,864831,1,Mirrabooka Bus Stn,50601
-3614,14_50601,864832,1,Mirrabooka Bus Stn,50601
-3614,14_50601,864833,1,Mirrabooka Bus Stn,50601
-3614,14_50601,864834,1,Mirrabooka Bus Stn,50601
-3614,14_50601,864835,1,Mirrabooka Bus Stn,50601
-3614,14_50601,864836,1,Mirrabooka Bus Stn,50601
-3614,14_50601,864837,1,Mirrabooka Bus Stn,50601
-3614,14_50601,864838,1,Mirrabooka Bus Stn,50601
-3614,14_50601,864839,1,Mirrabooka Bus Stn,50601
-3614,14_50601,864840,1,Mirrabooka Bus Stn,50601
-3614,32_50601,864841,1,Mirrabooka Bus Stn,50601
-3614,32_50601,864842,1,Mirrabooka Bus Stn,50601
-3614,32_50601,864843,1,Mirrabooka Bus Stn,50601
-3614,32_50601,864844,1,Mirrabooka Bus Stn,50601
-3614,32_50601,864845,1,Mirrabooka Bus Stn,50601
-3614,32_50601,864846,1,Mirrabooka Bus Stn,50601
-3614,32_50601,864847,1,Mirrabooka Bus Stn,50601
-3614,32_50601,864848,1,Mirrabooka Bus Stn,50601
-3614,32_50601,864849,1,Mirrabooka Bus Stn,50601
-3614,32_50601,864850,1,Mirrabooka Bus Stn,50601
-3614,32_50601,864851,1,Mirrabooka Bus Stn,50601
-3614,32_50601,864852,1,Mirrabooka Bus Stn,50601
-3614,32_50601,864853,1,Mirrabooka Bus Stn,50601
-3614,32_50601,864854,1,Mirrabooka Bus Stn,50601
-3614,32_50601,864855,1,Mirrabooka Bus Stn,50601
-3614,32_50601,864856,1,Mirrabooka Bus Stn,50601
-3614,32_50601,864857,1,Mirrabooka Bus Stn,50601
-3614,32_50601,864858,1,Mirrabooka Bus Stn,50601
-3614,14_50601,864859,1,Mirrabooka Bus Stn,50601
-3614,14_50601,864860,1,Mirrabooka Bus Stn,50601
-3614,14_50601,864861,1,Mirrabooka Bus Stn,50601
-3614,14_50601,864862,1,Mirrabooka Bus Stn,50601
-3614,14_50601,864863,1,Mirrabooka Bus Stn,50601
-3614,14_50601,864864,1,Mirrabooka Bus Stn,50601
-3614,14_50601,864865,1,Mirrabooka Bus Stn,50601
-3614,21_50601,865121,1,Mirrabooka Bus Stn,50601
-3614,21_50601,865122,1,Mirrabooka Bus Stn,50601
-3614,21_50601,865123,1,Mirrabooka Bus Stn,50601
-3614,21_50601,865124,1,Mirrabooka Bus Stn,50601
-3614,21_50601,865125,1,Mirrabooka Bus Stn,50601
-3614,21_50601,865126,1,Mirrabooka Bus Stn,50601
-3614,21_50601,865127,1,Mirrabooka Bus Stn,50601
-3614,21_50601,865128,1,Mirrabooka Bus Stn,50601
-3614,21_50601,865129,1,Mirrabooka Bus Stn,50601
-3614,21_50601,865130,1,Mirrabooka Bus Stn,50601
-3614,21_50601,865131,1,Mirrabooka Bus Stn,50601
-3614,21_50601,865132,1,Mirrabooka Bus Stn,50601
-3614,21_50601,865133,1,Mirrabooka Bus Stn,50601
-3614,21_50601,865134,1,Mirrabooka Bus Stn,50601
-3614,21_50601,865135,1,Mirrabooka Bus Stn,50601
-3614,21_50601,865136,1,Mirrabooka Bus Stn,50601
-3614,21_50601,865137,1,Mirrabooka Bus Stn,50601
-3614,21_50601,865138,1,Mirrabooka Bus Stn,50601
-3614,21_50601,865139,1,Mirrabooka Bus Stn,50601
-3614,21_50601,865140,1,Mirrabooka Bus Stn,50601
-3614,21_50601,865141,1,Mirrabooka Bus Stn,50601
-3614,21_50601,865142,1,Mirrabooka Bus Stn,50601
-3614,21_50601,865143,1,Mirrabooka Bus Stn,50601
-3614,21_50601,865144,1,Mirrabooka Bus Stn,50601
-3614,21_50601,865145,1,Mirrabooka Bus Stn,50601
-3614,32_50602,864876,1,Edith Cowan University Mount Lawley,50602
-3614,32_50602,864877,1,Edith Cowan University Mount Lawley,50602
-3614,32_50602,864878,1,Edith Cowan University Mount Lawley,50602
-3614,32_50602,864879,1,Edith Cowan University Mount Lawley,50602
-3614,32_50602,864880,1,Edith Cowan University Mount Lawley,50602
-3614,32_50602,864881,1,Edith Cowan University Mount Lawley,50602
-3614,32_50602,864882,1,Edith Cowan University Mount Lawley,50602
-3614,32_50602,864883,1,Edith Cowan University Mount Lawley,50602
-3614,32_50602,864884,1,Edith Cowan University Mount Lawley,50602
-3614,32_50602,864885,1,Edith Cowan University Mount Lawley,50602
-3614,32_50602,864886,1,Edith Cowan University Mount Lawley,50602
-3614,32_50602,864887,1,Edith Cowan University Mount Lawley,50602
-3614,32_50602,864888,1,Edith Cowan University Mount Lawley,50602
-3614,32_50602,864889,1,Edith Cowan University Mount Lawley,50602
-3614,32_50602,864890,1,Edith Cowan University Mount Lawley,50602
-3614,32_50602,864891,1,Edith Cowan University Mount Lawley,50602
-3614,32_50602,864892,1,Edith Cowan University Mount Lawley,50602
-3614,32_50602,864893,1,Edith Cowan University Mount Lawley,50602
-3614,32_50602,864894,1,Edith Cowan University Mount Lawley,50602
-3614,32_50602,864895,1,Edith Cowan University Mount Lawley,50602
-3614,32_50602,864896,1,Edith Cowan University Mount Lawley,50602
-3614,32_50602,864897,1,Edith Cowan University Mount Lawley,50602
-3614,32_50602,864898,1,Edith Cowan University Mount Lawley,50602
-3614,32_50602,864899,1,Edith Cowan University Mount Lawley,50602
-3614,32_50602,864900,1,Edith Cowan University Mount Lawley,50602
-3614,32_50602,864901,1,Edith Cowan University Mount Lawley,50602
-3614,32_50602,864902,1,Edith Cowan University Mount Lawley,50602
-3614,32_50602,864903,1,Edith Cowan University Mount Lawley,50602
-3614,32_50602,864904,1,Edith Cowan University Mount Lawley,50602
-3614,14_50602,864905,1,Edith Cowan University Mount Lawley,50602
-3614,14_50602,864906,1,Edith Cowan University Mount Lawley,50602
-3614,14_50602,864907,1,Edith Cowan University Mount Lawley,50602
-3614,14_50602,864908,1,Edith Cowan University Mount Lawley,50602
-3614,14_50602,864909,1,Edith Cowan University Mount Lawley,50602
-3614,14_50602,864910,1,Edith Cowan University Mount Lawley,50602
-3614,14_50602,864911,1,Edith Cowan University Mount Lawley,50602
-3614,14_50602,864912,1,Edith Cowan University Mount Lawley,50602
-3614,14_50602,864913,1,Edith Cowan University Mount Lawley,50602
-3614,14_50602,864914,1,Edith Cowan University Mount Lawley,50602
-3614,14_50602,864915,1,Edith Cowan University Mount Lawley,50602
-3614,14_50602,864916,1,Edith Cowan University Mount Lawley,50602
-3614,21_50602,865146,1,Edith Cowan University Mount Lawley,50602
-3614,21_50602,865147,1,Edith Cowan University Mount Lawley,50602
-3614,21_50602,865148,1,Edith Cowan University Mount Lawley,50602
-3614,21_50602,865149,1,Edith Cowan University Mount Lawley,50602
-3614,21_50602,865150,1,Edith Cowan University Mount Lawley,50602
-3614,21_50602,865151,1,Edith Cowan University Mount Lawley,50602
-3614,21_50602,865152,1,Edith Cowan University Mount Lawley,50602
-3614,21_50602,865153,1,Edith Cowan University Mount Lawley,50602
-3614,21_50602,865154,1,Edith Cowan University Mount Lawley,50602
-3614,21_50602,865155,1,Edith Cowan University Mount Lawley,50602
-3614,21_50602,865156,1,Edith Cowan University Mount Lawley,50602
-3614,21_50602,865157,1,Edith Cowan University Mount Lawley,50602
-3614,21_50602,865158,1,Edith Cowan University Mount Lawley,50602
-3614,21_50602,865159,1,Edith Cowan University Mount Lawley,50602
-3614,21_50602,865160,1,Edith Cowan University Mount Lawley,50602
-3614,32_50603,864944,0,Curtin University Bus Stn,50603
-3614,32_50603,864945,0,Curtin University Bus Stn,50603
-3614,32_50603,864946,0,Curtin University Bus Stn,50603
-3614,32_50603,864947,0,Curtin University Bus Stn,50603
-3614,32_50603,864948,0,Curtin University Bus Stn,50603
-3614,32_50603,864949,0,Curtin University Bus Stn,50603
-3614,32_50603,864950,0,Curtin University Bus Stn,50603
-3614,32_50603,864951,0,Curtin University Bus Stn,50603
-3614,32_50603,864952,0,Curtin University Bus Stn,50603
-3614,32_50603,864953,0,Curtin University Bus Stn,50603
-3614,32_50603,864954,0,Curtin University Bus Stn,50603
-3614,32_50603,864955,0,Curtin University Bus Stn,50603
-3614,32_50603,864956,0,Curtin University Bus Stn,50603
-3614,32_50603,864957,0,Curtin University Bus Stn,50603
-3614,32_50603,864958,0,Curtin University Bus Stn,50603
-3614,32_50603,864959,0,Curtin University Bus Stn,50603
-3614,32_50603,864960,0,Curtin University Bus Stn,50603
-3614,32_50603,864961,0,Curtin University Bus Stn,50603
-3614,32_50603,864962,0,Curtin University Bus Stn,50603
-3614,32_50603,864963,0,Curtin University Bus Stn,50603
-3614,32_50603,864964,0,Curtin University Bus Stn,50603
-3614,32_50603,864965,0,Curtin University Bus Stn,50603
-3614,32_50603,864966,0,Curtin University Bus Stn,50603
-3614,32_50603,864967,0,Curtin University Bus Stn,50603
-3614,32_50603,864968,0,Curtin University Bus Stn,50603
-3614,32_50603,864969,0,Curtin University Bus Stn,50603
-3614,32_50603,864970,0,Curtin University Bus Stn,50603
-3614,32_50603,864971,0,Curtin University Bus Stn,50603
-3614,32_50603,864972,0,Curtin University Bus Stn,50603
-3614,32_50603,864973,0,Curtin University Bus Stn,50603
-3614,32_50603,864974,0,Curtin University Bus Stn,50603
-3614,32_50603,864975,0,Curtin University Bus Stn,50603
-3614,32_50603,864976,0,Curtin University Bus Stn,50603
-3614,32_50603,864977,0,Curtin University Bus Stn,50603
-3614,14_50603,864978,0,Curtin University Bus Stn,50603
-3614,14_50603,864979,0,Curtin University Bus Stn,50603
-3614,14_50603,864980,0,Curtin University Bus Stn,50603
-3614,14_50603,864981,0,Curtin University Bus Stn,50603
-3614,14_50603,864982,0,Curtin University Bus Stn,50603
-3614,14_50603,864983,0,Curtin University Bus Stn,50603
-3614,14_50603,864984,0,Curtin University Bus Stn,50603
-3614,14_50603,864985,0,Curtin University Bus Stn,50603
-3614,14_50603,864986,0,Curtin University Bus Stn,50603
-3614,14_50603,864987,0,Curtin University Bus Stn,50603
-3614,14_50603,864988,0,Curtin University Bus Stn,50603
-3614,14_50603,864989,0,Curtin University Bus Stn,50603
-3614,14_50603,864990,0,Curtin University Bus Stn,50603
-3614,14_50603,864991,0,Curtin University Bus Stn,50603
-3614,14_50603,864992,0,Curtin University Bus Stn,50603
-3614,14_50603,864993,0,Curtin University Bus Stn,50603
-3614,14_50603,864994,0,Curtin University Bus Stn,50603
-3614,14_50603,864995,0,Curtin University Bus Stn,50603
-3614,14_50603,864996,0,Curtin University Bus Stn,50603
-3614,14_50603,864997,0,Curtin University Bus Stn,50603
-3614,14_50603,864998,0,Curtin University Bus Stn,50603
-3614,14_50603,864999,0,Curtin University Bus Stn,50603
-3614,14_50603,865000,0,Curtin University Bus Stn,50603
-3614,14_50603,865001,0,Curtin University Bus Stn,50603
-3614,14_50603,865002,0,Curtin University Bus Stn,50603
-3614,21_50603,865163,0,Curtin University Bus Stn,50603
-3614,21_50603,865164,0,Curtin University Bus Stn,50603
-3614,21_50603,865165,0,Curtin University Bus Stn,50603
-3614,21_50603,865166,0,Curtin University Bus Stn,50603
-3614,21_50603,865167,0,Curtin University Bus Stn,50603
-3614,21_50603,865168,0,Curtin University Bus Stn,50603
-3614,21_50603,865169,0,Curtin University Bus Stn,50603
-3614,21_50603,865170,0,Curtin University Bus Stn,50603
-3614,21_50603,865171,0,Curtin University Bus Stn,50603
-3614,21_50603,865172,0,Curtin University Bus Stn,50603
-3614,21_50603,865173,0,Curtin University Bus Stn,50603
-3614,21_50603,865174,0,Curtin University Bus Stn,50603
-3614,21_50603,865175,0,Curtin University Bus Stn,50603
-3614,21_50603,865176,0,Curtin University Bus Stn,50603
-3614,21_50603,865177,0,Curtin University Bus Stn,50603
-3614,21_50603,865178,0,Curtin University Bus Stn,50603
-3614,21_50603,865179,0,Curtin University Bus Stn,50603
-3614,21_50603,865180,0,Curtin University Bus Stn,50603
-3614,21_50603,865181,0,Curtin University Bus Stn,50603
-3614,21_50603,865182,0,Curtin University Bus Stn,50603
-3614,21_50603,865183,0,Curtin University Bus Stn,50603
-3614,21_50603,865184,0,Curtin University Bus Stn,50603
-3614,21_50603,865185,0,Curtin University Bus Stn,50603
-3614,21_50603,865186,0,Curtin University Bus Stn,50603
-3614,21_50603,865187,0,Curtin University Bus Stn,50603
-3614,32_50604,865051,0,Curtin University Bus Stn,50604
-3614,32_50604,865052,0,Curtin University Bus Stn,50604
-3614,32_50604,865053,0,Curtin University Bus Stn,50604
-3614,32_50604,865054,0,Curtin University Bus Stn,50604
-3614,32_50604,865055,0,Curtin University Bus Stn,50604
-3614,32_50604,865056,0,Curtin University Bus Stn,50604
-3614,32_50604,865057,0,Curtin University Bus Stn,50604
-3614,32_50604,865058,0,Curtin University Bus Stn,50604
-3614,32_50604,865059,0,Curtin University Bus Stn,50604
-3614,32_50604,865060,0,Curtin University Bus Stn,50604
-3614,32_50604,865061,0,Curtin University Bus Stn,50604
-3614,32_50604,865062,0,Curtin University Bus Stn,50604
-3614,32_50604,865063,0,Curtin University Bus Stn,50604
-3614,32_50604,865064,0,Curtin University Bus Stn,50604
-3614,32_50604,865065,0,Curtin University Bus Stn,50604
-3614,32_50604,865066,0,Curtin University Bus Stn,50604
-3614,32_50604,865067,0,Curtin University Bus Stn,50604
-3614,32_50604,865068,0,Curtin University Bus Stn,50604
-3614,32_50604,865069,0,Curtin University Bus Stn,50604
-3614,32_50604,865070,0,Curtin University Bus Stn,50604
-3614,32_50604,865071,0,Curtin University Bus Stn,50604
-3614,32_50604,865072,0,Curtin University Bus Stn,50604
-3614,32_50604,865073,0,Curtin University Bus Stn,50604
-3614,32_50604,865074,0,Curtin University Bus Stn,50604
-3614,32_50604,865075,0,Curtin University Bus Stn,50604
-3614,32_50604,865076,0,Curtin University Bus Stn,50604
-3614,32_50604,865077,0,Curtin University Bus Stn,50604
-3614,14_50604,865078,0,Curtin University Bus Stn,50604
-3614,14_50604,865079,0,Curtin University Bus Stn,50604
-3614,14_50604,865080,0,Curtin University Bus Stn,50604
-3614,14_50604,865081,0,Curtin University Bus Stn,50604
-3614,14_50604,865082,0,Curtin University Bus Stn,50604
-3614,14_50604,865083,0,Curtin University Bus Stn,50604
-3614,14_50604,865084,0,Curtin University Bus Stn,50604
-3614,14_50604,865085,0,Curtin University Bus Stn,50604
-3614,14_50604,865086,0,Curtin University Bus Stn,50604
-3614,14_50604,865087,0,Curtin University Bus Stn,50604
-3614,14_50604,865088,0,Curtin University Bus Stn,50604
-3614,14_50604,865089,0,Curtin University Bus Stn,50604
-3614,14_50604,865090,0,Curtin University Bus Stn,50604
-3614,14_50604,865091,0,Curtin University Bus Stn,50604
-3614,21_50604,865188,0,Curtin University Bus Stn,50604
-3614,21_50604,865189,0,Curtin University Bus Stn,50604
-3614,21_50604,865190,0,Curtin University Bus Stn,50604
-3614,21_50604,865191,0,Curtin University Bus Stn,50604
-3614,21_50604,865192,0,Curtin University Bus Stn,50604
-3614,21_50604,865193,0,Curtin University Bus Stn,50604
-3614,21_50604,865194,0,Curtin University Bus Stn,50604
-3614,21_50604,865195,0,Curtin University Bus Stn,50604
-3614,21_50604,865196,0,Curtin University Bus Stn,50604
-3614,21_50604,865197,0,Curtin University Bus Stn,50604
-3614,21_50604,865198,0,Curtin University Bus Stn,50604
-3614,21_50604,865199,0,Curtin University Bus Stn,50604
-3614,21_50604,865200,0,Curtin University Bus Stn,50604
-3614,21_50604,865201,0,Curtin University Bus Stn,50604
-3614,21_50604,865202,0,Curtin University Bus Stn,50604
+3615,32,864567,1,Mirrabooka Bus Stn,50597
+3615,32,864568,1,Mirrabooka Bus Stn,50597
+3615,32,864569,1,Mirrabooka Bus Stn,50597
+3615,32,864570,1,Mirrabooka Bus Stn,50597
+3615,32,864571,1,Mirrabooka Bus Stn,50597
+3615,32,864572,1,Mirrabooka Bus Stn,50597
+3615,32,864573,1,Mirrabooka Bus Stn,50597
+3615,32,864574,1,Mirrabooka Bus Stn,50597
+3615,32,864575,1,Mirrabooka Bus Stn,50597
+3615,32,864576,1,Mirrabooka Bus Stn,50597
+3615,32,864577,1,Mirrabooka Bus Stn,50597
+3615,32,864578,1,Mirrabooka Bus Stn,50597
+3615,32,864579,1,Mirrabooka Bus Stn,50597
+3615,32,864580,1,Mirrabooka Bus Stn,50597
+3615,32,864581,1,Mirrabooka Bus Stn,50597
+3615,32,864582,1,Mirrabooka Bus Stn,50597
+3615,32,864583,1,Mirrabooka Bus Stn,50597
+3615,32,864584,1,Mirrabooka Bus Stn,50597
+3615,32,864585,1,Mirrabooka Bus Stn,50597
+3615,32,864586,1,Mirrabooka Bus Stn,50597
+3615,32,864587,1,Mirrabooka Bus Stn,50597
+3615,32,864588,1,Mirrabooka Bus Stn,50597
+3615,32,864589,1,Mirrabooka Bus Stn,50597
+3615,32,864590,1,Mirrabooka Bus Stn,50597
+3615,32,864591,1,Mirrabooka Bus Stn,50597
+3615,32,864592,1,Mirrabooka Bus Stn,50597
+3615,14,864593,1,Mirrabooka Bus Stn,50597
+3615,14,864594,1,Mirrabooka Bus Stn,50597
+3615,14,864595,1,Mirrabooka Bus Stn,50597
+3615,14,864596,1,Mirrabooka Bus Stn,50597
+3615,14,864597,1,Mirrabooka Bus Stn,50597
+3615,14,864598,1,Mirrabooka Bus Stn,50597
+3615,14,864599,1,Mirrabooka Bus Stn,50597
+3615,14,864600,1,Mirrabooka Bus Stn,50597
+3615,14,864601,1,Mirrabooka Bus Stn,50597
+3615,14,864602,1,Mirrabooka Bus Stn,50597
+3615,21,865203,1,Mirrabooka Bus Stn,50597
+3615,21,865204,1,Mirrabooka Bus Stn,50597
+3615,21,865205,1,Mirrabooka Bus Stn,50597
+3615,21,865206,1,Mirrabooka Bus Stn,50597
+3615,21,865207,1,Mirrabooka Bus Stn,50597
+3615,21,865208,1,Mirrabooka Bus Stn,50597
+3615,21,865209,1,Mirrabooka Bus Stn,50597
+3615,21,865210,1,Mirrabooka Bus Stn,50597
+3615,21,865211,1,Mirrabooka Bus Stn,50597
+3615,14,864619,1,Edith Cowan University Mount Lawley,50598
+3615,14,864620,1,Edith Cowan University Mount Lawley,50598
+3615,14,864621,1,Edith Cowan University Mount Lawley,50598
+3615,14,864622,1,Edith Cowan University Mount Lawley,50598
+3615,14,864623,1,Edith Cowan University Mount Lawley,50598
+3615,14,864624,1,Edith Cowan University Mount Lawley,50598
+3615,14,864625,1,Edith Cowan University Mount Lawley,50598
+3615,14,864626,1,Edith Cowan University Mount Lawley,50598
+3615,14,864627,1,Edith Cowan University Mount Lawley,50598
+3615,14,864628,1,Edith Cowan University Mount Lawley,50598
+3615,32,864629,1,Edith Cowan University Mount Lawley,50598
+3615,32,864630,1,Edith Cowan University Mount Lawley,50598
+3615,32,864631,1,Edith Cowan University Mount Lawley,50598
+3615,32,864632,1,Edith Cowan University Mount Lawley,50598
+3615,32,864633,1,Edith Cowan University Mount Lawley,50598
+3615,32,864634,1,Edith Cowan University Mount Lawley,50598
+3615,32,864635,1,Edith Cowan University Mount Lawley,50598
+3615,32,864636,1,Edith Cowan University Mount Lawley,50598
+3615,32,864637,1,Edith Cowan University Mount Lawley,50598
+3615,32,864638,1,Edith Cowan University Mount Lawley,50598
+3615,32,864639,1,Edith Cowan University Mount Lawley,50598
+3615,32,864640,1,Edith Cowan University Mount Lawley,50598
+3615,32,864641,1,Edith Cowan University Mount Lawley,50598
+3615,32,864642,1,Edith Cowan University Mount Lawley,50598
+3615,32,864643,1,Edith Cowan University Mount Lawley,50598
+3615,32,864644,1,Edith Cowan University Mount Lawley,50598
+3615,32,864645,1,Edith Cowan University Mount Lawley,50598
+3615,32,864646,1,Edith Cowan University Mount Lawley,50598
+3615,32,864647,1,Edith Cowan University Mount Lawley,50598
+3615,32,864648,1,Edith Cowan University Mount Lawley,50598
+3615,32,864649,1,Edith Cowan University Mount Lawley,50598
+3615,32,864650,1,Edith Cowan University Mount Lawley,50598
+3615,32,864651,1,Edith Cowan University Mount Lawley,50598
+3615,32,864652,1,Edith Cowan University Mount Lawley,50598
+3615,32,864653,1,Edith Cowan University Mount Lawley,50598
+3615,32,864654,1,Edith Cowan University Mount Lawley,50598
+3615,32,864655,1,Edith Cowan University Mount Lawley,50598
+3615,14,864656,1,Edith Cowan University Mount Lawley,50598
+3615,14,864657,1,Edith Cowan University Mount Lawley,50598
+3615,14,864658,1,Edith Cowan University Mount Lawley,50598
+3615,14,864659,1,Edith Cowan University Mount Lawley,50598
+3615,21,865212,1,Edith Cowan University Mount Lawley,50598
+3615,21,865213,1,Edith Cowan University Mount Lawley,50598
+3615,21,865214,1,Edith Cowan University Mount Lawley,50598
+3615,21,865215,1,Edith Cowan University Mount Lawley,50598
+3615,21,865216,1,Edith Cowan University Mount Lawley,50598
+3615,21,865217,1,Edith Cowan University Mount Lawley,50598
+3615,21,865218,1,Edith Cowan University Mount Lawley,50598
+3615,21,865219,1,Edith Cowan University Mount Lawley,50598
+3615,21,865220,1,Edith Cowan University Mount Lawley,50598
+3615,32,864675,0,Curtin University Bus Stn,50599
+3615,32,864676,0,Curtin University Bus Stn,50599
+3615,32,864677,0,Curtin University Bus Stn,50599
+3615,32,864678,0,Curtin University Bus Stn,50599
+3615,32,864679,0,Curtin University Bus Stn,50599
+3615,32,864680,0,Curtin University Bus Stn,50599
+3615,32,864681,0,Curtin University Bus Stn,50599
+3615,32,864682,0,Curtin University Bus Stn,50599
+3615,32,864683,0,Curtin University Bus Stn,50599
+3615,32,864684,0,Curtin University Bus Stn,50599
+3615,32,864685,0,Curtin University Bus Stn,50599
+3615,32,864686,0,Curtin University Bus Stn,50599
+3615,32,864687,0,Curtin University Bus Stn,50599
+3615,32,864688,0,Curtin University Bus Stn,50599
+3615,32,864689,0,Curtin University Bus Stn,50599
+3615,32,864690,0,Curtin University Bus Stn,50599
+3615,32,864691,0,Curtin University Bus Stn,50599
+3615,32,864692,0,Curtin University Bus Stn,50599
+3615,32,864693,0,Curtin University Bus Stn,50599
+3615,32,864694,0,Curtin University Bus Stn,50599
+3615,32,864695,0,Curtin University Bus Stn,50599
+3615,32,864696,0,Curtin University Bus Stn,50599
+3615,32,864697,0,Curtin University Bus Stn,50599
+3615,32,864698,0,Curtin University Bus Stn,50599
+3615,32,864699,0,Curtin University Bus Stn,50599
+3615,32,864700,0,Curtin University Bus Stn,50599
+3615,14,864701,0,Curtin University Bus Stn,50599
+3615,14,864702,0,Curtin University Bus Stn,50599
+3615,14,864703,0,Curtin University Bus Stn,50599
+3615,14,864704,0,Curtin University Bus Stn,50599
+3615,14,864705,0,Curtin University Bus Stn,50599
+3615,14,864706,0,Curtin University Bus Stn,50599
+3615,14,864707,0,Curtin University Bus Stn,50599
+3615,14,864708,0,Curtin University Bus Stn,50599
+3615,14,864709,0,Curtin University Bus Stn,50599
+3615,14,864710,0,Curtin University Bus Stn,50599
+3615,14,864711,0,Curtin University Bus Stn,50599
+3615,14,864712,0,Curtin University Bus Stn,50599
+3615,21,865221,0,Curtin University Bus Stn,50599
+3615,21,865222,0,Curtin University Bus Stn,50599
+3615,21,865223,0,Curtin University Bus Stn,50599
+3615,21,865224,0,Curtin University Bus Stn,50599
+3615,21,865225,0,Curtin University Bus Stn,50599
+3615,21,865226,0,Curtin University Bus Stn,50599
+3615,21,865227,0,Curtin University Bus Stn,50599
+3615,21,865228,0,Curtin University Bus Stn,50599
+3615,21,865229,0,Curtin University Bus Stn,50599
+3615,32,864729,0,Curtin University Bus Stn,50600
+3615,14,864730,0,Curtin University Bus Stn,50600
+3615,14,864731,0,Curtin University Bus Stn,50600
+3615,14,864732,0,Curtin University Bus Stn,50600
+3615,14,864733,0,Curtin University Bus Stn,50600
+3615,14,864734,0,Curtin University Bus Stn,50600
+3615,14,864735,0,Curtin University Bus Stn,50600
+3615,14,864736,0,Curtin University Bus Stn,50600
+3615,14,864737,0,Curtin University Bus Stn,50600
+3615,14,864738,0,Curtin University Bus Stn,50600
+3615,14,864739,0,Curtin University Bus Stn,50600
+3615,14,864740,0,Curtin University Bus Stn,50600
+3615,14,864741,0,Curtin University Bus Stn,50600
+3615,32,864742,0,Curtin University Bus Stn,50600
+3615,32,864743,0,Curtin University Bus Stn,50600
+3615,32,864744,0,Curtin University Bus Stn,50600
+3615,32,864745,0,Curtin University Bus Stn,50600
+3615,32,864746,0,Curtin University Bus Stn,50600
+3615,32,864747,0,Curtin University Bus Stn,50600
+3615,32,864748,0,Curtin University Bus Stn,50600
+3615,32,864749,0,Curtin University Bus Stn,50600
+3615,32,864750,0,Curtin University Bus Stn,50600
+3615,32,864751,0,Curtin University Bus Stn,50600
+3615,32,864752,0,Curtin University Bus Stn,50600
+3615,32,864753,0,Curtin University Bus Stn,50600
+3615,32,864754,0,Curtin University Bus Stn,50600
+3615,32,864755,0,Curtin University Bus Stn,50600
+3615,32,864756,0,Curtin University Bus Stn,50600
+3615,32,864757,0,Curtin University Bus Stn,50600
+3615,32,864758,0,Curtin University Bus Stn,50600
+3615,32,864759,0,Curtin University Bus Stn,50600
+3615,32,864760,0,Curtin University Bus Stn,50600
+3615,32,864761,0,Curtin University Bus Stn,50600
+3615,32,864762,0,Curtin University Bus Stn,50600
+3615,32,864763,0,Curtin University Bus Stn,50600
+3615,32,864764,0,Curtin University Bus Stn,50600
+3615,32,864765,0,Curtin University Bus Stn,50600
+3615,32,864766,0,Curtin University Bus Stn,50600
+3615,21,865230,0,Curtin University Bus Stn,50600
+3615,21,865231,0,Curtin University Bus Stn,50600
+3615,21,865232,0,Curtin University Bus Stn,50600
+3615,21,865233,0,Curtin University Bus Stn,50600
+3615,21,865234,0,Curtin University Bus Stn,50600
+3615,21,865235,0,Curtin University Bus Stn,50600
+3615,21,865236,0,Curtin University Bus Stn,50600
+3615,21,865237,0,Curtin University Bus Stn,50600
+3615,21,865238,0,Curtin University Bus Stn,50600
+3614,32,864807,1,Mirrabooka Bus Stn,50601
+3614,32,864808,1,Mirrabooka Bus Stn,50601
+3614,32,864809,1,Mirrabooka Bus Stn,50601
+3614,32,864810,1,Mirrabooka Bus Stn,50601
+3614,32,864811,1,Mirrabooka Bus Stn,50601
+3614,32,864812,1,Mirrabooka Bus Stn,50601
+3614,32,864813,1,Mirrabooka Bus Stn,50601
+3614,32,864814,1,Mirrabooka Bus Stn,50601
+3614,32,864815,1,Mirrabooka Bus Stn,50601
+3614,32,864816,1,Mirrabooka Bus Stn,50601
+3614,32,864817,1,Mirrabooka Bus Stn,50601
+3614,32,864818,1,Mirrabooka Bus Stn,50601
+3614,32,864819,1,Mirrabooka Bus Stn,50601
+3614,32,864820,1,Mirrabooka Bus Stn,50601
+3614,14,864821,1,Mirrabooka Bus Stn,50601
+3614,14,864822,1,Mirrabooka Bus Stn,50601
+3614,14,864823,1,Mirrabooka Bus Stn,50601
+3614,14,864824,1,Mirrabooka Bus Stn,50601
+3614,14,864825,1,Mirrabooka Bus Stn,50601
+3614,14,864826,1,Mirrabooka Bus Stn,50601
+3614,14,864827,1,Mirrabooka Bus Stn,50601
+3614,14,864828,1,Mirrabooka Bus Stn,50601
+3614,14,864829,1,Mirrabooka Bus Stn,50601
+3614,14,864830,1,Mirrabooka Bus Stn,50601
+3614,14,864831,1,Mirrabooka Bus Stn,50601
+3614,14,864832,1,Mirrabooka Bus Stn,50601
+3614,14,864833,1,Mirrabooka Bus Stn,50601
+3614,14,864834,1,Mirrabooka Bus Stn,50601
+3614,14,864835,1,Mirrabooka Bus Stn,50601
+3614,14,864836,1,Mirrabooka Bus Stn,50601
+3614,14,864837,1,Mirrabooka Bus Stn,50601
+3614,14,864838,1,Mirrabooka Bus Stn,50601
+3614,14,864839,1,Mirrabooka Bus Stn,50601
+3614,14,864840,1,Mirrabooka Bus Stn,50601
+3614,32,864841,1,Mirrabooka Bus Stn,50601
+3614,32,864842,1,Mirrabooka Bus Stn,50601
+3614,32,864843,1,Mirrabooka Bus Stn,50601
+3614,32,864844,1,Mirrabooka Bus Stn,50601
+3614,32,864845,1,Mirrabooka Bus Stn,50601
+3614,32,864846,1,Mirrabooka Bus Stn,50601
+3614,32,864847,1,Mirrabooka Bus Stn,50601
+3614,32,864848,1,Mirrabooka Bus Stn,50601
+3614,32,864849,1,Mirrabooka Bus Stn,50601
+3614,32,864850,1,Mirrabooka Bus Stn,50601
+3614,32,864851,1,Mirrabooka Bus Stn,50601
+3614,32,864852,1,Mirrabooka Bus Stn,50601
+3614,32,864853,1,Mirrabooka Bus Stn,50601
+3614,32,864854,1,Mirrabooka Bus Stn,50601
+3614,32,864855,1,Mirrabooka Bus Stn,50601
+3614,32,864856,1,Mirrabooka Bus Stn,50601
+3614,32,864857,1,Mirrabooka Bus Stn,50601
+3614,32,864858,1,Mirrabooka Bus Stn,50601
+3614,14,864859,1,Mirrabooka Bus Stn,50601
+3614,14,864860,1,Mirrabooka Bus Stn,50601
+3614,14,864861,1,Mirrabooka Bus Stn,50601
+3614,14,864862,1,Mirrabooka Bus Stn,50601
+3614,14,864863,1,Mirrabooka Bus Stn,50601
+3614,14,864864,1,Mirrabooka Bus Stn,50601
+3614,14,864865,1,Mirrabooka Bus Stn,50601
+3614,21,865121,1,Mirrabooka Bus Stn,50601
+3614,21,865122,1,Mirrabooka Bus Stn,50601
+3614,21,865123,1,Mirrabooka Bus Stn,50601
+3614,21,865124,1,Mirrabooka Bus Stn,50601
+3614,21,865125,1,Mirrabooka Bus Stn,50601
+3614,21,865126,1,Mirrabooka Bus Stn,50601
+3614,21,865127,1,Mirrabooka Bus Stn,50601
+3614,21,865128,1,Mirrabooka Bus Stn,50601
+3614,21,865129,1,Mirrabooka Bus Stn,50601
+3614,21,865130,1,Mirrabooka Bus Stn,50601
+3614,21,865131,1,Mirrabooka Bus Stn,50601
+3614,21,865132,1,Mirrabooka Bus Stn,50601
+3614,21,865133,1,Mirrabooka Bus Stn,50601
+3614,21,865134,1,Mirrabooka Bus Stn,50601
+3614,21,865135,1,Mirrabooka Bus Stn,50601
+3614,21,865136,1,Mirrabooka Bus Stn,50601
+3614,21,865137,1,Mirrabooka Bus Stn,50601
+3614,21,865138,1,Mirrabooka Bus Stn,50601
+3614,21,865139,1,Mirrabooka Bus Stn,50601
+3614,21,865140,1,Mirrabooka Bus Stn,50601
+3614,21,865141,1,Mirrabooka Bus Stn,50601
+3614,21,865142,1,Mirrabooka Bus Stn,50601
+3614,21,865143,1,Mirrabooka Bus Stn,50601
+3614,21,865144,1,Mirrabooka Bus Stn,50601
+3614,21,865145,1,Mirrabooka Bus Stn,50601
+3614,32,864876,1,Edith Cowan University Mount Lawley,50602
+3614,32,864877,1,Edith Cowan University Mount Lawley,50602
+3614,32,864878,1,Edith Cowan University Mount Lawley,50602
+3614,32,864879,1,Edith Cowan University Mount Lawley,50602
+3614,32,864880,1,Edith Cowan University Mount Lawley,50602
+3614,32,864881,1,Edith Cowan University Mount Lawley,50602
+3614,32,864882,1,Edith Cowan University Mount Lawley,50602
+3614,32,864883,1,Edith Cowan University Mount Lawley,50602
+3614,32,864884,1,Edith Cowan University Mount Lawley,50602
+3614,32,864885,1,Edith Cowan University Mount Lawley,50602
+3614,32,864886,1,Edith Cowan University Mount Lawley,50602
+3614,32,864887,1,Edith Cowan University Mount Lawley,50602
+3614,32,864888,1,Edith Cowan University Mount Lawley,50602
+3614,32,864889,1,Edith Cowan University Mount Lawley,50602
+3614,32,864890,1,Edith Cowan University Mount Lawley,50602
+3614,32,864891,1,Edith Cowan University Mount Lawley,50602
+3614,32,864892,1,Edith Cowan University Mount Lawley,50602
+3614,32,864893,1,Edith Cowan University Mount Lawley,50602
+3614,32,864894,1,Edith Cowan University Mount Lawley,50602
+3614,32,864895,1,Edith Cowan University Mount Lawley,50602
+3614,32,864896,1,Edith Cowan University Mount Lawley,50602
+3614,32,864897,1,Edith Cowan University Mount Lawley,50602
+3614,32,864898,1,Edith Cowan University Mount Lawley,50602
+3614,32,864899,1,Edith Cowan University Mount Lawley,50602
+3614,32,864900,1,Edith Cowan University Mount Lawley,50602
+3614,32,864901,1,Edith Cowan University Mount Lawley,50602
+3614,32,864902,1,Edith Cowan University Mount Lawley,50602
+3614,32,864903,1,Edith Cowan University Mount Lawley,50602
+3614,32,864904,1,Edith Cowan University Mount Lawley,50602
+3614,14,864905,1,Edith Cowan University Mount Lawley,50602
+3614,14,864906,1,Edith Cowan University Mount Lawley,50602
+3614,14,864907,1,Edith Cowan University Mount Lawley,50602
+3614,14,864908,1,Edith Cowan University Mount Lawley,50602
+3614,14,864909,1,Edith Cowan University Mount Lawley,50602
+3614,14,864910,1,Edith Cowan University Mount Lawley,50602
+3614,14,864911,1,Edith Cowan University Mount Lawley,50602
+3614,14,864912,1,Edith Cowan University Mount Lawley,50602
+3614,14,864913,1,Edith Cowan University Mount Lawley,50602
+3614,14,864914,1,Edith Cowan University Mount Lawley,50602
+3614,14,864915,1,Edith Cowan University Mount Lawley,50602
+3614,14,864916,1,Edith Cowan University Mount Lawley,50602
+3614,21,865146,1,Edith Cowan University Mount Lawley,50602
+3614,21,865147,1,Edith Cowan University Mount Lawley,50602
+3614,21,865148,1,Edith Cowan University Mount Lawley,50602
+3614,21,865149,1,Edith Cowan University Mount Lawley,50602
+3614,21,865150,1,Edith Cowan University Mount Lawley,50602
+3614,21,865151,1,Edith Cowan University Mount Lawley,50602
+3614,21,865152,1,Edith Cowan University Mount Lawley,50602
+3614,21,865153,1,Edith Cowan University Mount Lawley,50602
+3614,21,865154,1,Edith Cowan University Mount Lawley,50602
+3614,21,865155,1,Edith Cowan University Mount Lawley,50602
+3614,21,865156,1,Edith Cowan University Mount Lawley,50602
+3614,21,865157,1,Edith Cowan University Mount Lawley,50602
+3614,21,865158,1,Edith Cowan University Mount Lawley,50602
+3614,21,865159,1,Edith Cowan University Mount Lawley,50602
+3614,21,865160,1,Edith Cowan University Mount Lawley,50602
+3614,32,864944,0,Curtin University Bus Stn,50603
+3614,32,864945,0,Curtin University Bus Stn,50603
+3614,32,864946,0,Curtin University Bus Stn,50603
+3614,32,864947,0,Curtin University Bus Stn,50603
+3614,32,864948,0,Curtin University Bus Stn,50603
+3614,32,864949,0,Curtin University Bus Stn,50603
+3614,32,864950,0,Curtin University Bus Stn,50603
+3614,32,864951,0,Curtin University Bus Stn,50603
+3614,32,864952,0,Curtin University Bus Stn,50603
+3614,32,864953,0,Curtin University Bus Stn,50603
+3614,32,864954,0,Curtin University Bus Stn,50603
+3614,32,864955,0,Curtin University Bus Stn,50603
+3614,32,864956,0,Curtin University Bus Stn,50603
+3614,32,864957,0,Curtin University Bus Stn,50603
+3614,32,864958,0,Curtin University Bus Stn,50603
+3614,32,864959,0,Curtin University Bus Stn,50603
+3614,32,864960,0,Curtin University Bus Stn,50603
+3614,32,864961,0,Curtin University Bus Stn,50603
+3614,32,864962,0,Curtin University Bus Stn,50603
+3614,32,864963,0,Curtin University Bus Stn,50603
+3614,32,864964,0,Curtin University Bus Stn,50603
+3614,32,864965,0,Curtin University Bus Stn,50603
+3614,32,864966,0,Curtin University Bus Stn,50603
+3614,32,864967,0,Curtin University Bus Stn,50603
+3614,32,864968,0,Curtin University Bus Stn,50603
+3614,32,864969,0,Curtin University Bus Stn,50603
+3614,32,864970,0,Curtin University Bus Stn,50603
+3614,32,864971,0,Curtin University Bus Stn,50603
+3614,32,864972,0,Curtin University Bus Stn,50603
+3614,32,864973,0,Curtin University Bus Stn,50603
+3614,32,864974,0,Curtin University Bus Stn,50603
+3614,32,864975,0,Curtin University Bus Stn,50603
+3614,32,864976,0,Curtin University Bus Stn,50603
+3614,32,864977,0,Curtin University Bus Stn,50603
+3614,14,864978,0,Curtin University Bus Stn,50603
+3614,14,864979,0,Curtin University Bus Stn,50603
+3614,14,864980,0,Curtin University Bus Stn,50603
+3614,14,864981,0,Curtin University Bus Stn,50603
+3614,14,864982,0,Curtin University Bus Stn,50603
+3614,14,864983,0,Curtin University Bus Stn,50603
+3614,14,864984,0,Curtin University Bus Stn,50603
+3614,14,864985,0,Curtin University Bus Stn,50603
+3614,14,864986,0,Curtin University Bus Stn,50603
+3614,14,864987,0,Curtin University Bus Stn,50603
+3614,14,864988,0,Curtin University Bus Stn,50603
+3614,14,864989,0,Curtin University Bus Stn,50603
+3614,14,864990,0,Curtin University Bus Stn,50603
+3614,14,864991,0,Curtin University Bus Stn,50603
+3614,14,864992,0,Curtin University Bus Stn,50603
+3614,14,864993,0,Curtin University Bus Stn,50603
+3614,14,864994,0,Curtin University Bus Stn,50603
+3614,14,864995,0,Curtin University Bus Stn,50603
+3614,14,864996,0,Curtin University Bus Stn,50603
+3614,14,864997,0,Curtin University Bus Stn,50603
+3614,14,864998,0,Curtin University Bus Stn,50603
+3614,14,864999,0,Curtin University Bus Stn,50603
+3614,14,865000,0,Curtin University Bus Stn,50603
+3614,14,865001,0,Curtin University Bus Stn,50603
+3614,14,865002,0,Curtin University Bus Stn,50603
+3614,21,865163,0,Curtin University Bus Stn,50603
+3614,21,865164,0,Curtin University Bus Stn,50603
+3614,21,865165,0,Curtin University Bus Stn,50603
+3614,21,865166,0,Curtin University Bus Stn,50603
+3614,21,865167,0,Curtin University Bus Stn,50603
+3614,21,865168,0,Curtin University Bus Stn,50603
+3614,21,865169,0,Curtin University Bus Stn,50603
+3614,21,865170,0,Curtin University Bus Stn,50603
+3614,21,865171,0,Curtin University Bus Stn,50603
+3614,21,865172,0,Curtin University Bus Stn,50603
+3614,21,865173,0,Curtin University Bus Stn,50603
+3614,21,865174,0,Curtin University Bus Stn,50603
+3614,21,865175,0,Curtin University Bus Stn,50603
+3614,21,865176,0,Curtin University Bus Stn,50603
+3614,21,865177,0,Curtin University Bus Stn,50603
+3614,21,865178,0,Curtin University Bus Stn,50603
+3614,21,865179,0,Curtin University Bus Stn,50603
+3614,21,865180,0,Curtin University Bus Stn,50603
+3614,21,865181,0,Curtin University Bus Stn,50603
+3614,21,865182,0,Curtin University Bus Stn,50603
+3614,21,865183,0,Curtin University Bus Stn,50603
+3614,21,865184,0,Curtin University Bus Stn,50603
+3614,21,865185,0,Curtin University Bus Stn,50603
+3614,21,865186,0,Curtin University Bus Stn,50603
+3614,21,865187,0,Curtin University Bus Stn,50603
+3614,32,865051,0,Curtin University Bus Stn,50604
+3614,32,865052,0,Curtin University Bus Stn,50604
+3614,32,865053,0,Curtin University Bus Stn,50604
+3614,32,865054,0,Curtin University Bus Stn,50604
+3614,32,865055,0,Curtin University Bus Stn,50604
+3614,32,865056,0,Curtin University Bus Stn,50604
+3614,32,865057,0,Curtin University Bus Stn,50604
+3614,32,865058,0,Curtin University Bus Stn,50604
+3614,32,865059,0,Curtin University Bus Stn,50604
+3614,32,865060,0,Curtin University Bus Stn,50604
+3614,32,865061,0,Curtin University Bus Stn,50604
+3614,32,865062,0,Curtin University Bus Stn,50604
+3614,32,865063,0,Curtin University Bus Stn,50604
+3614,32,865064,0,Curtin University Bus Stn,50604
+3614,32,865065,0,Curtin University Bus Stn,50604
+3614,32,865066,0,Curtin University Bus Stn,50604
+3614,32,865067,0,Curtin University Bus Stn,50604
+3614,32,865068,0,Curtin University Bus Stn,50604
+3614,32,865069,0,Curtin University Bus Stn,50604
+3614,32,865070,0,Curtin University Bus Stn,50604
+3614,32,865071,0,Curtin University Bus Stn,50604
+3614,32,865072,0,Curtin University Bus Stn,50604
+3614,32,865073,0,Curtin University Bus Stn,50604
+3614,32,865074,0,Curtin University Bus Stn,50604
+3614,32,865075,0,Curtin University Bus Stn,50604
+3614,32,865076,0,Curtin University Bus Stn,50604
+3614,32,865077,0,Curtin University Bus Stn,50604
+3614,14,865078,0,Curtin University Bus Stn,50604
+3614,14,865079,0,Curtin University Bus Stn,50604
+3614,14,865080,0,Curtin University Bus Stn,50604
+3614,14,865081,0,Curtin University Bus Stn,50604
+3614,14,865082,0,Curtin University Bus Stn,50604
+3614,14,865083,0,Curtin University Bus Stn,50604
+3614,14,865084,0,Curtin University Bus Stn,50604
+3614,14,865085,0,Curtin University Bus Stn,50604
+3614,14,865086,0,Curtin University Bus Stn,50604
+3614,14,865087,0,Curtin University Bus Stn,50604
+3614,14,865088,0,Curtin University Bus Stn,50604
+3614,14,865089,0,Curtin University Bus Stn,50604
+3614,14,865090,0,Curtin University Bus Stn,50604
+3614,14,865091,0,Curtin University Bus Stn,50604
+3614,21,865188,0,Curtin University Bus Stn,50604
+3614,21,865189,0,Curtin University Bus Stn,50604
+3614,21,865190,0,Curtin University Bus Stn,50604
+3614,21,865191,0,Curtin University Bus Stn,50604
+3614,21,865192,0,Curtin University Bus Stn,50604
+3614,21,865193,0,Curtin University Bus Stn,50604
+3614,21,865194,0,Curtin University Bus Stn,50604
+3614,21,865195,0,Curtin University Bus Stn,50604
+3614,21,865196,0,Curtin University Bus Stn,50604
+3614,21,865197,0,Curtin University Bus Stn,50604
+3614,21,865198,0,Curtin University Bus Stn,50604
+3614,21,865199,0,Curtin University Bus Stn,50604
+3614,21,865200,0,Curtin University Bus Stn,50604
+3614,21,865201,0,Curtin University Bus Stn,50604
+3614,21,865202,0,Curtin University Bus Stn,50604
+2463,32,865727,1,Two Rocks Shop Ctr,50614
+2463,32,865728,1,Two Rocks Shop Ctr,50614
+2463,32,865729,1,Two Rocks Shop Ctr,50614
+2463,32,865730,1,Two Rocks Shop Ctr,50614
+2463,32,865731,1,Two Rocks Shop Ctr,50614
+2463,32,865732,1,Two Rocks Shop Ctr,50614
+2463,32,865733,1,Two Rocks Shop Ctr,50614
+2463,32,865734,1,Two Rocks Shop Ctr,50614
+2463,13,865735,1,Two Rocks Shop Ctr,50614
+2463,32,865737,1,Two Rocks Shop Ctr,50614
+2463,32,865738,1,Two Rocks Shop Ctr,50614
+2463,32,865739,1,Two Rocks Shop Ctr,50614
+2463,14,865740,1,Two Rocks Shop Ctr,50614
+2463,14,865741,1,Two Rocks Shop Ctr,50614
+2463,14,865742,1,Two Rocks Shop Ctr,50614
+2463,14,865743,1,Two Rocks Shop Ctr,50614
+2463,14,865744,1,Two Rocks Shop Ctr,50614
+2463,14,865745,1,Two Rocks Shop Ctr,50614
+2463,14,865746,1,Two Rocks Shop Ctr,50614
+2463,14,865747,1,Two Rocks Shop Ctr,50614
+2463,21,865748,1,Two Rocks Shop Ctr,50614
+2463,21,865749,1,Two Rocks Shop Ctr,50614
+2463,21,865750,1,Two Rocks Shop Ctr,50614
+2463,21,865751,1,Two Rocks Shop Ctr,50614
+2463,21,865752,1,Two Rocks Shop Ctr,50614
+2463,21,865753,1,Two Rocks Shop Ctr,50614
+2463,32,865754,1,Two Rocks Shop Ctr,50614
+2463,32,865755,1,Two Rocks Shop Ctr,50614
+2463,32,865756,1,Two Rocks Shop Ctr,50614
+2463,14,865757,1,Two Rocks Shop Ctr,50614
+2463,32,865758,1,Two Rocks Shop Ctr,50614
+2463,14,865759,1,Two Rocks Shop Ctr,50614
+2463,32,865760,1,Two Rocks Shop Ctr,50614
+2463,14,865761,1,Two Rocks Shop Ctr,50614
+2463,32,865762,1,Two Rocks Shop Ctr,50614
+2463,32,865763,1,Two Rocks Shop Ctr,50614
+2463,32,865764,1,Two Rocks Shop Ctr,50614
+2463,32,865765,1,Two Rocks Shop Ctr,50614
+2463,32,865766,1,Two Rocks Shop Ctr,50614
+2463,14,865768,1,Two Rocks Shop Ctr,50614
+2463,14,865769,1,Two Rocks Shop Ctr,50614
+2463,14,865770,1,Two Rocks Shop Ctr,50614
+2463,21,865771,1,Two Rocks Shop Ctr,50614
+2463,21,865772,1,Two Rocks Shop Ctr,50614
+2463,21,865773,1,Two Rocks Shop Ctr,50614
+2463,21,865774,1,Two Rocks Shop Ctr,50614
+2463,21,865775,1,Two Rocks Shop Ctr,50614
+2463,21,865776,1,Two Rocks Shop Ctr,50614
+2463,15,865777,1,Two Rocks Shop Ctr,50614
+2463,13,865778,1,Two Rocks Shop Ctr,50614
+2463,13,865883,1,Two Rocks Shop Ctr,50614
+2463,15,865779,1,Two Rocks Shop Ctr,50615
+2463,15,865882,1,Two Rocks Shop Ctr,50615
+773,15_50632,865927,0,Perth Busport,50632

@@ -447,7 +447,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10509,10509,"Ranford Rd Before Waratah Bvd","",-32.0798002751,115.9053607380,2
 0,,10510,10510,"Ranford Rd Before Wilfred Rd","",-32.0814276887,115.9085162650,2
 0,,10511,10511,"Ranford Rd After Wilfred Rd","",-32.0826537480,115.9107349660,2
-0,,10512,10512,"Ranford Rd After Banksia Esplanade","Ranford Rd / Brennan Av",-32.08554166666660,115.914290,2
+0,,10512,10512,"Ranford Rd Before Banksia Esplanade","Ranford Rd / Brennan Av",-32.0841950316,115.9127685650,2
 0,,10513,10513,"Ranford Rd - Livingston Marketplace","Livingston Marketplace",-32.08704611111110,115.915929444444,2
 0,,10514,10514,"Ranford Rd Before Grand Bvd","",-32.0895561111111010,115.918777222222,2
 0,,10515,10515,"Ranford Rd Before Campbell Rd","Ranford Rd / Campbell Rd",-32.09250388888890,115.925230555556,2
@@ -2423,8 +2423,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12804,12804,"Alexander Dr - Inglewood Aquatic Centre","",-31.90951944444450,115.868023333333,1
 0,,12806,12806,"Alexander Dr Before Rossiter Av","",-31.9160010211,115.8670634690,1
 0,,12808,12808,"Alexander Dr Before Bradford St","Edith Cowan University Mount Lawley",-31.9195359514,115.8657651330,1
-0,,12809,12809,"Alexander Dr After Bradford St","Edith Cowan University Mount Lawley",-31.9204997991,115.8648411320,1
-0,,12810,12810,"Alexander Dr After Thongsbridge St","",-31.92307614,115.8611832380,1
+0,,12809,12809,"Alexander Dr After Bradford St","Edith Cowan University Mount Lawley",-31.9204738181,115.8648625690,1
+0,,12810,12810,"Alexander Dr After Thongsbridge St","",-31.9230613127,115.8611940620,1
 0,,12811,12811,"Fitzgerald St After Russell Av","",-31.92597777777780,115.859317222222,1
 0,,12812,12812,"Fitzgerald St After York St","",-31.9277024924,115.8593042740,1
 0,,12813,12813,"Fitzgerald St After Marmion St","",-31.9299484679,115.8592895040,1
@@ -2438,8 +2438,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12823,12823,"Fitzgerald St Before View St","North Perth Plaza",-31.9322745123,115.8590859380,1
 0,,12824,12824,"Fitzgerald St After Menzies St","",-31.9293070318,115.8591388310,1
 0,,12825,12825,"Fitzgerald St After Farmer St","",-31.9270531704,115.8591491760,1
-0,,12826,12826,"Fitzgerald St After Ruby St","",-31.9249907447,115.8591731810,1
-0,,12827,12827,"Alexander Dr After Melrose Cr","",-31.9227783311,115.8611240850,1
+0,,12826,12826,"Fitzgerald St After Nova L","",-31.9246808524,115.8591756710,1
+0,,12827,12827,"Alexander Dr After Melrose Cr","",-31.9227623966,115.8611647930,1
 0,,12828,12828,"Alexander Dr Before Holmfirth St","Edith Cowan University Mount Lawley",-31.9211483750,115.8638265110,1
 0,,12829,12829,"Alexander Dr After Bradford St","Edith Cowan University Mount Lawley",-31.9188802394,115.8659794830,1
 0,,12831,12831,"Alexander Dr After Central Av","",-31.9157307455,115.86676476,1
@@ -3019,8 +3019,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,13634,13634,"Cecil Av After Pattie St","Carousel Shop Ctr / Cecil Av",-32.01725944444440,115.936345555556,2
 0,,13638,13638,"Hamilton St After Doust St","",-32.00929722222220,115.928704444444,2
 0,,13639,13639,"Hamilton St Before Channon St","",-32.0074817774,115.9308577030,2
-0,,13641,13641,"Mills St After Channon St","Bentley Hospital",-32.00619777777780,115.928530,2
-0,,13642,13642,"Mills St Before Doust St","",-32.0071191894,115.9273561170,2
+0,,13641,13641,"Mills St After Channon St","Bentley Health Service",-32.00619777777780,115.928530,2
+0,,13642,13642,"Mills St Before Doust St","Bentley Health Service",-32.0071191894,115.9273561170,2
 0,,13648,13648,"Reginald St After Stephen St","",-32.0056612279,115.9515352410,2
 0,,13649,13649,"Reginald St Before Ayer Rd","",-32.0038182479,115.9536619680,2
 0,,13651,13651,"Reginald St Before Stephen St","",-32.0057196467,115.9516367720,2
@@ -6445,6 +6445,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,17988,17988,"Marmion Av After Santiago Pwy","",-31.7448371286,115.7382076610,4
 0,,17989,17989,"Marmion Av After Miami Beach Prom","",-31.7288531551,115.7360501130,4
 0,,17990,17990,"Marmion Av After Burns Beach Rd","",-31.7255372222222010,115.73433666666701,4
+0,,17991,17991,"Marmion Av After Grand Ocean Ent","",-31.7208692111,115.7304153920,4
+0,,17992,17992,"Marmion Av Before Kinross Dr","Marmion Av / Kinross Dr",-31.71646222222220,115.725978888889,4
 0,,17993,17993,"Marmion Av Tamala Park Disposal Site","",-31.7086107959,115.7223710370,4
 0,,17994,17994,"Marmion Av After Anchorage Dr","",-31.6929279301,115.7157236740,4
 0,,17995,17995,"Marmion Av After Ocean Keys Bvd","",-31.6879600869,115.7143056510,4
@@ -10065,7 +10067,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,23898,23898,"Cedric St After George St","",-31.89065888888890,115.809401111111,2
 0,,23904,23904,"Pinetree Gully Rd Before Kingsford Dr","",-32.0634082249,115.8777181750,2
 0,,23912,23912,"Paterson St After Whitby St","Paterson Rd / Whitby St",-32.2942173292,115.9861515530,5
-0,,23913,23913,"Connolly Dr After Ocean Keys Bvd","",-31.6907128370,115.7298463350,4
+0,,23913,23913,"Connolly Dr After Ocean Keys Bvd","",-31.69013277777780,115.729139444444,4
 0,,23914,23914,"Connolly Dr After Riverlinks Dr","",-31.68774611111110,115.726783333333,4
 0,,23915,23915,"Connolly Dr After Homestead Rd","",-31.68170722222220,115.726717222222,4
 0,,23916,23916,"Connolly Dr Before Walyunga Bvd","Connolly Dr / Walyunga Bvd",-31.6778584834,115.7244232280,4
@@ -11590,7 +11592,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27497,27497,"Cockburn Rd After Fairbairn Rd","",-32.12422722222220,115.767320555556,3
 0,,27498,27498,"Cockburn Rd Before Fairbairn Rd","",-32.12414555555560,115.767072777778,3
 0,,27499,27499,"Kent St After Etwell St","",-31.98913888888890,115.891433333333,1
-0,,27500,27500,"Kent St Before Eywell St","",-31.98933388888890,115.891384444444,1
+0,,27500,27500,"Kent St Before Eywell St","",-31.9893907607,115.8913334820,1
 0,,27501,27501,"Kent St After Devenish St","",-31.98722166666660,115.893687777778,1
 0,,27502,27502,"Kent St Before Devenish St","",-31.98742611111110,115.893623333333,1
 0,,27503,27503,"Kent St Before Berwick St","",-31.98457666666670,115.896997777778,1
@@ -11657,7 +11659,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27581,27581,"Grand Ocean Ent After Watcombe Av","",-31.7247,115.728031111111,4
 0,,27583,27583,"Coventry Rd After Chevin Rd","",-32.09904611111110,116.048269444444,3
 0,,27584,27584,"West Coast Hwy After Scarborough Beach Rd","West Coast Hwy / Scarborough Beach Rd",-31.89359222222220,115.757396111111,2
-0,,27585,27585,"The Esplanade   After Manning St","The Esplanade / Manning St",-31.89258277777780,115.756192777778,2
+0,,27585,27585,"The Esplanade   After Manning St","The Esplanade / Manning St",-31.89337833333330,115.756380,2
 0,,27586,27586,"Access Rd Point Fraser","Point Fraser",-31.96426722222220,115.877745555556,FTZ
 0,,27587,27587,"Kent St After Jarrah Rd","",-31.99258888888890,115.887543888889,1
 0,,27588,27588,"Kent St Before Jarrah Rd","",-31.99230555555560,115.887586666667,1
