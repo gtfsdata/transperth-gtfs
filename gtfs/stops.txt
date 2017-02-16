@@ -711,16 +711,11 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10790,10790,"Collick St After South St","Collick St / Chadwick St",-32.0639417675,115.7909054240,2
 0,,10791,10791,"Collick St After Doust St","",-32.0656494499,115.79039527,2
 0,,10792,10792,"Collick St After Bennewith St","",-32.0683251664,115.7895934890,2
-0,,10793,10793,"Alfred Rd After Rule St","",-32.03073277777780,115.754942222222,2
-0,,10794,10794,"Alfred Rd Before Stirling Hwy","",-32.03098722222220,115.753212777778,2
+0,,10794,10794,"Alfred Rd Before Stirling Hwy","",-32.03102777777780,115.753026666667,2
 0,,10795,10795,"Alfred Rd After Stirling Hwy","",-32.0308275445,115.7537411870,2
-0,,10796,10796,"Alfred Rd After Thompson Rd","",-32.0306295211,115.7551515050,2
-0,,10797,10797,"Rule St After Fay St","",-32.0318059425,115.7560361710,2
-0,,10798,10798,"Rule St After Ainslie Rd","",-32.0326733583,115.75620436,2
+0,,10797,10797,"Rule St After Fay St","",-32.03186388888890,115.756046666667,2
 0,,10799,10799,"Rule St After Ainslie Rd","",-32.0320230609,115.7559752280,2
-0,,10800,10800,"Rule St Before Letitia Rd","",-32.031045,115.755773333333,2
 0,,10801,10801,"Harvest Rd After Stirling Hwy","",-32.0345042091,115.7545591790,2
-0,,10802,10802,"Harvest Rd After Herbert St","",-32.0334245219,115.7558433960,2
 0,,10803,10803,"Harvest Rd Before Stirling Hwy","",-32.03427166666670,115.755002222222,2
 0,,10806,10806,"Oldham Cr Before Sumpton St","",-32.0709786634,115.7882129320,2
 0,,10807,10807,"Oldham Cr Before Howson St","",-32.071555,115.787255555556,2
@@ -2357,7 +2352,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12726,12726,"Cambridge St After Abbotsford St","Cambridge St / Abbotsford St",-31.9407747265,115.8368322550,1
 0,,12728,12728,"Cambridge St Before Glen St","",-31.9407858883,115.8330148620,1
 0,,12729,12729,"Cambridge St After St Leonards Av","",-31.94079555555560,115.829578888889,1
-0,,12730,12730,"Cambridge St Before Mccourt St","",-31.9407921136,115.82799890,1
+0,,12730,12730,"Cambridge St Before Mccourt St","Cambridge St / Mccourt St",-31.9407921136,115.82799890,1
 0,,12731,12731,"Cambridge St - St John Of God Hospital","",-31.9408056189,115.8258076670,1
 0,,12732,12732,"Cambridge St Before Station St","",-31.9408172721,115.8234539360,1
 0,,12733,12733,"Cambridge St Before Harborne St","",-31.9408447368,115.8204684680,1
@@ -3326,7 +3321,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,14052,14052,"Kalamunda Rd Before David St","",-31.9437306374,116.0187360920,2
 0,,14053,14053,"Kalamunda Rd Before Priory Rd","",-31.9491052595,116.0221259620,2
 0,,14054,14054,"Kalamunda Rd After Priory Rd","Kalamunda Rd / Priory Rd",-31.9516218625,116.0235122850,2
-0,,14056,14056,"Kalamunda Rd After Gooseberry Hill Rd","",-31.9538630849,116.0247777840,2
 0,,14057,14057,"Kalamunda Rd Between Hawtin Rd And Terrigal Pl","",-31.9554716723,116.0272873850,2
 0,,14058,14058,"Kalamunda Rd Before Terrigal Pl","",-31.95618666666670,116.029921666667,2
 0,,14059,14059,"Kalamunda Rd After Scenic Dr","",-31.9572603468,116.0325535890,2
@@ -9491,7 +9485,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,22022,22022,"Bannister Rd Canning Vale Markets","",-32.0705770838,115.8948670860,2
 0,,22023,22023,"Bannister Rd Before Forum Av","Bannister Rd / Forum Av",-32.0685371350,115.8972547720,2
 0,,22024,22024,"Bannister Rd After Willeri Dr","",-32.0613262884,115.9058318980,2
-0,,22026,22026,"Fitzgerald St After Bulwer St","",-31.9375848618,115.8575860350,1
+0,,22026,22026,"Fitzgerald St After Bulwer St","",-31.9374586047,115.85765798,1
 0,,22027,22027,"Fitzgerald St After Cowle St","",-31.9397726990,115.8562398850,1
 0,,22028,22028,"Fitzgerald St After Randell St","",-31.9398811448,115.8563397130,1
 0,,22029,22029,"Nicholson Rd After Dumbarton Rd","",-32.0825507310,115.9198065320,2
@@ -9561,8 +9555,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,22363,22363,"Lakeside Dr Stop 8","",-31.7470447580,115.7741621170,3
 0,,22364,22364,"Davidson Tce Stop 11","",-31.7414789174,115.7722306710,3
 0,,22365,22365,"Shenton Av Stop 12","",-31.7404744583,115.7713879880,3
-0,,22417,22417,"Main St After The Promenade","The Shops At Ellenbrook",-31.7809284915,115.96799040,3
-0,,22418,22418,"Main St Before The Promenade","The Shops At Ellenbrook",-31.7807155873,115.9679357320,3
+0,,22417,22417,"Main St After The Promenade","Ellenbrook Central Shopping Centre",-31.7809284915,115.96799040,3
+0,,22418,22418,"Main St Before The Promenade","Ellenbrook Central Shopping Centre",-31.7807155873,115.9679357320,3
 0,,22419,22419,"Grenville St Tuart College","",-31.9032679973,115.8374768480,1
 0,,22448,22448,"Marmion Av After Yanchep Beach Rd","",-31.5484732977,115.6369131780,6
 0,,22449,22449,"Marmion Av Before Yanchep Beach Rd","",-31.5485842342,115.6367038110,6
@@ -10609,7 +10603,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,25902,25902,"The Broadway   After Coolamon Bvd","",-31.7721117356,115.9687834220,3
 0,,25903,25903,"The Broadway   After Pinegrove Dr","",-31.77492611111110,115.968014444444,3
 0,,25904,25904,"The Broadway   Before Comserv Loop","",-31.7784929885,115.96909931,3
-0,,25905,25905,"Main St Before The Promenade","The Shops At Ellenbrook",-31.7806281138,115.9680192180,3
+0,,25905,25905,"Main St Before The Promenade","Ellenbrook Central Shopping Centre",-31.7806281138,115.9680192180,3
 0,,25906,25906,"The Broadway   After Comserv Loop","",-31.7784552308,115.9689979660,3
 0,,25907,25907,"The Broadway   Before Pinegrove Dr","",-31.7750840236,115.9679325090,3
 0,,25908,25908,"The Broadway   After Elmridge Pwy","",-31.7657080705,115.9770690230,3
@@ -11595,7 +11589,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27500,27500,"Kent St Before Eywell St","",-31.9893907607,115.8913334820,1
 0,,27501,27501,"Kent St After Devenish St","",-31.98722166666660,115.893687777778,1
 0,,27502,27502,"Kent St Before Devenish St","",-31.98742611111110,115.893623333333,1
-0,,27503,27503,"Kent St Before Berwick St","",-31.98457666666670,115.896997777778,1
+0,,27503,27503,"Kent St Before Berwick St","",-31.9846198913,115.8969602270,1
 0,,27504,27504,"Kent St After Albany Hwy","",-31.982415,115.899583888889,1
 0,,27505,27505,"Morley Dr Before Otley St","",-31.89037055555550,115.868618888889,1
 0,,27506,27506,"Morley Dr After Otley St","",-31.89011111111110,115.868364444444,1
@@ -11663,6 +11657,14 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27586,27586,"Access Rd Point Fraser","Point Fraser",-31.96426722222220,115.877745555556,FTZ
 0,,27587,27587,"Kent St After Jarrah Rd","",-31.99258888888890,115.887543888889,1
 0,,27588,27588,"Kent St Before Jarrah Rd","",-31.99230555555560,115.887586666667,1
+0,,27589,27589,"Sevenoaks St Before Hamilton St","",-32.00481666666670,115.935247777778,2
+0,,27590,27590,"Sevenoaks St After Hamilton St","",-32.00471222222220,115.935360555556,2
+0,,27591,27591,"Mills St After Eldridge Gr","",-32.00424277777780,115.930760555556,2
+0,,27592,27592,"Mills St Before Wedge Pl","",-32.00416166666670,115.930706111111,2
+0,,27593,27593,"Mills St After Doust St","Bentley Health Service",-32.00682333333330,115.927547777778,2
+0,,27594,27594,"Doust St After Mills St","",-32.00869944444450,115.927423888889,2
+0,,27596,27596,"Ashburton St After Boulder St","",-32.004490,115.915914444444,1
+0,,27597,27597,"Ashburton St Before Boulder St","",-32.00425611111110,115.916023888889,1
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce",-28.7734316666666990,114.612454444444,1
 0,,70003,70003,"Chapman Rd Before Mark St","",-28.76018222222220,114.615859444444,1

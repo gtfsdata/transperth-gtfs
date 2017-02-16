@@ -364,3 +364,5 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 3711,1,362,,,3,http://www.transperth.wa.gov.au/timetables/details?Bus=362,949300,000000
 3712,28,880,,,3,,009639,FFFFFF
 3713,28,881,,,3,,009639,FFFFFF
+3731,1,699,,,3,http://www.transperth.wa.gov.au/timetables/details?Bus=699,009639,FFFFFF
+3752,1,80,,,3,http://www.transperth.wa.gov.au/timetables/details?Bus=80,009639,FFFFFF
