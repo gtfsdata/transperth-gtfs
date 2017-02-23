@@ -1299,7 +1299,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11474,11474,"Scarborough Beach Rd After Westborough St","",-31.89435388888890,115.762855555556,2
 0,,11475,11475,"Scarborough Beach Rd Before Hastings St","",-31.89444388888890,115.760666111111,2
 0,127,11476,11476,"Bus Access Stand 3","Scarborough Beach",-31.89454388888890,115.757053888889,2
-0,127,11477,11477,"Bus Access Stand 2","Scarborough Beach",-31.8945557748,115.7568910330,2
 0,127,11478,11478,"Unnamed Rd Stand 1","Scarborough Beach",-31.8945739293,115.7566405730,2
 0,,11480,11480,"Liege St Before Blackbutt Rd","",-31.9055610007,115.7984385860,2
 0,,11481,11481,"Liege St After Talbot Rd","",-31.9085875221,115.7983824540,1
@@ -1670,7 +1669,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11879,11879,"Coode St After Gardner St","",-31.9909713811,115.8621951380,1
 0,,11880,11880,"Coode St After Eric St","",-31.9929088617,115.86217138,1
 0,,11881,11881,"Coode St After Ednah St","",-31.9955316527,115.8621579140,1
-0,,11882,11882,"Coode St After Preston St","",-31.9933268991,115.8620495970,1
+0,,11882,11882,"Coode St After Preston St","",-31.9932686582,115.8620507860,1
 0,,11883,11883,"Coode St After Eric St","",-31.9914790225,115.8620666670,1
 0,,11884,11884,"Coode St Before South Tce","",-31.9890300937,115.8620681230,1
 0,,11885,11885,"Coode St Before Pilgrim St","",-31.9865567334,115.86254345,1
@@ -2878,7 +2877,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,13426,13426,"Gosnells Rd After Nantellis Rd","",-32.0626993204,116.0037526130,3
 0,,13427,13427,"Gosnells Rd Before Mills Rd","",-32.0634038664,115.9999636020,3
 0,,13428,13428,"Westfield St After Gosnells Rd","",-32.0600850883,116.0079801910,3
-0,,13429,13429,"Westfield St Aftre Maple Pl","",-32.0580202286,116.0055416960,3
+0,,13429,13429,"Westfield St After Maple Pl","",-32.0580202286,116.0055416960,3
 0,,13430,13430,"Westfield St After Coachwood Wy","Westfield St / Pitchford Av",-32.0561700409,116.0033502380,3
 0,,13431,13431,"Westfield St After Sheoak Rd","",-32.0543841977,116.00123569,3
 0,,13432,13432,"Westfield St   Before Carabeen Rd","",-32.0525302352,115.9999014770,3
@@ -3651,7 +3650,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,14464,14464,"Great Eastern Hwy After Moreing St","",-31.9366552443,115.9337964760,1
 0,,14465,14465,"Great Eastern Hwy After Lyall St","",-31.9352889961,115.9361205260,1
 0,,14466,14466,"Great Eastern Hwy Before Central Av","",-31.9305735635,115.9440538730,2
-0,,14467,14467,"Great Eastern Hwy Before Ben St","Gt Eastern Hwy / Coolgardie Av",-31.92773222222220,115.948687222222,2
+0,,14467,14467,"Great Eastern Hwy After Ben St","Gt Eastern Hwy / Coolgardie Av",-31.92773222222220,115.948687222222,2
 0,,14468,14468,"Great Eastern Hwy Before Fauntleroy Av","",-31.9262667462,115.9510267090,2
 0,,14469,14469,"Great Eastern Hwy Before Ivy St","",-31.92379833333330,115.954126111111,2
 0,,14470,14470,"Great Eastern Hwy After Gt Eastern Hwy Bypass","",-31.9198158246,115.9587255560,2
@@ -5645,7 +5644,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,16920,16920,"Hay St Before Hamilton St","",-31.9472099992,115.8362183720,1
 0,,16921,16921,"Hay St Before Coghlan Rd","",-31.9471811103,115.8332861310,1
 0,,16922,16922,"Hay St After Ellen St","Hay St / Ellen St",-31.9471470151,115.8294192920,1
-0,,16924,16924,"Hay St Before Denis St","",-31.9470838209,115.8225036570,1
+0,,16923,16923,"Hay St Before Rokeby Rd","Hay St / Rokeby Rd",-31.9471125572,115.8245360330,1
 0,,16925,16925,"Hay St Before Troy Tce","Hay St / Troy Tce",-31.9471155365,115.81665447,1
 0,,16926,16926,"Hay St After Troy Tce","",-31.9471689821,115.8153081620,1
 0,,16927,16927,"Hay St Before Bishop","",-31.9476750345,115.8131046940,1
@@ -7717,7 +7716,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,19557,19557,"North St After Lyons St","",-31.9819676179,115.7590854760,2
 0,,19558,19558,"North St Before Griver St","",-31.9819647877,115.7626789830,2
 0,,19559,19559,"North St Before Walpole St","",-31.9819635180,115.7639653110,2
-0,,19561,19561,"Marine Pde After North St","",-31.9825747877,115.7539682380,2
+0,,19561,19561,"Marine Pde After North St","",-31.98267388888890,115.753909444444,2
 0,,19562,19562,"Marine Pde Before Vera View Pde","",-31.9836871695,115.7534060980,2
 0,,19563,19563,"Marine Pde Before Grant St","",-31.9860492163,115.7531524410,2
 0,,19564,19564,"Marine Pde Before Eileen St","",-31.9903116158,115.7525480870,2
@@ -8728,11 +8727,9 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,20916,20916,"Eagle Dr Before Wessex Rd","",-32.0945599693,115.8778732770,2
 0,,20918,20918,"Berrigan Dr Before Lakes Wy","",-32.0942489553,115.8615610510,2
 0,,20919,20919,"Berrigan Dr After Glendale Cr","",-32.1006486819,115.8600569780,2
-0,,20920,20920,"Berrigan Dr Before Jandakot Rd","",-32.1057555469,115.8602826460,2
 0,,20921,20921,"Berrigan Dr Before Turnbury Park Dr","Berrigan Dr  /  Turnbury Park Dr",-32.1086492696,115.8572213720,2
 0,,20922,20922,"Berrigan Dr After Briggs St","",-32.1136388756,115.8374729350,3
 0,,20923,20923,"Berrigan Dr Before Briggs St","",-32.1135615170,115.8372637740,3
-0,,20924,20924,"Berrigan Dr After Dean Rd","",-32.1052162923,115.86031092,2
 0,,20925,20925,"Berrigan Dr Before Glendale Cr","",-32.1007012717,115.8598932780,2
 0,,20926,20926,"Berrigan Dr Before Lakes Wy","",-32.09388444444440,115.861704444444,2
 0,,20927,20927,"Berrigan Dr After Turnbury Park Dr","Berrigan Dr  /  Turnbury Park Dr",-32.1083813426,115.85710276,2
@@ -10066,7 +10063,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,23915,23915,"Connolly Dr After Homestead Rd","",-31.68170722222220,115.726717222222,4
 0,,23916,23916,"Connolly Dr Before Walyunga Bvd","Connolly Dr / Walyunga Bvd",-31.6778584834,115.7244232280,4
 0,,23917,23917,"Connolly Dr After Walyunga Bvd","",-31.67784944444450,115.724780,4
-0,,23918,23918,"Connolly Dr After Homestead Rd","",-31.68285333333340,115.727036666667,4
+0,,23918,23918,"Connolly Dr After Homestead Rd","",-31.6827517623,115.72707690,4
 0,,23919,23919,"Connolly Dr Before Northcliffe Av","",-31.68582555555550,115.726617777778,4
 0,,23920,23920,"Connolly Dr Before Ocean Keys Bvd","",-31.68989277777780,115.729228888889,4
 0,,23924,23924,"Kent St Before Beasley Av","",-32.0077222222221990,115.888047222222,1
@@ -10372,7 +10369,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,25345,25345,"Beach Rd After Butterworth Av","Beach Rd / Honeywell Bvd",-31.84855240,115.8663510540,2
 0,,25346,25346,"Beach Rd After Honeywell Bvd","Beach Rd / Honeywell Bvd",-31.8488238888889010,115.86715888888899,2
 0,,25348,25348,"Walters Dr Before Gould St","",-31.9152017492,115.8181011310,1
-0,,25349,25349,"Walters Dr After Gould St","",-31.9136002310,115.8148071640,1
+0,,25349,25349,"Walters Dr After Gould St","",-31.9135999992,115.8148072220,1
 0,,25350,25350,"Walters Dr Before Teakle Rd","",-31.9115229250,115.8122714080,1
 0,,25351,25351,"Walters Dr Before Hasler Rd","",-31.9091990319,115.8084256360,1
 0,,25352,25352,"Hasler Rd After Walters Dr","Hasler Rd / Walters Dr",-31.9096865339,115.8061965530,1
@@ -11590,7 +11587,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27501,27501,"Kent St After Devenish St","",-31.98722166666660,115.893687777778,1
 0,,27502,27502,"Kent St Before Devenish St","",-31.98742611111110,115.893623333333,1
 0,,27503,27503,"Kent St Before Berwick St","",-31.9846198913,115.8969602270,1
-0,,27504,27504,"Kent St After Albany Hwy","",-31.982415,115.899583888889,1
+0,,27504,27504,"Kent St After Albany Hwy","",-31.98183166666670,115.900266111111,1
 0,,27505,27505,"Morley Dr Before Otley St","",-31.89037055555550,115.868618888889,1
 0,,27506,27506,"Morley Dr After Otley St","",-31.89011111111110,115.868364444444,1
 0,,27507,27507,"The Promenade   After Brookmount Dr","",-31.77669722222220,115.963682222222,3
@@ -11653,7 +11650,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27581,27581,"Grand Ocean Ent After Watcombe Av","",-31.7247,115.728031111111,4
 0,,27583,27583,"Coventry Rd After Chevin Rd","",-32.09904611111110,116.048269444444,3
 0,,27584,27584,"West Coast Hwy After Scarborough Beach Rd","West Coast Hwy / Scarborough Beach Rd",-31.89359222222220,115.757396111111,2
-0,,27585,27585,"The Esplanade   After Manning St","The Esplanade / Manning St",-31.89337833333330,115.756380,2
+0,,27585,27585,"The Esplanade   Before Scarborough Beach Rd","Scarborough Beach",-31.89415055555550,115.756543333333,2
 0,,27586,27586,"Access Rd Point Fraser","Point Fraser",-31.96426722222220,115.877745555556,FTZ
 0,,27587,27587,"Kent St After Jarrah Rd","",-31.99258888888890,115.887543888889,1
 0,,27588,27588,"Kent St Before Jarrah Rd","",-31.99230555555560,115.887586666667,1
@@ -12149,8 +12146,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,71367,71367,"Nankiville Rd Before Kunanalling Av","",-30.723360,121.454817777778,1
 0,,71368,71368,"Kunanalling Av After Kurnalpi Cl","",-30.72245888888890,121.452565555556,1
 0,,71369,71369,"Davyhurst Dr After Nepean Gr","",-30.72007055555560,121.452175555556,1
-0,,71370,71370,"Cotter St Before De Bernales St","",-30.72534469729820,121.453793103247,1
-0,,71371,71371,"Cotter St After Bennetts Pl","",-30.727202221958,121.456103051166,1
+0,,71370,71370,"Cotter St Opposite De Bernales","",-30.7251880763,121.4538555120,1
+0,,71371,71371,"Cotter St Before Bennetts Pl","",-30.7269738385,121.4560573650,1
 0,,71372,71372,"Premier St After Cotter St","",-30.7278409370724010,121.458956180211,1
 0,,71373,71373,"Mckenzie St After Eureka St","",-30.7282313612725990,121.460651248872,1
 0,,71374,71374,"Mckenzie St After Lewis St","",-30.73032196332760,121.463224770512,1

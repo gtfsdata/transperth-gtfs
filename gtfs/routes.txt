@@ -108,7 +108,6 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 1977,1,346,,,3,http://www.transperth.wa.gov.au/timetables/details?Bus=346,910048,FFFFFF
 2094,1,300,,,3,http://www.transperth.wa.gov.au/timetables/details?Bus=300,910048,FFFFFF
 2144,1,586,,,3,http://www.transperth.wa.gov.au/timetables/details?Bus=586,CB6015,FFFFFF
-2146,17,Esperance,,,3,,009639,FFFFFF
 2147,17,Esperance,,,3,,009639,FFFFFF
 2148,17,Pemberton,,,3,,009639,FFFFFF
 2149,17,Pemberton,,,3,,009639,FFFFFF
@@ -364,5 +363,4 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 3711,1,362,,,3,http://www.transperth.wa.gov.au/timetables/details?Bus=362,949300,000000
 3712,28,880,,,3,,009639,FFFFFF
 3713,28,881,,,3,,009639,FFFFFF
-3731,1,699,,,3,http://www.transperth.wa.gov.au/timetables/details?Bus=699,009639,FFFFFF
 3752,1,80,,,3,http://www.transperth.wa.gov.au/timetables/details?Bus=80,009639,FFFFFF
