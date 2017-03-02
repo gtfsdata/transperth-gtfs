@@ -1088,7 +1088,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,40,11248,11248,"Hayman Rd Stand 8","Curtin University Bus Stn",-32.0054893717,115.8972108810,1
 0,,11249,11249,"Adie Ct After Hayman Rd","",-32.0037372999,115.8976911530,1
 0,,11250,11250,"Adie Ct Swan Cottage Homes","",-32.0030293913,115.8989111710,1
-0,,11251,11251,"Adie Ct After Jarrah Rd","",-32.00219055555560,115.900019444444,1
+0,,11251,11251,"Adie Ct After Jarrah Rd","",-32.00220611111110,115.900039444444,1
 0,,11252,11252,"Adie Ct Swan Cottage Homes","",-32.0031321702,115.8989660750,1
 0,,11253,11253,"Adie Ct Before Hayman Rd","",-32.00389222222220,115.897527222222,1
 0,,11254,11254,"Hayman Rd After Adie Ct","",-32.0031210758,115.89587701,1
@@ -1135,7 +1135,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11300,11300,"Wright St After Armadale Rd","",-31.9691943344,115.9276936620,1
 0,,11301,11301,"Wright St After Saint Kilda Rd","",-31.96834833333330,115.928712777778,1
 0,,11302,11302,"Wright St Before Knutsford Av","",-31.9665958840,115.9307410160,1
-0,,11303,11303,"Wright St Before Belmont Av","",-31.9656726932,115.9318453470,1
+0,,11303,11303,"Wright St Before Belmont Av","",-31.9655640612,115.9319805180,1
 0,,11304,11304,"Wright St - Belmont Forum Shopping Ctr","Belmont Forum / Wright St",-31.9632738570,115.9345737370,1
 0,,11305,11305,"Wright St After Abernethy Rd","",-31.96122055555560,115.937040555556,1
 0,,11306,11306,"Wright St Before Arlunya Av","",-31.9596980654,115.9388122030,1
@@ -2489,7 +2489,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,131,12907,12907,"Wellington St Royal Perth Hospital Y27","",-31.9537018866,115.86599230,FTZ
 0,,12909,12909,"Wellington St Wellington Fair Yellow Cat 28","",-31.9548407019,115.8693559980,FTZ
 0,,12911,12911,"Wellington St Wellington Square Yellow Cat 29","",-31.95589777777780,115.872440,FTZ
-0,,12912,12912,"Wellington St Before Plain St","",-31.95677722222220,115.875195,FTZ
+0,,12912,12912,"Wellington St Plain St Y30","",-31.95677722222220,115.875195,FTZ
 0,,12913,12913,"Wellington St Plain St Y/30","Police Traffic Branch",-31.9568098654,115.87525477,FTZ
 0,,12914,12914,"Wellington St Plain Street R3 / Y8","Wellington St / Plain St",-31.9568532583,115.8749706150,FTZ
 0,,12915,12915,"Wellington St Wellington Squ R4 / Y9","Wellington Square",-31.95634888888890,115.873418888889,FTZ
@@ -4917,7 +4917,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,15993,15993,"Illawarra Cr   After Redgum Dr","",-31.82778333333330,115.882073888889,2
 0,,15994,15994,"Illawarra Cr After Vista Pde","",-31.8298598683,115.88403052,2
 0,,15995,15995,"Illawarra Cr Before Marangaroo Dr","Illawarra Cr / Marangaroo Dr",-31.8325772981,115.8852842770,2
-0,,15996,15996,"Illawarra Cr After Meadowview Dr","",-31.8341314962,115.8879572220,2
+0,,15996,15996,"Illawarra Cr After Meadowview Dr","",-31.8337641903,115.8863922460,2
 0,,15997,15997,"Illawarra Cr After Meadowview Dr","",-31.8349775039,115.8903417270,2
 0,,15998,15998,"Illawarra Cr After Kookaburra Tce","",-31.8376472496,115.8919656150,2
 0,,15999,15999,"Illawarra Cr Before Kingfisher Av","Ballajura Shopping Ctr",-31.8396161103,115.8936708630,2
@@ -7339,7 +7339,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,19058,19058,"Finnerty St After Charles St","",-31.8745558321,115.7867775120,2
 0,,19059,19059,"Finnerty St Before Gwelup St","",-31.8764589705,115.7867471480,2
 0,,19060,19060,"Huntriss Rd After Bartlett Cr","Huntriss Rd / Stoneman St",-31.8785887885,115.78727458,2
-0,,19061,19061,"Huntriss Rd After Stoneham St","",-31.880115,115.787266111111,2
+0,,19061,19061,"Huntriss Rd After Stoneham St","",-31.88146055555560,115.787241111111,2
 0,,19062,19062,"Huntriss Rd Before Worner Cr","",-31.8832583854,115.7872244070,2
 0,,19063,19063,"Huntriss Rd Before Barnes St","",-31.8873399999999980,115.787183333333,2
 0,,19064,19064,"Huntriss Rd Before Moorland St","Huntriss Rd / Moorland St",-31.8905831172,115.7872221610,2
@@ -12146,7 +12146,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,71367,71367,"Nankiville Rd Before Kunanalling Av","",-30.723360,121.454817777778,1
 0,,71368,71368,"Kunanalling Av After Kurnalpi Cl","",-30.72245888888890,121.452565555556,1
 0,,71369,71369,"Davyhurst Dr After Nepean Gr","",-30.72007055555560,121.452175555556,1
-0,,71370,71370,"Cotter St Opposite De Bernales","",-30.7251880763,121.4538555120,1
+0,,71370,71370,"Cotter St After Carroll Pl","",-30.7251880763,121.4538555120,1
 0,,71371,71371,"Cotter St Before Bennetts Pl","",-30.7269738385,121.4560573650,1
 0,,71372,71372,"Premier St After Cotter St","",-30.7278409370724010,121.458956180211,1
 0,,71373,71373,"Mckenzie St After Eureka St","",-30.7282313612725990,121.460651248872,1
@@ -13010,8 +13010,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,73545,73545,"Moore St After Simpson St","",-20.31000666666670,118.598510555556,2
 0,,73546,73546,"Moore St Before Simpson St","",-20.31010888888890,118.598459444444,2
 0,,73547,73547,"Sutherland St After Rodoreda St","St Cecilia Catholic College",-20.30879611111110,118.602380555556,2
-0,,73549,73549,"Stevens St Before Sutherland St","",-20.30914888888890,118.604974444444,2
-0,,73550,73550,"Stevens St After Sutherland St","",-20.30898333333330,118.605073333333,2
 0,,73553,73553,"Anderson St After Mcgregor St","Port Hedland Boulevard Shopping Ctr",-20.31079833333330,118.6083,2
 0,,73554,73554,"Anderson St Before Mcgregor St","Port Hedland Boulevard Shopping Ctr",-20.31072111111110,118.608700555556,2
 0,,73555,73555,"Mcgregor St After Crawford St","",-20.30851555555560,118.613281111111,2
@@ -13189,6 +13187,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,73861,73861,"Stockley Rd After Jarrah St","",-33.33435777777780,115.6339,1
 0,,73862,73862,"Stockley Rd Before Picton Cr","",-33.33427666666670,115.634223333333,1
 0,,73863,73863,"Kaloorup Rd Vasse Primary School","Vasse Primary School",-33.67991777777780,115.248610555556,2
+0,,73864,73864,"Sutherland St Before Stevens St","",-20.30856388888890,118.604536111111,2
+0,,73865,73865,"Sutherland St After Stevens St","",-20.30866388888890,118.604545,2
 0,,95000,95000,"Armadale Stn Armadale 1","Armadale (Rail)",-32.15377166666670,116.012988333333,4
 0,,95001,95001,"Armadale Stn Armadale 2","Armadale (Rail)",-32.15377833333330,116.013023333333,4
 0,,95002,95002,"Byford Stn Byford 1","Byford (Rail)",-32.2252633333333020,116.006801111111,4
