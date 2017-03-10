@@ -1467,6 +1467,7 @@ route_id,service_id,trip_id,direction_id,trip_headsign,shape_id
 905,14,705325,1,Beaufort St / Beaufort St Bridge,43755
 905,14,705326,1,Beaufort St / Beaufort St Bridge,43755
 905,14,705327,1,Beaufort St / Beaufort St Bridge,43755
+3611,285,723528,1,Geraldton,43856
 151,14,709551,1,Armadale Stn,44035
 151,32,709552,1,Armadale Stn,44036
 151,32,709553,1,Armadale Stn,44036
@@ -1906,6 +1907,35 @@ route_id,service_id,trip_id,direction_id,trip_headsign,shape_id
 2448,21,715392,1,Banksia Grove,44398
 2448,15,715393,1,Carramar,44399
 2448,15,715395,1,Joseph Banks Secondary College,44401
+3527,270,798339,1,Merredin (Rail),44492
+3527,284,798340,1,East Perth (Rail),44493
+137,199,798327,1,Bunbury,44522
+137,198,798329,0,Perth,44523
+2150,240,798232,0,Kalgoorlie,44573
+2164,250,797949,1,Albany,44574
+2164,252,797950,0,East Perth,44575
+2173,227,797951,0,East Perth,44576
+2174,217,718689,1,Albany,44578
+2174,214,797966,1,Pemberton,44579
+2174,218,797967,0,Perth,44580
+2176,271,798711,1,Geraldton,44601
+2176,245,798712,1,Kalbarri Resort,44602
+2176,272,798713,0,East Perth,44603
+2177,244,798714,0,East Perth,44604
+2177,246,798715,1,Geraldton,44606
+2177,247,798716,0,East Perth,44607
+2178,242,798721,1,Geraldton,44609
+2178,241,798722,0,East Perth,44610
+2179,248,798723,1,Meekatharra,44611
+2179,249,798724,0,Geraldton,44612
+2160,207,798224,1,Augusta,44613
+2160,205,798225,1,Pemberton,44614
+2149,215,798226,1,Pemberton,44615
+2160,208,798227,0,East Perth,44616
+2160,206,798228,0,East Perth,44617
+2160,211,798229,0,East Perth,44618
+2148,212,798230,1,Pemberton,44619
+2148,213,798231,0,East Perth,44620
 1816,32,719793,1,Kwinana Bus Stn,44624
 1816,32,719794,1,Kwinana Bus Stn,44624
 1816,32,719795,1,Kwinana Bus Stn,44624
@@ -3258,6 +3288,10 @@ route_id,service_id,trip_id,direction_id,trip_headsign,shape_id
 1808,32,722767,1,Dawesville East,44755
 1808,32,722768,1,Dawesville East,44755
 1808,32,722769,1,Dawesville East,44755
+2160,204,722956,1,Pemberton,44774
+2160,209,722957,1,Augusta,44775
+2149,216,798223,0,East Perth,44779
+3611,286,798717,0,East Perth Stn - Transwa,44793
 1782,13,734301,1,Southlands Boulevarde Shopping Centre,44858
 1782,32,734302,1,Southlands Boulevarde Shopping Centre,44858
 1782,32,734303,1,Southlands Boulevarde Shopping Centre,44858
@@ -4100,6 +4134,8 @@ route_id,service_id,trip_id,direction_id,trip_headsign,shape_id
 3532,14,735115,1,Kambalda West,45411
 3532,14,735113,0,Kalgoorlie Regional Hospital,45412
 3532,14,735114,0,St Barbaras Square,45413
+2180,233,798719,1,Hopetoun,45486
+2180,234,798720,0,Albany,45487
 3094,32,735248,0,Mount Lawley,45508
 3094,32,735249,0,Mount Lawley,45508
 3094,14,735250,0,Mount Lawley,45508
@@ -7501,6 +7537,10 @@ route_id,service_id,trip_id,direction_id,trip_headsign,shape_id
 2458,32,777985,0,Whitfords Stn,47059
 2458,32,777986,0,Whitfords Stn,47059
 2458,32,777987,0,Whitfords Stn,47059
+145,293,798709,1,Kalgoorlie (Rail),47076
+145,290,798707,1,Kalgoorlie (Rail),47078
+145,276,798704,1,East Perth (Rail),47081
+145,291,798705,1,Kalgoorlie (Rail),47082
 2631,32,778295,1,Madora Bay,47083
 2631,32,778296,1,Madora Bay,47083
 2631,32,778297,1,Madora Bay,47083
@@ -7606,6 +7646,8 @@ route_id,service_id,trip_id,direction_id,trip_headsign,shape_id
 2631,21,778397,0,Mandurah Stn,47089
 2631,15,778398,0,Mandurah Stn,47090
 2631,15,778399,0,Mandurah Stn,47091
+137,200,798335,1,Bunbury,47092
+137,201,798336,0,Perth,47093
 1814,21,778420,1,Lakelands,47097
 1814,13,778421,1,Lakelands,47097
 1814,32,778422,1,Lakelands,47097
@@ -10155,12 +10197,53 @@ route_id,service_id,trip_id,direction_id,trip_headsign,shape_id
 943,73,796279,1,Mungullah Village,47681
 943,10,796280,1,Mungullah Village,47681
 943,73,796281,1,Mungullah Village,47681
+3528,259,798330,1,Midland (Rail),47688
+3528,260,798331,1,Midland (Rail),47689
+3528,261,798332,1,Midland (Rail),47690
+3528,258,798337,1,Midland (Rail),47691
+3528,280,798341,1,Northam (Rail),47692
+3528,281,798333,1,Northam (Rail),47693
+3528,282,798342,1,Northam (Rail),47695
+3528,283,798334,1,Northam (Rail),47696
+2164,254,797946,1,Albany,47698
+2164,256,797947,1,Albany,47699
+2164,255,797968,1,East Perth,47700
+2164,253,797943,1,East Perth,47701
+2164,257,797942,1,East Perth,47702
+2173,224,797945,1,Albany,47704
+2173,225,797948,1,Albany,47705
+2173,223,797969,1,East Perth,47706
+2173,226,797944,1,East Perth,47707
+2160,203,797926,1,East Perth,47718
+2160,210,797937,1,East Perth,47719
+2160,202,797941,1,Augusuta,47720
+2177,243,797938,1,Geraldton,47721
+3611,287,797939,1,Geraldton,47722
+3611,288,797940,1,East Perth Stn - Transwa,47723
+2173,229,797935,1,Gnowangerup,47725
+2174,219,797936,1,Albany,47726
 946,71,796301,1,Alexandra St/Robinson St,47727
 946,71,796302,1,Alexandra St/Robinson St,47727
 946,73,796303,1,Alexandra St/Robinson St,47727
 946,10,796304,1,Alexandra St/Robinson St,47727
 946,73,796305,1,Alexandra St/Robinson St,47727
 946,10,796306,1,Alexandra St/Robinson St,47727
+145,289,797927,1,Kalgoorlie,47728
+145,292,797928,1,Kalgoorlie,47729
+145,274,797929,0,East Perth,47730
+2147,266,797916,1,Esperance,47732
+2147,264,797917,1,Esperance,47733
+2147,265,797919,0,East Perth,47735
+2150,238,797920,1,Esperance,47736
+2150,237,797921,1,Esperance,47737
+2150,239,797922,0,Kalgoorlie,47738
+2146,262,797931,1,Esperance,47739
+2146,268,797932,1,Esperance,47740
+2146,263,797933,0,East Perth,47741
+2146,269,797934,0,East Perth,47742
+2173,232,797924,1,Katanning Stn,47745
+2174,220,797925,0,Perth,47746
+145,277,798710,0,East Perth,47747
 2711,32,797757,1,The Old Mill,47764
 2711,32,797758,1,The Old Mill,47764
 2711,32,797759,1,The Old Mill,47764
@@ -20484,6 +20567,8 @@ route_id,service_id,trip_id,direction_id,trip_headsign,shape_id
 2804,32,828623,1,Bull Creek Stn,49256
 2804,32,828624,1,Bull Creek Stn,49256
 2804,32,828625,1,Bull Creek Stn,49256
+145,275,828787,1,East Perth (Rail),49268
+145,279,828788,1,East Perth (Rail),49269
 1809,13,828809,0,Mandurah Stn,49272
 1809,32,828810,0,Mandurah Stn,49272
 1809,32,828811,0,Mandurah Stn,49272
@@ -20724,6 +20809,7 @@ route_id,service_id,trip_id,direction_id,trip_headsign,shape_id
 3232,32,829188,0,Busselton,49334
 3232,32,829189,0,Busselton,49334
 3232,15,829190,0,Busselton,49335
+145,316,830775,1,East Perth (Rail),49336
 2475,42,829191,1,Banksia Grove,49338
 2475,19,829192,1,Banksia Grove,49338
 2475,13,829193,1,Banksia Grove,49338
@@ -21750,6 +21836,7 @@ route_id,service_id,trip_id,direction_id,trip_headsign,shape_id
 2465,32,830727,0,Perth Busport,49433
 2465,32,830728,0,Perth Busport,49433
 2465,32,830729,0,Perth Busport,49433
+145,321,837743,1,Kalgoorlie (Rail),49438
 2980,13,831127,0,Mandurah Stn,49447
 2980,21,831128,0,Mandurah Stn,49447
 2980,21,831129,0,Mandurah Stn,49447
@@ -21838,6 +21925,11 @@ route_id,service_id,trip_id,direction_id,trip_headsign,shape_id
 3277,15,831245,1,South West College,49470
 3277,15,831268,0,Bunbury Bus Stn,49472
 3277,15,831269,0,Bunbury Bus Stn,49473
+2173,228,831287,1,Albany,49476
+2164,221,831288,1,Albany,49477
+2173,230,831289,0,East Perth,49478
+2173,231,831290,0,East Perth,49479
+2147,267,831291,0,East Perth,49480
 2737,13,831296,1,Kalamunda Bus Stn,49482
 2737,13,831297,1,Kalamunda Bus Stn,49482
 2737,32,831298,1,Kalamunda Bus Stn,49482
@@ -28748,6 +28840,7 @@ route_id,service_id,trip_id,direction_id,trip_headsign,shape_id
 2722,14,852673,1,Cannington Stn,50114
 2722,32,852674,1,Cannington Stn,50114
 2722,32,852675,1,Cannington Stn,50114
+145,328,862927,1,Kalgoorlie (Rail),50116
 2724,32,852685,1,Kalamunda Bus Stn,50118
 2724,32,852686,1,Kalamunda Bus Stn,50118
 2724,32,852687,1,Kalamunda Bus Stn,50118
