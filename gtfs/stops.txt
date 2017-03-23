@@ -152,6 +152,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10161,10161,"Albany Hwy Before Fletcher St","",-32.0169468834,115.9332085630,2
 0,,10162,10162,"Albany Hwy After Cecil Av","Carousel Shop Ctr / Albany Hwy",-32.0194846931,115.9362442350,2
 0,,10163,10163,"Albany Hwy Before Liege St","Carousel Shop Ctr / Albany Hwy",-32.0219300531,115.9384349850,2
+0,,10164,10164,"Albany Hwy Before Station St","",-32.02342722222220,115.940087222222,2
 0,,10165,10165,"Albany Hwy After Station St","",-32.0257530094,115.9428894090,2
 0,,10166,10166,"Albany Hwy After Nicholson Rd","",-32.0269236293,115.9466657480,2
 0,,10167,10167,"Albany Hwy Before Clapham St","",-32.0277321179,115.9516300680,2
@@ -1299,7 +1300,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11474,11474,"Scarborough Beach Rd After Westborough St","",-31.89435388888890,115.762855555556,2
 0,,11475,11475,"Scarborough Beach Rd Before Hastings St","",-31.89444388888890,115.760666111111,2
 0,127,11476,11476,"Bus Access Stand 3","Scarborough Beach",-31.89454388888890,115.757053888889,2
-0,127,11478,11478,"Unnamed Rd Stand 1","Scarborough Beach",-31.8945739293,115.7566405730,2
 0,,11480,11480,"Liege St Before Blackbutt Rd","",-31.9055610007,115.7984385860,2
 0,,11481,11481,"Liege St After Talbot Rd","",-31.9085875221,115.7983824540,1
 0,,11482,11482,"Pearson St Before Stephenson Av","",-31.91288777777780,115.795873333333,1
@@ -2833,8 +2833,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,13367,13367,"Urch Rd Before Peet Rd","",-32.1193766164,116.0611000050,4
 0,,13368,13368,"Urch Rd After Urch Rd","Urch Rd / Croasdale Rd",-32.1191850857,116.0585926040,4
 0,,13369,13369,"Hospital Rd Armadale Hospital","Armadale Kelmscott Hospital",-32.1332134706,116.0194965920,3
-0,,13372,13372,"Canning Mills Rd Before Buchanan Rd","Canning Mills Rd",-32.1092420542,116.0405910070,3
-0,,13372A,13372A,"Canning Mills Rd After Urch Rd","Canning Mills Rd",-32.10631777777780,116.041846666667,3
+0,,13372,13372,"Canning Mills Rd After Urch Rd","Canning Mills Rd",-32.10631777777780,116.041846666667,3
 0,,13374,13374,"Martin St After Clifton St","Clifton St / Martin St",-32.1162445658,116.0227040650,3
 0,,13375,13375,"Martin St After Marmion St","",-32.1162247754,116.0254169740,3
 0,,13376,13376,"Merilee Tce After Peter St","",-32.1148528699,116.0263246740,3
@@ -3317,6 +3316,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,14052,14052,"Kalamunda Rd Before David St","",-31.9437306374,116.0187360920,2
 0,,14053,14053,"Kalamunda Rd Before Priory Rd","",-31.9491052595,116.0221259620,2
 0,,14054,14054,"Kalamunda Rd After Priory Rd","Kalamunda Rd / Priory Rd",-31.9516218625,116.0235122850,2
+0,,14056,14056,"Kalamunda Rd After Gooseberry Hill Rd","",-31.9538630849,116.0247777840,2
 0,,14057,14057,"Kalamunda Rd Between Hawtin Rd And Terrigal Pl","",-31.9554716723,116.0272873850,2
 0,,14058,14058,"Kalamunda Rd Before Terrigal Pl","",-31.95618666666670,116.029921666667,2
 0,,14059,14059,"Kalamunda Rd After Scenic Dr","",-31.9572603468,116.0325535890,2
@@ -4813,7 +4813,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,15874,15874,"Emberson Rd After Gillon Rd","",-31.8766993669,115.9116057660,2
 0,,15875,15875,"Guadalupe Dr After Tabubil Gdns","",-31.8496955547,115.9154517650,2
 0,,15876,15876,"Guadalupe Dr After Cootha Ct","",-31.8518633378,115.9153948870,2
-0,,15877,15877,"Guadalupe Dr After Glacier Gdns","",-31.8532338370,115.9119569160,2
+0,,15877,15877,"Guadalupe Dr Before Glacier Gdns","",-31.8531489161,115.9126271930,2
 0,,15878,15878,"Guadalupe Dr After Marshall Rd","Guadalupe Dr / Marshall Rd",-31.8537904103,115.9084639560,2
 0,,15879,15879,"Guadalupe Dr Before Glacier Gdns","",-31.85307555555560,115.912742777778,2
 0,,15880,15880,"Guadalupe Dr Before Tabubil Gdns","",-31.8523639441,115.9149245970,2
@@ -5687,7 +5687,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,16998,16998,"Mandurah Rd After Watersun Dr","",-32.5013934352,115.7431223790,7
 0,,16999,16999,"Old Coast Rd After Peelwood Pde","",-32.5525383850,115.6999321460,8
 0,,17000,17000,"Old Coast Rd After Bower Dr","Old Coast Rd / Casuarina Dr",-32.5574517862,115.6926849950,8
-0,,17002,17002,"Old Coast Rd After Dorothy Av","Old Coast Rd / Dorothy Av",-32.5662322414,115.6795891580,8
+0,,17002,17002,"Old Coast Rd After Dorothy Av","Old Coast Rd / Dorothy Av",-32.5665908407,115.6791587870,8
 0,,17003,17003,"Old Coast Rd After Loton Rd","",-32.6286374232,115.6388650210,9
 0,,17004,17004,"Old Coast Rd After Dawseville Rd","",-32.6348949276,115.63839602,9
 0,,17005,17005,"Old Coast Rd Before Wilderness Dr","Old Coast Rd / Wilderness Dr",-32.6368571210,115.63885165,9
@@ -11644,7 +11644,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27579,27579,"Graceful Bvd After Marmion Av","",-31.61965833333330,115.686697777778,5
 0,,27580,27580,"Access Rd Atlantis Beach Baptist College","Atlantis Beach Baptist College",-31.49033111111110,115.602151111111,7
 0,,27581,27581,"Grand Ocean Ent After Watcombe Av","",-31.7247,115.728031111111,4
-0,,27583,27583,"Coventry Rd After Chevin Rd","",-32.09904611111110,116.048269444444,3
+0,,27583,27583,"Coventry Rd After Chevin Rd","",-32.101580,116.048272222222,3
 0,,27584,27584,"West Coast Hwy After Scarborough Beach Rd","West Coast Hwy / Scarborough Beach Rd",-31.89359222222220,115.757396111111,2
 0,,27585,27585,"The Esplanade   Before Scarborough Beach Rd","Scarborough Beach",-31.89415055555550,115.756543333333,2
 0,,27586,27586,"Access Rd Point Fraser","Point Fraser",-31.96426722222220,115.877745555556,FTZ
@@ -11664,6 +11664,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27615,27615,"Pebble Beach Bvd After Dearwood Glade","",-32.49043055555560,115.762602222222,7
 0,,27620,27620,"Soldiers Rd Before Abernethy Road","",-32.22231388888890,116.007046666667,4
 0,,27621,27621,"Soldiers Rd After Abernethy Road","",-32.22231388888890,116.007146111111,4
+0,,27622,27622,"Doley Rd After Anzac Cr","",-32.22474833333330,115.986387777778,4
+0,,27623,27623,"Doley Rd After Gallant Turn","",-32.22510333333330,115.986588888889,4
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce",-28.7734316666666990,114.612454444444,1
 0,,70003,70003,"Chapman Rd Before Mark St","",-28.76018222222220,114.615859444444,1
