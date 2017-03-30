@@ -30,13 +30,13 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10030,10030,"Albany Hwy Before The Crescent","",-32.05744555555560,115.991761666667,2
 0,,10031,10031,"Albany Hwy After River Av","",-32.0554058806,115.9889286170,2
 0,,10032,10032,"Albany Hwy Before Dalziell St","",-32.0539749928,115.98726712,2
-0,,10034,10034,"Albany Hwy After The Strand","Albany Hwy / Olga Rd",-32.05067833333330,115.982825,2
+0,,10034,10034,"Albany Hwy After The Strand","Albany Hwy / Olga Rd",-32.0506419583,115.9827270990,2
 0,,10035,10035,"Albany Hwy After Herbert St","Albany Hwy / Herbert St",-32.0491121446,115.9788101880,2
 0,,10036,10036,"Albany Hwy After Kenwick Link","Albany Hwy / Austin Av",-32.04579833333330,115.974556111111,2
 0,,10037,10037,"Albany Hwy After Ozich Ct","",-32.0440738020,115.97345950,2
 0,,10038,10038,"Albany Hwy Before Liddelow St","",-32.04191388888890,115.971990555556,2
 0,,10039,10039,"Albany Hwy After Cooper Av","",-32.0391109663,115.9701242710,2
-0,,10040,10040,"Albany Hwy After Royal St","Albany Hwy / Royal St",-32.03602111111110,115.967923888889,2
+0,,10040,10040,"Albany Hwy After Royal St","Albany Hwy / Royal St",-32.0360421424,115.96797418,2
 0,,10041,10041,"Albany Hwy After Roe Hwy","",-32.03182388888890,115.963947222222,2
 0,,10042,10042,"Albany Hwy After Harris St","",-32.0287478286,115.9580427670,2
 0,,10043,10043,"Albany Hwy After Beckenham St","",-32.02819222222220,115.953974444444,2
@@ -590,7 +590,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10665,10665,"Cockburn Rd After Okane Ct","",-32.1352719111,115.7678438530,3
 0,,10666,10666,"Cockburn Rd Before Qull Wy","",-32.1455127769,115.76889621,3
 0,,10667,10667,"Cockburn Rd Before Gemma Rd","",-32.1701658934,115.7731144090,3
-0,,10668,10668,"Cockburn Rd Before Sutton Rd","",-32.17928222222220,115.775316111111,4
+0,,10668,10668,"Cockburn Rd Before Sutton Rd","",-32.1794184323,115.7753053820,4
 0,,10670,10670,"Cockburn Rd Before Hogg Rd","",-32.18566166666670,115.778212222222,4
 0,,10671,10671,"Cockburn Rd After Hope Valley Rd","",-32.18983611111110,115.781063333333,4
 0,,10672,10672,"Cockburn Rd After Rockingham Rd","",-32.1905291264,115.7811265130,4
@@ -2486,7 +2486,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,122,12902,12902,"Wellington St Before Forrest Pl","Perth Stn",-31.9514092902,115.8590372080,FTZ
 0,121,12904,12904,"Wellington St Pier St Yellow Cat 26","Wellington St / Pier St North",-31.9526748920,115.8628028720,FTZ
 0,131,12906,12906,"Wellington St - Royal Perth Hospital","Mciver Stn",-31.95370611111110,115.865950555556,FTZ
-0,131,12907,12907,"Wellington St Royal Perth Hospital Y27","",-31.9537018866,115.86599230,FTZ
 0,,12909,12909,"Wellington St Wellington Fair Yellow Cat 28","",-31.9548407019,115.8693559980,FTZ
 0,,12911,12911,"Wellington St Wellington Square Yellow Cat 29","",-31.95589777777780,115.872440,FTZ
 0,,12912,12912,"Wellington St Plain St Y30","",-31.95677722222220,115.875195,FTZ
@@ -6848,7 +6847,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,18487,18487,"Whitfords Av Before Marmion Av","",-31.7965368502,115.7566346840,3
 0,,18488,18488,"Whitfords Av - Whitford City Shop Ctre","Whitfords Shopping Ctr / Whitfords Av",-31.7954183135,115.7501849340,3
 0,,18489,18489,"Whitfords Av After Endeavour Rd","",-31.7964266130,115.7441978510,3
-0,,18490,18490,"Whitfords Av Before Cumberland Dr","",-31.79773277777780,115.739120555556,3
+0,,18490,18490,"Whitfords Av Before Cumberland Dr","",-31.7976792052,115.73918627,3
 0,,18491,18491,"Whitfords Av After Castlecrag Dr","",-31.79909333333340,115.735476666667,3
 0,,18492,18492,"Althaea Wy After Timberlane Dr","Woodvale Secondary College",-31.79330388888890,115.800099444444,3
 0,,18494,18494,"Woodvale Dr After Trappers Dr","",-31.79726555555560,115.7970,3
@@ -9912,6 +9911,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,23638,23638,"Lord St After Harrow St","",-31.8467484683,115.9690926640,2
 0,,23641,23641,"Flinders Av After Cook Av","",-31.8087704690,115.7427417060,3
 0,,23649,23649,"Brockway Rd Before Alfred Rd","",-31.9681529201,115.7916900420,1
+0,,23656,23656,"Collis Rd Before Mortimer St","Collis Rd / Mortimer St",-32.16489722222220,115.814432222222,3
 0,,23658,23658,"Mainsail Tce Before Spearwood Av","",-32.1237818879,115.8075234920,3
 0,,23661,23661,"Pinetree Gully Rd Before Agincourt Dr","Willetton Senior High Sch",-32.0592584295,115.8794184770,2
 0,,23662,23662,"Mcmillan St After Berwick St","",-31.9798108323,115.8919581060,1
@@ -11032,7 +11032,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26534,26534,"Stillwater Dr Stand 1","Baldivis Secondary College",-32.33524722222220,115.827842222222,5
 0,,26535,26535,"Stillwater Dr Stand 2","Baldivis Secondary College",-32.3350907877,115.8277507710,5
 0,,26538,26538,"Dandaragan Dr Before Moora Cl","",-32.6256648521,115.6292898450,9
-0,,26539,26539,"Third Av Stand 1","Governor Stirling Senior High School",-31.8902676901,115.9903192710,2
+0,,26539,26539,"Third Av Stand 2","Governor Stirling Senior High School",-31.8902676901,115.9903192710,2
+0,,26540,26540,"Third Av Stand ","Governor Stirling Senior High School",-31.8905600776,115.9903924550,2
 0,,26565,26565,"Warnbro Sound Av After Aurea Bvd","",-32.419570,115.760822777778,6
 0,,26566,26566,"Warnbro Sound Av After Aurea Bvd","",-32.4190472222221970,115.76090499999999,6
 0,,26567,26567,"Champion Dr Before Keira St","",-32.1316057855,116.0028739880,3
@@ -11631,6 +11632,10 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27562,27562,"Connolly Dr After Geoff Russell Av","",-31.71670388888890,115.739120555556,4
 0,,27563,27563,"Macnaughton Cr After Lochnagar Wy","",-31.713715,115.743482222222,4
 0,,27564,27564,"Macnaughton Cr Before Selkirk Dr","",-31.71659666666660,115.743063333333,4
+0,,27565,27565,"Aubin Grove Stn Stand 1","Aubin Grove Stn",-32.15564444444440,115.856193333333,3
+0,,27566,27566,"Aubin Grove Stn Stand 2","Aubin Grove Stn",-32.15564555555560,115.856001111111,3
+0,,27567,27567,"Aubin Grove Stn Stand 3","Aubin Grove Stn",-32.15564444444440,115.855818333333,3
+0,,27568,27568,"Aubin Grove Stn Stand 4","Aubin Grove Stn",-32.15564888888890,115.855610,3
 0,,27569,27569,"Burswood Rd After Teddington Rd","",-31.96729333333330,115.895460555556,1
 0,,27570,27570,"Burswood Rd After Leigh St","",-31.96416444444450,115.898598333333,1
 0,,27571,27571,"Laverton Cr Stand 1","",-32.128380,115.933208888889,3
@@ -11658,6 +11663,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27594,27594,"Doust St After Mills St","",-32.00869944444450,115.927423888889,2
 0,,27596,27596,"Ashburton St After Boulder St","",-32.004490,115.915914444444,1
 0,,27597,27597,"Ashburton St Before Boulder St","",-32.00425611111110,115.916023888889,1
+0,,27609,27609,"Collis Rd After Mortimer St","Collis Rd / Mortimer St",-32.16590333333330,115.814131111111,3
 0,,27610,27610,"Honeywood Av Before Litoria Dr","Honeywood Av / Darling Ch",-32.19843444444440,115.861543333333,4
 0,,27611,27611,"Honeywood Av Before Mornington Cr","",-32.19551888888890,115.860678888889,4
 0,,27614,27614,"Pebble Beach Bvd After Longmeadow Vista","",-32.49018444444440,115.762746666667,7
@@ -11666,6 +11672,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27621,27621,"Soldiers Rd After Abernethy Road","",-32.22231388888890,116.007146111111,4
 0,,27622,27622,"Doley Rd After Anzac Cr","",-32.22474833333330,115.986387777778,4
 0,,27623,27623,"Doley Rd After Gallant Turn","",-32.22510333333330,115.986588888889,4
+0,,27624,27624,"Third Av Stand 1","Governor Stirling Senior High School",-31.88988277777780,115.990353333333,2
+0,,27625,27625,"Kingaroy Dr After Nairn Dr","",-32.32025388888890,115.811556111111,5
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce",-28.7734316666666990,114.612454444444,1
 0,,70003,70003,"Chapman Rd Before Mark St","",-28.76018222222220,114.615859444444,1
@@ -11913,7 +11921,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,70493,70493,"Bussell Hwy After Hadfield Av","",-33.65975333333330,115.298051111111,1
 0,,70494,70494,"Bussell Hwy After Barnard Rd","Bussell Hwy / Barnard Rd",-33.65993222222220,115.291039444444,1
 0,,70500,70500,"Caves Rd After Bussell Hwy","",-33.6602622222222010,115.254591666667,1
-0,,70501,70501,"Seymour Bvd  Before Dunn Bay Rd","Seymour Bvd / Dunn Bay Rd",-33.61670722222220,115.107833888889,3
+0,,70501,70501,"Seymour Bvd Before Dunn Bay Rd","Seymour Bvd / Dunn Bay Rd",-33.61634166666660,115.108136111111,3
 0,,70502,70502,"Dunn Bay Rd After Hannay L","Dunn Bay Rd / Lorna St",-33.61445166666660,115.109617222222,3
 0,,70503,70503,"North St Before High View Rd","North St / High View Rd",-33.6017844444443980,115.104302777778,3
 0,,70504,70504,"Greenacre Rd After Naturaliste Tce","",-33.61297222222220,115.105089444444,3
@@ -12002,7 +12010,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,70589,70589,"Seymour St After Court St","",-33.65561833333330,115.333459444444,1
 0,,70590,70590,"Seymour St After Abbey St ","",-33.65554055555560,115.333380,1
 0,,70591,70591,"Abbey St After Bussell Hwy","",-33.65575055555560,115.331015555556,1
-0,,70592,70592,"Seymour Bvd  After Dunn Bay Rd","Seymour Bvd / Dunn Bay Rd",-33.61657944444440,115.108036666667,3
+0,,70592,70592,"Seymour Bvd After Dunn Bay Rd","Seymour Bvd / Dunn Bay Rd",-33.61660222222220,115.108141666667,3
 0,,70593,70593,"Bussell Hwy Opposite Abbey Beach Resort","",-33.66036222222220,115.274428888889,1
 0,,70595,70595,"Bussell Hwy After Cambridge Bvd","Bussell Hwy / Cambridge Bvd",-33.66108111111110,115.261232777778,1
 0,,70596,70596,"Gifford Rd After Gibney St","",-33.602550,115.102236111111,3
@@ -12986,7 +12994,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,73420,73420,"Orchid Dr Before Erica Ent","",-33.34583777777780,115.683847777778,1
 0,,73421,73421,"Scarlet Dr Before Temandra Wy","",-33.34141222222220,115.682935,1
 0,,73428,73428,"Access Rd Bunbury Catholic College Australind","Bunbury Catholic College Australind",-33.26969222222220,115.746495,2
-0,,73430,73430,"Hospital Access Rd Nickol Bay Hospital","Nickol Bay Hospital",-20.74627722222220,116.818395,1
+0,,73430,73430,"Hospital Access Rd Nickol Bay Hospital","Nickol Bay Hospital",-20.74664722222220,116.818601666667,1
 0,,73431,73431,"Carse St Before Mulga Way","Wickham Recreation Precinct",-20.67842333333330,117.142179444444,4
 0,,73432,73432,"Hospital Access Rd Nickol Bay Hospital","Nickol Bay Hospital",-20.74613166666670,116.818432222222,1
 0,,73434,73434,"Boor St Mungullah Village","Mungullah Village",-24.873885,113.692769444444,1
@@ -13437,8 +13445,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,95289,95289,"South Western Hwy To Newlands","",-33.66832611111110,115.875973888889,5
 0,,95290,95290,"Geographe Bay Rd From Quindalup","",-33.6240109287873990,115.122462921657,3
 0,,95291,95291,"Geographe Bay Rd To Quindalup","",-33.6238594007950980,115.12244969951399,3
-0,,95292,95292,"Seymour Bvd From Dunsborough","Dunsborough",-33.6166734391956010,115.10799889058001,3
-0,,95293,95293,"Seymour Bvd To Dunsborough","Dunsborough",-33.6167971140484030,115.107805696977,3
+0,,95292,95292,"Seymour Bvd From Dunsborough","Dunsborough",-33.61638222222220,115.108121111111,3
+0,,95293,95293,"Seymour Bvd To Dunsborough","Dunsborough",-33.61578777777780,115.108306111111,3
 0,,95294,95294,"Caves Rd From Yallingup","Yallingup",-33.64677637369860,115.03415468419399,4
 0,,95295,95295,"Caves Rd To Yallingup","Yallingup",-33.6468682924341990,115.033885837809,4
 0,,95296,95296,"Transwa Bay Gracetown T/O","",-33.8582354133007970,115.021128026897,5
@@ -13694,6 +13702,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,96,99652,99652,"Murdoch Stn Platform 2","Murdoch Stn",-32.0664566666667030,115.850506666667,2
 0,86,99661,99661,"Cockburn Stn Platform 1","Cockburn Central Stn",-32.1252161111111010,115.858292777778,3
 0,86,99662,99662,"Cockburn Stn Platform 2","Cockburn Central Stn",-32.1251972222221980,115.85832833333301,3
+0,,99671,99671,"Aubin Grove Stn Platform 1","Aubin Grove Stn",-32.1551927648,115.8578110140,3
+0,,99672,99672,"Aubin Grove Stn Platform 2","Aubin Grove Stn",-32.1551978012,115.8578771850,3
 0,93,99681,99681,"Kwinana Stn Platform 1","Kwinana Stn",-32.23505333333330,115.842505,4
 0,93,99682,99682,"Kwinana Stn Platform 2","Kwinana Stn",-32.23513833333330,115.842548888889,4
 0,101,99691,99691,"Wellard Stn Platform 1","Wellard Stn",-32.26390111111110,115.817171111111,4
