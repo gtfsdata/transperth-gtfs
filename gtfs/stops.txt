@@ -232,7 +232,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10258,10258,"Canning Hwy After North Lake Rd","",-32.0312172990,115.8145506350,2
 0,,10260,10260,"Canning Hwy After Latham St","Canning Hwy / Rome Rd",-32.0319678151,115.8111614450,2
 0,,10261,10261,"Canning Hwy After Rome Rd","",-32.0322504134,115.8080438060,2
-0,,10262,10262,"Canning Hwy Before Preston Point Rd","",-32.03237111111110,115.804648888889,2
+0,,10262,10262,"Canning Hwy Before Preston Point Rd","",-32.0323841848,115.8045523290,2
 0,,10263,10263,"Canning Hwy After Preston Point Rd","",-32.0326855919,115.8000499750,2
 0,,10264,10264,"Canning Hwy After Prinsep Rd","",-32.0336762779,115.7962293880,2
 0,,10265,10265,"Canning Hwy After Moreing Rd","",-32.0341153215,115.7944293490,2
@@ -334,7 +334,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10387,10387,"Mounts Bay Rd After Crawley Av","",-31.9750735168,115.8225672220,1
 0,,10388,10388,"Mounts Bay Rd Before Winthrop Av","University Of Wa",-31.97563777777780,115.818655555556,1
 0,,10389,10389,"Mounts Bay Rd University Of Wa","University Of Wa",-31.9759412417,115.8172675090,1
-0,,10390,10390,"Mounts Bay Rd After Fairway","University Of Wa",-31.97678666666670,115.815231666667,1
+0,,10390,10390,"Mounts Bay Rd After Fairway","University Of Wa",-31.9767866658,115.8152316670,1
 0,,10391,10391,"Stirling Hwy After Broadway","",-31.9777264811,115.8120857080,1
 0,,10392,10392,"Stirling Hwy Before Tyrell St","",-31.9782114677,115.8092603630,1
 0,,10393,10393,"Stirling Hwy Before Webster St","",-31.9786737292,115.8065504160,1
@@ -460,7 +460,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10521,10521,"Ranford Rd Before Brennan Av","Ranford Rd / Brennan Av",-32.0845917413,115.9127981210,2
 0,,10522,10522,"Ranford Rd Before Wilfred Rd","",-32.082670,115.910325555556,2
 0,,10523,10523,"Ranford Rd After Wilfred Rd","",-32.08166944444440,115.908478333333,2
-0,,10524,10524,"Ranford Rd After Waratah Bvd","",-32.07993555555560,115.904904444444,2
+0,,10524,10524,"Ranford Rd After Waratah Bvd","",-32.0798741929,115.9050117330,2
 0,,10525,10525,"Ranford Rd After Livingstone Dr","",-32.07784611111110,115.901130555556,2
 0,,10526,10526,"Ranford Rd Before Bannister Rd","",-32.07321055555550,115.894345,2
 0,,10528,10528,"South St After Beasley Rd","South St / Beasley Rd",-32.0666667448,115.8842447880,2
@@ -840,7 +840,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10938,10938,"Winterfold Rd Before Doherty Rd","Tafe North Lake Campus",-32.0745930105,115.8133932770,2
 0,,10939,10939,"Winterfold Rd Before Anglesey Dr","Tafe North Lake Campus",-32.0747187623,115.8123990230,2
 0,,10942,10942,"Winterfold Rd Before Thorsager St","",-32.0748526638,115.7971103810,2
-0,,10943,10943,"Winterfold Rd After Letchford St","Winterfold Rd / Stock Rd",-32.07482777777780,115.793352222222,2
+0,,10943,10943,"Winterfold Rd After Letchford St","Winterfold Rd / Stock Rd",-32.0748294815,115.7933991610,2
 0,,10944,10944,"Winterfold Rd Before Aberle St","",-32.0747674050,115.7897343570,2
 0,,10946,10946,"Winterfold Rd After Butson St","",-32.0747854795,115.7851341670,2
 0,,10947,10947,"Winterfold Rd After Instone St","",-32.0747966285,115.78234632,2
@@ -2473,8 +2473,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12875,12875,"Newcastle St Before Charles St","",-31.9417321979,115.8513368210,FTZ
 0,,12880,12880,"Newcastle St After Beaufort St","",-31.9476512410,115.8642980640,FTZ
 0,,12881,12881,"Newcastle St Before Pier St","",-31.9485151251,115.8661115550,FTZ
-0,,12883,12883,"Newcastle St After Lord St","",-31.9494103480,115.8677665710,FTZ
-0,,12885,12885,"Newcastle St After Pier St","",-31.9484198598,115.8656475150,FTZ
 0,,12890,12890,"Newcastle St After Charles St","",-31.9415733460,115.8506706120,FTZ
 0,,12891,12891,"Newcastle St After Cleaver St","",-31.9399340228,115.8470809180,FTZ
 0,,12892,12892,"Newcastle St After Loftus St","",-31.93845722222220,115.843902222222,1
@@ -6554,7 +6552,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,18129,18129,"Lithgow Dr Before Renshaw Bvd","",-31.6816532119,115.7184514930,4
 0,,18130,18130,"Lithgow Dr After Renshaw Bvd","",-31.6816024043,115.7185016440,4
 0,,18131,18131,"Lithgow Dr After Durrington Gld","",-31.6834072214,115.7192470670,4
-0,,18132,18132,"Lithgow Dr After Crouch Vsta","",-31.6865051947,115.7194140250,4
+0,,18132,18132,"Lithgow Dr After Crouch Vsta","",-31.68663611111110,115.719383888889,4
 0,,18135,18135,"Ocean Keys Bvd After Ebb Wy","",-31.6895870712,115.7183865910,4
 0,,18136,18136,"Ocean Keys Bvd After Key Largo Dr","",-31.6896418008,115.7174067860,4
 0,,18137,18137,"Renshaw Bvd After Hester Av","",-31.6764513087,115.7158729030,4
@@ -7883,7 +7881,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,19798,19798,"Winterfold Rd After Instone St","",-32.0746865141,115.7834614610,2
 0,,19799,19799,"Winterfold Rd Before Davon St","",-32.07466166666670,115.786915,2
 0,,19801,19801,"Winterfold Rd Before Redmond Rd","",-32.0746655660,115.7897363980,2
-0,,19802,19802,"Winterfold Rd After Stock Rd","Winterfold Rd / Stock Rd",-32.0746402520,115.7933728260,2
+0,,19802,19802,"Winterfold Rd After Stock Rd","Winterfold Rd / Stock Rd",-32.0746377264,115.7933466260,2
 0,,19805,19805,"Redmond Rd After Burridge Wy","",-32.0798284972,115.7904850970,2
 0,,19806,19806,"Healy Rd Before Arthur Rd","",-32.0792871451,115.7876158420,2
 0,,19807,19807,"Healy Rd Before Frederick Rd","",-32.0790088371,115.7849710330,2
@@ -11350,8 +11348,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27091,27091,"Safety Bay Rd After Baldivis Rd","",-32.332670,115.819427222222,5
 0,137,27092,27092,"Perth Busport  Stand 1","Perth Busport",-31.94982666666670,115.856288333333,FTZ
 0,,27095,27095,"Marangaroo Dr After Mereworth Wy","",-31.83261222222220,115.826157777778,2
-0,,27098,27098,"Joseph Banks Bvd Stand 1","Joseph Banks Secondary College",-31.69675666666670,115.798301111111,4
-0,,27099,27099,"Joseph Banks Bvd Stand 2","Joseph Banks Secondary College",-31.69708388888890,115.798293333333,4
+0,,27098,27098,"Joseph Banks Bvd Stand 1","Joseph Banks Secondary College",-31.69690944444440,115.798310555556,4
+0,,27099,27099,"Joseph Banks Bvd Stand 2","Joseph Banks Secondary College",-31.69713555555560,115.798298333333,4
 0,,27100,27100,"Meares Av After Chisham Av","",-32.24462555555560,115.817038333333,4
 0,,27101,27101,"Meares Av Before Chisham","",-32.24482555555560,115.816932777778,4
 0,84,27102,27102,"Cannington Stn Stand 7","Cannington Stn",-32.01451166666670,115.945806111111,2
@@ -11676,6 +11674,10 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27625,27625,"Kingaroy Dr After Nairn Dr","",-32.32025388888890,115.811556111111,5
 0,,27626,27626,"Parry St After Lord St","",-31.94840333333330,115.868372222222,FTZ
 0,,27627,27627,"Parry St After Pier St","",-31.94744333333340,115.866282777778,FTZ
+0,,27628,27628,"Manning Rd After Bungaree Rd","",-32.01298944444440,115.905297777778,1
+0,,27629,27629,"Manning Rd Before Dumond St","",-32.01281277777780,115.907893333333,1
+0,,27630,27630,"Manning Rd Before Bungaree Rd","",-32.01318166666660,115.905428333333,1
+0,,27631,27631,"Manning Rd After Ellis St","",-32.013035,115.907654444444,1
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce",-28.7734316666666990,114.612454444444,1
 0,,70003,70003,"Chapman Rd Before Mark St","",-28.76018222222220,114.615859444444,1
@@ -13210,7 +13212,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,73864,73864,"Sutherland St Before Stevens St","",-20.30856388888890,118.604536111111,2
 0,,73865,73865,"Sutherland St After Stevens St","",-20.30866388888890,118.604545,2
 0,,73869,73869,"Caves Rd After Kooringal Rtt","",-33.64657166666670,115.189048333333,2
-0,131,73870,73870,"Caves Rd After Kooringal Rtt","",-33.646905,115.190533333333,2
+0,,73870,73870,"Caves Rd After Kooringal Rtt","",-33.646905,115.190533333333,2
 0,,73871,73871,"Seymour Bvd After Dunn Bay Rd","Seymour Bvd / Dunn Bay Rd",-33.61574888888890,115.108286111111,3
 0,,73872,73872,"Dunsborough Lakes Dr After Diamante Bvd","",-33.63381222222220,115.110724444444,3
 0,,95000,95000,"Armadale Stn Armadale 1","Armadale (Rail)",-32.15377166666670,116.012988333333,4
@@ -13464,7 +13466,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,95296,95296,"Transwa Bay Gracetown T/O","",-33.8582354133007970,115.021128026897,5
 0,,95297,95297,"Cowaramup Bay Rd From Cowaramup T/O","",-33.8659223903526010,115.09462342420601,4
 0,,95298,95298,"Cowaramup Bay Rd To Cowaramup T/O","",-33.8660717533401010,115.094592614381,4
-0,,95299,95299,"Charles West Av Margaret River","Margaret River",-33.9500324225315990,115.072735203563,5
+0,,95299,95299,"Charles West Av Margaret River","Margaret River",-33.9503779038,115.0728480850,5
 0,,95300,95300,"Bussell Hwy From Witchcliffe","",-34.0255931969050990,115.100225578642,6
 0,,95301,95301,"Bussell Hwy To Witchcliffe","",-34.0256265245900020,115.0999961330,6
 0,,95302,95302,"Transwa Bay Karridale","Karridale",-34.2010495378624030,115.100139218723,7
