@@ -1200,7 +1200,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11370,11370,"Walter Rd After Fifth Av","",-31.8948307833,115.9527933510,2
 0,,11371,11371,"Walter Rd After Third Av","",-31.8948254806,115.9503018190,2
 0,,11372,11372,"Walter Rd Before Ivanhoe St","",-31.8948271388,115.9468528650,2
-0,,11373,11373,"Walter Rd Before Mickleton Tce","",-31.89482111111110,115.936038333333,2
+0,,11373,11373,"Walter Rd Before Mickleton Tce","",-31.8948142785,115.9360450390,2
 0,,11374,11374,"Walter Rd After Rugby St","",-31.8948463991,115.9322222030,2
 0,,11375,11375,"Walter Rd After Grey St","",-31.8948359261,115.92685552,2
 0,,11376,11376,"Walter Rd After Embleton Av","",-31.8948123907,115.9159660890,2
@@ -5684,7 +5684,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,16998,16998,"Mandurah Rd After Watersun Dr","",-32.5013934352,115.7431223790,7
 0,,16999,16999,"Old Coast Rd After Peelwood Pde","",-32.5525383850,115.6999321460,8
 0,,17000,17000,"Old Coast Rd After Bower Dr","Old Coast Rd / Casuarina Dr",-32.5574517862,115.6926849950,8
-0,,17002,17002,"Old Coast Rd After Dorothy Av","Old Coast Rd / Dorothy Av",-32.5665908407,115.6791587870,8
+0,,17002,17002,"Old Coast Rd After Dorothy Av","Old Coast Rd / Dorothy Av",-32.56658055555560,115.679142222222,8
 0,,17003,17003,"Old Coast Rd After Loton Rd","",-32.6286374232,115.6388650210,9
 0,,17004,17004,"Old Coast Rd After Dawseville Rd","",-32.6348949276,115.63839602,9
 0,,17005,17005,"Old Coast Rd Before Wilderness Dr","Old Coast Rd / Wilderness Dr",-32.6368571210,115.63885165,9
@@ -6018,7 +6018,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,17442,17442,"The Boulevard   After Linden Gdns","",-31.9363415038,115.7978437230,1
 0,,17444,17444,"Lissadell St After The Boulevard","",-31.9376036833,115.7986515920,1
 0,,17445,17445,"Lissadell St Before Cambridge St","",-31.9404688507,115.7986659020,1
-0,,17446,17446,"Lissadell St Before Newry St","",-31.9401000000000010,115.798534444444,1
+0,,17446,17446,"Lissadell St Before Newry St","",-31.9401,115.798534444444,1
 0,,17447,17447,"Lissadell St After Orrel Av","",-31.93795277777780,115.798557777778,1
 0,,17448,17448,"Selby St Before Herdsman Pde","",-31.93353611111110,115.804028888889,1
 0,,17449,17449,"Grantham St Before Daglish St","Grantham St / Daglish St",-31.9344323684,115.8192160160,1
@@ -6500,7 +6500,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,18064,18064,"Marmion Av After Coral St","",-31.7917905087,115.7547909590,3
 0,,18065,18065,"Marmion Av After Cygnet St","",-31.7940348279,115.7543593310,3
 0,,18066,18066,"Marmion Av After Whitfords Av","Whitfords Shopping Ctr / Marmion Av",-31.7977207227,115.7541145610,3
-0,,18072,18072,"Marmion Av After Hepburn Av","",-31.8184521619,115.7609094270,3
+0,,18072,18072,"Marmion Av After Hepburn Av","",-31.81753111111110,115.760867222222,3
 0,,18073,18073,"Marmion Av After Gilbert Rd","",-31.8210878726,115.7611826080,3
 0,,18074,18074,"Marmion Av Before Readshaw Rd","",-31.82393991,115.7614666880,3
 0,,18075,18075,"Marmion Av After Readshaw Rd","",-31.8261039564,115.7619984110,3
@@ -6525,7 +6525,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,18096,18096,"Peninsula Av After Diemen Ct","",-31.7647573355,115.7557274490,3
 0,,18097,18097,"Admiral Gr After Sloop Pl","",-31.7660182743,115.7613754810,3
 0,,18098,18098,"Ocean Reef Rd Before Venturi Dr","",-31.77103777777780,115.738552777778,3
-0,,18099,18099,"Ocean Reef Rd After Tiller Rd","",-31.7714364190,115.7459346950,3
+0,,18099,18099,"Ocean Reef Rd After Tiller Rd","",-31.77124833333330,115.746107222222,3
 0,,18100,18100,"Ocean Reef Rd Before Marmion Av","",-31.7704064298,115.7500861110,3
 0,,18101,18101,"Ocean Reef Rd After Eddystone Av","Eddystone Av / Ocean Reef Rd",-31.7705396868,115.7692771880,3
 0,,18108,18108,"Ocean Reef Rd Before Marybrook Rd","Eddystone Av / Ocean Reef Rd",-31.77150166666670,115.770331666667,3
@@ -6548,7 +6548,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,18125,18125,"Delgado Pde After Venice Ent","",-31.7283918814,115.7311658050,4
 0,,18126,18126,"Anchorage Dr After Rio Marina Wy","Anchorage Dr / Marmion Av",-31.6941533617,115.7137619940,4
 0,,18127,18127,"Lithgow Dr After Belleville Gdns","",-31.6864623267,115.71932958,4
-0,,18128,18128,"Lithgow Dr Before Mcpherson Av","",-31.6837817126,115.7192729120,4
+0,,18128,18128,"Lithgow Dr Before Mcpherson Av","",-31.6839340371,115.7193176430,4
 0,,18129,18129,"Lithgow Dr Before Renshaw Bvd","",-31.6816532119,115.7184514930,4
 0,,18130,18130,"Lithgow Dr After Renshaw Bvd","",-31.6816024043,115.7185016440,4
 0,,18131,18131,"Lithgow Dr After Durrington Gld","",-31.6834072214,115.7192470670,4
@@ -6586,7 +6586,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,18170,18170,"Quinns Rd After Bennett Rd","",-31.6760289787,115.7024230680,4
 0,,18171,18171,"Baltimore Pde After Palermo Ct","",-31.6717870095,115.7156724130,4
 0,,18172,18172,"Baltimore Pde Before Jenolan Wy","Merriwa Plaza Shopping Ctr",-31.66963388888890,115.714858333333,4
-0,,18173,18173,"Baltimore Pde Merriwa Primary School","",-31.6680856205,115.7137577960,4
+0,,18173,18173,"Baltimore Pde Merriwa Primary School","",-31.6680724284,115.71377320,4
 0,,18174,18174,"Baltimore Pde After Tenby Cl","",-31.6645461677,115.7128576530,4
 0,,18175,18175,"Hughie Edwards Dr After Seagrove Bvd","",-31.65797833333330,115.709972777778,4
 0,,18176,18176,"Hughie Edwards Dr Before Davilak Av","",-31.6582740517,115.70819001,4
@@ -6594,7 +6594,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,18178,18178,"Hughie Edwards Dr After Dalvik Av","Raaf Village Merriwa",-31.6583985759,115.7077934890,4
 0,,18179,18179,"Hughie Edwards Dr After Dalvik Av","Hughie Edwards Dr / Marmion Av",-31.6595163840,115.7064692550,4
 0,,18180,18180,"Baltimore Pde Before Tenby Cl","",-31.6647132870,115.7128102750,4
-0,,18181,18181,"Baltimore Pde After Greyhound Dr","",-31.6679692011,115.7138606920,4
+0,,18181,18181,"Baltimore Pde After Greyhound Dr","",-31.6679614537,115.7138545210,4
 0,,18182,18182,"Baltimore Pde After Jenolan Wy","Merriwa Plaza Shopping Ctr",-31.66983055555560,115.715056111111,4
 0,,18183,18183,"Baltimore Pde Before Palermo Ct","",-31.6717630407,115.7157949040,4
 0,,18186,18186,"Ridgewood Bvd After Hester Av","Ridgewood Bvd / Vanderlin Cr",-31.6684205555555990,115.72558055555599,4
@@ -7139,7 +7139,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,18824,18824,"West Coast Dr Before Clontarf St","",-31.8350730877,115.7491699250,2
 0,,18825,18825,"West Coast Dr After High St","",-31.8370176679,115.7497940250,2
 0,,18833,18833,"West Coast Hwy After Pearl Pde","",-31.8899192011,115.7577005960,2
-0,,18834,18834,"West Coast Hwy Before Brighton Rd","",-31.8971149992,115.7583221480,2
 0,,18835,18835,"West Coast Hwy After Brighton Rd","",-31.9014470496,115.7584678750,2
 0,,18856,18856,"West Coast Hwy After Brighton Rd","",-31.8970434012,115.7580774050,2
 0,,18857,18857,"West Coast Hwy After Manning St","Scarborough Beach",-31.891545,115.757418333333,2
@@ -7378,7 +7377,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,19117,19117,"Dorothy St After Eudoria St","",-32.0764822716,115.9969503290,3
 0,,19118,19118,"Dorothy St After Terence St","",-32.0746390910,115.9991713770,3
 0,,19119,19119,"Eudoria St After King St","",-32.0713596953,115.9875218610,3
-0,,19120,19120,"Eudoria St After Webb St","",-32.0727931565,115.98920334,3
+0,,19120,19120,"Eudoria St After Webb St","",-32.07280111111110,115.989199444444,3
 0,,19121,19121,"Eudoria St Before Stalker","",-32.0757720947,115.99271075,3
 0,,19127,19127,"Eudoria St After Walter St","",-32.0736454097,115.9900326630,3
 0,,19128,19128,"King St After Ospringe St","",-32.0736948465,115.9840188530,3
@@ -8415,7 +8414,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,20496,20496,"Spencer Rd After Regal Dr","",-32.0641276824,115.9691770180,2
 0,,20497,20497,"Spencer Rd After Warton Rd","Spencer Rd / Warton Rd",-32.0655976722,115.9702118560,2
 0,,20498,20498,"Spencer Rd Before Grenadier Dr","",-32.0622609068,115.9672149810,2
-0,,20499,20499,"Spencer Rd After Glyndebourne Av","",-32.06032888888890,115.965503888889,2
+0,,20499,20499,"Spencer Rd After Glyndebourne Av","",-32.06030666666670,115.965517222222,2
 0,,20500,20500,"Spencer Rd After Hume Rd","Thornlie Square Shop Ctr",-32.0569861030,115.9623165140,2
 0,,20501,20501,"Spencer Rd After Sandon Rd","",-32.05497581,115.9605268970,2
 0,,20502,20502,"Spencer Rd After Berehaven Av","",-32.0532090354,115.9589544470,2
@@ -8475,7 +8474,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,20569,20569,"Langford Av After Southgate Rd","",-32.0424930628,115.9382144060,2
 0,,20570,20570,"Langford Av Before Southgate Rd","",-32.0412416560,115.9368021830,2
 0,,20571,20571,"Langford Av Before Nicholson Rd","Langford Av / Nicholson Rd",-32.0397047136,115.9346838660,2
-0,,20584,20584,"Wilfred Rd After Lyrebird Wy","",-32.04503666666660,115.950152777778,2
+0,,20584,20584,"Wilfred Rd After Lyrebird Wy","",-32.04502833333330,115.950160555555,2
 0,,20585,20585,"Wilfred Rd Before Emu St","",-32.0466644007,115.9475909620,2
 0,,20586,20586,"Wilfred Rd After Emu St","",-32.0479354346,115.9460193330,2
 0,,20587,20587,"Wilfred Rd After Oriole Wy","",-32.0495921521,115.9439957320,2
