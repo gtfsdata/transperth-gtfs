@@ -2358,7 +2358,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12734,12734,"Cambridge St After Daglish St","",-31.9408259184,115.8178257090,1
 0,,12735,12735,"Cambridge St After Essex St","Cambridge St / Essex St",-31.9408332619,115.8154690020,1
 0,,12736,12736,"Cambridge St After Pangbourne St","",-31.9408437905,115.8125767060,1
-0,,12737,12737,"Cambridge St After Simper St","Cambridge St / Marlow St",-31.9408588713,115.8084701020,1
+0,,12737,12737,"Cambridge St Before Marlow St","Cambridge St / Marlow St",-31.9408588713,115.8084701020,1
 0,,12739,12739,"Cambridge St Before Selby St","",-31.9408726255,115.80463523,1
 0,,12740,12740,"Cambridge St After Selby St","",-31.9408675312,115.8020383720,1
 0,,12741,12741,"Cambridge St After Birkdale St","",-31.9408646996,115.7989178930,1
@@ -2385,7 +2385,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12765,12765,"Cambridge St Before Lissadell St","",-31.9407352448,115.7981158420,1
 0,,12766,12766,"Cambridge St After Birkdale St","",-31.9407382247,115.8020162110,1
 0,,12767,12767,"Cambridge St Before Selby St","",-31.9407273442,115.8035574550,1
-0,,12768,12768,"Cambridge St Before Simper St","Cambridge St / Marlow St",-31.9407044167,115.80826955,1
+0,,12768,12768,"Cambridge St After Marlow St","Cambridge St / Marlow St",-31.9407044167,115.80826955,1
 0,,12770,12770,"Cambridge St After Jersey St","",-31.9407071675,115.8125887540,1
 0,,12771,12771,"Cambridge St After Holland St","",-31.9407060968,115.8143558240,1
 0,,12773,12773,"Cambridge St After Mckenzie St","",-31.9406956371,115.8182299460,1
@@ -2491,7 +2491,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12915,12915,"Wellington St Wellington Squ R4 / Y9","Wellington Square",-31.95634888888890,115.873418888889,FTZ
 0,,12917,12917,"Wellington St Hill Street Yellow Cat 10","",-31.9558188339,115.8717824310,FTZ
 0,,12919,12919,"Wellington St Lord St Yellow Cat 11","Wellington St / Lord St",-31.9548616390,115.8688458910,FTZ
-0,119,12920,12920,"Wellington St Royal Perth Hospital Y12","",-31.9538199391,115.8656424980,FTZ
+0,119,12920,12920,"Wellington St Royal Perth Hospital Y12","",-31.953820,115.865642222222,FTZ
 0,120,12923,12923,"Wellington St Western Power Yellow Cat 13","Wellington St / Pier St South",-31.9526034799,115.8619374520,FTZ
 0,,12924,12924,"Wellington St Forrest Place R10 / Y14","Wellington St / Forrest Pl",-31.9516360671,115.8591222040,FTZ
 0,,12927,12927,"Wellington St After George St","",-31.9483703668,115.8489534840,FTZ
@@ -5677,7 +5677,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,16978,16978,"Kalamunda Rd Before Adelaide St","",-31.9190780989,115.9805920130,2
 0,,16979,16979,"Kalamunda Rd After Adelaide St","",-31.9190973143,115.9801095560,2
 0,,16980,16980,"South Tce Fremantle Markets","",-32.0563233206,115.7488481990,2
-0,,16994,16994,"Mandurah Rd Before Madora Beach Rd","",-32.46630944444440,115.759876111111,7
+0,,16994,16994,"Mandurah Rd Before Madora Beach Rd","",-32.4704993493,115.7590821870,7
 0,,16995,16995,"Mandurah Rd Before Karinga Rd","",-32.4882520982,115.7498081650,7
 0,,16996,16996,"Mandurah Rd After Karinga Rd","Meadow Springs Shop Ctr",-32.4905089985,115.7483630510,7
 0,,16997,16997,"Mandurah Rd After Meadow Springs Dr","Mandurah Rd / Meadow Springs Dr",-32.4944564108,115.7458178960,7
@@ -6111,6 +6111,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,17582,17582,"Broadway   After Edward St","",-31.9808498931,115.8146010750,1
 0,,17583,17583,"Broadway   Before Myers St","",-31.9822177241,115.8146007110,1
 0,,17584,17584,"Broadway   Before Caporn St","",-31.9840331516,115.81460730,1
+0,,17585,17585,"Broadway   After Princess Rd","Princess Rd / Broadway",-31.9868805513,115.8146431060,1
+0,,17586,17586,"Broadway   After Hillway","Princess Rd / Broadway",-31.98689666666670,115.814468333333,1
 0,,17587,17587,"Broadway   After Princess Rd","",-31.98487388888890,115.814461666667,1
 0,,17588,17588,"Broadway   After Elizabeth St","",-31.98293055555560,115.814460,1
 0,,17589,17589,"Broadway   Before Edward St","",-31.9809621687,115.8144427780,1
@@ -6436,7 +6438,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,17998,17998,"Marmion Av After Anchorage Dr","Marmion Av / Anchorage Dr",-31.67415944444450,115.710584444444,4
 0,,17999,17999,"Marmion Av After Quinns Rd","",-31.6700943679,115.7085209040,4
 0,,18000,18000,"Marmion Av Before Santa Barbara Pde","",-31.6660544512,115.7065250560,4
-0,,18003,18003,"Marmion Av After Hughie Edwards Dr","",-31.6584840853,115.7050072040,5
+0,,18003,18003,"Marmion Av After Hughie Edwards Dr","",-31.65887444444450,115.705159444444,5
 0,,18004,18004,"Yanchep Beach Rd After Welwyn Av","",-31.5471363972,115.6420695980,6
 0,,18005,18005,"Yanchep Beach Rd Before Welwyn Av","",-31.5470616817,115.64136635,6
 0,,18006,18006,"Golf Links Dr After Balladong Loop","",-31.7079898312,115.7773048450,4
@@ -6578,7 +6580,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,18168,18168,"Quinns Rd After Simpson St","",-31.6764767532,115.6994779140,4
 0,,18169,18169,"Quinns Rd After Seaham Wy","",-31.6763920552,115.6995628550,4
 0,,18170,18170,"Quinns Rd After Bennett Rd","",-31.6760289787,115.7024230680,4
-0,,18171,18171,"Baltimore Pde After Palermo Ct","",-31.6717870095,115.7156724130,4
+0,,18171,18171,"Baltimore Pde After Palermo Ct","",-31.67260555555550,115.716366111111,4
 0,,18172,18172,"Baltimore Pde Before Jenolan Wy","Merriwa Plaza Shopping Ctr",-31.66963388888890,115.714858333333,4
 0,,18173,18173,"Baltimore Pde Merriwa Primary School","",-31.6680724284,115.71377320,4
 0,,18174,18174,"Baltimore Pde After Tenby Cl","",-31.6645461677,115.7128576530,4
@@ -6995,7 +6997,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,18677,18677,"Dorchester Av Before Millport Dr","",-31.8381672214,115.8008367440,2
 0,,18678,18678,"Dorchester Av Before Ballantine Rd","",-31.8404585439,115.8026559020,2
 0,,18679,18679,"Dorchester Av After Badrick St","",-31.8423515250,115.8053094830,2
-0,,18680,18680,"Dorchester Av Warwick Shopping Centre","Warwick Grove Shop Ctr",-31.84474444444450,115.808192777778,2
+0,,18680,18680,"Dorchester Av Warwick Shopping Centre","Warwick Grove Shop Ctr",-31.8448566589,115.80824441,2
 0,,18681,18681,"Dorchester Av After Beach Rd","",-31.8452065323,115.8081401130,2
 0,,18682,18682,"Dorchester Av Before Badrick St","",-31.8427716734,115.8058244060,2
 0,,18683,18683,"Dorchester Av After Ballantine Rd","",-31.8404074181,115.8024292940,2
@@ -7163,7 +7165,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,18890,18890,"Warwick Rd After Myrtle Av","",-31.8344152156,115.7602165160,2
 0,,18891,18891,"Warwick Rd After Myrtle Av","",-31.8345004230,115.7592015770,2
 0,,18892,18892,"Freeman Way After Marmion Av","",-31.8368409217,115.7625070490,2
-0,,18893,18893,"Freeman Way Before Keppell Rd","",-31.8367571085,115.7626985660,2
+0,,18893,18893,"Freeman Wy Before Keppell Rd","",-31.8367571085,115.7626985660,2
 0,,18894,18894,"Marine Tce After West Coast Dr","",-31.8376056420,115.7518254790,2
 0,,18895,18895,"Marine Tce After Cliff St","",-31.8376893678,115.7515083330,2
 0,,18896,18896,"Cliff St Before Lennard St","",-31.8443084169,115.7537115140,2
@@ -7181,7 +7183,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,18908,18908,"Flora Tce Before Hale St","",-31.8533656907,115.7541795610,2
 0,,18909,18909,"Flora Tce Before Castle St","",-31.8552959515,115.7541993310,2
 0,,18910,18910,"Flora Tce Before Malcolm St","",-31.8570816666667010,115.754168888889,2
-0,,18911,18911,"Flora Tce After Malcolm St","",-31.8566435917,115.7540353050,2
 0,,18912,18912,"Flora Tce After Lawley St","",-31.8542235006,115.7540666650,2
 0,,18913,18913,"Flora Tce Before Elvire St","",-31.8523132764,115.7543075090,2
 0,,18914,18914,"Flora Tce After Margaret St","",-31.8502366097,115.7548595770,2
@@ -9561,6 +9562,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,22573,22573,"Pleasant Grove Cir Plsnt Grve Stop 1","",-32.5885509312,115.6586204420,8
 0,,22574,22574,"Pleasant Grove Cir Before Bluerise Cove","",-32.5880548294,115.6613736490,8
 0,,22575,22575,"Yeedong Rd After Stepmoon St","",-32.5881055358,115.6467797340,8
+0,,22576,22576,"Old Coast Rd Before Peelwood Pde","",-32.5508319122,115.7026594180,8
 0,,22586,22586,"Glencoe Pde After Hungerford Av","",-32.5448476217,115.7017111290,8
 0,,22602,22602,"Casuarina Dr Before Honeysuckle Rmbl","",-32.5545199413,115.6918133540,8
 0,,22609,22609,"Peelwood Pde  After Mahogany Dr","",-32.54577611111110,115.696800555556,8
@@ -10386,8 +10388,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,25549,25549,"Marmion Av Before Hughie Edwards Dr","Marmion Av / Hughie Edwards Dr",-31.6605625288,115.7054012750,4
 0,,25550,25550,"Marmion Av Before Ashcott Gte","",-31.6553131008,115.7025923370,5
 0,,25551,25551,"Marmion Av After Hampshire Dr","Marmion Av / Kingsbridge Bvd",-31.6514811497,115.6981398850,5
-0,,25552,25552,"Marmion Av After Roundhouse Pde","",-31.6470318076,115.6951895240,5
-0,,25553,25553,"Marmion Av After Benenden Av","",-31.6436648714,115.6935721930,5
+0,,25552,25552,"Marmion Av After Roundhouse Pde","",-31.64744111111110,115.695388888889,5
+0,,25553,25553,"Marmion Av After Benenden Av","",-31.64316888888890,115.693360555556,5
 0,,25554,25554,"Marmion Av Before Benenden Av","",-31.6429838313,115.6935819580,5
 0,,25555,25555,"Marmion Av After Haslingfield Wy","",-31.6471455345,115.6955758340,5
 0,,25556,25556,"Marmion Av Before Hampshire Dr","Marmion Av / Kingsbridge Bvd",-31.6511184456,115.6982244850,5
@@ -11082,7 +11084,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26655,26655,"Sutherland St Sutherland St Green Cat 13","",-31.94644111111110,115.847025555556,FTZ
 0,,26656,26656,"Bus Access Rd Stand 1","Leederville Stn / Green Cat 1",-31.9398974160,115.8404061650,FTZ
 0,,26658,26658,"Mather Dr Barbagello Raceway 3","Barbagello Raceway",-31.6668322222222010,115.78710722222201,4
-0,,26659,26659,"Mather Dr Barbagello Raceway 2","Barbagello Raceway",-31.6668411111111010,115.78682055555601,4
 0,,26664,26664,"Barry Marshall Pde After Fiona Wood Rd","",-32.06858611111110,115.846583888889,2
 0,,26665,26665,"Barry Marshall Pde Before Fiona Wood Rd","",-32.06843277777780,115.846456666667,2
 0,,26667,26667,"Lord St After Charlton Wy","",-31.8190089734,115.9625478940,3
@@ -11665,6 +11666,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27640,27640,"Eucalyptus Dr Before Cooli Street","",-32.16626611111110,115.846290,3
 0,,27643,27643,"Frankland Av After Eucalyptus","",-32.1667143704,115.8424748090,3
 0,,27644,27644,"Frankland Av Before Eucalyptus Dr","",-32.1664263764,115.8423140050,3
+0,,27645,27645,"The Avenue   After Birdwood Pde","Bruce St / The Avenue",-31.99226111111110,115.811643333333,1
+0,,27646,27646,"The Avenue   Before Birdwood Pde","Bruce St / The Avenue",-31.99238333333340,115.811699444444,1
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce",-28.7734316666666990,114.612454444444,1
 0,,70003,70003,"Chapman Rd Before Mark St","",-28.76018222222220,114.615859444444,1
@@ -13242,7 +13245,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,95036,95036,"Tammin Stn Tammin 2","Tammin (Rail)",-31.6416916666666990,117.488813333333,9
 0,,95037,95037,"Tammin Stn Tammin 1","Tammin (Rail)",-31.6421538888888990,117.488855555556,9
 0,,95038,95038,"Kellerberrin Stn Kellerberrin 2","Kellerberrin (Rail)",-31.6329966666666990,117.720068888889,9
-0,,95039,95039,"Kellerberrin Stn Kellerberrin 1","Kellerberrin (Rail)",-31.6334244444444010,117.720153888889,9
+0,,95039,95039,"Kellerberrin Stn Kellerberrin 1","Kellerberrin (Rail)",-31.63342444444440,117.720153888889,9
 0,,95040,95040,"Doodlakine Stn Doodlakine 2","Doodlakine (Rail)",-31.61017277777780,117.875633888889,9
 0,,95041,95041,"Doodlakine Stn Doodlakine 1","Doodlakine (Rail)",-31.61051944444440,117.875815555556,9
 0,,95042,95042,"Hines Hill Stn Hines Hill 2","Hines Hill (Rail)",-31.5294572222221990,118.081128888889,9
@@ -13270,7 +13273,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,95102,95102,"Albany Hwy To Nth Banninster","Nth Banninster",-32.5802438888889010,116.443998888889,9
 0,,95103,95103,"Transwa Bay Crossman","Crossman",-32.7806872222221980,116.594877222222,7
 0,,95104,95104,"Transwa Bay Williams","Williams",-33.0236594444443980,116.878071666667,4
-0,,95105,95105,"Transwa Bay Lake Grace","Lake Grace",-33.1011844444443990,118.47030333333301,9
+0,,95105,95105,"Transwa Bay Lake Grace","Lake Grace",-33.10118444444440,118.470303333333,9
 0,,95106,95106,"Maley St From Newdegate","Newdegate",-33.09341111111110,119.024272222222,9
 0,,95107,95107,"Maley St To Newdegate","Newdegate",-33.09347111111110,119.024188333333,9
 0,,95108,95108,"Transwa Bay Lake King","Lake King",-33.0857388888888980,119.68849666666701,9
