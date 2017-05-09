@@ -103,7 +103,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10107,10107,"Bagot Rd Before Francis St","",-31.9504259493,115.8291186440,1
 0,,10108,10108,"Kings Park Rd After Thomas St","Kings Park Rd / Thomas St",-31.9507291562,115.8344972250,FTZ
 0,,10109,10109,"Kings Park Rd After Walker Av","",-31.9513723823,115.8364459990,FTZ
-0,,10110,10110,"Kings Park Rd Before Outram St","",-31.9518501392,115.8379195840,FTZ
 0,,10111,10111,"Kings Park Rd Before Colin St","",-31.95256277777780,115.840016666667,FTZ
 0,,10113,10113,"Kings Park Rd Havelock St Green Cat 17","Dumas House",-31.9535809163,115.8432219760,FTZ
 0,,10114,10114,"Malcolm St Harvest Tce Green Cat 18","",-31.95277333333330,115.847568333333,FTZ
@@ -3142,7 +3141,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,13795,13795,"Rooth Rd After Lesmurdie Rd","Lesmurdie Rd / Rooth Rd",-31.9993607301,116.0535368630,3
 0,,13825,13825,"Canning Rd After Ryan Wy","",-31.9988055989,116.0667416470,3
 0,,13826,13826,"Canning Rd Before Glyde Rd","",-31.9961559921,116.0665918580,3
-0,,13827,13827,"Canning Rd Before Sharyn Rd","",-31.9937305941,116.0658712460,3
 0,,13828,13828,"Canning Rd Before Lesmurdie Rd","",-31.9917348807,116.0645683140,3
 0,,13829,13829,"Canning Rd After Lesmurdie Rd","",-31.98847833333330,116.063930555556,3
 0,,13830,13830,"Canning Rd After Springdale Rd","",-31.9857205137,116.06393368,3
@@ -3157,7 +3155,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,13839,13839,"Canning Rd After Springdale Rd","",-31.9862559884,116.0640601570,3
 0,,13840,13840,"Canning Rd After Pauline Av","",-31.9891373090,116.0642006350,3
 0,,13841,13841,"Canning Rd After Lesmurdie Rd","",-31.9915566951,116.0647155210,3
-0,,13842,13842,"Canning Rd After Fletcher Rd","",-31.99311055555560,116.065542222222,3
 0,,13843,13843,"Canning Rd After Lawnbrook Rd","",-31.9963316527,116.0667343520,3
 0,,13844,13844,"Canning Rd After Myrtle St","",-31.9993210972,116.0671687370,3
 0,,13847,13847,"Banksia Rd Before Godfrey St","Banksia Rd / Godfrey St",-31.9953595263,116.0705387610,3
@@ -8716,9 +8713,11 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,20916,20916,"Eagle Dr Before Wessex Rd","",-32.0945599693,115.8778732770,2
 0,,20918,20918,"Berrigan Dr Before Lakes Wy","",-32.0942489553,115.8615610510,2
 0,,20919,20919,"Berrigan Dr After Glendale Cr","",-32.1006486819,115.8600569780,2
+0,,20920,20920,"Berrigan Dr Before Jandakot Rd","",-32.1057555469,115.8602826460,2
 0,,20921,20921,"Berrigan Dr Before Turnbury Park Dr","Berrigan Dr  /  Turnbury Park Dr",-32.1086492696,115.8572213720,2
 0,,20922,20922,"Berrigan Dr After Briggs St","",-32.1136388756,115.8374729350,3
 0,,20923,20923,"Berrigan Dr Before Briggs St","",-32.1135615170,115.8372637740,3
+0,,20924,20924,"Berrigan Dr After Dean Rd","",-32.1052162923,115.86031092,2
 0,,20925,20925,"Berrigan Dr Before Glendale Cr","",-32.1007012717,115.8598932780,2
 0,,20926,20926,"Berrigan Dr Before Lakes Wy","",-32.09388444444440,115.861704444444,2
 0,,20927,20927,"Berrigan Dr After Turnbury Park Dr","Berrigan Dr  /  Turnbury Park Dr",-32.1083813426,115.85710276,2
@@ -9179,13 +9178,13 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,21575,21575,"Pinjarra Rd Before George St","",-32.5347366072,115.7244404060,7
 0,,21576,21576,"Pinjarra Rd After Foulkes Pl","",-32.53476555555560,115.727928888889,7
 0,,21577,21577,"Pinjarra Rd After Randell St","Pinjarra Rd / Anstruther Rd",-32.5350639750,115.7308197330,7
-0,,21578,21578,"Pinjarra Rd After Arnold St","Mandurah Centro",-32.5369642681,115.7429006920,7
+0,,21578,21578,"Pinjarra Rd Before Arnold St","Mandurah Centro",-32.5364550772,115.7396987020,7
 0,,21579,21579,"Pinjarra Rd After Rio Grande Av","",-32.5385415782,115.7518914670,7
 0,,21580,21580,"Pinjarra Rd Before Webster Wy","",-32.5444992301,115.7694849010,7
 0,,21581,21581,"Pinjarra Rd After Webster Wy","",-32.5444560981,115.7689549820,7
 0,,21582,21582,"Pinjarra Rd Before Old Pinjarra Rd","",-32.5405016161,115.7633272610,7
 0,,21583,21583,"Pinjarra Rd After Rio Grande Av","",-32.5386210230,115.75026221,7
-0,,21584,21584,"Pinjarra Rd After Arnold St","Mandurah Centro",-32.5370532546,115.7422084710,7
+0,,21584,21584,"Pinjarra Rd After Arnold St","Mandurah Centro",-32.53671444444440,115.740312222222,7
 0,,21585,21585,"Pinjarra Rd Before Randell St","",-32.5351744542,115.7303184110,7
 0,,21586,21586,"Pinjarra Rd Before Forrest St","",-32.5349038499,115.7269104230,7
 0,,21587,21587,"Pinjarra Rd Before Sutton St","",-32.5348706133,115.7235990120,7
@@ -10642,7 +10641,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,25989,25989,"Macquarie Bvd After Leichardt Crsg","",-32.1615835382,115.8464321430,3
 0,,25990,25990,"Park Rd After Mandurah Rd","",-32.5147617548,115.7439192130,7
 0,,25991,25991,"Park Rd Before Mandurah Rd","",-32.5146306833,115.7439507840,7
-0,,25993,25993,"Jameson St Before Bent St","",-32.0172657627,115.9465532910,2
+0,,25993,25993,"Bent St Before Sevenoaks St","",-32.01723277777780,115.947373888889,2
 0,,25994,25994,"Jameson St After Bent St","",-32.0173013702,115.9463376240,2
 0,,25995,25995,"Armadale Rd After Twelfth Rd","",-32.1470801524,115.9754667230,3
 0,,25996,25996,"Armadale Rd Before Twelfth Rd","",-32.1472866658,115.9756662810,3
