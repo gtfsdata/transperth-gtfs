@@ -2472,6 +2472,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12875,12875,"Newcastle St Before Charles St","",-31.9417321979,115.8513368210,FTZ
 0,,12880,12880,"Newcastle St After Beaufort St","",-31.9476512410,115.8642980640,FTZ
 0,,12881,12881,"Newcastle St Before Pier St","",-31.9485151251,115.8661115550,FTZ
+0,,12883,12883,"Newcastle St After Lord St","",-31.9494103480,115.8677665710,FTZ
+0,,12885,12885,"Newcastle St After Pier St","",-31.9484198598,115.8656475150,FTZ
 0,,12890,12890,"Newcastle St After Charles St","",-31.9415733460,115.8506706120,FTZ
 0,,12891,12891,"Newcastle St After Cleaver St","",-31.9399340228,115.8470809180,FTZ
 0,,12892,12892,"Newcastle St After Loftus St","",-31.93845722222220,115.843902222222,1
@@ -6261,7 +6263,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,17783,17783,"Joondalup Dr   After Eddystone Av","",-31.76023444444440,115.773795555556,3
 0,,17784,17784,"Joondalup Dr Edith Cowan University","",-31.7544455555555980,115.769820,3
 0,,17785,17785,"Joondalup Dr After Kennedya Dr","Arena Joondalup",-31.7357350831,115.7639618010,4
-0,,17789,17789,"Joondalup Dr After Joondalup Dr","Joondalup Dr / Wanneroo Rd",-31.7169332256,115.7746759830,4
+0,,17789,17789,"Joondalup Dr After Burns Beach Rd","Joondalup Dr / Wanneroo Rd",-31.7169332256,115.7746759830,4
 0,,17792,17792,"Burns Beach Rd After Joondalup Dr","",-31.7186084641,115.7658053250,4
 0,,17796,17796,"Burns Beach Rd After Marmion Av","",-31.7273696867,115.7340880640,4
 0,,17797,17797,"Burns Beach Rd After Kontari Lnk","",-31.7296910748,115.7239397880,4
@@ -6310,11 +6312,11 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,17844,17844,"Lakeside Dr Before Kendrew Cr","",-31.7475756686,115.7746171660,3
 0,90,17845,17845,"Joondalup Stn Stand 1","Joondalup Stn",-31.74588888888890,115.767633888889,3
 0,90,17846,17846,"Joondalup Stn Stand 2","Joondalup Stn",-31.74572555555560,115.767636111111,3
-0,90,17847,17847,"Joondalup Stn Stand 3","Joondalup Stn",-31.74556944444440,115.767641666667,3
-0,90,17848,17848,"Joondalup Stn Stand 4","Joondalup Stn",-31.74537333333330,115.767643888889,3
+0,90,17847,17847,"Joondalup Stn Stand 3","Joondalup Stn",-31.74556944444450,115.767641666667,3
+0,90,17848,17848,"Joondalup Stn Stand 4","Joondalup Stn",-31.74537333333340,115.767643888889,3
 0,90,17849,17849,"Joondalup Stn Stand 5","Joondalup Stn",-31.74513833333330,115.767646111111,3
 0,90,17850,17850,"Joondalup Stn Stand 6","Joondalup Stn",-31.74509888888890,115.767273888889,3
-0,90,17851,17851,"Joondalup Stn Stand 7","Joondalup Stn",-31.7452911111111010,115.767266111111,3
+0,90,17851,17851,"Joondalup Stn Stand 7","Joondalup Stn",-31.74529111111110,115.767266111111,3
 0,90,17852,17852,"Joondalup Stn Stand 8","Joondalup Stn",-31.74563333333330,115.767261666667,3
 0,90,17853,17853,"Joondalup Stn Stand 9","Joondalup Stn",-31.74579611111110,115.767262222222,3
 0,,17854,17854,"Shenton Av After Grand Bvd","",-31.7400880270,115.7683750760,3
@@ -6443,7 +6445,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,18008,18008,"Golf Links Dr After Houghton Dr","Golf Links Dr / Houghton Dr",-31.7070742758,115.77994431,4
 0,,18009,18009,"Golf Links Dr Before Balladong Loop","",-31.70800444444440,115.777412222222,4
 0,,18012,18012,"Houghton Dr After Balladong Loop","",-31.7112911150,115.7827149820,4
-0,,18013,18013,"Houghton Dr After Gelnfine Wy","",-31.7086676767,115.7811301940,4
+0,,18013,18013,"Houghton Dr After Glenfine Wy","",-31.7086676767,115.7811301940,4
 0,,18014,18014,"Houghton Dr After Staunton Vale","",-31.7088797119,115.78120115,4
 0,,18015,18015,"Houghton Dr Before Minjah Cct","",-31.7113067998,115.78302096,4
 0,,18016,18016,"Selkirk Dr After Stonehaven Pde","",-31.7183876667,115.74235144,4
@@ -6592,15 +6594,15 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,18183,18183,"Baltimore Pde Before Palermo Ct","",-31.6717630407,115.7157949040,4
 0,,18186,18186,"Ridgewood Bvd After Hester Av","Ridgewood Bvd / Vanderlin Cr",-31.6684205555555990,115.72558055555599,4
 0,,18188,18188,"Ridgewood Bvd Before Vanderlin Cr","Ridgewood Bvd / Vanderlin Cr",-31.6685092264,115.7256741580,4
-0,,18208,18208,"Lukin Dr After Marmion Av","",-31.6561162847,115.7061367770,5
+0,,18208,18208,"Lukin Dr After Marmion Av","",-31.6563038506,115.7057991690,5
 0,,18209,18209,"Lukin Dr Before Marmion Av","",-31.6562995728,115.7060985630,5
 0,,18210,18210,"Bradman Dr After Tetbury Rd","Butler College",-31.6529671604,115.70677736,5
 0,,18211,18211,"Shropshire Cr After Coleford Ge","",-31.65057055555550,115.705586111111,5
 0,,18212,18212,"Shropshire Cr After Upham Br","",-31.6495255006,115.70378920,5
 0,,18213,18213,"Kingsbridge Bvd After Shropshire Rd","",-31.6480409687,115.7027721330,5
 0,,18214,18214,"Camborne Pwy After Brampton Av","",-31.6471711984,115.7014095040,5
-0,,18215,18215,"Camborne Pwy After Tollesbury Av","Camborne Pky / Tollesbury Av",-31.6465148970,115.7015570670,5
-0,,18216,18216,"Kingsbridge Bvd After Cambourne Pwy","",-31.6479989853,115.7024408910,5
+0,,18215,18215,"Camborne Pwy After Tollesbury Av","Camborne Pky / Tollesbury Av",-31.64678722222220,115.701560555556,5
+0,,18216,18216,"Kingsbridge Bvd After Cambourne Pwy","",-31.64792666666660,115.702693333333,5
 0,,18217,18217,"Shropshire Cr After Kingsbridge Bvd","",-31.6495302247,115.7038811110,5
 0,,18218,18218,"Shropshire Cr After Upham Br","",-31.6504649473,115.7054809170,5
 0,,18219,18219,"Bradman Dr After Mccormack Bvd","Butler College",-31.6539675734,115.7066831630,5
@@ -8091,7 +8093,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,20111,20111,"Tribute St After Opal Pl","",-32.0305944436,115.8995749010,2
 0,,20112,20112,"Tribute St Before Veronica St","",-32.0306872857,115.8994456140,2
 0,,20113,20113,"Fern Rd After Riverton Dr","",-32.0269517313,115.90339712,2
-0,,20114,20114,"Fern Rd After Bridge St","",-32.0245107605,115.9070323050,2
+0,,20114,20114,"Fern Rd After Bridge St","",-32.02498333333340,115.906441111111,2
 0,,20115,20115,"Fern Rd Before Watts Rd","",-32.0242883454,115.90896608,2
 0,,20116,20116,"Fern Rd After Michelle St","Fern Rd / Michelle St",-32.0224237823,115.9121568840,2
 0,,20117,20117,"Fern Rd Before Michelle St","Fern Rd / Michelle St",-32.0223997568,115.91234644,2
@@ -11667,6 +11669,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27644,27644,"Frankland Av Before Eucalyptus Dr","",-32.1664263764,115.8423140050,3
 0,,27645,27645,"The Avenue   After Birdwood Pde","Bruce St / The Avenue",-31.99226111111110,115.811643333333,1
 0,,27646,27646,"The Avenue   Before Birdwood Pde","Bruce St / The Avenue",-31.99238333333340,115.811699444444,1
+0,,27647,27647,"Fletcher Rd Before Canning Rd","",-31.99317222222220,116.064997777778,3
+0,,27648,27648,"Fletcher Rd After Canning Rd","",-31.99322388888890,116.065129444444,3
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce",-28.7734316666666990,114.612454444444,1
 0,,70003,70003,"Chapman Rd Before Mark St","",-28.76018222222220,114.615859444444,1
