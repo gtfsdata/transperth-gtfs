@@ -20,6 +20,7 @@ SCT-JCA,Transperth,http://www.transperth.wa.gov.au,Australia/Perth,en
 SCT-JOO,Transperth,http://www.transperth.wa.gov.au,Australia/Perth,en
 SCT-PCA,Transperth,http://www.transperth.wa.gov.au,Australia/Perth,en
 SCT-ROC,Transperth,http://www.transperth.wa.gov.au,Australia/Perth,en
+STR-ALB,TransAlbany,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
 STR-BBY,TransBunbury,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
 STR-BSN,TransBusselton,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
 SWA-CAN,Transperth,http://www.transperth.wa.gov.au,Australia/Perth,en
