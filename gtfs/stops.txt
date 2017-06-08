@@ -2543,7 +2543,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,13008,13008,"Seville Dr Before Morgan Rd","",-32.13401888888890,115.993172777778,3
 0,,13009,13009,"Seville Dr After Westfield Rd","",-32.1357723364,115.9911264170,3
 0,,13010,13010,"Seville Dr Before Chidzey Dr","Seville Dr / Poad St",-32.1411340348,115.9887488320,3
-0,,13011,13011,"Seville Dr Before Strawberry Dr","",-32.1439616658,115.9907247730,3
+0,,13011,13011,"Seville Dr Before Strawberry Dr","",-32.1438412994,115.9907115890,3
 0,,13012,13012,"Seville Dr Before Armadale Rd","Seville Dr / Armadale Rd",-32.1464130330,115.9909510010,3
 0,,13013,13013,"San Jacinta Rd Before Hansen Rd","",-32.1386465189,115.9793434680,3
 0,,13014,13014,"San Jacinta Rd Before Sepal Cl","",-32.1364872867,115.9810629690,3
@@ -6026,7 +6026,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,17453,17453,"Grantham St Before Simper St","",-31.9344099030,115.8095277920,1
 0,,17454,17454,"Grantham St Before Reserve St","Grantham St / Marlow St",-31.9343820291,115.8072826820,1
 0,,17455,17455,"Grantham St Before Crosby St","",-31.9343551732,115.80256044,1
-0,,17456,17456,"Grantham St Before Moray Av","",-31.93435888888890,115.800338333333,1
+0,,17456,17456,"Grantham St Before Moray Av","",-31.9343031194,115.8003993540,1
 0,,17457,17457,"Grantham St Before Linden Gdns","",-31.9343128835,115.7977856330,1
 0,,17459,17459,"Grantham St Before Linden Gdns","",-31.9341848791,115.7969597960,1
 0,,17460,17460,"Grantham St Before Berkeley Cr","",-31.9341840262,115.7991869450,1
@@ -6070,9 +6070,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,17514,17514,"Hamersley Rd After Townshend Rd","",-31.9525221142,115.8280533750,1
 0,,17515,17515,"Hamersley Rd After Chester St","",-31.9524990633,115.8260275360,1
 0,,17516,17516,"Hamersley Rd After Rupert St","",-31.9525025966,115.8245647640,1
-0,,17517,17517,"Hamersley Rd After Rupert St","",-31.9523838004,115.8253627660,1
-0,,17518,17518,"Hamersley Rd After Robinson St","",-31.9524010176,115.8270995990,1
-0,,17519,17519,"Hamersley Rd Before Thomas St","Hamersley Rd / Thomas St",-31.9524306083,115.8301652560,1
 0,6,17520,17520,"Subiaco Square Rd Subiaco Stn","Subiaco Stn",-31.9448291923,115.8244195670,1
 0,,17521,17521,"Rokeby Rd Before Hay St","",-31.9466753572,115.8241021280,1
 0,,17522,17522,"Rokeby Rd After Barker Rd","",-31.9491361111110980,115.824055,1
@@ -6438,7 +6435,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,17998,17998,"Marmion Av After Anchorage Dr","Marmion Av / Anchorage Dr",-31.67415944444450,115.710584444444,4
 0,,17999,17999,"Marmion Av After Quinns Rd","",-31.6700943679,115.7085209040,4
 0,,18000,18000,"Marmion Av Before Santa Barbara Pde","",-31.6660544512,115.7065250560,4
-0,,18003,18003,"Marmion Av After Hughie Edwards Dr","",-31.65887444444450,115.705159444444,5
+0,,18003,18003,"Marmion Av After Hughie Edwards Dr","",-31.65810111111110,115.704855,5
 0,,18004,18004,"Yanchep Beach Rd After Welwyn Av","",-31.5471363972,115.6420695980,6
 0,,18005,18005,"Yanchep Beach Rd Before Welwyn Av","",-31.5470616817,115.64136635,6
 0,,18006,18006,"Golf Links Dr After Balladong Loop","",-31.7079898312,115.7773048450,4
@@ -8395,7 +8392,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,20480,20480,"Nicholson Rd Before Woodloes St","",-32.02825555555560,115.943074444444,2
 0,,20481,20481,"Spencer Rd After Nicholson Rd","Spencer Rd / Nicholson Rd",-32.0319782545,115.9397293130,2
 0,,20482,20482,"Spencer Rd Before Ruby Av","",-32.033340,115.940975,2
-0,,20483,20483,"Spencer Rd After View Av","",-32.03510722222220,115.943458333333,2
 0,,20484,20484,"Spencer Rd After Oak Tree Ct","",-32.0377142227,115.9468541010,2
 0,,20485,20485,"Spencer Rd After Langford Av","Spencer Rd / Langford Av",-32.04040611111110,115.948944444444,2
 0,,20487,20487,"Spencer Rd After Roe Hwy","",-32.04437888888890,115.950926111111,2
@@ -8419,7 +8415,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,20508,20508,"Spencer Rd After Langford Av","Spencer Rd / Langford Av",-32.03922222222220,115.947852777778,2
 0,,20509,20509,"Spencer Rd After Oak Tree Ct","",-32.03719277777780,115.945718333333,2
 0,,20510,20510,"Spencer Rd After View Av","",-32.0347121183,115.9422915870,2
-0,,20511,20511,"Spencer Rd After Ruby Av","",-32.03353944444440,115.940786666667,2
 0,,20512,20512,"Spencer Rd Before Nicholson Rd","",-32.03223111111110,115.939606111111,2
 0,,20513,20513,"Marvell Av Before Stevenson Wy","",-32.1124857587,115.7879493520,3
 0,,20514,20514,"Marvell Av Before Barrett St","",-32.11475111111110,115.788364444444,3
@@ -9345,8 +9340,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,21835,21835,"Lacey St After North St","",-32.0169123739,115.9562585650,2
 0,,21836,21836,"Elizabeth St After William St","Elizabeth St / Jubilee St",-32.0100399992,115.9683965710,2
 0,,21837,21837,"Station St Before Luyer Av","",-32.0047034632,115.9643518580,2
-0,,21838,21838,"Station St Before Welshpool Rd","",-32.0029990261,115.9667913140,2
-0,,21839,21839,"Station St After Welshpool Rd","",-32.0030503786,115.9668558030,2
+0,,21838,21838,"Station St Before Welshpool Rd","",-32.0031329018,115.9665821620,2
+0,,21839,21839,"Station St After Welshpool Rd","",-32.0032016158,115.9666133980,2
 0,,21840,21840,"Station St After Luyer Av","",-32.0047880777,115.9643711870,2
 0,,21843,21843,"Orrong Rd After Felspar St","",-32.0014483401,115.9686029910,2
 0,,21844,21844,"Orrong Rd Before Felspar St","",-32.0010614269,115.9686040610,2
@@ -9894,11 +9889,11 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,23624,23624,"Marchesi St Before Chilver St","",-31.9771272238,115.9589500790,2
 0,86,23625,23625,"Cockburn Stn Stand 1","Cockburn Central Stn",-32.12618388888890,115.857863333333,3
 0,86,23626,23626,"Cockburn Stn Stand 2","Cockburn Central Stn",-32.125995,115.857848888889,3
-0,86,23627,23627,"Cockburn Stn Stand 3 ","Cockburn Central Stn",-32.12582555555560,115.857808333333,3
-0,86,23628,23628,"Cockburn Stn Stand 4","Cockburn Central Stn",-32.12557444444440,115.857680555556,3
+0,86,23627,23627,"Cockburn Stn Stand 3 ","Cockburn Central Stn",-32.12582555555550,115.857808333333,3
+0,86,23628,23628,"Cockburn Stn Stand 4","Cockburn Central Stn",-32.12557444444450,115.857680555556,3
 0,86,23629,23629,"Cockburn Stn Stand 5","Cockburn Central Stn",-32.12532388888890,115.857594444444,3
-0,86,23632,23632,"Cockburn Stn Stand 8","Cockburn Central Stn",-32.1253244444444020,115.857395555556,3
-0,86,23633,23633,"Cockburn Stn Stand 9","Cockburn Central Stn",-32.1254488888888970,115.85746111111099,3
+0,86,23632,23632,"Cockburn Stn Stand 8","Cockburn Central Stn",-32.12532444444450,115.857395555556,3
+0,86,23633,23633,"Cockburn Stn Stand 9","Cockburn Central Stn",-32.12544888888890,115.857461111111,3
 0,86,23634,23634,"Cockburn Stn Stand 10","Cockburn Central Stn",-32.125650,115.857582777778,3
 0,86,23635,23635,"Cockburn Stn Stand 11","Cockburn Central Stn",-32.12589944444440,115.857592222222,3
 0,,23637,23637,"Lord St After Harrow St","",-31.8458782468,115.9692366120,2
@@ -9994,9 +9989,9 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,74,23794,23794,"Warnbro Stn Stand 7","Warnbro Stn",-32.3270431399,115.7683085240,5
 0,,23796,23796,"Birchley Rd Before Bayview Tce","",-32.1270897501,115.8023895010,3
 0,93,23798,23798,"Kwinana Stn Stand 1","Kwinana Stn",-32.23510555555550,115.842166666667,4
-0,93,23799,23799,"Kwinana Stn Stand 2","Kwinana Stn",-32.2349709506,115.84227581,4
-0,93,23800,23800,"Kwinana Stn Stand 3","Kwinana Stn",-32.2347085455,115.84247650,4
-0,93,23801,23801,"Kwinana Stn Stand 4","Kwinana Stn",-32.2345794470,115.8425810960,4
+0,93,23799,23799,"Kwinana Stn Stand 2","Kwinana Stn",-32.23497111111110,115.842275555556,4
+0,93,23800,23800,"Kwinana Stn Stand 3","Kwinana Stn",-32.23470833333330,115.842476666667,4
+0,93,23801,23801,"Kwinana Stn Stand 4","Kwinana Stn",-32.23457944444440,115.842581111111,4
 0,93,23802,23802,"Kwinana Stn Stand 5","Kwinana Stn",-32.234445,115.842685555556,4
 0,,23803,23803,"Birchley Rd After Bayview Tce","",-32.1270912321,115.8024823210,3
 0,,23815,23815,"Main St Before Tome Wy","Ellenbrook Secondary College",-31.78462055555560,115.965560555556,3
@@ -10762,7 +10757,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26164,26164,"Baloo Cr Before Beachview Ct","",-32.5945073622,115.6423340590,8
 0,,26165,26165,"Castlewood Pwy After Edencourt Dr","Edencourt Dr / Castlewood Pwy",-32.1064352223,115.9501814010,3
 0,,26168,26168,"Selby St After Flynn St","Selby St / Flynn St",-31.9322251490,115.8042205940,1
-0,,26169,26169,"Pinjarra Rd After Mandurah Tce","",-32.5346966853,115.7199530470,7
+0,,26169,26169,"Pinjarra Rd After Mandurah Tce","",-32.53469666666670,115.720241666667,7
 0,,26172,26172,"School Access Rd Lesmurdie High School S1","Lesmurdie Senior High School",-32.0127544091,116.0492270880,3
 0,,26178,26178,"School Access Rd Lesmurdie High School S7","Lesmurdie Senior High School",-32.0121416647,116.0494125510,3
 0,,26179,26179,"Wright Rd Before Heronwood Glde","",-32.1219696535,115.9253079320,3
@@ -13176,7 +13171,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,73800,73800,"Simmons St Before Corney St","",-20.30434444444440,118.636097222222,2
 0,,73801,73801,"Wattle St Before William St","Wattle Hill Lodge",-33.33506166666670,115.630926666667,1
 0,,73802,73802,"Millbridge Bvd Before Dutton Wy","Millbridge Bvd / Dutton Wy",-33.30754166666670,115.736026666667,2
-0,,73803,73803,"Anchorage Cove Dolphin Discovery Centre","Dolphin Discovery Centre",-33.32058944444450,115.648852222222,1
 0,,73807,73807,"Caves Rd Before Mitchell St","",-33.65127333333330,115.202310555556,2
 0,,73808,73808,"Caves Rd After Mitchell St","",-33.65140333333330,115.201972777778,2
 0,,73826,73826,"Mardo Av After Barnes Av","Leschenault Catholic Primary",-33.282985,115.723675555556,2
