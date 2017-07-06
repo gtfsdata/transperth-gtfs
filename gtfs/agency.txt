@@ -4,7 +4,6 @@ CRS-CAR,TransCarnarvon,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServi
 ESP-ESP,TransEsperance,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
 GER-GER,TransGeraldton,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
 GWB-KAR,TransKarratha,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
-LOV-ALB,TransAlbany,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
 NIC-NAR,TransNarrogin,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
 PAT-CIR,Transperth,http://www.transperth.wa.gov.au,Australia/Perth,en
 PAT-KAL,Transperth,http://www.transperth.wa.gov.au,Australia/Perth,en
