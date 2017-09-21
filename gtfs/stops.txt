@@ -782,6 +782,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10873,10873,"High St Before Chalmers St","",-32.0507906542,115.7609153370,2
 0,,10874,10874,"High St After Swanbourne St","Monument Hill War Memorial",-32.0512511941,115.7570314350,2
 0,,10875,10875,"High St After Stirling St","",-32.0526623078,115.7525071560,2
+0,,10876,10876,"High St After Queen St","",-32.05332666666670,115.749903888889,2
 0,,10877,10877,"High St After Parry St","High St / Stirling St",-32.05236833333330,115.753074444444,2
 0,,10878,10878,"High St After Ord St","Monument Hill War Memorial",-32.0511820551,115.7568754110,2
 0,,10879,10879,"High St After Chalmers St","",-32.0506614072,115.7606652410,2
@@ -1625,6 +1626,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11839,11839,"Mill Point Rd After Roseberry Av","",-31.9773139808,115.87161473,1
 0,,11840,11840,"Mill Point Rd After Pepper St","",-31.9776260580,115.8691699240,1
 0,,11841,11841,"Mill Point Rd Before Onslow St","Mill Point Rd / Onslow St",-31.9760982265,115.8574217590,1
+0,,11842,11842,"Mill Point Rd Before Parker St","",-31.9748624894,115.8550153850,1
 0,,11843,11843,"Mill Point Rd After Mends St","",-31.9728813492,115.8514106120,1
 0,,11844,11844,"Mill Point Rd Before Scott St","",-31.9715146982,115.8499475120,1
 0,,11845,11845,"Mill Point Rd Before Stirling St","",-31.96892277777780,115.848823888889,1
@@ -1646,6 +1648,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11861,11861,"Labouchere Rd Before Rea St","",-31.9856498071,115.8560100650,1
 0,,11862,11862,"Labouchere Rd Before Hensman St","",-31.98355944444440,115.855110,1
 0,,11863,11863,"Labouchere Rd After Karoo St","",-31.98101222222220,115.854027222222,1
+0,,11864,11864,"Labouchere Rd Before Richardson St","",-31.9775833597,115.8524950760,1
+0,,11865,11865,"Labouchere Rd Perth Zoo","",-31.97567055555560,115.851722222222,1
 0,,11866,11866,"Labouchere Rd After Mends St","",-31.97389388888890,115.850956666667,1
 0,,11867,11867,"King Edward St After Mill Point Rd","",-31.9766634650,115.8586701380,1
 0,,11868,11868,"King Edward St After Clarence St","",-31.9782978431,115.8582807010,1
@@ -2204,7 +2208,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,100,12552,12552,"Warwick Stn Stand 6","Warwick Stn",-31.84478611111110,115.796439444444,2
 0,100,12553,12553,"Warwick Stn Stand 7","Warwick Stn",-31.84459222222220,115.796372222222,2
 0,100,12554,12554,"Warwick Stn Stand 8","Warwick Stn",-31.84436166666670,115.796292777778,2
-0,,12555,12555,"Scarborough Beach Rd After Filburn St","Scarborough Beach",-31.89428111111110,115.759344444444,2
+0,,12555,12555,"Scarborough Beach Rd After Filburn St","Scarborough Beach",-31.8942828320,115.7594430110,2
 0,,12556,12556,"Scarborough Beach Rd After Alga St","",-31.89421444444450,115.762281111111,2
 0,,12557,12557,"Scarborough Beach Rd After Joyce St","",-31.8939794023,115.7663641220,2
 0,,12558,12558,"Scarborough Beach Rd After Deanmore Rd","",-31.8938661429,115.7685667860,2
@@ -3136,6 +3140,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,13831,13831,"Canning Rd After Sampson Rd","",-31.98399444444440,116.063885,3
 0,,13832,13832,"Canning Rd After Lyndhurst Rd","",-31.9815105815,116.0623287740,3
 0,,13833,13833,"Canning Rd After Railway Rd","Kalamunda Senior High School",-31.9791620102,116.0599463830,3
+0,,13834,13834,"Canning Rd After Haynes St","",-31.97096722222220,116.056631111111,3
 0,,13835,13835,"Canning Rd After Heath Rd","",-31.9725029975,116.0568034710,3
 0,,13836,13836,"Canning Rd Before Burt St","",-31.9749188113,116.0567909430,3
 0,,13837,13837,"Canning Rd After Collins Rd","",-31.9813614141,116.0623429950,3
@@ -3261,6 +3266,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,14010,14010,"Gooseberry Hill Rd After Healey Pl","",-31.95566444444440,116.050058333333,3
 0,,14011,14011,"Lenori Rd After Railway Rd","",-31.9577204002,116.0509837750,3
 0,,14012,14012,"Lenori Rd After Davies Cr","",-31.95765722222220,116.050801666667,3
+0,,14013,14013,"Kalamunda Rd After Canning Rd","",-31.970470,116.055044444444,3
+0,,14014,14014,"Kalamunda Rd Before Boonooloo Rd","",-31.96902277777780,116.053420,3
 0,,14015,14015,"Kalamunda Rd Before Saint Emilies Rd","",-31.96680166666660,116.049592777778,3
 0,,14016,14016,"Kalamunda Rd After Saint Emilies Rd","",-31.9662437150,116.0472172770,3
 0,,14017,14017,"Kalamunda Rd After Persimmon Pl","",-31.9632661547,116.0431452690,3
@@ -3925,8 +3932,12 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,14838,14838,"Muriel St La Salle College S2","La Salle College",-31.8795886387,116.0069800960,2
 0,,14840,14840,"Ashby Tce After Avon Cr","",-31.8786853456,116.0014770680,2
 0,,14841,14841,"Ashby Tce After Kent St","",-31.8770915956,115.9995299610,2
+0,,14842,14842,"Ashby Tce After Sefton Av","",-31.8754574989,115.9979416850,2
 0,,14844,14844,"Ashby Tce Before Kent St","",-31.8769805270,115.9995913620,2
 0,,14845,14845,"Ashby Tce Before Avon Cr","",-31.8785911254,116.0015279510,2
+0,,14846,14846,"Stewartby Cr After Harford Av","",-31.8731959158,115.9992102510,2
+0,,14847,14847,"Sefton Av After Stewartby Cr","",-31.8750956796,115.9984101930,2
+0,,14848,14848,"Harford Av After Ashby Tce","",-31.8741659714,115.9976278540,2
 0,,14849,14849,"Eveline Rd Swan District Hospital","Eveline Rd / Gt Northern Hwy",-31.8747665825,116.00777282,2
 0,,14852,14852,"Toodyay Rd Before Holding St","",-31.8710382769,116.0198059380,3
 0,,14853,14853,"Toodyay Rd After Patterson Dr","",-31.8695392766,116.0230253640,3
@@ -5037,7 +5048,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,16199,16199,"Camboon Rd After Noranda Pl","",-31.8779448946,115.8887613220,2
 0,,16200,16200,"Camboon Rd Before Bramwell Rd","",-31.8744510477,115.8887893390,2
 0,,16201,16201,"Chesterfield Rd After Yirrigan Dr","",-31.86996333333330,115.857056111111,2
-0,,16203,16203,"Chesterfield Rd After Belthorn Tce","",-31.8695560787,115.8627336820,2
+0,,16203,16203,"Chesterfield Rd After Belthorn Tce","",-31.8696256679,115.8629310640,2
 0,,16204,16204,"Chesterfield Rd After Belthorn Tce","",-31.8695620841,115.8623575180,2
 0,,16206,16206,"Chesterfield Rd After Mirrabooka Stn","",-31.8700327499,115.8571600780,2
 0,,16207,16207,"Wylde Rd After Mcgilvray Av","",-31.8794997345,115.8934031020,2
@@ -5574,6 +5585,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,16901,16901,"Terrace Rd After Burt Wy","Terrace Rd / Bennett St",-31.9608519328,115.8693697680,FTZ
 0,,16902,16902,"Plain St After Hay St","",-31.95878666666670,115.875378333333,FTZ
 0,,16904,16904,"Plain St After Hay St","",-31.96004444444440,115.874943333333,FTZ
+0,,16906,16906,"Hay St After Plain St","Hay St / Plain St",-31.9593561345,115.8744998930,FTZ
 0,,16907,16907,"Hay St Carlton Red Cat 5","Hay St / Carlton Hotel",-31.9582589301,115.8712525830,FTZ
 0,,16908,16908,"Hay St Before Hill St","Hay St / Carlton Hotel",-31.9576536533,115.86941724,FTZ
 0,,16909,16909,"Hay St Perth Mint Red Cat 6","Perth Mint",-31.9571467207,115.8677783840,FTZ
@@ -9295,6 +9307,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,21849,21849,"Orrong Rd After Kew St","",-31.9841835437,115.9334614950,1
 0,,21850,21850,"Mackie St Before Hordern St","",-31.9741026029,115.8914970720,1
 0,,21851,21851,"Mackie St Before Albany Hwy","Mackie St / Albany Hwy",-31.9721990586,115.8937325140,1
+0,,21854,21854,"Hay St Before Bennett St","",-31.95874444444440,115.872660,FTZ
 0,,21856,21856,"Raeburn Rd Before George Rd","",-32.1048426773,116.0812177440,4
 0,,21859,21859,"Cephalotus Rd After Hovea Cr","",-31.9970059528,116.0714626110,3
 0,,21860,21860,"Cephalotus Rd Before Hovea Cr","",-31.9970137174,116.0713645820,3
@@ -9483,7 +9496,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,22448,22448,"Marmion Av After Yanchep Beach Rd","",-31.5484732977,115.6369131780,6
 0,,22449,22449,"Marmion Av Before Yanchep Beach Rd","",-31.5485842342,115.6367038110,6
 0,,22450,22450,"Viridian Dr   Before Tumbleweed Dr","Viridian Dr / Tumbleweed Dr",-31.7033776035,115.8073239680,4
-0,,22471,22471,"Bannister Rd Before Vulcan Rd","",-32.0617759830,115.9049554230,2
+0,,22471,22471,"Bannister Rd Before Vulcan Rd","",-32.0615569882,115.9052015410,2
 0,,22489,22489,"Potts St Melville Shs S3","Melville Senior High School",-32.0468673706,115.80419351,2
 0,,22492,22492,"Gilbertson Rd Before Kardinya Rd","",-32.0605182056,115.8192570210,2
 0,,22514,22514,"Ewing Av All Saints College","All Saints College",-32.0509727728,115.8654309620,2
