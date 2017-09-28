@@ -291,13 +291,13 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10336,10336,"Canning Hwy Before Hensman St","",-31.98597555555560,115.872905,1
 0,,10338,10338,"Canning Hwy After Cliffe St","",-31.9821765347,115.8760514590,1
 0,,10339,10339,"Canning Hwy After Collins St","",-31.9806415997,115.8773076630,1
-0,,10340,10340,"Canning Hwy After Banksia Tce","",-31.9780788888888980,115.879332222222,1
-0,,10341,10341,"Canning Hwy After Way Rd","",-31.97576166666660,115.881276111111,1
+0,,10340,10340,"Canning Hwy After Banksia Tce","",-31.9780729327,115.8793469070,1
+0,,10341,10341,"Canning Hwy After Way Rd","",-31.9757562451,115.8812959060,1
 0,,10342,10342,"Canning Hwy After Berwick St","",-31.9732463340,115.8833675850,1
 0,,10343,10343,"Canning Hwy After Taylor St","",-31.9714344444445010,115.884871666667,1
 0,,10344,10344,"Stirling Hwy After Queen Victoria St","",-32.03223055555550,115.752743333333,2
 0,,10345,10345,"Stirling Hwy North Fremantle Stn","",-32.02984944444440,115.752287777778,2
-0,,10346,10346,"Stirling Hwy Before Stone St","",-32.02671222222220,115.752456111111,2
+0,,10346,10346,"Stirling Hwy Before Stone St","",-32.0266986172,115.7524606120,2
 0,,10347,10347,"Stirling Hwy Before Coventry Pde","",-32.0244161736,115.7529205380,2
 0,,10348,10348,"Stirling Hwy Before Vlamingh Pde","",-32.0209111963,115.7535786390,2
 0,,10349,10349,"Stirling Hwy After Wellington St","Stirling Hwy / Wellington St",-32.0143090620,115.7549054390,2
@@ -326,14 +326,14 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10378,10378,"Stirling Hwy After Portland St","",-31.9780503434,115.8093549660,1
 0,,10380,10380,"Stirling Hwy After Clifton St","",-31.9775435702,115.8123147360,1
 0,,10381,10381,"Stirling Hwy Opposite University Of Wa","University Of Wa",-31.9761320756,115.8160326250,1
-0,,10382,10382,"Mounts Bay Rd After Winthrop Av","University Of Wa",-31.9752511111110990,115.819227777778,1
+0,,10382,10382,"Mounts Bay Rd After Winthrop Av","University Of Wa",-31.9752359570,115.81930186,1
 0,,10383,10383,"Mounts Bay Rd After Hackett Dr","",-31.9747834637,115.8227363260,1
 0,,10384,10384,"Mounts Bay Rd Before Wingfield Av","",-31.9735805264,115.8252237960,1
 0,,10385,10385,"Mounts Bay Rd Old Swan Brewery","",-31.9656875068,115.8396503470,FTZ
 0,,10386,10386,"Mounts Bay Rd Old Swan Brewery","",-31.9654995445,115.8400148690,FTZ
 0,,10387,10387,"Mounts Bay Rd After Crawley Av","",-31.9750735168,115.8225672220,1
 0,,10388,10388,"Mounts Bay Rd Before Winthrop Av","University Of Wa",-31.97563777777780,115.818655555556,1
-0,,10389,10389,"Mounts Bay Rd University Of Wa","University Of Wa",-31.9759412417,115.8172675090,1
+0,,10389,10389,"Mounts Bay Rd University Of Wa","University Of Wa",-31.9759181927,115.8174473240,1
 0,,10390,10390,"Mounts Bay Rd After Fairway","University Of Wa",-31.9767866658,115.8152316670,1
 0,,10391,10391,"Stirling Hwy After Broadway","",-31.9777264811,115.8120857080,1
 0,,10392,10392,"Stirling Hwy Before Tyrell St","",-31.9782114677,115.8092603630,1
@@ -350,7 +350,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10405,10405,"Stirling Hwy After Dean St","Methodist Ladies College",-31.9856687415,115.7743355170,2
 0,,10406,10406,"Stirling Hwy After Richardson Av","",-31.98699444444450,115.771288333333,2
 0,,10408,10408,"Stirling Hwy Before Wilson St","",-31.9889507105,115.7687320310,2
-0,,10409,10409,"Stirling Hwy Before Boreham St","",-31.99061444444440,115.767898333333,2
+0,,10409,10409,"Stirling Hwy Before Boreham St","",-31.9906041498,115.7679021690,2
 0,,10410,10410,"Stirling Hwy After Airlie St","",-31.9931139865,115.7664945970,2
 0,,10411,10411,"Stirling Hwy Before Vera St","",-31.99549555555560,115.764735555556,2
 0,,10412,10412,"Stirling Hwy Before Clapham L","Stirling Hwy / Leake St",-31.9983596477,115.7627222790,2
@@ -358,11 +358,11 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10415,10415,"Stirling Hwy After Johnston St","",-32.00406222222220,115.759822222222,2
 0,,10416,10416,"Stirling Hwy Before Stuart St","",-32.00615777777780,115.758421666667,2
 0,,10417,10417,"Stirling Hwy After Glyde St","",-32.0080840186,115.7571261740,2
-0,,10418,10418,"Stirling Hwy After Victoria St","",-32.01204277777780,115.755372222222,2
-0,,10419,10419,"Stirling Hwy After Wellington St","Stirling Hwy / Wellington St",-32.01516666666670,115.755405,2
+0,,10418,10418,"Stirling Hwy After Victoria St","",-32.0120492759,115.7553703040,2
+0,,10419,10419,"Stirling Hwy After Wellington St","Stirling Hwy / Wellington St",-32.0151596270,115.75544013,2
 0,,10420,10420,"Stirling Hwy After Vlamingh Pde","",-32.0213489422,115.7537606920,2
 0,,10421,10421,"Stirling Hwy Before Pamment St","",-32.0245951301,115.7530578360,2
-0,,10422,10422,"Stirling Hwy After Christina Pde","",-32.02671722222220,115.752621111111,2
+0,,10422,10422,"Stirling Hwy After Christina Pde","",-32.0267229063,115.7526338520,2
 0,,10423,10423,"Stirling Hwy North Fremantle Stn","",-32.03013166666660,115.752505,2
 0,,10424,10424,"Stirling Hwy After Alfred Rd","",-32.03223388888890,115.752899444444,2
 0,,10425,10425,"Adelaide St After Queen St","",-32.0525362381,115.7483753760,2
@@ -2209,10 +2209,10 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,100,12553,12553,"Warwick Stn Stand 7","Warwick Stn",-31.84459222222220,115.796372222222,2
 0,100,12554,12554,"Warwick Stn Stand 8","Warwick Stn",-31.84436166666670,115.796292777778,2
 0,,12555,12555,"Scarborough Beach Rd After Filburn St","Scarborough Beach",-31.8942828320,115.7594430110,2
-0,,12556,12556,"Scarborough Beach Rd After Alga St","",-31.89421444444450,115.762281111111,2
+0,,12556,12556,"Scarborough Beach Rd After Alga St","",-31.8942275379,115.7623320730,2
 0,,12557,12557,"Scarborough Beach Rd After Joyce St","",-31.8939794023,115.7663641220,2
 0,,12558,12558,"Scarborough Beach Rd After Deanmore Rd","",-31.8938661429,115.7685667860,2
-0,,12559,12559,"Scarborough Beach Rd After Duke St","",-31.8938961979,115.7721831020,2
+0,,12559,12559,"Scarborough Beach Rd After Duke St","",-31.8939137591,115.7722423420,2
 0,,12560,12560,"Scarborough Beach Rd After Gildercliffe St","",-31.8939243704,115.7758565760,2
 0,,12561,12561,"Scarborough Beach Rd After Herbert St","",-31.8939648891,115.7785235290,2
 0,,12562,12562,"Scarborough Beach Rd After Hancock St","",-31.8942261877,115.7806057340,2
@@ -2471,6 +2471,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12894,12894,"Wellington St After Outram St","",-31.9459201156,115.8418859040,FTZ
 0,,12895,12895,"Wellington St Harold Boas Gardens G 8 / Y21","",-31.946535,115.843877777778,FTZ
 0,,12897,12897,"Wellington St Perth Arena Yellow Cat 23","Wellington St / Milligan St",-31.949180,115.852251111111,FTZ
+0,124,12900,12900,"Wellington St William St Cat Yellow 24 ","Wellington St / William St",-31.95093444444440,115.857540,FTZ
 0,122,12901,12901,"Wellington St Perth Stn Red 24/Yellow Cat25","Perth Stn",-31.9519177428,115.8605527390,FTZ
 0,122,12902,12902,"Wellington St Before Forrest Pl","Perth Stn",-31.9514092902,115.8590372080,FTZ
 0,121,12904,12904,"Wellington St Pier St Yellow Cat 26","Wellington St / Pier St North",-31.9526748920,115.8628028720,FTZ
@@ -2486,8 +2487,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,120,12923,12923,"Wellington St Western Power Yellow Cat 13","Wellington St / Pier St South",-31.9526034799,115.8619374520,FTZ
 0,,12924,12924,"Wellington St Forrest Place R10 / Y14","Wellington St / Forrest Pl",-31.9516360671,115.8591222040,FTZ
 0,,12927,12927,"Wellington St After George St","",-31.9483703668,115.8489534840,FTZ
-0,,12928,12928,"Wellington St Harold Boas Gardens G14 / Y18","",-31.946975,115.844726666667,FTZ
-0,,12931,12931,"Railway St City West Stn Green Cat 12","",-31.9445113679,115.8454277680,FTZ
+0,,12928,12928,"Wellington St Harold Boas Gardens G14 / Y18","",-31.9469841030,115.8446891160,FTZ
+0,,12931,12931,"Railway St City West Stn Green Cat 12","",-31.94437888888890,115.845032777778,FTZ
 0,,12932,12932,"Railway St City West Stn Green Cat 10","",-31.94449333333340,115.844942222222,FTZ
 0,,12933,12933,"Shenton St Russell Square Blue Cat 10","Shenton St / James St",-31.9459578408,115.8549155470,FTZ
 0,,12934,12934,"James St Northbridge Blue Cat 11","",-31.9474298307,115.8558513530,FTZ
@@ -2509,9 +2510,9 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12972,12972,"Edinboro St After Powell St","",-31.9098828862,115.8411053820,1
 0,,12973,12973,"Edinboro St Before Roberts St","",-31.9083243616,115.8411177780,1
 0,,12974,12974,"Edinboro St Before Mcdonald St","",-31.9064084967,115.8411116280,1
-0,88,12980,12980,"Glendalough Stn Stand 3","Glendalough Stn",-31.91508555555550,115.822566666667,1
-0,88,12983,12983,"Glendalough Stn Stand 2","Glendalough Stn",-31.91494388888890,115.822293333333,1
-0,88,12984,12984,"Glendalough Stn Stand 1","Glendalough Stn",-31.91475555555550,115.822285,1
+0,88,12980,12980,"Glendalough Stn Stand 3","Glendalough Stn",-31.9152141908,115.8226537370,1
+0,88,12983,12983,"Glendalough Stn Stand 2","Glendalough Stn",-31.9149712090,115.8222879690,1
+0,88,12984,12984,"Glendalough Stn Stand 1","Glendalough Stn",-31.9147919828,115.8222903640,1
 0,,12988,12988,"Armadale Rd After Seventh Rd","",-32.1471210423,115.9950918970,3
 0,,12989,12989,"Armadale Rd Before Eighth Rd","",-32.1471838393,115.9870980850,3
 0,,12990,12990,"Armadale Rd Before Seville Dr","",-32.1469865317,115.9862195980,3
@@ -2579,7 +2580,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,13052,13052,"Champion Dr After Seville Dr","",-32.1293574365,115.9998826160,3
 0,,13053,13053,"Champion Dr After Gillam Dr","",-32.1277278877,115.99797408,3
 0,,13054,13054,"Champion Dr After Trangie Wy","",-32.1268131724,115.9972573370,3
-0,,13055,13055,"Champion Dr After Gillam Dr","",-32.1291718796,116.0000534270,3
+0,,13055,13055,"Champion Dr After Gillam Dr","",-32.1292080087,116.0000452870,3
 0,,13061,13061,"Grovelands Dr After Berala Ct","",-32.1237273694,115.9949170880,3
 0,,13062,13062,"Grovelands Dr After Shetland Rd","",-32.1216700979,115.99174615,3
 0,,13063,13063,"Grovelands Dr After Beechcroft Pl","",-32.1195812706,115.9926787270,3
@@ -2678,7 +2679,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,13162,13162,"Soldiers Rd Before Bishop Rd","",-32.2678113684,115.9933897130,5
 0,,13163,13163,"Paterson St Before Tonkin St","",-32.2867190153,115.98951696,5
 0,,13164,13164,"Paterson St Before Richardson St","",-32.2920540396,115.9872618320,5
-0,,13165,13165,"Paterson St Before Whitby St","Paterson Rd / Whitby St",-32.2947330090,115.9861530320,5
+0,,13165,13165,"Paterson St Before Whitby St","Paterson Rd / Whitby St",-32.2947174726,115.9861594830,5
 0,,13178,13178,"Church Av After Jull St","",-32.1508114103,116.0182646390,4
 0,,13179,13179,"Church Av After Third Av","",-32.1545345227,116.0164227390,4
 0,,13180,13180,"Church Av After William St","",-32.1566054091,116.0139700390,4
@@ -2757,7 +2758,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,13269,13269,"Eighth Rd Before Gymea Ct","",-32.1532335721,115.9905613620,3
 0,,13270,13270,"Eighth Rd After Gribble Av","",-32.1554297685,115.9931345430,3
 0,,13278,13278,"Armadale Rd After Allen Rd","",-32.1479770436,115.9450928760,3
-0,,13279,13279,"Armadale Rd After Wirin Rd","Armadale Rd / Wirin Rd",-32.1479875820,115.93970514,3
+0,,13279,13279,"Armadale Rd After Wirin Rd","Armadale Rd / Wirin Rd",-32.1479758544,115.9397231050,3
 0,,13280,13280,"Armadale Rd After Tapper Rd","",-32.1276033817,115.8679803820,3
 0,,13281,13281,"Armadale Rd After Solomon Rd","",-32.1270698746,115.8640036620,3
 0,,13282,13282,"Armadale Rd Before Solomon Rd","",-32.1268998883,115.8636279330,3
@@ -4507,7 +4508,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,15524,15524,"Lord St After Park St","",-31.8150023925,115.9625326420,3
 0,,15525,15525,"Lord St Before Woollcott Av","",-31.8262230760,115.9625267440,3
 0,,15526,15526,"Lord St After Youle-Dean Rd","Whiteman Park",-31.8346632081,115.9655841710,2
-0,,15527,15527,"Lord St After Cranleigh St","",-31.8520260087,115.9692743340,2
+0,,15527,15527,"Lord St After Cranleigh St","",-31.85202611111110,115.969274444444,2
 0,,15528,15528,"Lord St Before Cranleigh St","",-31.8520527208,115.9690923540,2
 0,,15529,15529,"Lord St Before Youle-Dean Rd","",-31.8346184887,115.9653742880,2
 0,,15530,15530,"Lord St After Woollcott Av","",-31.8262477777778020,115.96240944444401,3
@@ -7613,10 +7614,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,19488,19488,"Rochdale Rd After Asquith St","",-31.9671869088,115.7740163620,2
 0,,19489,19489,"Rochdale Rd Before Kennedia L","",-31.9692591592,115.7740022220,2
 0,,19490,19490,"Rochdale Rd Before Asquith St","",-31.9674249692,115.7738927960,2
-0,,19492,19492,"Camelia Av After Mooro Dr","",-31.9662044751,115.7893498090,1
 0,,19493,19493,"Camelia Av Before Brockway Rd","Camelia Av / Brockway Rd",-31.9662008573,115.7906819320,1
 0,,19494,19494,"Camelia Av After Brockway Rd","Camelia Av / Brockway Rd",-31.96626379,115.7904596650,1
-0,,19495,19495,"Camelia Av Before Camelia Av","",-31.9662771984,115.7890838110,1
 0,,19498,19498,"Alfred Rd Before Lantana Av","",-31.9690821503,115.7886424740,1
 0,,19499,19499,"Alfred Rd Before Mimosa Av","",-31.9690898292,115.7847083170,1
 0,,19500,19500,"Alfred Rd After Graylands Rd","",-31.9691037314,115.7825424670,1
@@ -9857,8 +9856,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,23661,23661,"Pinetree Gully Rd Before Agincourt Dr","Willetton Senior High Sch",-32.0592584295,115.8794184770,2
 0,,23662,23662,"Mcmillan St After Berwick St","",-31.9798108323,115.8919581060,1
 0,,23664,23664,"Peninsula Rd Before East St","",-31.9351549434,115.8961155930,1
-0,,23671,23671,"Mooro Dr Before Camelia Av","Mooro Rd / Carmelia Av",-31.9651080685,115.7885012490,1
-0,,23672,23672,"Mooro Dr After Camelia Av","Mooro Rd / Carmelia Av",-31.9651913406,115.7884144860,1
+0,,23671,23671,"Mooro Dr Before Camelia Av","Mooro Rd / Carmelia Av",-31.96561555555550,115.788518333333,1
+0,,23672,23672,"Mooro Dr After Camelia Av","Mooro Rd / Carmelia Av",-31.96551277777780,115.788410555556,1
 0,,23674,23674,"Ocean Falls Bvd Before Canvey L","",-31.6913625066,115.7033448490,4
 0,,23675,23675,"Wheatstone Dr After Jenvey St","",-31.88506666666670,115.927538333333,2
 0,,23676,23676,"Abernethy Rd After Dadow Rd","",-31.98071388888890,115.978801111111,2
@@ -11291,7 +11290,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27105,27105,"Honeywood Av Before Darling ","Honeywood Av / Darling Ch",-32.19536333333330,115.860918333333,4
 0,,27108,27108,"Kingsbury Dr Before Jacaranda Av","Kingsbury Dr / Jacaranda Av",-32.33830666666670,116.069642222222,6
 0,,27109,27109,"Kingsbury Dr Before Mcneil Gr","Kingsbury Dr / Jacaranda Av",-32.33816444444440,116.069567777778,6
-0,88,27115,27115,"Glendalough Stn Stand 4","Glendalough Stn",-31.91489055555550,115.822544444444,1
+0,88,27115,27115,"Glendalough Stn Stand 4","Glendalough Stn",-31.9150574153,115.8226365140,1
 0,,27116,27116,"Walker St After Yanchep Beach Rd","Walker St /  Yanchep Beach Rd",-31.54705888888890,115.631182222222,6
 0,88,27117,27117,"Scarborough Beach Rd Stand 8","Glendalough Stn",-31.91430055555550,115.823032222222,1
 0,,27118,27118,"Scarborough Beach Rd Stand 9","Glendalough Stn",-31.91429833333330,115.823166666667,1
@@ -11500,8 +11499,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27488,27488,"Suffolk St Before Coloriino Av","",-31.86686055555550,115.970910,2
 0,,27489,27489,"Patricia St After Carignan Av","",-31.86646055555550,115.962205,2
 0,,27494,27494,"Resolute Dr After Damepattie Dr","Two Rocks Primary School",-31.49007277777780,115.591605555556,7
-0,88,27495,27495,"Glendalough Stn Stand 5","Glendalough Stn",-31.914710,115.822498333333,1
-0,88,27496,27496,"Glendalough Stn Stand 6","Glendalough Stn",-31.91452833333340,115.822454444444,1
+0,88,27495,27495,"Glendalough Stn Stand 5","Glendalough Stn",-31.9148964305,115.8226166490,1
+0,88,27496,27496,"Glendalough Stn Stand 6","Glendalough Stn",-31.9147377942,115.8226019660,1
 0,,27497,27497,"Cockburn Rd After Fairbairn Rd","",-32.12422722222220,115.767320555556,3
 0,,27498,27498,"Cockburn Rd Before Fairbairn Rd","",-32.12414555555560,115.767072777778,3
 0,,27499,27499,"Kent St After Etwell St","",-31.98913888888890,115.891433333333,1
@@ -11656,6 +11655,10 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27722,27722,"Gnangara Rd After Prestige Dr","",-31.79766833333330,115.848537777778,3
 0,,27723,27723,"Gnangara Rd Before Prestige Dr","",-31.79768055555550,115.848883888889,3
 0,,27724,27724,"Gnangara Rd Before Callaway St","",-31.79937722222220,115.844898888889,3
+0,,27759,27759,"Swan View Rd After Old York Rd","",-31.89727111111110,116.060643333333,3
+0,,27760,27760,"Swan View Rd Before Wandu Rd","",-31.89509777777780,116.061076666667,3
+0,,27761,27761,"Swan View Rd Before Grevillea Cr","",-31.89237333333340,116.061480,3
+0,,27762,27762,"Swan View Rd After Pimelia Ct","",-31.89040111111110,116.061351666667,3
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce",-28.7734316666666990,114.612454444444,1
 0,,70003,70003,"Chapman Rd Before Mark St","",-28.76018222222220,114.615859444444,1
@@ -13829,6 +13832,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 1,,120,120,"Wellington St Before Barrack St Westbound",,-31.95255289597790,115.861784244802,
 1,,121,121,"Wellington St Before Pier St Eastbound",,-31.95265156159430,115.862597638523,
 1,,122,122,"Wellington St Perth Stn Eastbound",,-31.95178444137490,115.859856544468,
+1,,124,124,"Wellington St Before William St",,-31.95091878644210,115.857486581286,
 1,,128,128,"Clarkson High School",,-31.67646772853370,115.725196544514,
 1,,129,129,"Comet Bay College",,-32.41418375689190,115.762385390050,
 1,,131,131,"Royal Perth Hospital Eastbound",,-31.953801,115.866264,
