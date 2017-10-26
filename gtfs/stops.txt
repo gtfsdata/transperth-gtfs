@@ -3719,7 +3719,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,14564,14564,"Great Eastern Hwy After Kintore Rd","",-31.90002944444440,116.144533888889,4
 0,,14565,14565,"Great Eastern Hwy After Wilura Rd","",-31.90048388888890,116.147560,4
 0,,14566,14566,"Great Eastern Hwy After Coppin Rd","",-31.90083777777780,116.152277222222,4
-0,,14567,14567,"Great Eastern Hwy Between Coppin And Grancey","",-31.901075,116.154874444444,4
 0,,14568,14568,"Great Eastern Hwy Before Grancey Av","",-31.90118666666670,116.157300555556,4
 0,,14569,14569,"Great Eastern Hwy After Mann St","Gt Eastern Hwy / Mann St",-31.9016176124,116.1642915340,4
 0,,14571,14571,"Great Eastern Hwy After Chipper St","",-31.90219222222220,116.170680555556,4
@@ -3729,9 +3728,9 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,14575,14575,"Great Eastern Hwy After Helena St","",-31.9027198548,116.1734750920,4
 0,,14576,14576,"Great Eastern Hwy Before Hodgson St","",-31.9024105475,116.1703230640,4
 0,,14578,14578,"Great Eastern Hwy After Nichol St","",-31.9020033665,116.1659198090,4
-0,,14579,14579,"Great Eastern Hwy After Mann St","",-31.9017796904,116.1613111470,4
 0,,14580,14580,"Great Eastern Hwy After Grancey Av","",-31.90146444444450,116.156995555556,4
 0,,14581,14581,"Great Eastern Hwy Before Coppin Rd","",-31.901095,116.152572777778,4
+0,,14582,14582,"Great Eastern Hwy After Wilura Rd","Gt Eastern Hwy / Wilura Rd",-31.90079111111110,116.147540,4
 0,,14583,14583,"Great Eastern Hwy After Craven Rd","",-31.899715,116.142611666667,4
 0,,14585,14585,"Great Eastern Hwy Before Homestead Rd","",-31.90004666666660,116.135985,4
 0,,14586,14586,"Great Eastern Hwy After Brooking Rd","",-31.90060555555560,116.129720,4
@@ -5836,18 +5835,18 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,17283,17283,"Warnbro Sound Av After Secret Harbour Bvd","Warnbro Sound Av / Anstey Rd",-32.40556555555560,115.759575,6
 0,,17284,17284,"Warnbro Sound Av After Maratea Pde","",-32.40258222222220,115.759515555556,6
 0,,17285,17285,"Warnbro Sound Av Before Surf Dr","",-32.3991775186,115.7594544440,6
-0,,17286,17286,"Warnbro Sound Av Before Secret Harbour Bvd","",-32.3967297227,115.7594101150,6
+0,,17286,17286,"Warnbro Sound Av Before Secret Harbour Bvd","",-32.3968775722,115.7594125870,6
 0,,17287,17287,"Warnbro Sound Av Before Blackburn Dr","Warnbro Sound Av / Port Kennedy Dr",-32.37115722222220,115.754885,6
 0,,17289,17289,"Warnbro Sound Av After Endeavour Dr","",-32.3674266658,115.7556514950,6
-0,,17290,17290,"Warnbro Sound Av After Clipper Dr","Warnbro Sound Av / Clipper Dr",-32.36491388888890,115.757183333333,6
+0,,17290,17290,"Warnbro Sound Av After Clipper Dr","Warnbro Sound Av / Clipper Dr",-32.3649529687,115.7571645580,6
 0,,17291,17291,"Warnbro Sound Av Before Bakewell Dr","",-32.3634157959,115.75837844,6
 0,,17292,17292,"Warnbro Sound Av After Bakewell Dr","",-32.36076888888890,115.760462222222,5
-0,,17293,17293,"Warnbro Sound Av After Grand Ocean Bvd","",-32.356910,115.761977222222,5
+0,,17293,17293,"Warnbro Sound Av After Grand Ocean Bvd","",-32.3568168629,115.7620107090,5
 0,,17294,17294,"Warnbro Sound Av Before Pamplona Bvd","",-32.3542879616,115.7620729150,5
 0,,17295,17295,"Warnbro Sound Av After Chelmsford Av","",-32.35166888888890,115.761690555556,5
-0,,17296,17296,"Warnbro Sound Av Before Halliburton Av","Warnbro Fair Shops",-32.3491378444,115.7613077780,5
+0,,17296,17296,"Warnbro Sound Av Before Halliburton Av","Warnbro Fair Shops",-32.3492499408,115.7613158240,5
 0,,17297,17297,"Warnbro Sound Av Before Palm Springs Bvd","",-32.34440055555560,115.760512222222,5
-0,,17298,17298,"Warnbro Sound Av Before Holcombe Rd","",-32.3414451156,115.7601532080,5
+0,,17298,17298,"Warnbro Sound Av Before Holcombe Rd","",-32.3414914548,115.7601667440,5
 0,,17299,17299,"Warnbro Sound Av After Monkton Wy","",-32.3378198506,115.7595796450,5
 0,,17300,17300,"Warnbro Sound Av Before Avenue","",-32.3356516585,115.7592577840,5
 0,,17301,17301,"Warnbro Sound Av Before Okehampton Rd","",-32.3325016437,115.7587271520,5
@@ -9618,7 +9617,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,22947,22947,"Beeliar Dr After Birchley Rd","Beeliar Dr / Birchley Rd",-32.128445,115.800436666667,3
 0,,22948,22948,"Beeliar Dr Before Birchley Rd","Beeliar Dr / Birchley Rd",-32.1294873670,115.8047011730,3
 0,,22949,22949,"Ivankovich Av Before Merevale Gdns","South Coogee Primary School",-32.1287549007,115.7982184980,3
-0,,22950,22950,"Beeliar Dr After Durnin Av","Beeliar Dr/ Durnin Av",-32.1278106917,115.7993080470,3
+0,,22950,22950,"Beeliar Dr After Durnin Av","Beeliar Dr/ Durnin Av",-32.12736555555560,115.797736111111,3
 0,,22951,22951,"Beeliar Dr Before Birchley Rd","Beeliar Dr / Birchley Rd",-32.1285014548,115.8013307480,3
 0,,22952,22952,"Beeliar Dr After Birchley Rd","",-32.1292070531,115.8046981060,3
 0,,22953,22953,"Bluebush Av Before Gecko Tce","",-32.1312497190,115.8124102870,3
@@ -9707,6 +9706,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,23219,23219,"Cambridge Dr After Nerrena Ct","",-32.5360408859,115.7636266330,7
 0,,23222,23222,"Rangeview Rd After Hepburn Av","",-31.8200814373,115.8607143730,2
 0,,23223,23223,"Rangeview Rd Before Hepburn Av","",-31.8200948428,115.8608022030,2
+0,,23225,23225,"Rivergums Bvd After Baldivis Rd","",-32.33688611111110,115.823555555556,5
+0,,23227,23227,"Rivergums Bvd After Thomasia App","",-32.3370427989,115.8232817440,5
 0,,23230,23230,"Clyde Av After Tranby Dr","",-32.3388639210,115.80826523,5
 0,,23231,23231,"Clyde Av Before Banner Av","",-32.3387860993,115.8084555360,5
 0,,23232,23232,"Brennan Prom After Clyde Av","",-32.3393289320,115.8047711110,5
@@ -10615,7 +10616,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26044,26044,"Casserly Dr After Shemmels Ct","",-32.0811697025,115.8522240610,2
 0,,26045,26045,"Farrington Rd Before Aulberry Pde","",-32.0790350864,115.8544874020,2
 0,,26048,26048,"Hume Rd After Ciulligan Rd","",-32.05929777777780,115.960975555556,2
-0,,26049,26049,"Warnbro Sound Av Before Lark Hill Sporting Com","",-32.3939177626,115.75935476,6
+0,,26049,26049,"Warnbro Sound Av Before Lark Hill Sporting Com","",-32.39375166666670,115.759342222222,6
 0,,26050,26050,"Warnbro Sound Av After Lark Hill Sports Complex","",-32.3939360019,115.7596984320,6
 0,,26060,26060,"Beechboro Rd Before Orchid Av","",-31.8600388840,115.9247076760,2
 0,,26061,26061,"Wright Rd After Guerin Av","Wright Rd / Bordeaux Pde",-32.1274561487,115.9143781620,3
@@ -11252,6 +11253,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26958,26958,"Education Dr After Access Rd","",-32.5152177777777990,115.755216111111,7
 0,,26959,26959,"Education Dr After Dubarda Lk","",-32.5155999999999990,115.755271666667,7
 0,,26962,26962,"Rangeview Rd After Landsdale Rd","",-31.81741611111110,115.860720,2
+0,,26962A,26962A,"Rangeview Rd After Landsdale Rd","",-31.81770055555560,115.860684444444,2
 0,,26963,26963,"Rangeview Rd After Hardcastle Av","",-31.8177727777778010,115.8608,2
 0,,26983,26983,"Jennalup St Before Murdoch Dr","Murdoch Tafe",-32.073355,115.844280,2
 0,,26984,26984,"Fiona Wood Rd After Jennalup St","",-32.07280333333340,115.848606666667,2
@@ -11279,8 +11281,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27035,27035,"South Yunderup Rd Before Leander Wy","",-32.58559833333330,115.815082222222,8
 0,,27040,27040,"South Yunderup Rd After Leander Wy","",-32.58575111111110,115.814831111111,8
 0,,27087,27087,"George St After Pinjarra","",-32.63060833333330,115.872782222222,8
-0,,27090,27090,"Safety Bay Rd After Goulburn Rd","",-32.33231277777780,115.819522222222,5
-0,,27091,27091,"Safety Bay Rd After Baldivis Rd","",-32.332670,115.819427222222,5
 0,137,27092,27092,"Perth Busport  Stand 1","Perth Busport",-31.94982666666670,115.856288333333,FTZ
 0,,27095,27095,"Marangaroo Dr After Mereworth Wy","",-31.83261222222220,115.826157777778,2
 0,,27098,27098,"Joseph Banks Bvd Stand 1","Joseph Banks Secondary College",-31.69690944444440,115.798310555556,4
@@ -11629,7 +11629,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27661,27661,"Scarborough Beach Bus Stn Stand 4","Scarborough Beach Bus Stn",-31.8944724055,115.7571732780,2
 0,,27673,27673,"Lefroy Rd South Fremantle High School Stand 2","South Fremantle Senior High School",-32.06743944444450,115.768449444444,2
 0,,27676,27676,"Adelaide Tce Westend Causeway","",-31.96177777777780,115.877383333333,FTZ
-0,,27677,27677,"Rivergums Bvd Before Grandis Dr","",-32.33697055555560,115.826022222222,5
 0,,27683,27683,"Activ Industries Rd After Davies L","",-32.0021173375,115.9242943430,2
 0,,27688,27688,"Gnangara Rd After Buffalo Av","",-31.80329888888890,115.820262777778,3
 0,,27689,27689,"Gnangara Rd Before Dana Wy","",-31.803420,115.821031111111,3
