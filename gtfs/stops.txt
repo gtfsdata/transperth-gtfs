@@ -3218,7 +3218,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,13947,13947,"Railway Rd After Stirk St","",-31.9688770670,116.0583756140,3
 0,,13948,13948,"Railway Rd After Headingly Rd","",-31.9660776925,116.0559416330,3
 0,,13949,13949,"Railway Rd After Lindsay St","",-31.9649309238,116.0538729790,3
-0,,13950,13950,"Railway Rd Before Noel Rd","",-31.9616318265,116.0522214170,3
+0,,13950,13950,"Railway Rd Before Noel Rd","",-31.9616083410,116.0522109380,3
 0,,13951,13951,"Railway Rd After Noel Rd","",-31.9595555814,116.0524025280,3
 0,,13952,13952,"Railway Rd After Lenori Rd","",-31.95647277777780,116.051471111111,3
 0,,13954,13954,"Railway Rd After Gooseberry Hill Rd","",-31.9568700247,116.0517343130,3
@@ -3630,7 +3630,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,14462,14462,"Great Eastern Hwy After Kimberley St","",-31.9390651340,115.9298433530,1
 0,,14463,14463,"Great Eastern Hwy Before Leake St","",-31.9380311642,115.9315694540,1
 0,,14464,14464,"Great Eastern Hwy After Moreing St","",-31.9366552443,115.9337964760,1
-0,,14465,14465,"Great Eastern Hwy After Lyall St","",-31.9352889961,115.9361205260,1
+0,,14465,14465,"Great Eastern Hwy After Lyall St","Great Eastern Hwy / Tonkin Hwy",-31.9352889961,115.9361205260,1
 0,,14466,14466,"Great Eastern Hwy Before Central Av","",-31.9305735635,115.9440538730,2
 0,,14467,14467,"Great Eastern Hwy After Coolgardie Av","Gt Eastern Hwy / Coolgardie Av",-31.928345,115.947402222222,2
 0,,14468,14468,"Great Eastern Hwy Before Fauntleroy Av","",-31.9262667462,115.9510267090,2
@@ -3656,7 +3656,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,14488,14488,"Great Eastern Hwy Before Ben St","",-31.9278816389,115.9487155540,2
 0,,14489,14489,"Great Eastern Hwy After Coolgardie Av","Gt Eastern Hwy / Coolgardie Av",-31.9293671934,115.9459892310,2
 0,,14490,14490,"Great Eastern Hwy After Central Av","",-31.9311209592,115.9434753610,2
-0,,14491,14491,"Great Eastern Hwy Before Lyall St","",-31.9348895635,115.9373704990,1
+0,,14491,14491,"Great Eastern Hwy Before Lyall St","Great Eastern Hwy / Tonkin Hwy",-31.9348895635,115.9373704990,1
 0,,14492,14492,"Great Eastern Hwy Before Epsom Av","",-31.93678166666670,115.934246666667,1
 0,,14493,14493,"Great Eastern Hwy After Leake St","",-31.9382095085,115.9319216460,1
 0,,14494,14494,"Great Eastern Hwy Before Kalgoorlie St","",-31.9394328039,115.9298321070,1
@@ -3718,8 +3718,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,14562,14562,"Great Eastern Hwy After Brooking Rd","",-31.89980388888890,116.135165555556,4
 0,,14564,14564,"Great Eastern Hwy After Kintore Rd","",-31.90002944444440,116.144533888889,4
 0,,14565,14565,"Great Eastern Hwy After Wilura Rd","",-31.90048388888890,116.147560,4
-0,,14566,14566,"Great Eastern Hwy After Coppin Rd","",-31.90083777777780,116.152277222222,4
-0,,14568,14568,"Great Eastern Hwy Before Grancey Av","",-31.90118666666670,116.157300555556,4
+0,,14566,14566,"Great Eastern Hwy After Coppin Rd","",-31.90087277777770,116.153094444444,4
+0,,14568,14568,"Great Eastern Hwy After Grancey Ave","",-31.901160,116.159076111111,4
 0,,14569,14569,"Great Eastern Hwy After Mann St","Gt Eastern Hwy / Mann St",-31.9016176124,116.1642915340,4
 0,,14571,14571,"Great Eastern Hwy After Chipper St","",-31.90219222222220,116.170680555556,4
 0,,14572,14572,"Great Eastern Hwy Before Helena St","",-31.9025131406,116.1736457680,4
@@ -3729,9 +3729,9 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,14576,14576,"Great Eastern Hwy Before Hodgson St","",-31.9024105475,116.1703230640,4
 0,,14578,14578,"Great Eastern Hwy After Nichol St","",-31.9020033665,116.1659198090,4
 0,,14580,14580,"Great Eastern Hwy After Grancey Av","",-31.90146444444450,116.156995555556,4
-0,,14581,14581,"Great Eastern Hwy Before Coppin Rd","",-31.901095,116.152572777778,4
+0,,14581,14581,"Great Eastern Hwy Before Coppin Rd","",-31.90112722222220,116.153103888889,4
 0,,14582,14582,"Great Eastern Hwy After Wilura Rd","Gt Eastern Hwy / Wilura Rd",-31.90079111111110,116.147540,4
-0,,14583,14583,"Great Eastern Hwy After Craven Rd","",-31.899715,116.142611666667,4
+0,,14583,14583,"Great Eastern Hwy Before Craven Rd","",-31.90049388888890,116.145216111111,4
 0,,14585,14585,"Great Eastern Hwy Before Homestead Rd","",-31.90004666666660,116.135985,4
 0,,14586,14586,"Great Eastern Hwy After Brooking Rd","",-31.90060555555560,116.129720,4
 0,,14587,14587,"Great Eastern Hwy Before Weller Rd","",-31.90002166666660,116.127395555556,4
@@ -6303,6 +6303,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,17871,17871,"Boas Av Before Lakeside Dr","",-31.7430628917,115.7733568580,3
 0,,17872,17872,"Kennedya Dr Lake Joondalup Baptist Coll","Lake Joondalup Baptist College",-31.73625222222220,115.762305555556,4
 0,,17873,17873,"Moore Dr After Candlewood Bvd","",-31.7325852110,115.7596037820,4
+0,,17876,17876,"Moore Dr After Christchurch Tce","",-31.7346644934,115.7501760910,4
 0,,17877,17877,"Moore Dr After Connolly Dr","",-31.7351186568,115.7438341370,4
 0,,17878,17878,"Moore Dr After Providence Dr","",-31.73453833333330,115.740482222222,4
 0,,17879,17879,"Moore Dr After Caledonia Av","",-31.7343425557,115.7406402280,4
@@ -7144,6 +7145,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,18908,18908,"Flora Tce Before Hale St","",-31.8533656907,115.7541795610,2
 0,,18909,18909,"Flora Tce Before Castle St","",-31.8552959515,115.7541993310,2
 0,,18910,18910,"Flora Tce Before Malcolm St","",-31.8570816666667010,115.754168888889,2
+0,,18911,18911,"Flora Tce After Malcolm St","",-31.8566435917,115.7540353050,2
 0,,18912,18912,"Flora Tce After Lawley St","",-31.8542235006,115.7540666650,2
 0,,18913,18913,"Flora Tce Before Elvire St","",-31.8523132764,115.7543075090,2
 0,,18914,18914,"Flora Tce After Margaret St","",-31.8502366097,115.7548595770,2
@@ -7609,6 +7611,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,19488,19488,"Rochdale Rd After Asquith St","",-31.9671869088,115.7740163620,2
 0,,19489,19489,"Rochdale Rd Before Kennedia L","",-31.9692591592,115.7740022220,2
 0,,19490,19490,"Rochdale Rd Before Asquith St","",-31.9674249692,115.7738927960,2
+0,,19491,19491,"Access Rd Hbf Stadium","Hbf Stadium",-31.95312111111110,115.780966111111,1
 0,,19493,19493,"Camelia Av Before Brockway Rd","Camelia Av / Brockway Rd",-31.9662008573,115.7906819320,1
 0,,19494,19494,"Camelia Av After Brockway Rd","Camelia Av / Brockway Rd",-31.96626379,115.7904596650,1
 0,,19498,19498,"Alfred Rd Before Lantana Av","",-31.9690821503,115.7886424740,1
@@ -9384,7 +9387,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,21958,21958,"Driver Rd After Ardmore Tce","",-31.8120959257,115.8491520130,2
 0,,21959,21959,"Driver Rd After Goldina App","",-31.8115006689,115.8492401150,2
 0,,21964,21964,"Rangeview Rd Before Kingsway Rd","",-31.81402277777780,115.860712222222,2
-0,,21965,21965,"Rangeview Rd After Kingsway Rd","",-31.814125,115.860805,2
 0,,21968,21968,"Celestine St Before Lalina Wy","",-31.7599755547,115.8119729120,3
 0,,21969,21969,"Chatsworth Dr Before Kirkstall Dr","",-31.7732136457,115.8198386220,3
 0,,21970,21970,"Chatsworth Dr After Havana Vista","",-31.7708372434,115.8200280660,3
@@ -11252,8 +11254,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26957,26957,"Safety Bay Rd After Palm Dr","",-32.3262588888889010,115.754435,5
 0,,26958,26958,"Education Dr After Access Rd","",-32.5152177777777990,115.755216111111,7
 0,,26959,26959,"Education Dr After Dubarda Lk","",-32.5155999999999990,115.755271666667,7
-0,,26962,26962,"Rangeview Rd After Landsdale Rd","",-31.81741611111110,115.860720,2
-0,,26962A,26962A,"Rangeview Rd After Landsdale Rd","",-31.81770055555560,115.860684444444,2
+0,,26962,26962,"Rangeview Rd After Landsdale Rd","",-31.8176777632,115.8606938320,2
 0,,26963,26963,"Rangeview Rd After Hardcastle Av","",-31.8177727777778010,115.8608,2
 0,,26983,26983,"Jennalup St Before Murdoch Dr","Murdoch Tafe",-32.073355,115.844280,2
 0,,26984,26984,"Fiona Wood Rd After Jennalup St","",-32.07280333333340,115.848606666667,2
