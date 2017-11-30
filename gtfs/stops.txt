@@ -650,7 +650,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10729,10729,"Marmion St After North Lake Rd","Marmion Reserve",-32.0400288826,115.8150008030,2
 0,,10730,10730,"Marmion St Before Love St","Marmion St / Love St",-32.0400002563,115.8127882380,2
 0,,10731,10731,"Marmion St After Hayward St","",-32.0400375299,115.8109867980,2
-0,,10732,10732,"Marmion St After Rome Rd","",-32.0405445593,115.8075536780,2
+0,,10732,10732,"Marmion St After Rome Rd","",-32.0408365329,115.8066225540,2
 0,,10733,10733,"Marmion St Before Potts St","",-32.0413385895,115.8042975120,2
 0,,10734,10734,"Marmion St Before Thorn St","",-32.0425508132,115.8020570340,2
 0,,10735,10735,"Marmion St After Challenger Pl","",-32.0438020765,115.8000017060,2
@@ -754,7 +754,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10841,10841,"Leach Hwy After Karel Av","Leach Hwy / Karel Av",-32.0420730177,115.8726647650,2
 0,,10842,10842,"Leach Hwy After Barbican St","",-32.0277488993,115.8933522460,2
 0,,10844,10844,"Leach Hwy After Centenary Av","",-32.0225137973,115.90686253,2
-0,,10845,10845,"Leach Hwy After Bungaree Rd","Leach Hwy / Bungaree Rd",-32.0187561563,115.9125216150,2
+0,,10845,10845,"Leach Hwy After Bungaree Rd","Leach Hwy / Bungaree Rd",-32.01875611111110,115.912521666667,2
 0,,10846,10846,"Leach Hwy Before Braibrise Rd","",-32.0170757627,115.9145444440,2
 0,,10847,10847,"Leach Hwy After Braibrise Rd","",-32.0157521266,115.9161594480,2
 0,,10848,10848,"Leach Hwy Before Denby St","",-32.0143558842,115.9182541370,2
@@ -1063,7 +1063,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11217,11217,"Vahland Av Before Panamuna Dr","",-32.0570817368,115.8893902880,2
 0,,11218,11218,"Vahland Av After Silvertop Tce","",-32.0516272958,115.8901631680,2
 0,,11219,11219,"Vahland Av After Apsley Rd","",-32.0471237599,115.8929796190,2
-0,,11220,11220,"Vahland Av Before Querrin Av","",-32.04485277777780,115.893237777778,2
+0,,11220,11220,"Vahland Av Before Querrin Av","",-32.04466444444440,115.893246666667,2
 0,,11221,11221,"Vahland Av Before Kielman Rd","",-32.04097277777780,115.893233333333,2
 0,,11222,11222,"Vahland Av After Swanson St","",-32.0395148346,115.8932635450,2
 0,,11224,11224,"Vahland Av After Betula St","",-32.03598555555560,115.893141666667,2
@@ -1072,7 +1072,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11229,11229,"Vahland Av After Corinthian Rd","",-32.0352247522,115.8933594740,2
 0,,11231,11231,"Vahland Av After High Rd","",-32.0399273296,115.8935163590,2
 0,,11232,11232,"Vahland Av After Kielman Rd","",-32.0411408117,115.8934996570,2
-0,,11233,11233,"Vahland Av Before Lynton Rd","",-32.04469944444440,115.893461666667,2
+0,,11233,11233,"Vahland Av Before Lynton Rd","",-32.0448013164,115.8934860330,2
 0,,11234,11234,"Vahland Av After Lynton Rd","",-32.0473176698,115.8931565760,2
 0,,11235,11235,"Vahland Av Before Silvertop Tce","",-32.0519329431,115.8902659620,2
 0,,11236,11236,"Vahland Av Before Turret Rd","",-32.0573348516,115.8896531060,2
@@ -2190,16 +2190,16 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12533,12533,"Mirrabooka Av Before Marangaroo Dr","",-31.8365656843,115.8544305460,2
 0,,12534,12534,"Mirrabooka Av After Aristos Wy","",-31.8325495184,115.8534832140,2
 0,,12535,12535,"Mirrabooka Av After Griffon Wy","Mirrabooka Av / Rawlinson Dr",-31.83006611111110,115.852202222222,2
-0,53,12536,12536,"Mirrabooka Station   Stand 5","Mirrabooka Bus Stn",-31.8700788888889020,115.858696666667,2
-0,53,12537,12537,"Mirrabooka Station   Stand 4","Mirrabooka Bus Stn",-31.87025611111110,115.85860333333299,2
+0,53,12536,12536,"Mirrabooka Station   Stand 5","Mirrabooka Bus Stn",-31.87007888888890,115.858696666667,2
+0,53,12537,12537,"Mirrabooka Station   Stand 4","Mirrabooka Bus Stn",-31.87025611111110,115.858603333333,2
 0,53,12538,12538,"Mirrabooka Station   Stand 2","Mirrabooka Bus Stn",-31.87005611111110,115.858908888889,2
 0,53,12539,12539,"Mirrabooka Station   Stand 1","Mirrabooka Bus Stn",-31.87030222222220,115.858769444444,2
 0,53,12540,12540,"Mirrabooka Station   Stand 9","Mirrabooka Bus Stn",-31.86984777777780,115.858635555556,2
-0,53,12541,12541,"Mirrabooka Station   Stand 8","Mirrabooka Bus Stn",-31.8700350000000010,115.858535555556,2
-0,53,12542,12542,"Mirrabooka Station   Stand 7","Mirrabooka Bus Stn",-31.8702105555556020,115.858450555556,2
-0,53,12543,12543,"Mirrabooka Station   Stand 6","Mirrabooka Bus Stn",-31.8699000000000010,115.858784444444,2
-0,53,12544,12544,"Mirrabooka Station   Stand 12","Mirrabooka Bus Stn",-31.8697611111110990,115.85853666666701,2
-0,53,12545,12545,"Mirrabooka Station   Stand 11","Mirrabooka Bus Stn",-31.8699494444444010,115.85844166666701,2
+0,53,12541,12541,"Mirrabooka Station   Stand 8","Mirrabooka Bus Stn",-31.870035,115.858535555556,2
+0,53,12542,12542,"Mirrabooka Station   Stand 7","Mirrabooka Bus Stn",-31.87021055555560,115.858450555556,2
+0,53,12543,12543,"Mirrabooka Station   Stand 6","Mirrabooka Bus Stn",-31.8699,115.858784444444,2
+0,53,12544,12544,"Mirrabooka Station   Stand 12","Mirrabooka Bus Stn",-31.86976111111110,115.858536666667,2
+0,53,12545,12545,"Mirrabooka Station   Stand 11","Mirrabooka Bus Stn",-31.86994944444440,115.858441666667,2
 0,53,12546,12546,"Mirrabooka Station   Stand 10","Mirrabooka Bus Stn",-31.87012777777780,115.858353888889,2
 0,100,12547,12547,"Warwick Stn Stand 1","Warwick Stn",-31.84458944444450,115.796270555556,2
 0,100,12548,12548,"Warwick Stn Stand 2","Warwick Stn",-31.84481388888890,115.796350,2
@@ -3196,7 +3196,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,13903,13903,"Anderson Rd After Hale Rd","",-31.9872072388,116.0173809650,2
 0,,13904,13904,"Anderson Rd After Almond Wy","",-31.9922337434,116.0182193290,2
 0,,13905,13905,"Anderson Rd After Annato Pl","",-31.9943831401,116.0185783830,2
-0,,13906,13906,"Anderson Rd After Holmes Rd","Anderson Rd / Hale Rd",-31.9876660952,116.0173029690,2
+0,,13906,13906,"Anderson Rd After Holmes Rd","Anderson Rd / Hale Rd",-31.98766611111110,116.017302777778,2
 0,,13923,13923,"Cotherstone Rd Kalamunda Snr High Sch","",-31.9788994704,116.05719161,3
 0,,13924,13924,"Cotherstone Rd Before Mcrae Rd","",-31.9795182004,116.05377552,3
 0,,13925,13925,"Cotherstone Rd After Robins Rd","",-31.9802574330,116.0507238950,3
@@ -4593,7 +4593,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,15651,15651,"Benara Rd Before Waldeck Rd","",-31.8756496939,115.9653911110,2
 0,,15653,15653,"Benara Rd Before West Swan Rd","Benara Rd / West Swan Rd",-31.8757197217,115.9734013410,2
 0,,15655,15655,"Altone Rd After Driftwood Wy","Altone Rd / Bennett Springs Dr",-31.8572560303,115.9456266130,2
-0,,15656,15656,"Altone Rd After Spoonbill Pass","",-31.8588478328,115.9456691740,2
+0,,15656,15656,"Altone Rd After Spoonbill Pass","",-31.8587669030,115.9456707860,2
 0,,15657,15657,"Altone Rd After Reid Hwy","Altone Rd / Thorburn Av",-31.8641506407,115.9450142350,2
 0,,15658,15658,"Altone Rd After Small St","",-31.8689544436,115.9448192530,2
 0,,15659,15659,"Altone Rd After Amazon Dr","Altone Park Shop Ctr",-31.8706396118,115.9448088920,2
@@ -5370,7 +5370,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,16580,16580,"Timms Pl After Eaton St","",-31.8886259861,115.8976601150,2
 0,,16581,16581,"Timms Pl Before Halvorson Rd","",-31.8898470794,115.8977500020,2
 0,,16582,16582,"Halvorson Rd Before Wheeler St","",-31.8900986950,115.9000239680,2
-0,,16583,16583,"Halvorson Rd Before Timms Pl","",-31.89016222222220,115.898545555556,2
+0,,16583,16583,"Halvorson Rd Before Timms Pl","",-31.89017666666670,115.898046666667,2
 0,,16584,16584,"Wheeler St Before Candy St","",-31.8918597237,115.9004879330,2
 0,,16586,16586,"Wheeler St After Walter Rd","",-31.8942909262,115.9003964950,1
 0,,16587,16587,"Wheeler St Before Mangini St","",-31.8925874051,115.9003911130,1
@@ -8114,7 +8114,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,20188,20188,"High Rd Before Granville Wy","",-32.0388383839,115.8996984960,2
 0,,20189,20189,"High Rd After Granville Wy","",-32.0388217430,115.8978462910,2
 0,,20190,20190,"High Rd Before Vahland Av","",-32.0388145465,115.8945184440,2
-0,,20191,20191,"High Rd After Colkirk Wy","High Rd / Vahland Ave",-32.0388001407,115.8904235460,2
+0,,20191,20191,"High Rd After Colkirk Wy","High Rd / Vahland Ave",-32.0388,115.890423333333,2
 0,,20192,20192,"High Rd After Herald Av","",-32.0387850120,115.8868654570,2
 0,,20193,20193,"High Rd Before Centaur St","",-32.0387724787,115.8822721270,2
 0,,20194,20194,"High Rd After Augusta St","",-32.0387642225,115.8797702510,2
@@ -9739,7 +9739,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,23299,23299,"Dorado St After Crystaluna Dr","",-32.4340560135,115.7574770820,6
 0,,23300,23300,"Navigator Dr Before Fitch St","Navigator Dr / Fitch St",-32.4389869684,115.7565778550,6
 0,,23301,23301,"Mcveigh St Before Singleton Beach Rd","",-32.4453409347,115.7563291160,6
-0,,23302,23302,"Mcveigh St After Singleton Beach Rd","",-32.4450003253,115.7563346180,6
+0,,23302,23302,"Mcveigh St After Singleton Beach Rd","",-32.4449609428,115.7563559020,6
 0,,23303,23303,"Navigator Dr After Fitch St","",-32.4390761144,115.75648167,6
 0,,23304,23304,"Dorado St Before Crystaluna Dr","",-32.4341485450,115.7573385620,6
 0,,23305,23305,"Yanrey St Before Dampier Dr","",-32.42641444444440,115.754128333333,6
@@ -10871,8 +10871,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26387,26387,"Janis St After Leighton Rd","",-32.52712833333330,115.701338888889,7
 0,,26390,26390,"South St After Pinetree Gully Rd","",-32.0669236243,115.8790629480,2
 0,,26391,26391,"South St Before Pinetree Gully Rd","",-32.0671741137,115.8785864770,2
-0,,26396,26396,"Gaebler Rd Before Botany Pde","Gaebler Rd / Baumea Tn",-32.1685436219,115.8511894440,3
-0,,26396A,26396A,"Gaebler Rd Before Botany Pde","Gaebler Rd / Baumea Tn",-32.16853055555550,115.851838333333,3
+0,,26396,26396,"Gaebler Rd Before Botany Pde","Gaebler Rd / Baumea Tn",-32.16853055555550,115.851838333333,3
 0,,26398,26398,"Ranford Rd Before Glenariff Bvd","",-32.0919344311,115.9219912830,2
 0,,26399,26399,"Ranford Rd After Glenariff Bvd","",-32.0914805304,115.9214105170,2
 0,,26404,26404,"Barker Rd Before Kalamunda Road","",-31.9161376301,115.9778437190,2
@@ -11254,7 +11253,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26958,26958,"Education Dr After Access Rd","",-32.5152177777777990,115.755216111111,7
 0,,26959,26959,"Education Dr After Dubarda Lk","",-32.5155999999999990,115.755271666667,7
 0,,26962,26962,"Rangeview Rd After Landsdale Rd","",-31.8176777632,115.8606938320,2
-0,,26963,26963,"Rangeview Rd After Hardcastle Av","",-31.8177727777778010,115.8608,2
+0,,26963,26963,"Rangeview Rd After Hardcastle Av","",-31.81777277777780,115.8608,2
 0,,26983,26983,"Jennalup St Before Murdoch Dr","Murdoch Tafe",-32.073355,115.844280,2
 0,,26984,26984,"Fiona Wood Rd After Jennalup St","",-32.07280333333340,115.848606666667,2
 0,,26985,26985,"Fiona Wood Rd After Robin Warren Dr","",-32.07056722222220,115.848823333333,2
@@ -12550,7 +12549,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,72072,72072,"Hoylake Av After Holywell St","Hoylake Av / Holywell St",-33.34283277777780,115.625605,1
 0,,72073,72073,"Clarke St Before Macqueen Cr","Clarke St / Holylake Av",-33.34543555555560,115.630428333333,1
 0,,72074,72074,"Gibson St After Halsey St","",-33.34801388888890,115.631559444444,1
-0,,72075,72075,"Blair St After Clarke St","",-33.3467510919,115.6442097730,1
+0,,72075,72075,"Blair St After Clarke St","",-33.3468867353,115.6441386950,1
 0,,72076,72076,"Blair St After Steere Cr","",-33.35075611111110,115.642773888889,1
 0,,72077,72077,"Bussell Hwy After Timperley Rd","",-33.35425833333330,115.641565,1
 0,,72078,72078,"Blair St Opposite Steere Cr","",-33.350430,115.642682777778,1
@@ -13327,7 +13326,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,95147,95147,"Austral Tce Katanning Shire Office","Katanning Shire Office",-33.689315,117.553719444444,9
 0,,95148,95148,"Great Southern Hwy To Woodanilling","Woodanilling Turnoff",-33.5638761111110990,117.42369388888901,8
 0,,95149,95149,"Great Southern Hwy From Woodanilling","Woodanilling Turnoff",-33.5631061111110970,117.42388777777801,8
-0,,95150,95150,"Transwa Bay Manjimup","Manjimup",-34.2359433333333030,116.148346666667,1
+0,,95150,95150,"Transwa Bay Manjimup","Manjimup",-34.240710,116.148918333333,1
 0,,95151,95151,"Brockman St From Pemberton","Pemberton",-34.4461227777778020,116.03257555555599,3
 0,,95152,95152,"Brockman St To Pemberton","Pemberton",-34.4459744444444030,116.03244055555599,3
 0,,95153,95153,"Transwa Bay Pemberton T/O","Pemberton T/O",-34.35795833333330,116.160647222222,2
