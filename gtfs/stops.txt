@@ -2339,8 +2339,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12699,12699,"London St Before Gill St","",-31.9193466658,115.8444806690,1
 0,,12700,12700,"London St Before Ellesmere St","",-31.9168913009,115.8441640990,1
 0,,12701,12701,"London St Before Green St","",-31.9146662892,115.8441818110,1
-0,,12704,12704,"Vincent St - Beatty Park Aquatic Ctr","",-31.9363746908,115.8502984510,1
-0,,12705,12705,"Vincent St - Beatty Park Aquatic Ctr","",-31.9365207281,115.8496994230,1
+0,,12704,12704,"Vincent St - Beatty Park Aquatic Ctr","",-31.93637444444440,115.850298333333,1
+0,,12705,12705,"Vincent St - Beatty Park Aquatic Ctr","",-31.93652055555550,115.849699444444,1
 0,,12709,12709,"Cleaver St After Vincent St","",-31.93742833333330,115.849300555556,1
 0,,12710,12710,"Cleaver St Before Vincent St","",-31.9370498013,115.8491605720,1
 0,,12711,12711,"Lake Monger Dr Before Kimberley St","Lake Monger Dr / Kimberley St",-31.9346624712,115.8350885990,1
@@ -2771,6 +2771,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,13289,13289,"Brookton Hwy After Ellen St","",-32.1302428384,116.0261753060,3
 0,,13290,13290,"Brookton Hwy Before Hill St","",-32.13022958,116.0281432590,3
 0,,13291,13291,"Brookton Hwy After Ranford St","",-32.1275129030,116.0320521120,3
+0,,13292,13292,"Brookton Hwy After Bernard St","",-32.1242144189,116.0343115130,3
 0,,13293,13293,"Brookton Hwy Before Gemsarna Cr","",-32.1221501967,116.0374442740,3
 0,,13294,13294,"Brookton Hwy After Mount St","",-32.1226754188,116.0432526870,3
 0,,13295,13295,"Brookton Hwy Before Agostino Rd","",-32.1247222961,116.0464650760,3
@@ -3642,7 +3643,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,14471,14471,"Great Eastern Hwy Before Beverley Tce","",-31.9185899807,115.9599711610,2
 0,,14472,14472,"Great Eastern Hwy After Koojan Av","",-31.9159618687,115.9619320980,2
 0,,14473,14473,"Great Eastern Hwy After Hyne Rd","",-31.91316444444440,115.963966111111,2
-0,,14474,14474,"Great Eastern Hwy Before Kalamunda Rd","Gt Eastern Hwy / Kalamunda Rd",-31.9111000000000010,115.965456111111,2
+0,,14474,14474,"Great Eastern Hwy Before Kalamunda Rd","Gt Eastern Hwy / Kalamunda Rd",-31.9111,115.965456111111,2
 0,,14475,14475,"Great Eastern Hwy Before Kidman Av","",-31.9090948303,115.96687161,2
 0,,14476,14476,"Great Eastern Hwy Before Queens Rd","",-31.9077009254,115.9678821980,2
 0,,14477,14477,"Johnson St After Helena St","",-31.9018387368,115.9689094650,2
@@ -4510,8 +4511,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,15527,15527,"Lord St After Cranleigh St","",-31.85202611111110,115.969274444444,2
 0,,15528,15528,"Lord St Before Cranleigh St","",-31.8520527208,115.9690923540,2
 0,,15529,15529,"Lord St Before Youle-Dean Rd","",-31.8346184887,115.9653742880,2
-0,,15530,15530,"Lord St After Woollcott Av","",-31.8262477777778020,115.96240944444401,3
-0,,15531,15531,"Lord St Before Park St","",-31.8148863953,115.9624004390,3
+0,,15530,15530,"Lord St After Woollcott Av","",-31.82763222222220,115.962413888889,3
+0,,15531,15531,"Lord St Before Park St","",-31.81377944444440,115.962325555556,3
 0,,15532,15532,"Lord St After Park St","",-31.8075485489,115.96309678,3
 0,,15533,15533,"Lord St Before Henley St","",-31.8041928227,115.9628928720,3
 0,,15534,15534,"Lord St After Barrambie Wy","",-31.7993388124,115.9627703050,3
@@ -4593,16 +4594,16 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,15651,15651,"Benara Rd Before Waldeck Rd","",-31.8756496939,115.9653911110,2
 0,,15653,15653,"Benara Rd Before West Swan Rd","Benara Rd / West Swan Rd",-31.8757197217,115.9734013410,2
 0,,15655,15655,"Altone Rd After Driftwood Wy","Altone Rd / Bennett Springs Dr",-31.8572560303,115.9456266130,2
-0,,15656,15656,"Altone Rd After Spoonbill Pass","",-31.8587669030,115.9456707860,2
+0,,15656,15656,"Altone Rd After Spoonbill Pass","",-31.85876666666670,115.945670555556,2
 0,,15657,15657,"Altone Rd After Reid Hwy","Altone Rd / Thorburn Av",-31.8641506407,115.9450142350,2
 0,,15658,15658,"Altone Rd After Small St","",-31.8689544436,115.9448192530,2
 0,,15659,15659,"Altone Rd After Amazon Dr","Altone Park Shop Ctr",-31.8706396118,115.9448088920,2
-0,,15660,15660,"Altone Rd After Maguire Av","",-31.8738533323,115.9447964790,2
+0,,15660,15660,"Altone Rd After Maguire Av","",-31.87385333333330,115.944796666667,2
 0,,15661,15661,"Altone Rd After Beckworth Av","",-31.8833597559,115.9444047720,2
-0,,15662,15662,"Altone Rd Before Morley Dr","",-31.8869617901,115.94441435,2
-0,,15663,15663,"Altone Rd After Morley Dr","",-31.8859104228,115.9442868580,2
+0,,15662,15662,"Altone Rd Before Morley Dr","",-31.88614055555550,115.944416111111,2
+0,,15663,15663,"Altone Rd After Morley Dr","",-31.88591055555550,115.944286666667,2
 0,,15664,15664,"Altone Rd After Rosher Rd","",-31.88343777777780,115.944309444444,2
-0,,15665,15665,"Altone Rd After Benara Rd","Altone Rd / Benara Rd",-31.8739491103,115.9445564770,2
+0,,15665,15665,"Altone Rd After Benara Rd","Altone Rd / Benara Rd",-31.87394888888890,115.944556666667,2
 0,,15666,15666,"Altone Rd Before Amazon Dr","",-31.87093666666670,115.944587222222,2
 0,,15667,15667,"Altone Rd After Amazon Dr","",-31.8691447487,115.9445880480,2
 0,,15668,15668,"Altone Rd After Vistula Av","",-31.8638513055,115.94487075,2
@@ -7377,7 +7378,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,19166,19166,"North Beach Rd Before Brushfield Wy","",-31.8801321106,115.7964427960,2
 0,,19167,19167,"North Beach Rd Before March St","Gwelup Shopping Centre",-31.8757389158,115.79646747,2
 0,,19168,19168,"North Beach Rd Before Potter St","",-31.8719805269,115.7964947310,2
-0,,19170,19170,"Huntriss Rd After Beatrice St","",-31.8931066338,115.7870248360,2
+0,,19170,19170,"Huntriss Rd After Beatrice St","",-31.89310666666670,115.787025,2
 0,,19171,19171,"Huntriss Rd Before Moorland St","",-31.89142555555560,115.787037777778,2
 0,,19172,19172,"Huntriss Rd Before Sackville Tce","",-31.8885738888888990,115.787035,2
 0,,19173,19173,"Huntriss Rd Before Newborough St","",-31.88576388888890,115.787046666667,2
@@ -9667,7 +9668,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,23021,23021,"Rockingham Rd Before Thomas Rd","",-32.2242273698,115.7879046360,4
 0,,23024,23024,"Bagot Rd After Salisbury St","Bagot Rd / Rokeby Rd",-31.9503861103,115.8264748070,1
 0,,23025,23025,"Anchorage Dr Mindarie Senior College","Mindarie Senior College",-31.6779311706,115.7066516080,4
-0,,23085,23085,"Wellington St Perth Arena Yellow Cat 16","",-31.94984388888890,115.853491111111,FTZ
 0,,23086,23086,"Wellington St Sutherland St Yellow Cat 17","",-31.94764055555560,115.846720,FTZ
 0,,23087,23087,"Wellington St Colin St Yellow Cat 19","Wellington St / Colin St",-31.9463438297,115.8427639460,FTZ
 0,,23088,23088,"Murray St Princess Margaret Hospital Y 20","Princess Margaret Hospital",-31.9462753846,115.8393774720,FTZ
@@ -11252,7 +11252,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26957,26957,"Safety Bay Rd After Palm Dr","",-32.3262588888889010,115.754435,5
 0,,26958,26958,"Education Dr After Access Rd","",-32.5152177777777990,115.755216111111,7
 0,,26959,26959,"Education Dr After Dubarda Lk","",-32.5155999999999990,115.755271666667,7
-0,,26962,26962,"Rangeview Rd After Landsdale Rd","",-31.8176777632,115.8606938320,2
+0,,26962,26962,"Rangeview Rd After Landsdale Rd","",-31.81741611111110,115.860719444444,2
 0,,26963,26963,"Rangeview Rd After Hardcastle Av","",-31.81777277777780,115.8608,2
 0,,26983,26983,"Jennalup St Before Murdoch Dr","Murdoch Tafe",-32.073355,115.844280,2
 0,,26984,26984,"Fiona Wood Rd After Jennalup St","",-32.07280333333340,115.848606666667,2
@@ -11610,8 +11610,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27637,27637,"Banksiadale Gte After Badgerup Av","Banksiadale Gte / Badgerup Av",-32.4690410085,115.7616678040,7
 0,,27639,27639,"Eucalyptus Dr After Cooli Street","",-32.1661314483,115.8465968790,3
 0,,27640,27640,"Eucalyptus Dr Before Cooli Street","",-32.16626611111110,115.846290,3
-0,,27643,27643,"Frankland Av After Eucalyptus Dr","",-32.1667143704,115.8424748090,3
-0,,27644,27644,"Frankland Av Before Eucalyptus Dr","",-32.1664263764,115.8423140050,3
+0,,27643,27643,"Hammond Rd After Eucalyptus Dr","Hammond Rd / Eucalyptus Dr",-32.1667143704,115.8424748090,3
+0,,27644,27644,"Hammond Rd Before Eucalyptus Dr","Hammond Rd / Eucalyptus Dr",-32.1664263764,115.8423140050,3
 0,,27649,27649,"Clondyke Dr After South Western Hwy","",-32.23743222222220,116.006946666667,4
 0,,27650,27650,"Benalla Cr After Limpet Wy","Benalla Cr/Limpet Wy",-32.2358184256,116.0089099980,4
 0,,27651,27651,"Benalla Cr Before Bandin Wy","",-32.23342333333330,116.010318333333,4
