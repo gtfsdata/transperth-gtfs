@@ -274,7 +274,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10312,10312,"Canning Hwy Before Norma Rd","",-32.0298407614,115.8198496360,2
 0,,10313,10313,"Canning Hwy Before Francis Rd","",-32.0292768984,115.8223999610,2
 0,,10314,10314,"Canning Hwy Before Cantray Av","",-32.0270791856,115.8261086010,2
-0,,10315,10315,"Canning Hwy After Cunningham St","",-32.0247182043,115.8288464550,2
+0,,10315,10315,"Canning Hwy After Cunningham St","",-32.02471833333330,115.828846666667,2
 0,,10316,10316,"Canning Hwy After Collier St","",-32.0228335658,115.8307511680,1
 0,,10317,10317,"Canning Hwy Before Conon Rd","",-32.0211634637,115.8324529780,1
 0,,10318,10318,"Canning Hwy After Riseley St","",-32.0199190438,115.83434816,1
@@ -920,7 +920,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11041,11041,"Stock Rd Before Rockingham Rd","",-32.1363399624,115.7894868610,3
 0,,11046,11046,"Stock Rd Before Stockdale Rd","",-32.0573478459,115.7934364380,2
 0,,11047,11047,"Stock Rd Before Sainsbury Rd","",-32.0553618955,115.79341412,2
-0,,11048,11048,"Stock Rd Before Boon St","",-32.0528083642,115.79338958,2
+0,,11048,11048,"Stock Rd Before Boon St","",-32.05280833333340,115.793389444444,2
 0,,11057,11057,"Moreing Rd Santa Maria College","Santa Maria College",-32.018635,115.794752222222,2
 0,,11062,11062,"Moreing Rd After Hough Rd","",-32.0256543017,115.7948026340,2
 0,,11064,11064,"Moreing Rd Before Hough Rd","",-32.0249234743,115.7947119260,2
@@ -1453,7 +1453,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11653,11653,"Lord St After Walcott St","Mt Lawley Tafe",-31.9397093449,115.8763062940,1
 0,,11654,11654,"Lord St Before Broome St","Lord St / Broome St",-31.9414930699,115.8750953220,1
 0,,11655,11655,"Lord St After Windsor St","",-31.9444954212,115.8730547310,1
-0,,11656,11656,"Lord St After Coolgardie Tce","",-31.9461096361,115.8718878150,FTZ
+0,,11656,11656,"Lord St After Coolgardie Tce","",-31.94624055555560,115.871777222222,FTZ
 0,,11657,11657,"Lord St After Brewer St","",-31.94771055555560,115.870565,FTZ
 0,,11658,11658,"Garratt Rd After Williamson St","",-31.9283510696,115.9128251170,1
 0,,11660,11660,"Grandstand Rd After Waterway Cr","Ascot Racecourse",-31.9371132969,115.9203943660,1
@@ -1972,10 +1972,10 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12268,12268,"Brazier Rd After Compass Cir","",-31.5583185058,115.6318941850,6
 0,,12269,12269,"Brazier Rd Before Leonard Wy","",-31.5573343542,115.6301338270,6
 0,,12270,12270,"Brazier Rd Before Coles Pl","",-31.55409555555550,115.627985,6
-0,,12271,12271,"Lagoon Dr After Primary Rd","Yanchep District High School",-31.5518014117,115.6368758050,6
+0,,12271,12271,"Lagoon Dr After Primary Rd","Yanchep Secondary College",-31.5518014117,115.6368758050,6
 0,,12272,12272,"Lagoon Dr After Saint Ives Dr","",-31.5539669350,115.6355880940,6
 0,,12273,12273,"Lagoon Dr Before Saint Ives Dr","",-31.5537071421,115.63564839,6
-0,,12274,12274,"Lagoon Dr After Saint Ives Dr","Yanchep District High School",-31.55223333333330,115.636608333333,6
+0,,12274,12274,"Lagoon Dr After Saint Ives Dr","Yanchep Secondary College",-31.55223333333330,115.636608333333,6
 0,,12275,12275,"Moorpark Av Before Wentworth St","",-31.5400170118,115.64709749,6
 0,,12276,12276,"Moorpark Av Before Wentworth St","",-31.5418579005,115.64784793,6
 0,,12277,12277,"Moorpark Av Before Saint Andrews Dr","",-31.5459093641,115.6513761580,6
@@ -5688,7 +5688,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,17056,17056,"Dixon Rd After Arkwright Rd","",-32.27715388888890,115.766577777778,5
 0,,17058,17058,"Dixon Rd After Ennis Av","",-32.2771803385,115.7580285210,5
 0,,17060,17060,"Dixon Rd Murdoch University Rockingham Campus","Dixon Rd / Dowling St",-32.27734388888890,115.751413888889,5
-0,,17062,17062,"Dixon Rd Before Goddard St","",-32.2775533458,115.7447457410,5
+0,,17062,17062,"Dixon Rd Before Goddard St","",-32.27755333333330,115.744745555556,5
 0,,17065,17065,"Dixon Rd Murdoch University Rockingham Campus","Dixon Rd / Dowling St",-32.2771526859,115.7507325510,5
 0,,17067,17067,"Dixon Rd Before Ennis Av","",-32.2769465634,115.7590100810,5
 0,,17069,17069,"Dixon Rd Before Arkwright Rd","",-32.2769085694,115.7669252320,5
@@ -5833,7 +5833,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,17277,17277,"Warnbro Sound Av After Secret Harbour Bvd","",-32.3965912670,115.7597211520,6
 0,,17278,17278,"Warnbro Sound Av After Surf Dr","",-32.3998112826,115.7597890020,6
 0,,17279,17279,"Warnbro Sound Av Before Peaceful Bay Prom","",-32.40329222222220,115.759873888889,6
-0,,17280,17280,"Warnbro Sound Av Before Anstey Rd","Warnbro Sound Av / Anstey Rd",-32.4055162683,115.7599053260,6
+0,,17280,17280,"Warnbro Sound Av Before Anstey Rd","Warnbro Sound Av / Anstey Rd",-32.40551611111110,115.759905555556,6
 0,,17281,17281,"Warnbro Sound Av Before Dampier Dr","",-32.4227596046,115.7643359580,6
 0,,17282,17282,"Warnbro Sound Av After Dampier Dr","",-32.4229490040,115.7641704630,6
 0,,17283,17283,"Warnbro Sound Av After Secret Harbour Bvd","Warnbro Sound Av / Anstey Rd",-32.40556555555560,115.759575,6
@@ -9572,7 +9572,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,22747,22747,"Stalker Rd Before Hicks St","",-32.0725033198,115.9971962260,3
 0,,22748,22748,"Wheatley St Before Walter St","",-32.0691588120,115.9971303290,3
 0,,22749,22749,"Stalker Rd Before Watson St","",-32.07448722,115.9949891430,3
-0,,22750,22750,"Lady Lindsay Cove Yanchep High School","Yanchep District High School",-31.55082722222220,115.635351666667,6
+0,,22750,22750,"Lady Lindsay Cove Yanchep High School","Yanchep Secondary College",-31.55082722222220,115.635351666667,6
 0,,22751,22751,"Pier St Before Brewer St","Nib Stadium",-31.94541666666670,115.868679444444,1
 0,,22752,22752,"Pier St After Brewer St","Nib Stadium",-31.945380,115.868591111111,1
 0,,22758,22758,"Bardwell St After Denham Wy","",-32.0608478743,115.9720830470,2
@@ -10390,14 +10390,14 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,25603,25603,"Patterson Rd After Victoria St","",-32.2741490590,115.7441296550,5
 0,,25604,25604,"Goddard St After Patterson Rd","",-32.27612388888890,115.742387777778,5
 0,,25605,25605,"Goddard St After Dixon Rd","",-32.2770637763,115.7429437750,5
-0,,25606,25606,"Dixon Rd Before Ambrose St","",-32.2773213151,115.7447059020,5
+0,,25606,25606,"Dixon Rd Before Ambrose St","",-32.27732111111110,115.744706111111,5
 0,,25630,25630,"Victoria Pde Before Salisbury Rd","",-31.8899570608,116.0245803260,3
 0,,25631,25631,"Kalamunda Rd Before Abernethy Rd","",-31.9242566407,115.9908926880,2
 0,,25632,25632,"Kalamunda Rd After Abernethy Rd","",-31.9241443627,115.9905751430,2
 0,,25639,25639,"Old Coast Rd After Country Club Dr","",-32.6131225316,115.6368531130,8
 0,,25640,25640,"Old Coast Rd Before Country Club Dr","",-32.6133499991,115.63720207,8
 0,,25642,25642,"Discovery Way Before Nyarrie Dr","",-32.0700893207,115.8390962520,2
-0,,25643,25643,"Discovery Way - Amenities Building","Murdoch University (Discovery Dr)",-32.0693743486,115.8348080950,2
+0,,25643,25643,"Discovery Way - Amenities Building","Murdoch University (Discovery Dr)",-32.06937444444450,115.834808333333,2
 0,,25646,25646,"Discovery Way - Amenities Building","Murdoch University (Discovery Dr)",-32.0692394182,115.8350595610,2
 0,,25647,25647,"Discovery Way After Nyarrie Dr","",-32.0699725221,115.8387847510,2
 0,,25653,25653,"Sainsbury Rd After Hines Rd","",-32.0549408738,115.78364408,2
@@ -10656,7 +10656,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26099,26099,"Kingsway   Before Ashdale Bvd","",-31.8132672065,115.8466552060,2
 0,,26100,26100,"Parkland Rd After Harborne St","",-31.9171633189,115.81933020,1
 0,,26105,26105,"Kingsway   Before Rangeview Rd","Kingsway / Rangeview Rd",-31.8132168375,115.8594758920,2
-0,,26106,26106,"Kingsway   After Rangeview Rd","Kingsway / Rangeview Rd",-31.8133206688,115.8591700750,2
+0,,26106,26106,"Kingsway   After Rangeview Rd","Kingsway / Rangeview Rd",-31.81332055555550,115.859170,2
 0,,26107,26107,"Waldburg Dr After Whyalla Ch","",-31.7141246587,115.7935514950,4
 0,,26108,26108,"Waldburg Dr After Yandella Prom","",-31.7176034067,115.7956842340,4
 0,,26109,26109,"Waldburg Dr After Alvarez Pwy","",-31.7194132072,115.7971637740,4
@@ -10798,7 +10798,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26280,26280,"Kalinda Dr Opposite Kalari Dr","",-31.9358529699,115.7700208910,2
 0,,26281,26281,"Eighth Av After Guildford Rd","",-31.9306322355,115.8942664190,1
 0,,26282,26282,"Stoneville Rd After Great Eastern Highway","",-31.9008967689,116.1681594640,4
-0,,26283,26283,"Kintail Rd Before Canning Highway","Kintail Rd / Moreau Mews",-32.0111321010,115.8506491010,1
+0,,26283,26283,"Kintail Rd Before Canning Highway","Kintail Rd / Moreau Mews",-32.01113222222220,115.850648888889,1
 0,,26284,26284,"Marmion Av After Santorini Prom","Marmion Av / Santorini Prom",-31.6302936128,115.6899942710,5
 0,,26285,26285,"Marmion Av Before Santorini Prom","Marmion Av / Santorini Prom",-31.6301577105,115.6898190980,5
 0,,26288,26288,"Hasler Rd Before Teakle Rd","",-31.9112124040,115.8092327360,1
@@ -10806,7 +10806,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26290,26290,"Lyon Rd Before Aristata Pde","",-32.1747443447,115.8612428550,3
 0,,26291,26291,"Lyon Rd After Radiata Prom","",-32.1714288863,115.86110343,3
 0,,26292,26292,"Pinjarra Rd After Old Pinjarra Rd","",-32.5404517047,115.7639250790,7
-0,,26293,26293,"Excellence Dr After Inspiration Dr ","Excellence Dr / Inspiration Dr",-31.7988599171,115.8339445420,3
+0,,26293,26293,"Excellence Dr After Inspiration Dr ","Excellence Dr / Inspiration Dr",-31.798860,115.833944444444,3
 0,,26294,26294,"Allnutt St After Park Rd","",-32.5270739469,115.7388651490,7
 0,,26295,26295,"Peel St After Randell St","",-32.5275589112,115.7291450760,7
 0,,26298,26298,"Peel St Before Randell St","",-32.5274777475,115.72922776,7
@@ -11280,6 +11280,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27035,27035,"South Yunderup Rd Before Leander Wy","",-32.58559833333330,115.815082222222,8
 0,,27040,27040,"South Yunderup Rd After Leander Wy","",-32.58575111111110,115.814831111111,8
 0,,27087,27087,"George St After Pinjarra","",-32.63060833333330,115.872782222222,8
+0,,27090,27090,"Safety Bay Rd After Goulburn Rd","",-32.33231277777780,115.819522222222,5
+0,,27091,27091,"Safety Bay Rd After Baldivis Rd","",-32.332670,115.819427222222,5
 0,137,27092,27092,"Perth Busport  Stand 1","Perth Busport",-31.94982666666670,115.856288333333,FTZ
 0,,27095,27095,"Marangaroo Dr After Mereworth Wy","",-31.83261222222220,115.826157777778,2
 0,,27098,27098,"Joseph Banks Bvd Stand 1","Joseph Banks Secondary College",-31.69690944444440,115.798310555556,4
@@ -11364,7 +11366,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27208,27208,"School Access Rd Bullsbrook College","",-31.660485,116.034596111111,5
 0,,27242,27242,"Landbeach Bvd After Randstone Pde","",-31.63580611111110,115.708600555556,5
 0,,27244,27244,"Marapana Rd Before Palana Rd","",-31.9382012317,115.76583643,2
-0,,27246,27246,"Wattlebird Wy Before Ridge Bvd","Wattlebird Wy / Ridge Bvd",-32.3535236692,115.8068673920,5
+0,,27246,27246,"Wattlebird Wy Before Ridge Bvd","Wattlebird Wy / Ridge Bvd",-32.35352388888890,115.806867222222,5
 0,,27247,27247,"Honeywood Av After Litchfield Circle","",-32.1935084296,115.8615550290,4
 0,,27248,27248,"Honeywood Av After Drysdale Gardens","",-32.1934843384,115.8617329690,4
 0,,27250,27250,"Helena Valley Rd Before Goldsbrough Ent","Helena Valley Rd / Lomandra Rd",-31.9190016386,116.0338781420,2
@@ -11660,6 +11662,11 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27722,27722,"Gnangara Rd After Prestige Dr","",-31.79766833333330,115.848537777778,3
 0,,27723,27723,"Gnangara Rd Before Prestige Dr","",-31.79768055555550,115.848883888889,3
 0,,27724,27724,"Gnangara Rd Before Callaway St","",-31.79937722222220,115.844898888889,3
+0,140,27745,27745,"Perth Stadium Bus Stn Perth Stadium Stand 18","Perth Stadium Bus Stn",-31.95433611111110,115.889949444444,1
+0,140,27749,27749,"Perth Stadium Bus Stn Perth Stadium Stand 22","Perth Stadium Bus Stn",-31.95502055555560,115.890115,1
+0,,27751,27751,"Nelson Av Stand 1","East Perth Special Event Bus Stn",-31.95676555555550,115.883850555556,FTZ
+0,,27754,27754,"Nelson Av Stand 4","East Perth Special Event Bus Stn",-31.95624166666660,115.883661666667,FTZ
+0,,27758,27758,"Nile St Stand 8","East Perth Special Event Bus Stn",-31.95532944444440,115.883323333333,FTZ
 0,,27759,27759,"Swan View Rd After Old York Rd","",-31.89727111111110,116.060643333333,3
 0,,27760,27760,"Swan View Rd Before Wandu Rd","",-31.89509777777780,116.061076666667,3
 0,,27761,27761,"Swan View Rd Before Grevillea Cr","",-31.89237333333340,116.061480,3
@@ -11678,6 +11685,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27780,27780,"Banksiadale Gte After Sinclair Vst","",-32.46948777777780,115.765428333333,7
 0,,27781,27781,"Banksiadale Gte Before Loretta Pky","",-32.46934166666670,115.765227777778,7
 0,,27784,27784,"Flynn St Before Reserve St","",-31.93106222222220,115.805796666667,1
+0,,27787,27787,"Perth Stadium Stn Platform 3","Perth Stadium Stn",-31.94977777777780,115.892267222222,1
+0,140,27789,27789,"Perth Stadium Stn Platform 5","Perth Stadium Stn",-31.95072055555560,115.893581666667,1
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce",-28.7734316666666990,114.612454444444,1
 0,,70003,70003,"Chapman Rd Before Mark St","",-28.76018222222220,114.615859444444,1
@@ -13860,3 +13869,4 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 1,,136,136,"Elizabeth Quay Bus Stn",,-31.956287217969,115.853894560569,
 1,,137,137,"Perth Busport",,-31.950090,115.856856111111,
 1,,138,138,"Aubin Grove Stn",,-32.1551978012,115.8578771850,
+1,,140,140,"Perth Stadium Stn",,-31.9496,115.8934,
