@@ -459,6 +459,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10519,10519,"Ranford Rd Before Nicholson Rd","",-32.0905805171,115.9195507480,2
 0,,10520,10520,"Ranford Rd - Livingston Marketplace","Livingston Marketplace",-32.0874640291,115.9159834270,2
 0,,10521,10521,"Ranford Rd Before Brennan Av","Ranford Rd / Brennan Av",-32.0845917413,115.9127981210,2
+0,,10521A,10521A,"Ranford Rd After Brennan Av","",-32.08359722222220,115.911631111111,2
 0,,10522,10522,"Ranford Rd Before Wilfred Rd","",-32.082670,115.910325555556,2
 0,,10523,10523,"Ranford Rd After Wilfred Rd","",-32.08166944444440,115.908478333333,2
 0,,10524,10524,"Ranford Rd After Waratah Bvd","",-32.07991166666660,115.904989444444,2
@@ -672,12 +673,12 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10751,10751,"Lefroy Rd Before Mccleery St","",-32.0675732411,115.7585354450,2
 0,,10752,10752,"Lefroy Rd After Hale St","",-32.0675636216,115.7604606360,2
 0,,10753,10753,"Lefroy Rd After Sea View St","",-32.0675083172,115.7635905420,2
-0,,10754,10754,"Lefroy Rd After Caesar St","South Fremantle Senior High School",-32.0672168154,115.7696438920,2
+0,,10754,10754,"Lefroy Rd After Caesar St","Fremantle College",-32.0672168154,115.7696438920,2
 0,,10755,10755,"Lefroy Rd Before Fifth Av","",-32.0671312090,115.7717726290,2
 0,,10756,10756,"Lefroy Rd After Central Av","",-32.0671067012,115.7736286440,2
 0,,10757,10757,"Lefroy Rd After York St","",-32.0672028784,115.7736145670,2
 0,,10758,10758,"Lefroy Rd After Fifth Av","",-32.0672319703,115.7718656710,2
-0,,10759,10759,"Lefroy Rd South Fremantle High School Stand 1","South Fremantle Senior High School",-32.0674633351,115.7682347520,2
+0,,10759,10759,"Lefroy Rd Fremantle College Stand 1","Fremantle College",-32.0674633351,115.7682347520,2
 0,,10760,10760,"Lefroy Rd Before Curedale St","",-32.0675829825,115.7645921750,2
 0,,10761,10761,"Lefroy Rd After Livingstone St","",-32.0676467749,115.7606598660,2
 0,,10762,10762,"Clontarf Rd After Newmarket St","",-32.0756020571,115.7628515760,2
@@ -766,7 +767,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10856,10856,"Leach Hwy Before Bull Creek Dr","Leach Hwy / Bull Creek Dr",-32.04742811,115.8614128440,2
 0,,10857,10857,"Leach Hwy Before Amur Pl","",-32.0462825034,115.8495809010,2
 0,,10858,10858,"Leach Hwy Before Murdoch Dr","",-32.0462263410,115.8448573370,2
-0,,10859,10859,"Leach Hwy After Murdoch Dr","",-32.0461413025,115.83977703,2
+0,,10859,10859,"Leach Hwy After Murdoch Dr","",-32.04617444444440,115.841528333333,2
 0,,10860,10860,"Leach Hwy Before Riseley St","",-32.0461547384,115.8373029880,2
 0,,10861,10861,"Leach Hwy After Riseley St","",-32.0461915205,115.8325987350,2
 0,,10862,10862,"Leach Hwy Ross Park","Leach Hwy / Marcus Av",-32.0461996615,115.82958040,2
@@ -1232,6 +1233,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11405,11405,"Morley Dr After Lord St","",-31.8878165519,115.95519891,2
 0,,11406,11406,"Morley Dr After Clay St","",-31.8878136637,115.95320615,2
 0,,11407,11407,"Morley Dr After Hampton Sq","Morley Dr / Beechboro Rd",-31.88904944444440,115.922353888889,2
+0,,11408,11408,"Morley Dr After Bath Rd","Morley Dr / Tonkin Hwy",-31.88850888888890,115.913972777778,2
 0,,11409,11409,"Morley Dr After Emberson Rd","",-31.8878988569,115.9112800960,2
 0,,11410,11410,"Morley Dr After Byfleet St","",-31.8878956477,115.9090375880,2
 0,,11411,11411,"Morley Dr After Randerson Pl","",-31.8890651509,115.8850875280,1
@@ -1927,6 +1929,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,136,12206,12206,"Elizabeth Quay Bus Stn Stand D2","Elizabeth Quay Bus Stn",-31.95623944444450,115.853408333333,FTZ
 0,136,12207,12207,"Elizabeth Quay Bus Stn Stand D1","Elizabeth Quay Bus Stn",-31.95615444444450,115.853164444444,FTZ
 0,136,12209,12209,"Elizabeth Quay Bus Stn Stand C6","Elizabeth Quay Bus Stn",-31.95640277777780,115.854338888889,FTZ
+0,136,12210,12210,"Elizabeth Quay Bus Stn Stand C5","Elizabeth Quay Bus Stn",-31.95632722222220,115.854116666667,FTZ
 0,136,12211,12211,"Elizabeth Quay Bus Stn Stand C4","Elizabeth Quay Bus Stn",-31.95627333333330,115.853938888889,FTZ
 0,136,12212,12212,"Elizabeth Quay Bus Stn Stand C3","Elizabeth Quay Bus Stn",-31.95620666666670,115.853725555556,FTZ
 0,136,12213,12213,"Elizabeth Quay Bus Stn Stand C2","Elizabeth Quay Bus Stn",-31.95612666666660,115.853473888889,FTZ
@@ -7583,6 +7586,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,19445,19445,"Bedbrook Pl After Lemnos St","Bedbrook Pl / Lemnos St",-31.95619611111110,115.799737222222,1
 0,,19446,19446,"Underwood Av After Brockway Rd","Underwood Av / Meagher Dr",-31.9482422834,115.7884746360,1
 0,,19447,19447,"Underwood Av Before Perry Lakes Dr","",-31.9482398732,115.7836735630,1
+0,,19448,19448,"Underwood Av After Perry Lakes Dr","",-31.9479052862,115.7835396860,1
 0,,19449,19449,"Underwood Av After Meagher Dr","Underwood Av / Meagher Dr",-31.9479269512,115.7891950360,1
 0,,19452,19452,"Brockway Rd After John 23rd Av","",-31.9599730573,115.7919648660,1
 0,,19453,19453,"Brockway Rd Graylands Hospital","",-31.9619326397,115.79190707,1
@@ -7615,7 +7619,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,19488,19488,"Rochdale Rd After Asquith St","",-31.9671869088,115.7740163620,2
 0,,19489,19489,"Rochdale Rd Before Kennedia L","",-31.9692591592,115.7740022220,2
 0,,19490,19490,"Rochdale Rd Before Asquith St","",-31.9674249692,115.7738927960,2
-0,,19491,19491,"Access Rd Hbf Stadium","Hbf Stadium",-31.95340222222220,115.780957777778,1
+0,,19491,19491,"Access Rd Hbf Stadium","Hbf Stadium",-31.95338722222220,115.780972222222,1
 0,,19493,19493,"Camelia Av Before Brockway Rd","Camelia Av / Brockway Rd",-31.9662008573,115.7906819320,1
 0,,19494,19494,"Camelia Av After Brockway Rd","Camelia Av / Brockway Rd",-31.96626379,115.7904596650,1
 0,,19498,19498,"Alfred Rd Before Lantana Av","",-31.9690821503,115.7886424740,1
@@ -7856,8 +7860,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,19828,19828,"Carmody St After Redmond Rd","",-32.0821783577,115.7901685470,2
 0,,19829,19829,"Carmody St After Oconnell St","",-32.0829431782,115.7919719570,2
 0,,19830,19830,"Carmody St Before Redmond Rd","",-32.0822040126,115.7899872240,2
-0,,19831,19831,"Ralston St After Cutts St","Hamilton Senior High School",-32.0830581311,115.7944405590,2
-0,,19832,19832,"Ralston St Before Dearle St","Hamilton Senior High School",-32.0830175219,115.7952278380,2
+0,,19831,19831,"Ralston St After Cutts St","Ralston St / Dearle St",-32.0830581311,115.7944405590,2
+0,,19832,19832,"Ralston St Before Dearle St","Ralston St / Dearle St",-32.0830175219,115.7952278380,2
 0,,19833,19833,"Ralston St Before Oconnell St","",-32.0833375721,115.7928396360,2
 0,,19838,19838,"Southwell Cr After Blackwood Av","",-32.0866079277,115.7913441010,2
 0,,19839,19839,"Southwell Cr Before Ely St","",-32.0881313142,115.7913963440,2
@@ -8412,6 +8416,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,20553,20553,"Bannister Rd Before Hurley St","",-32.0592348512,115.9090767330,2
 0,,20554,20554,"Bannister Rd Before Baile Rd","",-32.0633795872,115.9034293910,2
 0,,20555,20555,"Bannister Rd Before Zanni St","",-32.0658368817,115.9004976840,2
+0,,20557,20557,"Langford Av Before Gale St","Langford Av / Nicholson Rd",-32.0395926869,115.9349192740,2
 0,,20558,20558,"Langford Av Before Turley Wy","Langford Av / Nicholson Rd",-32.0403825198,115.9363377420,2
 0,,20559,20559,"Langford Av After Powis Ct","",-32.0423844341,115.9382545790,2
 0,,20560,20560,"Langford Av After Wingrove Rd","Langford Village Shop Ctr",-32.0437232298,115.9413907590,2
@@ -8496,6 +8501,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,20670,20670,"Sugarwood Dr After Garden St","Sugarwood Dr / Garden St",-32.0673929519,115.9400773960,2
 0,,20671,20671,"Sugarwood Dr After Brunswick Rd","",-32.0662789642,115.9442630260,2
 0,,20672,20672,"Towncentre Dr Before Sugarwood Dr","",-32.0660947066,115.9454340410,2
+0,,20672A,20672A,"Towncentre Dr Before Sugarwood Dr","",-32.06609444444440,115.945433888889,2
 0,,20673,20673,"Sugarwood Dr After Kurrajong Dr","Sugarwood Dr / Garden St",-32.06750444444450,115.940107777778,2
 0,,20674,20674,"Garden St After Figtree Dr","",-32.0696999718,115.9401296360,2
 0,,20675,20675,"Garden St Before Figtree Dr","",-32.0699711111111010,115.93990833333299,2
@@ -9668,6 +9674,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,23021,23021,"Rockingham Rd Before Thomas Rd","",-32.2242273698,115.7879046360,4
 0,,23024,23024,"Bagot Rd After Salisbury St","Bagot Rd / Rokeby Rd",-31.9503861103,115.8264748070,1
 0,,23025,23025,"Anchorage Dr Mindarie Senior College","Mindarie Senior College",-31.6779311706,115.7066516080,4
+0,,23085,23085,"Wellington St Perth Arena Yellow Cat 16","",-31.94984388888890,115.853491111111,FTZ
 0,,23086,23086,"Wellington St Sutherland St Yellow Cat 17","",-31.94764055555560,115.846720,FTZ
 0,,23087,23087,"Wellington St Colin St Yellow Cat 19","Wellington St / Colin St",-31.9463438297,115.8427639460,FTZ
 0,,23088,23088,"Murray St Princess Margaret Hospital Y 20","Princess Margaret Hospital",-31.9462753846,115.8393774720,FTZ
@@ -11633,7 +11640,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27670,27670,"Jane Brook Dr After Glen Ross Ch","",-31.86052055555560,116.052842777778,3
 0,,27671,27671,"Jane Brook Dr Before Wilstshire Av","",-31.86056388888890,116.056078888889,3
 0,,27672,27672,"Wiltshire Av After Pechey Rd","Wiltshire Av/Pechey Rd",-31.86209611111110,116.058359444444,3
-0,,27673,27673,"Lefroy Rd South Fremantle High School Stand 2","South Fremantle Senior High School",-32.06743944444450,115.768449444444,2
+0,,27673,27673,"Lefroy Rd Fremantle College Stand 2","Fremantle College",-32.06743944444450,115.768449444444,2
 0,,27676,27676,"Adelaide Tce Westend Causeway","",-31.96177777777780,115.877383333333,FTZ
 0,,27683,27683,"Activ Industries Rd After Davies L","",-32.0021173375,115.9242943430,2
 0,,27688,27688,"Gnangara Rd After Buffalo Av","",-31.80329888888890,115.820262777778,3
@@ -11662,6 +11669,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27722,27722,"Gnangara Rd After Prestige Dr","",-31.79766833333330,115.848537777778,3
 0,,27723,27723,"Gnangara Rd Before Prestige Dr","",-31.79768055555550,115.848883888889,3
 0,,27724,27724,"Gnangara Rd Before Callaway St","",-31.79937722222220,115.844898888889,3
+0,140,27739,27739,"Perth Stadium Bus Stn Perth Stadium Stand 12","Perth Stadium Bus Stn",-31.95310888888890,115.889657777778,1
+0,140,27742,27742,"Perth Stadium Bus Stn Perth Stadium Stand 15","Perth Stadium Bus Stn",-31.95357166666670,115.889777222222,1
 0,140,27745,27745,"Perth Stadium Bus Stn Perth Stadium Stand 18","Perth Stadium Bus Stn",-31.95433611111110,115.889949444444,1
 0,140,27749,27749,"Perth Stadium Bus Stn Perth Stadium Stand 22","Perth Stadium Bus Stn",-31.95502055555560,115.890115,1
 0,,27751,27751,"Nelson Av Stand 1","East Perth Special Event Bus Stn",-31.95676555555550,115.883850555556,FTZ
@@ -11685,7 +11694,10 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27780,27780,"Banksiadale Gte After Sinclair Vst","",-32.46948777777780,115.765428333333,7
 0,,27781,27781,"Banksiadale Gte Before Loretta Pky","",-32.46934166666670,115.765227777778,7
 0,,27784,27784,"Flynn St Before Reserve St","",-31.93106222222220,115.805796666667,1
+0,140,27785,27785,"Perth Stadium Stn Platform 1","Perth Stadium Stn",-31.95096722222220,115.893277777778,1
+0,140,27786,27786,"Perth Stadium Stn Platform 2","Perth Stadium Stn",-31.95092166666670,115.893335,1
 0,,27787,27787,"Perth Stadium Stn Platform 3","Perth Stadium Stn",-31.94977777777780,115.892267222222,1
+0,,27788,27788,"Perth Stadium Stn Platform 4","Perth Stadium Stn",-31.94972388888890,115.892338888889,1
 0,140,27789,27789,"Perth Stadium Stn Platform 5","Perth Stadium Stn",-31.95072055555560,115.893581666667,1
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce",-28.7734316666666990,114.612454444444,1
@@ -13617,6 +13629,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,56,99004,99004,"Perth Stn Platform 4","Perth Stn",-31.9512488888889020,115.86003888888899,FTZ
 0,56,99005,99005,"Perth Stn Platform 5","Perth Stn",-31.9512266666666990,115.85998499999999,FTZ
 0,56,99007,99007,"Perth Stn Platform 7","Perth Stn",-31.9511677777778010,115.860081666667,FTZ
+0,56,99009,99009,"Perth Stn Platform 9","Perth Stn",-31.9510849999999990,115.86006500000001,FTZ
 0,22,99011,99011,"Mciver Stn Platform 1","Mciver Stn",-31.9518422222222010,115.866505555556,FTZ
 0,22,99012,99012,"Mciver Stn Platform 2","Mciver Stn",-31.9518227777777990,115.866496111111,FTZ
 0,22,99013,99013,"Mciver Stn Platform 3","Mciver Stn",-31.9517011111110990,115.866457222222,FTZ
