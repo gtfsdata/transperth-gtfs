@@ -1285,7 +1285,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11461,11461,"Scarborough Beach Rd Before Selby St","",-31.90465666666670,115.805649444444,1
 0,,11462,11462,"Scarborough Beach Rd After Ellen Stirling Bvd","Innaloo Shopping Centre",-31.9032160829,115.7993649340,2
 0,,11463,11463,"Scarborough Beach Rd After Ewen St","",-31.90097833333330,115.793816666667,2
-0,,11464,11464,"Scarborough Beach Rd After Muriel Av","",-31.900475,115.791623888889,2
+0,,11464,11464,"Scarborough Beach Rd After Muriel Av","Westfield Innaloo Shopping Centre",-31.900475,115.791623888889,2
 0,,11465,11465,"Scarborough Beach Rd After Grant St","",-31.89995388888890,115.788728888889,2
 0,,11466,11466,"Scarborough Beach Rd After Huntriss Rd","",-31.89881777777780,115.786418888889,2
 0,,11467,11467,"Scarborough Beach Rd After Princess Rd","",-31.89733555555560,115.784419444444,2
@@ -2039,7 +2039,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12352,12352,"Wanneroo Rd After Mcdonald St","",-31.9069857682,115.8448233950,1
 0,,12353,12353,"Wanneroo Rd Before London St","",-31.9093626225,115.8454146970,1
 0,,12354,12354,"Wanneroo Rd - Dog Swamp Shopping Ctr","Dog Swamp Shop Ctr",-31.9110353291,115.8463503770,1
-0,,12355,12355,"Wanneroo Rd After London St","Dog Swamp Shop Ctr",-31.9093889605,115.8448774220,1
+0,,12355,12355,"Wanneroo Rd After London St","Dog Swamp Shop Ctr",-31.90938888888890,115.844877222222,1
 0,,12356,12356,"Wanneroo Rd After Mcdonald St","Wanneroo Rd / Mcdonald St",-31.9059892608,115.8441701170,1
 0,,12357,12357,"Wanneroo Rd After Hector St","",-31.9037059035,115.8432817060,1
 0,,12358,12358,"Wanneroo Rd After Cape St","",-31.9009110794,115.8421862730,1
@@ -2221,7 +2221,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12563,12563,"Scarborough Beach Rd After Woodside St","",-31.8965510375,115.7836260060,2
 0,,12564,12564,"Scarborough Beach Rd After Princess Rd","",-31.8977208097,115.7851684160,2
 0,,12565,12565,"Scarborough Beach Rd After Huntriss Rd","",-31.8993867143,115.7877952170,2
-0,,12566,12566,"Scarborough Beach Rd After Grant St","",-31.90029555555550,115.791462777778,2
+0,,12566,12566,"Scarborough Beach Rd After Grant St","Westfield Innaloo Shopping Centre ",-31.90029555555550,115.791462777778,2
 0,,12567,12567,"Scarborough Beach Rd After Wotan St","",-31.90087888888890,115.794273333333,2
 0,,12568,12568,"Scarborough Beach Rd After Odin Rd","Innaloo Shopping Centre",-31.9019876394,115.7969298390,2
 0,,12569,12569,"Scarborough Beach Rd After Ellen Stirling Bvd","",-31.9034170601,115.8014753580,2
@@ -4078,10 +4078,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,15029,15029,"Mcglew Rd After Nicholl St","",-31.90242666666670,116.099877222222,3
 0,,15030,15030,"Mcglew Rd After Great Eastern Hwy","",-31.9041490250,116.0999751550,3
 0,,15031,15031,"Mcglew Rd After Nicholl St","",-31.9067297309,116.0999484680,3
-0,,15033,15033,"Marnie Rd After Bilgoman Rd","",-31.9072057272,116.0931447050,3
-0,,15034,15034,"Marnie Rd After Springside Cr","",-31.9072214059,116.0967834290,3
-0,,15035,15035,"Marnie Rd After Cecil St","",-31.9073035787,116.0969551330,3
-0,,15036,15036,"Marnie Rd Before Bilgoman Rd","",-31.9072941343,116.0925742710,3
 0,,15037,15037,"Statham St After Nicholl St","Statham St / Gt Eastern Hwy",-31.9036060829,116.1018787770,3
 0,,15041,15041,"Brooking Rd After Great Eastern Hwy","",-31.9014413023,116.1306957320,4
 0,,15042,15042,"Brooking Rd After Draper Rd","",-31.9034347862,116.1306742560,4
@@ -5243,7 +5239,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,16422,16422,"Flinders St Before Wiluna St","",-31.9097111513,115.8494180480,1
 0,,16423,16423,"Flinders St After Nangar St","",-31.9087401769,115.8492689280,1
 0,,16424,16424,"Flinders St After Daley St","",-31.9065358831,115.8492727280,1
-0,,16425,16425,"Flinders St Before Hector St","",-31.9047391864,115.8492835630,1
+0,,16425,16425,"Flinders St Before Hector St","",-31.90473944444440,115.849283333333,1
 0,,16426,16426,"Flinders St Before Lawley St","",-31.9009655273,115.8492944440,1
 0,,16427,16427,"Flinders St After Royal St","",-31.8961313399,115.8493209390,1
 0,,16428,16428,"Flinders St Before Swan St","",-31.8933650399,115.8493202880,1
@@ -11697,6 +11693,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27787,27787,"Perth Stadium Stn Platform 3","Perth Stadium Stn",-31.94977777777780,115.892267222222,1
 0,,27788,27788,"Perth Stadium Stn Platform 4","Perth Stadium Stn",-31.94972388888890,115.892338888889,1
 0,140,27789,27789,"Perth Stadium Stn Platform 5","Perth Stadium Stn",-31.95072055555560,115.893581666667,1
+0,,27802,27802,"Pollock St After Wyong Rd","Wyong Rd / Baldock St",-32.0099999557,115.9152038830,1
+0,,27803,27803,"Pusey St Before Chapman Rd","",-32.0080462299,115.9165272440,1
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce",-28.7734316666666990,114.612454444444,1
 0,,70003,70003,"Chapman Rd Before Mark St","",-28.76018222222220,114.615859444444,1
@@ -12150,7 +12148,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,70965,70965,"Second St After Howard St","",-28.7617972222221990,114.62899611111099,1
 0,,70966,70966,"Howard St After Fifth St","Howard St / Fifth St",-28.7643055555556020,114.630661666667,1
 0,,70968,70968,"Barrett Dr After Winnetta Rdg","",-28.80979388888890,114.632558888889,1
-0,,70969,70969,"Barrett Dr After Ocean Queen Dr","",-28.8099400000000010,114.630548333333,1
+0,,70969,70969,"Barrett Dr After Ocean Queen Dr","",-28.8099495763,114.6304489980,1
 0,,70970,70970,"Ocean Queen Dr Before Wild Rose App","Ocean Queen Dr / Wild Rose App",-28.8125388888888980,114.632887777778,1
 0,,70971,70971,"Ocean Queen Dr After Wild Rose Cr","Ocean Queen Dr / Wild Rose App",-28.8127444444444020,114.632926666667,1
 0,,70972,70972,"Derna Pde After Ivy Wy","",-28.8148438888888980,114.634341666667,1
