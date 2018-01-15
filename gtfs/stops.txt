@@ -1575,8 +1575,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11782,11782,"Kent St After Hayman Rd","",-31.9993466821,115.8868964190,1
 0,,11783,11783,"Kent St After Jackson Rd","",-32.00194277777780,115.887279444444,1
 0,,11784,11784,"Kent St Before Hayman Rd","",-31.9992915397,115.8866386390,1
-0,,11785,11785,"Kent St After Hayman Rd","Kent St / Hayman Rd",-31.9965197193,115.8866173940,1
-0,,11785A,11785A,"Kent St After Hayman Rd","Kent St / Hayman Rd",-31.99650777777780,115.886626111111,1
+0,,11785,11785,"Kent St After Hayman Rd","Kent St / Hayman Rd",-31.99650777777780,115.886626111111,1
 0,,11786,11786,"Kent St After Berwick St","",-31.98465555555550,115.896753333333,1
 0,,11788,11788,"Kent St Before Albany Hwy","",-31.98182222222220,115.900107777778,1
 0,,11789,11789,"Lansdowne Rd After Canning Hwy","",-31.9764503824,115.8820581840,1
@@ -1927,7 +1926,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,136,12206,12206,"Elizabeth Quay Bus Stn Stand D2","Elizabeth Quay Bus Stn",-31.95623944444450,115.853408333333,FTZ
 0,136,12207,12207,"Elizabeth Quay Bus Stn Stand D1","Elizabeth Quay Bus Stn",-31.95615444444450,115.853164444444,FTZ
 0,136,12209,12209,"Elizabeth Quay Bus Stn Stand C6","Elizabeth Quay Bus Stn",-31.95640277777780,115.854338888889,FTZ
-0,136,12210,12210,"Elizabeth Quay Bus Stn Stand C5","Elizabeth Quay Bus Stn",-31.95632722222220,115.854116666667,FTZ
 0,136,12211,12211,"Elizabeth Quay Bus Stn Stand C4","Elizabeth Quay Bus Stn",-31.95627333333330,115.853938888889,FTZ
 0,136,12212,12212,"Elizabeth Quay Bus Stn Stand C3","Elizabeth Quay Bus Stn",-31.95620666666670,115.853725555556,FTZ
 0,136,12213,12213,"Elizabeth Quay Bus Stn Stand C2","Elizabeth Quay Bus Stn",-31.95612666666660,115.853473888889,FTZ
@@ -4907,7 +4905,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,16025,16025,"Malaga Dr Before Beringarra Av","",-31.8645920562,115.8952041610,2
 0,,16026,16026,"Malaga Dr After Victoria Rd","",-31.8603296112,115.8933172220,2
 0,,16027,16027,"Malaga Dr Before Beach Rd","",-31.8576533146,115.8933247930,2
-0,,16030,16030,"Abbotswood Dr After Stonewall Cct","",-31.8123284042,115.8621074230,2
 0,,16034,16034,"The Broadview   After Abbotswood Dr","",-31.8083548723,115.8630048090,2
 0,,16035,16035,"The Broadview   After Ringrose Hts","",-31.8080158834,115.8617293290,2
 0,,16036,16036,"The Broadview   After Heathfield Dr","",-31.8056783325,115.8607010190,2
@@ -10233,7 +10230,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,24331,24331,"Contest Pde Rockingham City Council","",-32.2861095229,115.7475190850,5
 0,,24332,24332,"Contest Pde Rockingham City Council","",-32.2860788541,115.7473597130,5
 0,,24336,24336,"Sulphur Rd After Meares Av","",-32.2398616231,115.8181019760,4
-0,,24337,24337,"Sulphur Rd After Orelia Av","",-32.2401644802,115.8209642190,4
+0,,24337,24337,"Sulphur Rd After Orelia Av","",-32.24016444444440,115.820964444444,4
 0,,24338,24338,"Sulphur Rd After Tanson Rd","",-32.2402185844,115.8207387170,4
 0,,24339,24339,"Sulphur Rd After Oreilia Av","",-32.2399538746,115.8180272040,4
 0,,24341,24341,"Pinjarra Rd After Dower St","",-32.5362151455,115.7374111130,7
@@ -11669,13 +11666,13 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27725,27725,"North Lake Rd After Somerville Bvd","",-32.06270333333330,115.814922222222,2
 0,,27726,27726,"North Lake Rd Before Archibald St","",-32.05301722222220,115.816033333333,2
 0,140,27728,27728,"Perth Stadium Bus Stn Perth Stadium Stand 1","Perth Stadium Bus Stn",-31.95505388888890,115.890493333333,1
+0,140,27730,27730,"Perth Stadium Bus Stn Perth Stadium Stand 3","Perth Stadium Bus Stn",-31.95469166666670,115.890410,1
 0,140,27732,27732,"Perth Stadium Bus Stn Perth Stadium Stand 5","Perth Stadium Bus Stn",-31.95433777777780,115.890324444444,1
 0,140,27734,27734,"Perth Stadium Bus Stn Perth Stadium Stand 7","Perth Stadium Bus Stn",-31.95379833333330,115.890211111111,1
 0,140,27736,27736,"Perth Stadium Bus Stn Perth Stadium Stand 9","Perth Stadium Bus Stn",-31.95346111111110,115.890143333333,1
 0,140,27738,27738,"Perth Stadium Bus Stn Perth Stadium Stand 11","Perth Stadium Bus Stn",-31.95309722222220,115.890069444444,1
 0,140,27739,27739,"Perth Stadium Bus Stn Perth Stadium Stand 12","Perth Stadium Bus Stn",-31.95310888888890,115.889657777778,1
 0,140,27741,27741,"Perth Stadium Bus Stn Perth Stadium Stand 14","Perth Stadium Bus Stn",-31.953405,115.889729444444,1
-0,140,27742,27742,"Perth Stadium Bus Stn Perth Stadium Stand 15","Perth Stadium Bus Stn",-31.95357166666670,115.889777222222,1
 0,140,27743,27743,"Perth Stadium Bus Stn Perth Stadium Stand 16","Perth Stadium Bus Stn",-31.95377777777780,115.889825,1
 0,140,27745,27745,"Perth Stadium Bus Stn Perth Stadium Stand 18","Perth Stadium Bus Stn",-31.95433611111110,115.889949444444,1
 0,,27751,27751,"Nelson Av Stand 1","East Perth Special Event Bus Stn",-31.95676555555550,115.883850555556,FTZ
@@ -12074,8 +12071,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,70612,70612,"Caves Rd Before Smith St","",-33.64937888888890,115.197201666667,2
 0,,70613,70613,"Caves Rd After Siesta Park Rd","",-33.65551444444440,115.219061111111,2
 0,,70614,70614,"Caves Rd Before Siesta Park Rd","",-33.65539111111110,115.219187222222,2
-0,,70615,70615,"Caves Rd Before Forth St","Legacy Campsite",-33.65783666666670,115.233520,2
-0,,70616,70616,"Caves Rd Before Forth St","Legacy Campsite",-33.657710,115.233487777778,2
+0,,70615,70615,"Caves Rd Before Forth St","Scouts Campsite",-33.65783666666670,115.233520,2
+0,,70616,70616,"Caves Rd Before Forth St","Scouts Campsite",-33.657710,115.233487777778,2
 0,,70617,70617,"Caves Rd After Locke St","",-33.65971055555560,115.249062777778,1
 0,,70618,70618,"Bussell Hwy After Wagon Ent","",-33.66061277777780,115.267273888889,1
 0,,70619,70619,"Bussell Hwy After Little Colin St","",-33.66038833333330,115.268931666667,1
