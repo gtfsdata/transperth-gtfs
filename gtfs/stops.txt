@@ -717,7 +717,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10799,10799,"Rule St After Ainslie Rd","",-32.0320230609,115.7559752280,2
 0,,10801,10801,"Harvest Rd After Stirling Hwy","",-32.0345042091,115.7545591790,2
 0,,10803,10803,"Harvest Rd Before Stirling Hwy","",-32.03427166666670,115.755002222222,2
-0,,10806,10806,"Oldham Cr Before Sumpton St","",-32.0709786634,115.7882129320,2
+0,,10806,10806,"Oldham Cr Before Sumpton St","",-32.07097888888890,115.788212777778,2
 0,,10807,10807,"Oldham Cr Before Howson St","",-32.071555,115.787255555556,2
 0,,10808,10808,"Oldham Cr Before Grigg Pl","",-32.0721520708,115.7845753680,2
 0,,10809,10809,"Oldham Cr Before Instone St","",-32.0721709724,115.7831037330,2
@@ -725,7 +725,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10811,10811,"Oldham Cr Before Gibb Pl","",-32.0720885969,115.7839192760,2
 0,,10812,10812,"Oldham Cr Before Howson St","",-32.0717335715,115.7867698690,2
 0,,10813,10813,"Oldham Cr Before Collick St","",-32.0704766079,115.7885379020,2
-0,,10814,10814,"Paget St After South St","",-32.0641696423,115.7812941010,2
+0,,10814,10814,"Paget St After South St","",-32.06416944444440,115.781293888889,2
 0,,10815,10815,"Paget St Before Rennie Cr","",-32.0663458134,115.7813336230,2
 0,,10816,10816,"Paget St Before Farrell St","",-32.06804222222220,115.781360555556,2
 0,,10817,10817,"Paget St Before Nicholas Cr","",-32.0699680862,115.7814006950,2
@@ -781,7 +781,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10871,10871,"Leach Hwy Before Rudge St","",-32.0485391185,115.79861787,2
 0,,10872,10872,"Leach Hwy Before Webber St","",-32.0488694155,115.7959111680,2
 0,,10873,10873,"High St Before Chalmers St","",-32.0507906542,115.7609153370,2
-0,,10874,10874,"High St After Swanbourne St","Monument Hill War Memorial",-32.0512511941,115.7570314350,2
+0,,10874,10874,"High St After Swanbourne St","Monument Hill War Memorial",-32.05125111111110,115.757031666667,2
 0,,10875,10875,"High St After Stirling St","",-32.0526623078,115.7525071560,2
 0,,10876,10876,"High St After Queen St","",-32.05332666666670,115.749903888889,2
 0,,10877,10877,"High St After Parry St","High St / Stirling St",-32.05236833333330,115.753074444444,2
@@ -1632,7 +1632,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11840,11840,"Mill Point Rd After Pepper St","",-31.9776260580,115.8691699240,1
 0,,11841,11841,"Mill Point Rd Before Onslow St","Mill Point Rd / Onslow St",-31.9760982265,115.8574217590,1
 0,,11842,11842,"Mill Point Rd Before Parker St","",-31.9748624894,115.8550153850,1
-0,,11843,11843,"Mill Point Rd After Mends St","",-31.9728813492,115.8514106120,1
+0,,11843,11843,"Mill Point Rd After Mends St","",-31.97368944444450,115.852811111111,1
 0,,11844,11844,"Mill Point Rd Before Scott St","",-31.9715146982,115.8499475120,1
 0,,11845,11845,"Mill Point Rd Before Stirling St","",-31.96892277777780,115.848823888889,1
 0,,11846,11846,"Labouchere Rd After Mill Point Rd","",-31.97379166666670,115.851086666667,1
@@ -2021,7 +2021,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12336,12336,"Wanneroo Rd - Stirling Central Shopping Ctr","Stirling Central Shopping Ctr",-31.8619973387,115.8274108840,2
 0,,12337,12337,"Wanneroo Rd After Amberley Wy","",-31.8668191203,115.8292003870,2
 0,,12338,12338,"Wanneroo Rd After Main St","",-31.8690877213,115.8301284790,2
-0,,12339,12339,"Wanneroo Rd Before Amelia St","",-31.8729647006,115.8316565290,2
+0,,12339,12339,"Wanneroo Rd Before Amelia St","",-31.87296444444440,115.831656666667,2
 0,,12340,12340,"Wanneroo Rd After Amelia St","Wanneroo Rd / Amelia St",-31.8744011587,115.8322019470,2
 0,,12341,12341,"Wanneroo Rd Before Ravenswood Dr","",-31.8765099560,115.8330177810,2
 0,,12342,12342,"Wanneroo Rd After Ravenswood Dr","",-31.8793505733,115.8341367650,2
@@ -2048,7 +2048,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12363,12363,"Wanneroo Rd After Morley Dr","",-31.88791218,115.8371494820,1
 0,,12364,12364,"Wanneroo Rd Before Harrison St","",-31.885880,115.836374444444,2
 0,,12365,12365,"Wanneroo Rd After Nollamara Av","",-31.88303611111110,115.835247777778,2
-0,,12366,12366,"Wanneroo Rd After Sylvia St","",-31.8805959345,115.8342870770,2
+0,,12366,12366,"Wanneroo Rd After Sylvia St","",-31.88059611111110,115.834287222222,2
 0,,12367,12367,"Wanneroo Rd Before Ravenswood Dr","",-31.87823722222220,115.833391666667,2
 0,,12368,12368,"Wanneroo Rd After Beryl St","",-31.8761683186,115.8326095820,2
 0,,12369,12369,"Wanneroo Rd After Amelia St","Wanneroo Rd / Amelia St",-31.8731757561,115.8314114640,2
@@ -10004,7 +10004,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,23918,23918,"Connolly Dr After Homestead Rd","",-31.6827517623,115.72707690,4
 0,,23919,23919,"Connolly Dr Before Northcliffe Av","",-31.68693222222220,115.726807222222,4
 0,,23920,23920,"Connolly Dr Before Ocean Keys Bvd","",-31.68989277777780,115.729228888889,4
-0,,23924,23924,"Kent St Before Beasley Av","",-32.0077222222221990,115.888047222222,1
+0,,23924,23924,"Kent St Before Beasley Av","",-32.0090112668,115.8875339140,1
 0,,23925,23925,"Kent St Before Jackson Rd","",-32.00455055555560,115.887940,1
 0,,23926,23926,"Kent St After Jackson Rd","",-32.0048587640,115.8883650790,1
 0,,23927,23927,"Kent St After Beasley Av","",-32.00822888888890,115.888197222222,1
@@ -10644,7 +10644,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26093,26093,"Kingsway   After Regency Av","",-31.8132508964,115.8314584470,2
 0,,26094,26094,"Kingsway   After Bellerve","",-31.8132398001,115.82699265,2
 0,,26095,26095,"Kingsway   Before Langford Bvd","",-31.8132343153,115.8243864370,2
-0,,26096,26096,"Kingsway   After Macdonagh Av","Ashdale Secondary College",-31.8131898720,115.84086931,2
+0,,26096,26096,"Kingsway   After Macdonagh Av","Ashdale Secondary College",-31.813190,115.840869444444,2
 0,,26097,26097,"Kingsway   After Scido Rise","",-31.8132621792,115.8408896920,2
 0,,26098,26098,"Kingsway   After Kilchurn Prom","",-31.81318777777780,115.848090555556,2
 0,,26099,26099,"Kingsway   Before Ashdale Bvd","",-31.8132672065,115.8466552060,2
@@ -11715,6 +11715,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27803,27803,"Pusey St Before Chapman Rd","",-32.0080462299,115.9165272440,1
 0,,27807,27807,"Rayner Dr After Abbts","",-31.81182055555550,115.860462222222,2
 0,,27808,27808,"Rayner Dr Before Abbts","",-31.81193944444440,115.860791111111,2
+0,,27813,27813,"Toodyay Rd Before Afric St","",-31.87441277777780,116.012678888889,3
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce",-28.7734316666666990,114.612454444444,1
 0,,70003,70003,"Chapman Rd Before Mark St","",-28.76018222222220,114.615859444444,1
