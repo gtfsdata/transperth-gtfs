@@ -151,9 +151,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10159,10159,"Albany Hwy Before Mallard Wy","",-32.0128774864,115.9277038550,2
 0,,10160,10160,"Albany Hwy Before George Wy","",-32.0151004585,115.9291698720,2
 0,,10161,10161,"Albany Hwy Before Fletcher St","",-32.0169468834,115.9332085630,2
-0,,10162,10162,"Albany Hwy After Cecil Av","Carousel Shop Ctr / Albany Hwy",-32.0194846931,115.9362442350,2
 0,,10163,10163,"Albany Hwy Before Liege St","Carousel Shop Ctr / Albany Hwy",-32.0219300531,115.9384349850,2
-0,,10164,10164,"Albany Hwy Before Station St","",-32.02343555555560,115.940082777778,2
+0,,10164,10164,"Albany Hwy Before Station St","Carousel Shop Ctr / Liege St",-32.02343555555560,115.940082777778,2
 0,,10165,10165,"Albany Hwy After Station St","",-32.0257530094,115.9428894090,2
 0,,10166,10166,"Albany Hwy After Nicholson Rd","",-32.0269236293,115.9466657480,2
 0,,10167,10167,"Albany Hwy Before Clapham St","",-32.0277321179,115.9516300680,2
@@ -672,7 +671,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10751,10751,"Lefroy Rd Before Mccleery St","",-32.0675732411,115.7585354450,2
 0,,10752,10752,"Lefroy Rd After Hale St","",-32.0675636216,115.7604606360,2
 0,,10753,10753,"Lefroy Rd After Sea View St","",-32.0675083172,115.7635905420,2
-0,,10754,10754,"Lefroy Rd After Caesar St","Fremantle College",-32.0672168154,115.7696438920,2
+0,,10754,10754,"Lefroy Rd After Caesar St","Fremantle College",-32.06721666666660,115.769643888889,2
 0,,10755,10755,"Lefroy Rd Before Fifth Av","",-32.0671312090,115.7717726290,2
 0,,10756,10756,"Lefroy Rd After Central Av","",-32.0671067012,115.7736286440,2
 0,,10757,10757,"Lefroy Rd After York St","",-32.0672028784,115.7736145670,2
@@ -9409,7 +9408,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,22000,22000,"Bennett St Before Benara Rd","",-31.8751311658,115.9599167650,2
 0,,22001,22001,"Bennett St After Benara Rd","",-31.8750968744,115.9598268220,2
 0,,22002,22002,"Altone Rd After Bennett Springs Dr","Altone Rd / Bennett Springs Dr",-31.8565576412,115.9452865550,2
-0,,22003,22003,"Grose Av Before Liege St","Carousel Shop Ctr / Grose Av",-32.0201176108,115.93997872,2
 0,,22012,22012,"School Rd Darling Range Sports College Stand 4","Darling Range Sports College",-31.976495,116.010227222222,2
 0,,22013,22013,"Strelitzia Av After Salix Wy","",-31.9851909123,116.0098449250,2
 0,,22014,22014,"Strelitzia Av Before Salix Wy","",-31.9851616909,116.0096059950,2
@@ -11705,6 +11703,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27788,27788,"Perth Stadium Stn Platform 4","Perth Stadium Stn",-31.94972388888890,115.892338888889,1
 0,140,27789,27789,"Perth Stadium Stn Platform 5","Perth Stadium Stn",-31.95072055555560,115.893581666667,1
 0,,27790,27790,"Perth Stadium Stn Platform 6","Perth Stadium Stn",-31.95067833333330,115.893642222222,1
+0,,27791,27791,"Jewel Wy After Ghost Gum Bvd","Banksia Grove Village Shop Ctr",-31.70457944444440,115.800693333333,4
+0,,27792,27792,"Jewel Wy Before Ghost Gum Bvd","Banksia Grove Village Shop Ctr",-31.70441277777780,115.801046111111,4
 0,,27794,27794,"Helena Valley Rd After Goldsbrough Ent","Helena Valley Rd / Lomandra Rd",-31.91862944444440,116.033565,2
 0,,27795,27795,"Barfield Rd Before Gaebler Rd","",-32.16805111111110,115.853186666667,3
 0,,27796,27796,"Barfield Rd After Gaebler Rd","",-32.16772777777780,115.853103888889,3
@@ -11716,6 +11716,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27807,27807,"Rayner Dr After Abbts","",-31.81182055555550,115.860462222222,2
 0,,27808,27808,"Rayner Dr Before Abbts","",-31.81193944444440,115.860791111111,2
 0,,27813,27813,"Toodyay Rd Before Afric St","",-31.87441277777780,116.012678888889,3
+0,,27814,27814,"Grose Av Before Carousel Rd","",-32.0185180597,115.9399607480,2
+0,,27815,27815,"Grose Av After Carousel Rd","",-32.0187874782,115.9399908440,2
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce",-28.7734316666666990,114.612454444444,1
 0,,70003,70003,"Chapman Rd Before Mark St","",-28.76018222222220,114.615859444444,1
