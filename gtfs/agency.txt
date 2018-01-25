@@ -36,4 +36,3 @@ TRA-TRA,Transwa,http://www.transwa.wa.gov.au,Australia/Perth,en
 TRI-KUN,2K Tours,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
 WES-RAI,Transperth,http://www.transperth.wa.gov.au,Australia/Perth,en
 WSB-MAN,TransManjimup,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
-,Transperth,http://www.transperth.wa.gov.au,Australia/Perth,en
