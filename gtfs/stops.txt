@@ -7476,7 +7476,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,19251,19251,"Frobisher St Before Colray Av","",-31.9089946076,115.8193394640,1
 0,,19252,19252,"Main St After Roberts St","",-31.9064599999999990,115.828132222222,1
 0,,19253,19253,"Main St After North Beach Dr","",-31.8912295307,115.8283863260,1
-0,,19259,19259,"Brighton Rd After Drabble Rd","",-31.8981498969,115.7639619160,2
+0,,19259,19259,"Brighton Rd After Drabble Rd","",-31.89814833333330,115.763292777778,2
 0,,19260,19260,"Brighton Rd After West Coast Hwy","",-31.8980332424,115.7595022640,2
 0,,19261,19261,"Brighton Rd After Stanley St","",-31.8980345046,115.7629570550,2
 0,,19262,19262,"Ewen St Before Auborough St","",-31.9002759664,115.7823440230,2
@@ -11782,6 +11782,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27816,27816,"Collier Rd After Wright St","",-31.9052021355,115.9191525980,1
 0,,27817,27817,"Collier Rd Before Wright St","",-31.90479722222220,115.919020,1
 0,,27821,27821,"Helena Valley Rd Before Scott St","",-31.92307388888890,116.047176111111,3
+0,,27822,27822,"Eighty Rd Before Cheshire Dr","Mother Teresa Catholic College",-32.362830,115.798407777778,5
+0,,27823,27823,"Perth Stadium Bus Stn Perth Stadium Set Down","Perth Stadium Bus Stn",-31.95273944444440,115.889883333333,1
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce",-28.7734316666666990,114.612454444444,1
 0,,70003,70003,"Chapman Rd Before Mark St","",-28.76018222222220,114.615859444444,1
