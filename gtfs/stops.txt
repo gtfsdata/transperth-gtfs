@@ -62,7 +62,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10065,10065,"Shepperton Rd Before Miller St","",-31.9791660044,115.9039137720,1
 0,,10066,10066,"Shepperton Rd After Gresham St","",-31.97644222222220,115.901425,1
 0,,10067,10067,"Shepperton Rd After Axon Av","",-31.9747014536,115.8997573750,1
-0,,10068,10068,"Shepperton Rd Before Harper St","",-31.9727732907,115.8978236750,1
+0,,10068,10068,"Shepperton Rd Before Harper St","",-31.97159555555560,115.896631111111,1
 0,,10069,10069,"Shepperton Rd Before Rushton St","",-31.9705602118,115.8950214930,1
 0,13,10070,10070,"Victoria Park Transfer Stn Stand E","Victoria Park Transfer Stn",-31.96828833333330,115.888946666667,1
 0,,10071,10071,"Adelaide Tce Westend Causeway","Adelaide Tce / Westend Cway",-31.9615645625,115.8767979170,FTZ
@@ -2433,7 +2433,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12823,12823,"Fitzgerald St Before View St","North Perth Plaza",-31.9322745123,115.8590859380,1
 0,,12824,12824,"Fitzgerald St After Menzies St","",-31.9293070318,115.8591388310,1
 0,,12825,12825,"Fitzgerald St After Farmer St","",-31.9270531704,115.8591491760,1
-0,,12826,12826,"Fitzgerald St After Nova L","",-31.9246808524,115.8591756710,1
+0,,12826,12826,"Fitzgerald St After Nova L","",-31.92468111111110,115.859175555556,1
 0,,12827,12827,"Alexander Dr After Melrose Cr","",-31.9227623966,115.8611647930,1
 0,,12828,12828,"Alexander Dr Before Holmfirth St","Edith Cowan University Mount Lawley",-31.9211483750,115.8638265110,1
 0,,12829,12829,"Alexander Dr After Bradford St","Edith Cowan University Mount Lawley",-31.918880,115.865979444444,1
@@ -4526,7 +4526,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,15525,15525,"Lord St Before Woollcott Av","",-31.8262230760,115.9625267440,3
 0,,15526,15526,"Lord St After Youle-Dean Rd","Whiteman Park",-31.8346632081,115.9655841710,2
 0,,15527,15527,"Lord St After Cranleigh St","",-31.85202611111110,115.969274444444,2
-0,,15528,15528,"Lord St Before Cranleigh St","",-31.8520527208,115.9690923540,2
+0,,15528,15528,"Lord St Before Cranleigh St","",-31.85205277777780,115.969092222222,2
 0,,15529,15529,"Lord St Before Youle-Dean Rd","",-31.8346184887,115.9653742880,2
 0,,15530,15530,"Lord St After Woollcott Av","",-31.82763222222220,115.962413888889,3
 0,,15531,15531,"Lord St Before Park St","",-31.81377944444440,115.962325555556,3
@@ -10611,7 +10611,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,25925,25925,"Westgrove Dr After Rainsby Cr","",-31.7761212067,115.9767800190,3
 0,,25926,25926,"Westgrove Dr After Nychum Pass","",-31.7724989658,115.9760103920,3
 0,,25927,25927,"Westgrove Dr Opposite Oban Wy","",-31.7700250137,115.9760140980,3
-0,,25932,25932,"Pinaster Pde After Ponte Vecchio Bvd","",-31.7909117870,115.9662157260,3
+0,,25932,25932,"Pinaster Pde After Ponte Vecchio Bvd","",-31.79091166666670,115.966215555556,3
 0,,25933,25933,"Dowd St After Kewdale Rd","",-31.9859325908,115.9504369860,2
 0,,25934,25934,"Pilbara St After Dowd St","",-31.9863098261,115.9477408050,2
 0,,25935,25935,"Pilbara St Before Somersby Rd","",-31.9880741780,115.94566726,2
@@ -11091,8 +11091,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26658,26658,"Mather Dr Barbagello Raceway","Barbagello Raceway",-31.66683222222220,115.787107222222,4
 0,,26664,26664,"Barry Marshall Pde After Fiona Wood Rd","",-32.06858611111110,115.846583888889,2
 0,,26665,26665,"Barry Marshall Pde Before Fiona Wood Rd","",-32.06843277777780,115.846456666667,2
-0,,26667,26667,"Lord St After Charlton Wy","",-31.8190089734,115.9625478940,3
-0,,26668,26668,"Lord St Before Charlton Wy","",-31.8189587640,115.9624044440,3
+0,,26667,26667,"Lord St After Charlton Wy","",-31.81900888888890,115.962547777778,3
+0,,26668,26668,"Lord St Before Charlton Wy","",-31.81895888888890,115.962404444444,3
 0,,26670,26670,"Meadow Springs Dr Before Jester Pwy","",-32.49837722222220,115.756660,7
 0,,26671,26671,"Meadow Springs Dr Before Jester Pwy","",-32.4987547233,115.7573039650,7
 0,,26672,26672,"Meadow Springs Dr Before Pebble Beach Bvd","",-32.4990257706,115.7595761320,7
@@ -11691,6 +11691,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27672,27672,"Wiltshire Av After Pechey Rd","Wiltshire Av/Pechey Rd",-31.86209611111110,116.058359444444,3
 0,,27673,27673,"Lefroy Rd Fremantle College Stand 2","Fremantle College",-32.06743944444450,115.768449444444,2
 0,,27674,27674,"Lefroy Rd Fremantle College Stand 3","Fremantle College",-32.067425,115.768656111111,2
+0,,27675,27675,"Cobb St After Weaponess Rd","",-31.90714444444440,115.773330,2
 0,,27676,27676,"Adelaide Tce Westend Causeway","",-31.96177777777780,115.877383333333,FTZ
 0,,27683,27683,"Activ Industries Rd After Davies L","",-32.0021173375,115.9242943430,2
 0,,27688,27688,"Gnangara Rd After Buffalo Av","",-31.80329888888890,115.820262777778,3
