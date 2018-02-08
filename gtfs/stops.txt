@@ -11785,6 +11785,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27821,27821,"Helena Valley Rd Before Scott St","",-31.92307388888890,116.047176111111,3
 0,,27822,27822,"Eighty Rd Before Cheshire Dr","Mother Teresa Catholic College",-32.362830,115.798407777778,5
 0,,27823,27823,"Perth Stadium Bus Stn Perth Stadium Set Down","Perth Stadium Bus Stn",-31.95273944444440,115.889883333333,1
+0,,27824,27824,"Gaebler Rd After Gorringe St","",-32.16845777777780,115.850461111111,3
+0,,27825,27825,"Gaebler Rd Before Gorringe St","",-32.16854444444440,115.850795,3
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce",-28.7734316666666990,114.612454444444,1
 0,,70003,70003,"Chapman Rd Before Mark St","",-28.76018222222220,114.615859444444,1
