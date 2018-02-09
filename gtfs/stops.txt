@@ -9789,7 +9789,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,23301,23301,"Mcveigh St Before Singleton Beach Rd","",-32.4453409347,115.7563291160,6
 0,,23302,23302,"Mcveigh St After Singleton Beach Rd","",-32.4449609428,115.7563559020,6
 0,,23303,23303,"Navigator Dr After Fitch St","",-32.4390761144,115.75648167,6
-0,,23304,23304,"Dorado St Before Crystaluna Dr","",-32.4341485450,115.7573385620,6
+0,,23304,23304,"Dorado St Before Crystaluna Dr","",-32.43404555555550,115.757364444444,6
 0,,23305,23305,"Yanrey St Before Dampier Dr","",-32.42641444444440,115.754128333333,6
 0,,23306,23306,"The Parkway   After Pinaster Pde","",-31.7848448045,115.9726605940,3
 0,,23307,23307,"The Parkway   After Villa Pass","",-31.7837078780,115.96758299,3
