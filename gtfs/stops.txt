@@ -458,10 +458,10 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10518,10518,"Ranford Rd After Campbell Rd","Ranford Rd / Campbell Rd",-32.0927375471,115.9250733870,2
 0,,10519,10519,"Ranford Rd Before Nicholson Rd","",-32.0905805171,115.9195507480,2
 0,,10520,10520,"Ranford Rd - Livingston Marketplace","Livingston Marketplace",-32.0874640291,115.9159834270,2
-0,,10521,10521,"Ranford Rd After Brennan Av","Ranford Rd / Brennan Av",-32.08359722222220,115.911631111111,2
-0,,10523,10523,"Ranford Rd After Wilfred Rd","",-32.08166944444440,115.908478333333,2
+0,,10521,10521,"Ranford Rd After Brennan Av","Ranford Rd / Brennan Av",-32.0848768125,115.9130946990,2
+0,,10523,10523,"Ranford Rd After Wilfred Rd","",-32.081940,115.909036111111,2
 0,,10524,10524,"Ranford Rd After Waratah Bvd","",-32.07991166666660,115.904989444444,2
-0,,10525,10525,"Ranford Rd After Livingstone Dr","",-32.07784611111110,115.901130555556,2
+0,,10525,10525,"Ranford Rd Before Livingstone Dr","",-32.078330,115.902025,2
 0,,10526,10526,"Ranford Rd Before Bannister Rd","",-32.0732139639,115.89439395,2
 0,,10528,10528,"South St After Beasley Rd","South St / Beasley Rd",-32.0666667448,115.8842447880,2
 0,,10529,10529,"South St After Darian Dr","",-32.0670339669,115.8814622550,2
@@ -2018,7 +2018,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12330,12330,"Wanneroo Rd Before Templeton Cr","",-31.83798333333330,115.822491111111,2
 0,,12331,12331,"Wanneroo Rd After Beach Rd","Wanneroo Rd / Beach Rd",-31.8436606257,115.8236892550,2
 0,,12332,12332,"Wanneroo Rd Before Culloton Cr","",-31.8479570296,115.8241117620,2
-0,,12333,12333,"Wanneroo Rd After Culloton Cr","",-31.85173111111110,115.823706666667,2
+0,,12333,12333,"Wanneroo Rd After Culloton Cr","",-31.8516516541,115.8237110250,2
 0,,12334,12334,"Wanneroo Rd Before Camberwell Rd","",-31.8538487390,115.8243469860,2
 0,,12335,12335,"Wanneroo Rd After Camberwell Rd","",-31.8572200871,115.8256526850,2
 0,,12336,12336,"Wanneroo Rd - Stirling Central Shopping Ctr","Stirling Central Shopping Ctr",-31.8619973387,115.8274108840,2
@@ -3962,7 +3962,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,14854,14854,"Toodyay Rd After Brown St","Toodyay Rd / Brown St",-31.8686319987,116.0249808240,3
 0,,14855,14855,"Toodyay Rd Before Lewis Jones Crss","",-31.86576555555560,116.031202777778,3
 0,,14857,14857,"Toodyay Rd After Talbot Rd","",-31.8576866697,116.0416514190,3
-0,,14858,14858,"Toodyay Rd After Lewis Jones Crss","Toodyay Rd / James Rd",-31.8655301664,116.0319954990,3
+0,,14858,14858,"Toodyay Rd After Lewis Jones Crss","Toodyay Rd / James Rd",-31.86646888888890,116.030091666667,3
 0,,14859,14859,"Toodyay Rd After Roe Hwy","",-31.8683210558,116.0261419360,3
 0,,14860,14860,"Toodyay Rd After Brown St","",-31.8694669311,116.0234425660,3
 0,,14861,14861,"Toodyay Rd After Holding St","",-31.8708806944,116.0204103060,3
@@ -4098,6 +4098,10 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,15029,15029,"Mcglew Rd After Nicholl St","",-31.90242666666670,116.099877222222,3
 0,,15030,15030,"Mcglew Rd After Great Eastern Hwy","",-31.9041490250,116.0999751550,3
 0,,15031,15031,"Mcglew Rd After Nicholl St","",-31.9067297309,116.0999484680,3
+0,,15033,15033,"Marnie Rd After Bilgoman Rd","",-31.90720555555550,116.093144444444,3
+0,,15034,15034,"Marnie Rd After Springside Cr","",-31.90722166666670,116.096783333333,3
+0,,15035,15035,"Marnie Rd After Cecil St","",-31.9073035787,116.0969551330,3
+0,,15036,15036,"Marnie Rd Before Bilgoman Rd","",-31.9072941343,116.0925742710,3
 0,,15037,15037,"Statham St After Nicholl St","Statham St / Gt Eastern Hwy",-31.9036060829,116.1018787770,3
 0,,15041,15041,"Brooking Rd After Great Eastern Hwy","",-31.9014413023,116.1306957320,4
 0,,15042,15042,"Brooking Rd After Draper Rd","",-31.9034347862,116.1306742560,4
@@ -6506,7 +6510,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,18095,18095,"Peninsula Av After Sail Tce","",-31.7646099969,115.75879408,3
 0,,18096,18096,"Peninsula Av After Diemen Ct","",-31.7647573355,115.7557274490,3
 0,,18097,18097,"Admiral Gr After Sloop Pl","",-31.7660182743,115.7613754810,3
-0,,18098,18098,"Ocean Reef Rd Before Venturi Dr","",-31.77103777777780,115.738552777778,3
+0,,18098,18098,"Ocean Reef Rd Before Venturi Dr","",-31.7708563709,115.7381613030,3
 0,,18099,18099,"Ocean Reef Rd After Tiller Rd","",-31.77124833333330,115.746107222222,3
 0,,18100,18100,"Ocean Reef Rd Before Marmion Av","",-31.7704064298,115.7500861110,3
 0,,18101,18101,"Ocean Reef Rd After Eddystone Av","Eddystone Av / Ocean Reef Rd",-31.7705396868,115.7692771880,3
@@ -6708,7 +6712,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,18348,18348,"Oceanside Prom After Warren Wy","",-31.7796998550,115.7338372760,3
 0,,18349,18349,"Oceanside Prom After Korella St","",-31.7768676031,115.7338216670,3
 0,,18350,18350,"Oceanside Prom After West View Bvd","",-31.7739944436,115.7335644910,3
-0,,18351,18351,"Oceanside Prom After Key West Dr","",-31.7707523159,115.7354696030,3
+0,,18351,18351,"Oceanside Prom After Key West Dr","",-31.7705878751,115.7356207140,3
 0,,18352,18352,"Mullaloo Dr Before Koorana","",-31.78153857,115.7506278550,3
 0,,18353,18353,"Mullaloo Dr After Traverse Rd","",-31.7799794436,115.7530787750,3
 0,,18354,18354,"Mullaloo Dr After Marmion Av","",-31.7799913069,115.7536356510,3
@@ -7506,7 +7510,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,19294,19294,"Cobb St Before Corbett St","",-31.9071483135,115.7700997890,2
 0,,19295,19295,"Cobb St Before Olcote St","",-31.9071840058,115.7768352150,2
 0,,19296,19296,"Cobb St Before Shearn Cr","",-31.9072038964,115.7798219950,2
-0,,19297,19297,"Cobb St After Queenscliffe Rd","",-31.9073207105,115.7807953680,2
+0,,19297,19297,"Cobb St After Queenscliffe Rd","",-31.90729055555560,115.780295,2
 0,,19298,19298,"Cobb St Before Olcote St","",-31.9072985156,115.7772386020,2
 0,,19299,19299,"Cobb St Before Weaponess Rd","",-31.9072720762,115.7731057890,2
 0,,19300,19300,"Cobb St After Corbett St","",-31.9072542984,115.7700924720,2
@@ -7535,7 +7539,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,19326,19326,"Hale Rd After Chipping Rd","",-31.91367111111110,115.761775,2
 0,,19333,19333,"Drabble Rd After Stewart St","",-31.9008478867,115.7643626610,2
 0,,19334,19334,"Weaponess Rd After Sonia St","Weaponess Rd / Sonia St",-31.9043101591,115.7717985840,2
-0,,19335,19335,"Weaponess Rd After Dunrossil St","",-31.9079423581,115.7726246340,2
 0,,19336,19336,"Dunrossil St After Bussell Rd","",-31.9083458829,115.7715017830,2
 0,,19337,19337,"Dunrossil St After Bussell Rd","",-31.9082577856,115.7720567510,2
 0,,19338,19338,"Stockdale Cr Hale Junior School","Hale Junior School",-31.91069166666670,115.778737222222,2
@@ -9083,7 +9086,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,21424,21424,"Secret Harbour Bvd Before Saint Kitts Bvd","",-32.4018380245,115.74867539,6
 0,,21425,21425,"Secret Harbour Bvd After Saint Kitts Bvd","",-32.4018163615,115.74854708,6
 0,,21426,21426,"Secret Harbour Bvd Before Siracusa Ct","",-32.40017611111110,115.747182222222,6
-0,,21428,21428,"Secret Harbour Bvd Before Palermo Cove","",-32.40834611111110,115.748265,6
+0,,21428,21428,"Secret Harbour Bvd Before Palermo Cove","",-32.40769222222220,115.747876666667,6
 0,,21429,21429,"Secret Harbour Bvd After Albenga Pl","",-32.4076944647,115.7480702320,6
 0,,21438,21438,"Singleton Beach Rd After Mandurah Rd","Singleton Beach Rd / Mandurah Rd",-32.4467292166,115.76282333,6
 0,,21443,21443,"Challenger Rd Before Madora Beach Rd","",-32.4702183121,115.7510365130,7
@@ -9369,7 +9372,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,21901,21901,"Regency Av Before Kingsway Rd","",-31.8120678340,115.8328277790,2
 0,,21902,21902,"Kingsway   After Regency Av","Kingsway / Hartman Dr",-31.8131769938,115.8347096360,2
 0,,21903,21903,"Kingsway   After Carlingford Dr","",-31.8131918797,115.8442974420,2
-0,,21904,21904,"Kingsway   After Ashdale Bvd","",-31.8132712243,115.8438996830,2
+0,,21904,21904,"Kingsway   After Ashdale Bvd","",-31.8132597140,115.8435936730,2
 0,,21905,21905,"Kingsway   After Carripan Rd","Kingsway Christian College",-31.81323888888890,115.837859444444,2
 0,,21906,21906,"Kingsway   Before Regency Av","Kingsway / Hartman Dr",-31.8132544014,115.8341363360,2
 0,85,21907,21907,"Clarkson Stn Stand 6","Clarkson Stn",-31.69018611111110,115.737111111111,4
@@ -10064,7 +10067,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,23918,23918,"Connolly Dr After Homestead Rd","",-31.6827517623,115.72707690,4
 0,,23919,23919,"Connolly Dr Before Northcliffe Av","",-31.68693222222220,115.726807222222,4
 0,,23920,23920,"Connolly Dr Before Ocean Keys Bvd","",-31.68989277777780,115.729228888889,4
-0,,23924,23924,"Kent St Before Beasley Av","",-32.0090112668,115.8875339140,1
+0,,23924,23924,"Kent St Before Beasley Av","",-32.00813333333330,115.888001666667,1
 0,,23925,23925,"Kent St Before Jackson Rd","",-32.00455055555560,115.887940,1
 0,,23926,23926,"Kent St After Jackson Rd","",-32.0048587640,115.8883650790,1
 0,,23927,23927,"Kent St After Beasley Av","",-32.00822888888890,115.888197222222,1
