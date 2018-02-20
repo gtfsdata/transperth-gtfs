@@ -2035,7 +2035,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12347,12347,"Wanneroo Rd After Swan St","",-31.8935498559,115.8396041790,1
 0,,12348,12348,"Wanneroo Rd Before Royal St","Wanneroo Rd / Royal St",-31.8953557706,115.8403061010,1
 0,,12349,12349,"Wanneroo Rd After Royal St","",-31.8982600342,115.8414347250,1
-0,,12350,12350,"Wanneroo Rd After Lawley St","",-31.90170944444450,115.842757222222,1
+0,,12350,12350,"Wanneroo Rd After Lawley St","",-31.9011148894,115.8425620860,1
 0,,12351,12351,"Wanneroo Rd Before Hector St","",-31.9037031818,115.84357667,1
 0,,12352,12352,"Wanneroo Rd After Mcdonald St","",-31.9069857682,115.8448233950,1
 0,,12353,12353,"Wanneroo Rd Before London St","",-31.9093626225,115.8454146970,1
@@ -3004,7 +3004,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,13621,13621,"Wharf St Before Ayer Rd","Wharf St / Ayer Rd",-32.0017360710,115.9499732050,2
 0,,13622,13622,"Wharf St After Stephen St","Wharf St / Ayer Rd",-32.00474260,115.94641947,2
 0,,13623,13623,"Wharf St After Norbertine Cl","",-32.0058352603,115.9451326240,2
-0,,13627,13627,"Grose Av After Liege St","Carousel Shop Ctr / Grose Av",-32.0199441606,115.9395573840,2
 0,,13628,13628,"Carousel Rd Before Cecil Av","",-32.01635944444440,115.940180,2
 0,,13629,13629,"Cecil Av After Leila St","",-32.0171003874,115.93628320,2
 0,,13630,13630,"Cecil Av After Carousel Rd","",-32.01494277777780,115.939708333333,2
@@ -3608,7 +3607,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,14411,14411,"Rutland Av Before Wakefield St","",-31.98004166666670,115.910820555556,1
 0,,14412,14412,"Somerset St Before Beatty Av","",-31.9868868764,115.9135845410,1
 0,73,14413,14413,"Bank St Before Oats St","Oats Street Stn",-31.9862815704,115.9152186930,1
-0,,14414,14414,"Mint St Before Carnarvon St","",-31.98176277777780,115.906934444444,1
+0,,14414,14414,"Mint St After Shepperton Rd","",-31.98176277777780,115.906934444444,1
 0,,14415,14415,"Mint St After Beatty Av","",-31.9801803960,115.9088009360,1
 0,,14416,14416,"Mint St Before Carnarvon St","",-31.9810102768,115.9080654630,1
 0,,14417,14417,"Mint St Before Shepperton Rd","",-31.9820898396,115.9067829090,1
@@ -5541,7 +5540,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,16810,16810,"Beverley St After Murchison St","",-31.9120493440,115.8528151150,1
 0,,16811,16811,"Beverley St After Meenaar Cr","",-31.9124412311,115.8531710270,1
 0,,16812,16812,"Wiluna St After Flinders St","Dog Swamp Shop Ctr",-31.9111883325,115.8485386590,1
-0,,16813,16813,"Wiluna St Dog Swamp Shopping Ctr","Dog Swamp Shop Ctr",-31.9109367893,115.8485093330,1
+0,,16813,16813,"Wiluna St Dog Swamp Shopping Ctr","Dog Swamp Shop Ctr",-31.9109839104,115.8484517770,1
 0,,16815,16815,"Latrobe St Before Wordsworth Av","",-31.9072299087,115.8540495430,1
 0,,16816,16816,"Latrobe St Before Bradford St","",-31.9095894846,115.8540487540,1
 0,,16817,16817,"Meenaar Cr After Hartwell St","",-31.9113437737,115.8530486590,1
@@ -9172,7 +9171,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,21578,21578,"Pinjarra Rd Before Arnold St","Mandurah Forum",-32.5367192096,115.7415171270,7
 0,,21579,21579,"Pinjarra Rd After Rio Grande Av","",-32.5385415782,115.7518914670,7
 0,,21580,21580,"Pinjarra Rd Before Webster Wy","",-32.5444992301,115.7694849010,7
-0,,21581,21581,"Pinjarra Rd After Webster Wy","",-32.5444560981,115.7689549820,7
+0,,21581,21581,"Pinjarra Rd After Webster Wy","",-32.5446092951,115.7691729290,7
 0,,21582,21582,"Pinjarra Rd Before Old Pinjarra Rd","",-32.5405016161,115.7633272610,7
 0,,21583,21583,"Pinjarra Rd After Rio Grande Av","",-32.5386210230,115.75026221,7
 0,,21584,21584,"Pinjarra Rd After Arnold St","Mandurah Forum",-32.53661944444450,115.739735,7
@@ -11730,9 +11729,13 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27725,27725,"North Lake Rd After Somerville Bvd","",-32.06270333333330,115.814922222222,2
 0,,27726,27726,"North Lake Rd Before Archibald St","",-32.05301722222220,115.816033333333,2
 0,140,27728,27728,"Perth Stadium Bus Stn Perth Stadium Stand 1","Perth Stadium Bus Stn",-31.95505388888890,115.890493333333,1
+0,140,27731,27731,"Perth Stadium Bus Stn Perth Stadium Stand 4","Perth Stadium Bus Stn",-31.95451777777780,115.890361666667,1
 0,140,27732,27732,"Perth Stadium Bus Stn Perth Stadium Stand 5","Perth Stadium Bus Stn",-31.95433777777780,115.890324444444,1
+0,140,27733,27733,"Perth Stadium Bus Stn Perth Stadium Stand 6","Perth Stadium Bus Stn",-31.95396111111110,115.890252777778,1
 0,140,27734,27734,"Perth Stadium Bus Stn Perth Stadium Stand 7","Perth Stadium Bus Stn",-31.95379833333330,115.890211111111,1
+0,140,27735,27735,"Perth Stadium Bus Stn Perth Stadium Stand 8","Perth Stadium Bus Stn",-31.95360666666660,115.890172777778,1
 0,140,27736,27736,"Perth Stadium Bus Stn Perth Stadium Stand 9","Perth Stadium Bus Stn",-31.95346111111110,115.890143333333,1
+0,140,27737,27737,"Perth Stadium Bus Stn Perth Stadium Stand 10","Perth Stadium Bus Stn",-31.95326388888890,115.890101111111,1
 0,140,27738,27738,"Perth Stadium Bus Stn Perth Stadium Stand 11","Perth Stadium Bus Stn",-31.95309722222220,115.890069444444,1
 0,140,27739,27739,"Perth Stadium Bus Stn Perth Stadium Stand 12","Perth Stadium Bus Stn",-31.95310888888890,115.889657777778,1
 0,140,27741,27741,"Perth Stadium Bus Stn Perth Stadium Stand 14","Perth Stadium Bus Stn",-31.953405,115.889729444444,1
