@@ -8566,7 +8566,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,20715,20715,"Boardman Rd After Garden St","",-32.0721018050,115.9389225090,2
 0,,20716,20716,"Boardman Rd After Stiletto Wy","",-32.0741921202,115.9363077030,2
 0,,20717,20717,"Boardman Rd After Shreeve Rd","",-32.0756546201,115.9344752360,2
-0,,20718,20718,"Boardman Rd After Amherst Rd","",-32.0800624996,115.9289380290,2
+0,,20718,20718,"Boardman Rd After Amherst Rd","",-32.0795398604,115.9295892140,2
 0,,20719,20719,"Boardman Rd After Birnam Rd","",-32.0809843165,115.9277814010,2
 0,,20720,20720,"Boardman Rd Before Dumbarton Rd","",-32.0828052258,115.9254970910,2
 0,,20721,20721,"Eastwood Pde Before Inveraray Cl","",-32.0902946981,115.9089054240,2
