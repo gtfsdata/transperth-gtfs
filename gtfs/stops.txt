@@ -1860,7 +1860,9 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12100,12100,"Dumond St After Manning Rd","",-32.01213111111110,115.907910,1
 0,,12101,12101,"Dumond St After Donnelly St","Dumond St / Donnelly St",-32.0095419942,115.9076722030,1
 0,,12102,12102,"Dumond St Before Walpole St","",-32.00778722222220,115.906341666667,1
+0,,12105,12105,"Wyong Rd After Baldock St","Wyong Rd / Baldock St",-32.01170055555550,115.913902222222,2
 0,,12107,12107,"Wyong Rd Before York Av","",-32.0098763451,115.91634087,2
+0,,12108,12108,"Wyong Rd After York Av","Wyong Rd / Baldock St",-32.0113256851,115.9145865140,2
 0,,12115,12115,"Dane St After Swansea St","",-31.9862028576,115.9077300780,1
 0,,12116,12116,"Centenary Av Before Manning Rd","",-32.01511944444440,115.899268888889,1
 0,,12129,12129,"Barrack St Beaufort Street Bridge Blue Cat 4","Beaufort St / Beaufort St Bridge",-31.9519638888889010,115.861517777778,FTZ
