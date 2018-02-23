@@ -9372,7 +9372,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,21900,21900,"Regency Av After Kingsway Rd","",-31.8121503416,115.8327171060,2
 0,,21901,21901,"Regency Av Before Kingsway Rd","",-31.8120678340,115.8328277790,2
 0,,21902,21902,"Kingsway   After Regency Av","Kingsway / Hartman Dr",-31.8131769938,115.8347096360,2
-0,,21903,21903,"Kingsway   After Carlingford Dr","",-31.8131918797,115.8442974420,2
+0,,21903,21903,"Kingsway   After Carlingford Dr","",-31.8131757110,115.8442797880,2
 0,,21904,21904,"Kingsway   After Ashdale Bvd","",-31.8132597140,115.8435936730,2
 0,,21905,21905,"Kingsway   After Carripan Rd","Kingsway Christian College",-31.81323888888890,115.837859444444,2
 0,,21906,21906,"Kingsway   Before Regency Av","Kingsway / Hartman Dr",-31.8132544014,115.8341363360,2
@@ -10708,7 +10708,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26093,26093,"Kingsway   After Regency Av","",-31.8132508964,115.8314584470,2
 0,,26094,26094,"Kingsway   After Bellerve","",-31.8132398001,115.82699265,2
 0,,26095,26095,"Kingsway   Before Langford Bvd","",-31.8132343153,115.8243864370,2
-0,,26096,26096,"Kingsway   After Macdonagh Av","Ashdale Secondary College",-31.813190,115.840869444444,2
+0,,26096,26096,"Kingsway   After Macdonagh Av","Ashdale Secondary College",-31.8131740443,115.8408613980,2
 0,,26097,26097,"Kingsway   After Scido Rise","",-31.8132621792,115.8408896920,2
 0,,26098,26098,"Kingsway   After Kilchurn Prom","",-31.81318777777780,115.848090555556,2
 0,,26099,26099,"Kingsway   Before Ashdale Bvd","",-31.8132672065,115.8466552060,2
@@ -11795,6 +11795,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27823,27823,"Perth Stadium Bus Stn Perth Stadium Set Down","Perth Stadium Bus Stn",-31.95273944444440,115.889883333333,1
 0,,27824,27824,"Gaebler Rd After Gorringe St","",-32.16845777777780,115.850461111111,3
 0,,27825,27825,"Gaebler Rd Before Gorringe St","",-32.16854444444440,115.850795,3
+0,,27826,27826,"Bluewater Dr  After Merchant Way","",-31.59947166666670,115.687376111111,5
+0,,27827,27827,"Bluewater Dr Before Merchant Way","",-31.59940888888890,115.687052777778,5
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce",-28.7734316666666990,114.612454444444,1
 0,,70003,70003,"Chapman Rd Before Mark St","",-28.76018222222220,114.615859444444,1
@@ -13278,7 +13280,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,73761,73761,"Caves Rd Between 70698 And 70662","",-33.63896222222220,115.166276666667,2
 0,,73769,73769,"Mcleod St Before Fenner St","",-24.89021666666670,113.661531666667,1
 0,,73770,73770,"Mckenna St Before Orr St","",-24.895185,113.666055555556,1
-0,,73771,73771,"Douglas St Before Carey St","",-24.89235666666670,113.657005555556,1
 0,,73772,73772,"West St Before Douglas St","",-24.89224388888890,113.655367222222,1
 0,,73773,73773,"Douglas St Before Baston St","",-24.890270,113.658723888889,1
 0,,73774,73774,"Olivia Tce After Baston St","",-24.88838944444440,113.656042222222,1
