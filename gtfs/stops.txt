@@ -9798,7 +9798,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,23306,23306,"The Parkway   After Pinaster Pde","",-31.7848448045,115.9726605940,3
 0,,23307,23307,"The Parkway   After Villa Pass","",-31.7837078780,115.96758299,3
 0,,23308,23308,"The Promenade   After Main St","",-31.7782696807,115.9656681990,3
-0,,23309,23309,"Brookmount Dr After Charlottes Vsta","",-31.7743696992,115.9635176460,3
 0,,23310,23310,"Brookmount Dr Before Arbor Dr","",-31.7700288480,115.9639755720,3
 0,,23311,23311,"Arrowsmith Av After Moulton Trl","",-31.7680736409,115.9637057680,3
 0,,23312,23312,"Oakhill Hts After Birkett Cir","",-31.7659660256,115.9648792870,3
@@ -9809,7 +9808,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,23317,23317,"Oakhill Hts Before Arrowsmith Av","",-31.7662559826,115.9641439390,3
 0,,23318,23318,"Arrowsmith Av Before Woburn Park Av","",-31.76745611111110,115.963692777778,3
 0,,23319,23319,"Brookmount Dr After Arbor Dr","",-31.7701387571,115.9640797180,3
-0,,23320,23320,"Brookmount Dr After Molloy L","",-31.7741841636,115.9637412080,3
 0,,23321,23321,"The Promenade   Before Main St","",-31.7777307574,115.9653848690,3
 0,,23322,23322,"The Parkway   After Villa Pass","",-31.7835312913,115.9674954630,3
 0,,23323,23323,"Pinaster Pde After Ponte Vecchio Bvd","",-31.7923078433,115.96426780,3
@@ -11732,13 +11730,9 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27726,27726,"North Lake Rd Before Archibald St","",-32.05301722222220,115.816033333333,2
 0,140,27728,27728,"Perth Stadium Bus Stn Perth Stadium Stand 1","Perth Stadium Bus Stn",-31.95505388888890,115.890493333333,1
 0,140,27731,27731,"Perth Stadium Bus Stn Perth Stadium Stand 4","Perth Stadium Bus Stn",-31.95451777777780,115.890361666667,1
-0,140,27732,27732,"Perth Stadium Bus Stn Perth Stadium Stand 5","Perth Stadium Bus Stn",-31.95433777777780,115.890324444444,1
 0,140,27733,27733,"Perth Stadium Bus Stn Perth Stadium Stand 6","Perth Stadium Bus Stn",-31.95396111111110,115.890252777778,1
-0,140,27734,27734,"Perth Stadium Bus Stn Perth Stadium Stand 7","Perth Stadium Bus Stn",-31.95379833333330,115.890211111111,1
 0,140,27735,27735,"Perth Stadium Bus Stn Perth Stadium Stand 8","Perth Stadium Bus Stn",-31.95360666666660,115.890172777778,1
-0,140,27736,27736,"Perth Stadium Bus Stn Perth Stadium Stand 9","Perth Stadium Bus Stn",-31.95346111111110,115.890143333333,1
 0,140,27737,27737,"Perth Stadium Bus Stn Perth Stadium Stand 10","Perth Stadium Bus Stn",-31.95326388888890,115.890101111111,1
-0,140,27738,27738,"Perth Stadium Bus Stn Perth Stadium Stand 11","Perth Stadium Bus Stn",-31.95309722222220,115.890069444444,1
 0,140,27739,27739,"Perth Stadium Bus Stn Perth Stadium Stand 12","Perth Stadium Bus Stn",-31.95310888888890,115.889657777778,1
 0,140,27741,27741,"Perth Stadium Bus Stn Perth Stadium Stand 14","Perth Stadium Bus Stn",-31.953405,115.889729444444,1
 0,140,27743,27743,"Perth Stadium Bus Stn Perth Stadium Stand 16","Perth Stadium Bus Stn",-31.95377777777780,115.889825,1
@@ -11781,8 +11775,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27797,27797,"Scotthorne Drv Northshore Christian Grammar School","",-31.60144888888890,115.694149444444,5
 0,,27799,27799,"Blackwood Mndr After Marmion Av","Yanchep Secondary College",-31.55407722222220,115.642302222222,6
 0,,27800,27800,"Blackwood Mndr Before Ravensbourne St","Yanchep Secondary College",-31.55408166666670,115.643210555556,6
-0,,27802,27802,"Pollock St After Wyong Rd","Wyong Rd / Baldock St",-32.0099999557,115.9152038830,1
-0,,27803,27803,"Pusey St Before Chapman Rd","",-32.0080462299,115.9165272440,1
 0,,27807,27807,"Rayner Dr After Abbts","",-31.81182055555550,115.860462222222,2
 0,,27808,27808,"Rayner Dr Before Abbts","",-31.81193944444440,115.860791111111,2
 0,,27813,27813,"Toodyay Rd Before Afric St","",-31.87441277777780,116.012678888889,3
@@ -12790,7 +12782,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,72234,72234,"Galway Bvd After St Nicholas Wy","",-33.26035444444440,115.726401666667,2
 0,,72235,72235,"Old Coast Rd After Galway Bvd","",-33.26138833333330,115.725452777778,2
 0,,72236,72236,"Old Coast Rd After Travers Dr","",-33.271920,115.715310,2
-0,,72237,72237,"Old Coast Rd Before Upton Pl","",-33.27609055555560,115.714802777778,2
+0,,72237,72237,"Old Coast Rd Before Upton Pl"," Old Coast Rd / Upton Pl ",-33.27609055555560,115.714802777778,2
 0,,72238,72238,"Mulgara St After Paris Rd","Australind Shop Ctr",-33.27980166666670,115.717153888889,2
 0,,72239,72239,"Mardo Rd After Mulgara St","",-33.281660,115.715886666667,2
 0,,72240,72240,"Lisa Rd After Old Coast Rd","",-33.28598666666670,115.714514444444,2
@@ -13334,6 +13326,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,73871,73871,"Seymour Bvd After Dunn Bay Rd","Seymour Bvd / Dunn Bay Rd",-33.61574888888890,115.108286111111,3
 0,,73872,73872,"Dunsborough Lakes Dr After Diamante Bvd","",-33.63381222222220,115.110724444444,3
 0,,73875,73875,"Koombana Dr Koombana Dr Temp Stop","Dolphin Discovery Centre ",-33.32132277777780,115.649008888889,1
+0,,74072,74072,"Keegan St After Burt St","",-30.78254666666670,121.477036666667,1
+0,,74073,74073,"Thomson St After Piesse St","",-30.78250055555550,121.481437222222,1
 0,,95000,95000,"Armadale Stn Armadale 1","Armadale (Rail)",-32.15377166666670,116.012988333333,4
 0,,95001,95001,"Armadale Stn Armadale 2","Armadale (Rail)",-32.15377833333330,116.013023333333,4
 0,,95002,95002,"Byford Stn Byford 1","Byford (Rail)",-32.2252633333333020,116.006801111111,4
