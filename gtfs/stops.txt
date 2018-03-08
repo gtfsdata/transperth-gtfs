@@ -460,7 +460,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10520,10520,"Ranford Rd - Livingston Marketplace","Livingston Marketplace",-32.0874640291,115.9159834270,2
 0,,10521,10521,"Ranford Rd After Brennan Av","Ranford Rd / Brennan Av",-32.0848768125,115.9130946990,2
 0,,10523,10523,"Ranford Rd After Wilfred Rd","",-32.081940,115.909036111111,2
-0,,10524,10524,"Ranford Rd After Waratah Bvd","",-32.07991166666660,115.904989444444,2
 0,,10525,10525,"Ranford Rd Before Livingstone Dr","",-32.078330,115.902025,2
 0,,10526,10526,"Ranford Rd Before Bannister Rd","",-32.0732139639,115.89439395,2
 0,,10528,10528,"South St After Beasley Rd","South St / Beasley Rd",-32.0666667448,115.8842447880,2
@@ -1882,7 +1881,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12143,12143,"Beaufort St After Second Av","",-31.9276425061,115.8783546840,1
 0,,12144,12144,"Beaufort St After Fourth Av","",-31.925750,115.880626666667,1
 0,,12145,12145,"Beaufort St Before Sixth Av","",-31.9242081027,115.8824499790,1
-0,,12146,12146,"Beaufort St Before Eighth Av","",-31.92274222222220,115.884180,1
 0,,12147,12147,"Beaufort St After Ninth Av","",-31.92110722222220,115.886103333333,1
 0,,12148,12148,"Beaufort St Before Normanby Rd","",-31.91963833333330,115.888137222222,1
 0,,12149,12149,"Beaufort St Before Nelson St","Beaufort St / Wood St",-31.91753555555560,115.890692777778,1
@@ -4628,7 +4626,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,15665,15665,"Altone Rd After Benara Rd","Altone Rd / Benara Rd",-31.87394888888890,115.944556666667,2
 0,,15666,15666,"Altone Rd Before Amazon Dr","Altone Park Shopping Centre",-31.87093666666670,115.944587222222,2
 0,,15667,15667,"Altone Rd After Amazon Dr","",-31.8691447487,115.9445880480,2
-0,,15668,15668,"Altone Rd After Vistula Av","",-31.8638513055,115.94487075,2
+0,,15668,15668,"Altone Rd After Vistula Av","Altone Rd / Thorburn Av",-31.8638513055,115.94487075,2
 0,,15669,15669,"Altone Rd After Tattler Wy","",-31.85834277777780,115.945484444444,2
 0,,15670,15670,"Bennett Springs Dr After Albatross Loop","Bennet Springs Dr / Portland Mews",-31.8577220854,115.9432913410,2
 0,,15671,15671,"Bennett Springs Dr After Lockier Crsg","",-31.8576346316,115.9437125120,2
@@ -9056,7 +9054,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,21387,21387,"The Avenue   After Bondi Cr","",-32.326635,115.761896666667,5
 0,,21389,21389,"Torbay Mews After Coronata Dr","",-32.3374737120,115.7646543120,5
 0,,21390,21390,"Torbay Mews After Bandera Cl","",-32.3374219409,115.7647558470,5
-0,,21391,21391,"Coronata Dr Before Ivory Cove","",-32.3403260773,115.7667733170,5
+0,,21391,21391,"Coronata Dr Before Ivory Cove","",-32.3400372748,115.7667247880,5
 0,,21392,21392,"Coronata Dr Before Rattan Cove","",-32.3398140309,115.7665652490,5
 0,,21393,21393,"Royal Palm Dr After Palm Springs Bvd","",-32.3429419910,115.7642368120,5
 0,,21394,21394,"Royal Palm Dr After Coronata Dr","",-32.3424401198,115.7644858280,5
@@ -10687,8 +10685,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26071,26071,"Wright Rd After Lauraine Dr","Wright Rd / Lauraine Dr",-32.1167833696,115.9341941760,3
 0,,26072,26072,"Wright Rd After Sotheby Dr","",-32.1144631601,115.9329852530,3
 0,,26073,26073,"Wright Rd After Northcote St","",-32.11467611111110,115.933545555556,3
-0,,26074,26074,"Nicholson Rd After Armadale Rd","",-32.1461459395,115.9225639280,3
-0,,26075,26075,"Nicholson Rd Before Armadale Rd","",-32.1461026471,115.9227436430,3
 0,,26076,26076,"Mogum Bend Austin Cove Baptist College","Austin Cove Baptist College Ps",-32.59209444444440,115.805530,8
 0,,26077,26077,"Pinjarra Rd After Jolly Rambler Bvd","Pinjarra Rd / Jolly Rambler Bvd",-32.5771299527,115.8236164790,8
 0,,26078,26078,"Pinjarra Rd After Jolly Rambler Bvd","Pinjarra Rd / Jolly Rambler Bvd",-32.5793674134,115.82548443,8
@@ -11784,7 +11780,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27821,27821,"Helena Valley Rd Before Scott St","",-31.92307388888890,116.047176111111,3
 0,,27822,27822,"Eighty Rd Before Cheshire Dr","Mother Teresa Catholic College",-32.362830,115.798407777778,5
 0,,27823,27823,"Perth Stadium Bus Stn Perth Stadium Set Down","Perth Stadium Bus Stn",-31.95273944444440,115.889883333333,1
-0,,27824,27824,"Gaebler Rd After Gorringe St","",-32.16845777777780,115.850461111111,3
+0,,27824,27824,"Gaebler Rd After Gorringe St","",-32.16845444444440,115.850658888889,3
 0,,27825,27825,"Gaebler Rd Before Gorringe St","",-32.16854444444440,115.850795,3
 0,,27826,27826,"Bluewater Dr  After Merchant Way","",-31.59947166666670,115.687376111111,5
 0,,27827,27827,"Bluewater Dr Before Merchant Way","",-31.59940888888890,115.687052777778,5
