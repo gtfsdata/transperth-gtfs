@@ -9702,7 +9702,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,22992,22992,"Johnson Rd After Ascot Pwy","",-32.2465642129,115.8477712290,4
 0,,22993,22993,"Viridian Dr After Tumbleweed Dr","Viridian Dr / Tumbleweed Dr",-31.7032584968,115.8072649810,4
 0,,23000,23000,"Mounts Bay Rd Before Wingfield Av","",-31.9733648532,115.8258802670,1
-0,,23001,23001,"San Sebastian Bvd After Villena Cir","San Sebastian Bvd / Villena Cir",-32.36045222222220,115.76336055555601,5
+0,,23001,23001,"San Sebastian Bvd After Villena Cir","San Sebastian Bvd / Villena Cir",-32.36045222222220,115.763360555556,5
 0,,23002,23002,"Elliott Rd Before Bernard St","",-31.8755261241,116.2227639110,4
 0,,23004,23004,"Beach Rd Between Honeywell Bvd And Alexander Dr","",-31.8496650693,115.8736429670,2
 0,,23005,23005,"Stalker Rd Before Eudoria St","",-32.0756627517,115.99360782,3
@@ -12395,8 +12395,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,71695,71695,"Rason St After Moran St","",-30.78156944444440,121.468963333333,1
 0,,71697,71697,"Burt St After Gregory St","",-30.78178777777780,121.471264444444,1
 0,,71699,71699,"Burt St Before Debaun St","",-30.78177888888890,121.474601111111,1
-0,,71700,71700,"Burt St After Keegan St","",-30.78177611111110,121.477790,1
-0,,71701,71701,"Burt St After Ivanhoe St","",-30.78179611111110,121.481082777778,1
 0,,71702,71702,"Burt St After Thomson St","",-30.7817641586,121.4832460160,1
 0,,71715,71715,"Vivian St After Lionel St","",-30.79038333333330,121.484700555556,1
 0,,71716,71716,"Vivian St Before Lane St","Vivian St / Lane St",-30.7903977777778020,121.48816388888901,1
