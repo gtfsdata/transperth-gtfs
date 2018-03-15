@@ -1557,6 +1557,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11760,11760,"Chapman Rd After Palmerston St","",-32.0048028685,115.9133638350,1
 0,,11761,11761,"Chapman Rd After Ashburton St","",-32.0059974177,115.9147711890,1
 0,,11762,11762,"Chapman Rd After Bedford St","",-32.0079416789,115.9169934340,1
+0,,11763,11763,"Chapman Rd After Wyong Rd","",-32.00815722222220,115.917053888889,1
 0,,11764,11764,"Chapman Rd After Queen St","",-32.0061542016,115.9146811290,1
 0,,11765,11765,"Chapman Rd After Coolgardie St","",-32.00479388888890,115.913135,1
 0,,11766,11766,"Chapman Rd Before Walpole St","Chapman Rd / Pitt St",-32.00332777777780,115.911426666667,1
@@ -1860,6 +1861,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12101,12101,"Dumond St After Donnelly St","Dumond St / Donnelly St",-32.0095419942,115.9076722030,1
 0,,12102,12102,"Dumond St Before Walpole St","",-32.00778722222220,115.906341666667,1
 0,,12105,12105,"Wyong Rd After Baldock St","Wyong Rd / Baldock St",-32.01170055555550,115.913902222222,2
+0,,12106,12106,"Wyong Rd Before Pollock St","",-32.01047666666670,115.915378888889,2
 0,,12107,12107,"Wyong Rd Before York Av","",-32.0098763451,115.91634087,2
 0,,12108,12108,"Wyong Rd After York Av","Wyong Rd / Baldock St",-32.0113256851,115.9145865140,2
 0,,12115,12115,"Dane St After Swansea St","",-31.9862028576,115.9077300780,1
@@ -2009,7 +2011,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12321,12321,"Wanneroo Rd After Gnangara Rd","",-31.8039840240,115.8190157130,3
 0,,12322,12322,"Wanneroo Rd After Kingfisher Wy","",-31.8071804894,115.8201539490,2
 0,,12323,12323,"Wanneroo Rd After Kingsway","Kingsway Caravan Park",-31.81386611111110,115.820758333333,2
-0,,12324,12324,"Wanneroo Rd - Kingsway City Shopping Ctr","Kingsway City Shop Ctr",-31.8176653394,115.8209077970,2
+0,,12324,12324,"Wanneroo Rd - Kingsway City Shopping Ctr","Kingsway City Shop Ctr",-31.81797277777780,115.820946666667,2
 0,,12325,12325,"Wanneroo Rd After Hepburn Av","",-31.8217423336,115.8210574340,2
 0,,12326,12326,"Wanneroo Rd Before Parin Rd","",-31.8245601510,115.8212756330,2
 0,,12327,12327,"Wanneroo Rd After Parin Rd","",-31.8267775563,115.8214554030,2
@@ -4929,6 +4931,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,16025,16025,"Malaga Dr Before Beringarra Av","",-31.8645920562,115.8952041610,2
 0,,16026,16026,"Malaga Dr After Victoria Rd","",-31.8603296112,115.8933172220,2
 0,,16027,16027,"Malaga Dr Before Beach Rd","",-31.8576533146,115.8933247930,2
+0,,16030,16030,"Abbotswood Dr After Stonewall Cct","",-31.8123284042,115.8621074230,2
 0,,16034,16034,"The Broadview   After Abbotswood Dr","",-31.8083548723,115.8630048090,2
 0,,16035,16035,"The Broadview   After Ringrose Hts","",-31.8080158834,115.8617293290,2
 0,,16036,16036,"The Broadview   After Heathfield Dr","",-31.8056783325,115.8607010190,2
@@ -7544,7 +7547,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,19337,19337,"Dunrossil St After Bussell Rd","",-31.9082577856,115.7720567510,2
 0,,19338,19338,"Stockdale Cr Hale Junior School","Hale Junior School",-31.91069166666670,115.778737222222,2
 0,,19339,19339,"Unwin Av Hale Senior School","Hale Senior School",-31.91216222222220,115.779680,2
-0,,19340,19340,"Lucca St Churchlands High School Stand 8","Churchlands Senior High School",-31.91625166666670,115.788123888889,1
+0,,19340,19340,"Lucca St Churchlands High School Stand 8","Churchlands Senior High School",-31.91625166666670,115.788123888889,2
 0,,19346,19346,"Tuscany Wy Before Mantua Cr","",-31.9200179265,115.7877321670,1
 0,,19347,19347,"Tuscany Wy Newman College Churchlands Stand 7","Newman College (Churchlands Campus)",-31.92244277777780,115.786821666667,1
 0,,19354,19354,"Tuscany Wy Newman College Churchlands Stand 1","Newman College (Churchlands Campus)",-31.92359111111110,115.785826666667,1
@@ -9443,11 +9446,11 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,21990,21990,"Hillsborough Dr Before Nollamara Av","",-31.8814865038,115.8403081240,2
 0,,21992,21992,"Danube Av Before Madeira St","",-31.8708067214,115.93608770,2
 0,,21994,21994,"Barlee Wy Before Chireton Pl","",-31.8709528186,115.9535663610,2
-0,,21995,21995,"Bennett St After Benara Rd","",-31.8723168189,115.9598430680,2
+0,,21995,21995,"Bennett St After Benara Rd","",-31.87183722222220,115.959838333333,2
 0,,21996,21996,"Bennett St Before Simla Pl","",-31.8698148053,115.9598372220,2
 0,,21997,21997,"Bennett St Before Patricia St","Bennett St / Patricia St",-31.86685388888890,115.959919444444,2
 0,,21998,21998,"Bennett St After Simla Pl","",-31.8699779995,115.9599284090,2
-0,,21999,21999,"Bennett St Before Benara Rd","",-31.8724005547,115.9599233930,2
+0,,21999,21999,"Bennett St Before Benara Rd","",-31.872120,115.959942777778,2
 0,,22000,22000,"Bennett St Before Benara Rd","",-31.8751311658,115.9599167650,2
 0,,22001,22001,"Bennett St After Benara Rd","",-31.8750968744,115.9598268220,2
 0,,22002,22002,"Altone Rd After Bennett Springs Dr","Altone Rd / Bennett Springs Dr",-31.8565576412,115.9452865550,2
@@ -11786,6 +11789,12 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27827,27827,"Bluewater Dr Before Merchant Way","",-31.59940888888890,115.687052777778,5
 0,,27829,27829,"Hollington Bvd After Clsa Cr","",-31.62912611111110,115.692367777778,5
 0,,27830,27830,"Hollington Bvd Before Clsa Cr","",-31.62935722222220,115.692479444444,5
+0,,27832,27832,"Ravendale Dr Stand 3","Mandurah Catholic College",-32.55049388888890,115.737824444444,8
+0,,27833,27833,"Ravendale Dr Stand 4","Mandurah Catholic College",-32.55035777777780,115.737685555556,8
+0,,27859,27859,"Webb St After Bull Creek Rd","",-32.0447033237,115.8670877590,2
+0,,27861,27861,"Webb St Before Bull Creek Rd","",-32.04467888888890,115.867173888889,2
+0,,27862,27862,"Webb St Before Wilber St","",-32.04234333333330,115.8671,2
+0,,27863,27863,"Webb St After Wilber St","",-32.04225777777780,115.867188888889,2
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce",-28.7734316666666990,114.612454444444,1
 0,,70003,70003,"Chapman Rd Before Mark St","",-28.76018222222220,114.615859444444,1
@@ -13401,7 +13410,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,95113,95113,"Earl St To Narrogin","Narrogin",-32.9338166666667010,117.176355,1
 0,,95114,95114,"Transwa Bay Wagin","Wagin",-33.3089022222222010,117.34490333333299,5
 0,,95115,95115,"Transwa Bay Dumbleyung","Dumbleyung",-33.31483888888890,117.74165333333301,8
-0,,95117,95117,"Cockburn Stn Cockburn Stn","Cockburn Stn - Transwa",-32.12627722222220,115.85769999999999,3
+0,,95117,95117,"Cockburn Stn Cockburn Stn","Cockburn Stn - Transwa",-32.12627722222220,115.8577,3
 0,,95118,95118,"Mandurah Stn Mandurah Stn","Mandurah Stn - Transwa",-32.5272633333333020,115.745836666667,7
 0,,95119,95119,"Old Coast Rd From Falcon","Falcon",-32.5816683333332970,115.661668888889,8
 0,,95120,95120,"Old Coast Rd From Lake Clifton","Lake Clifton",-32.87000777777780,115.706683888889,6
@@ -13618,13 +13627,13 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,95340,95340,"South Western Hwy To Northcliffe T/O","Northcliffe Turnoff",-34.5758050858139970,116.383600212529,5
 0,,95341,95341,"South Western Hwy From Northcliffe T/O","Northcliffe Turnoff",-34.57577758695610,116.3836540659,5
 0,,95342,95342,"Transwa Bay Walpole","Walpole",-34.97582396893160,116.732172602444,9
-0,,95343,95343,"Transwa Bay Nornalup","",-34.99193562016390,116.816027232172,9
+0,,95343,95343,"Transwa Bay Nornalup","Nornalup",-34.99193562016390,116.816027232172,9
 0,,95344,95344,"South Coast Hwy From Kent River","",-34.9613975829020020,117.047818705281,9
-0,,95345,95345,"South Coast Hwy To Kent River","",-34.9614734991757030,117.047801888451,9
-0,,95346,95346,"Transwa Bay Parryville","",-34.9897588189049030,117.14661874452899,8
+0,,95345,95345,"South Coast Hwy To Kent River","Kent River Turnoff",-34.96147349917570,117.047801888451,9
+0,,95346,95346,"Numbat Gr Parryville","Parryville Hall",-34.98975881890490,117.146618744529,8
 0,,95347,95347,"Strickland St Denmark","Denmark",-34.9611580525545020,117.355612299398,6
 0,,95348,95348,"South Coast Hwy From Youngs Siding T/O","",-35.0010561077297030,117.51620554938501,4
-0,,95349,95349,"South Coast Hwy To Youngs Siding T/O","",-35.00113229861720,117.516189243817,4
+0,,95349,95349,"South Coast Hwy To Youngs Siding T/O","Youngs Turnoff",-35.00113229861720,117.516189243817,4
 0,,95350,95350,"Wheatley Coast Rd Quinninup","Quinninup",-34.437831,116.249008,3
 0,,95351,95351,"Great Northern Hwy To Upper Swan","",-31.774480,116.026314444444,3
 0,,95352,95352,"Great Northern Hwy From Upper Swan","",-31.77468222222220,116.026722777778,3
