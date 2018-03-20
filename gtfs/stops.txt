@@ -199,7 +199,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10212,10212,"William St Before Forrest St","William St / Forrest St",-31.9321794561,115.8665313430,1
 0,,10213,10213,"William St Before Grosvenor Rd","",-31.9345547106,115.8665222430,1
 0,,10214,10214,"William St Before Chatsworth Rd","",-31.9375233301,115.8659278360,1
-0,,10215,10215,"William St After Lincoln St","",-31.9398314982,115.8644891760,1
+0,,10215,10215,"William St After Lincoln St","",-31.93980833333340,115.864500555556,1
 0,,10221,10221,"William St Horseshoe Bridge Blue Cat 13","Horseshoe Bridge",-31.95103277777780,115.859268888889,FTZ
 0,,10223,10223,"William St Perth Uground R11/ B14","William St / Hay St Mall West",-31.9527803886,115.8574351570,FTZ
 0,,10224,10224,"William St Stand 1","William St / Hay St Mall West",-31.9529621410,115.8573722970,FTZ
@@ -8052,13 +8052,9 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,20048,20048,"Apsley Rd Before Kingfisher Loop","",-32.0480849815,115.8801005170,2
 0,,20049,20049,"Apsley Rd After Eagles Wk","",-32.0480805626,115.8780885660,2
 0,,20050,20050,"Apsley Rd Before Brolga Prom","Apsley Rd / Brolga Prom",-32.0477774775,115.8744232560,2
-0,,20057,20057,"Bull Creek Rd Before Maberly Cr","Bullcreek Rd / Webb St",-32.0452064693,115.8665478180,2
-0,,20058,20058,"Bull Creek Rd After Peter Wy","",-32.045195,115.864855555556,2
-0,,20059,20059,"First Av After Peter Wy","",-32.04267888888890,115.863785555556,2
 0,,20061,20061,"Central Rd After Third Av","",-32.0385799220,115.8687043180,2
 0,,20062,20062,"Central Rd Before Fourth Av","",-32.0386806190,115.8712132520,2
 0,,20063,20063,"Central Rd Before Third Av","",-32.0386858120,115.8684461920,2
-0,,20071,20071,"Wilber St Before Webb St","Wilber St /  Webb St",-32.0418281783,115.8666649850,2
 0,,20076,20076,"Fifth Av Before Central Rd","",-32.0383045208,115.8732672460,2
 0,,20079,20079,"Corinthian Rd Before Sixth Av","",-32.03369888888890,115.875758888889,2
 0,,20080,20080,"Corinthian Rd After Sixth Av","",-32.0337118979,115.8782796790,2
@@ -9972,10 +9968,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,23731,23731,"Furley Rd After Silkwood St","",-32.1038224508,115.9435902880,3
 0,,23732,23732,"Furley Rd Before Silkwood St","",-32.1039201282,115.9435643990,3
 0,,23733,23733,"Edencourt Dr After Furley Rd","",-32.1056717903,115.94715327,3
-0,,23737,23737,"Bull Creek Rd After First Av","",-32.0450957471,115.8642296970,2
-0,,23738,23738,"Bull Creek Rd Before Webb St","",-32.0451028067,115.8661282410,2
-0,,23739,23739,"First Av After Peter Wy","",-32.0431470695,115.86391642,2
-0,,23740,23740,"Wilber St After Webb St","",-32.0419402014,115.8666061320,2
 0,,23741,23741,"Central Rd After Fourth Av","",-32.03858388888890,115.870946666667,2
 0,,23742,23742,"Fifth Av After Central Rd","",-32.0381676052,115.8731468030,2
 0,,23743,23743,"Fifth Av Before Ionic Sr","",-32.0360890040,115.8731488890,2
@@ -11775,8 +11767,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27797,27797,"Scotthorne Drv Northshore Christian Grammar School","",-31.60144888888890,115.694149444444,5
 0,,27799,27799,"Blackwood Mndr After Marmion Av","Yanchep Secondary College",-31.55407722222220,115.642302222222,6
 0,,27800,27800,"Blackwood Mndr Before Ravensbourne St","Yanchep Secondary College",-31.55408166666670,115.643210555556,6
-0,,27807,27807,"Rayner Dr After Abbts","",-31.81182055555550,115.860462222222,2
-0,,27808,27808,"Rayner Dr Before Abbts","",-31.81193944444440,115.860791111111,2
 0,,27813,27813,"Toodyay Rd Before Afric St","",-31.87441277777780,116.012678888889,3
 0,,27814,27814,"Grose Av Before Carousel Rd","Carousel Shop Ctr / Grose Av",-32.0185180597,115.9399607480,2
 0,,27815,27815,"Grose Av After Carousel Rd","",-32.0187874782,115.9399908440,2
