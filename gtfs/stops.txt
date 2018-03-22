@@ -80,7 +80,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,111,10084,10084,"St Georges Tce Stand P (After Barrack St)","",-31.9555300725,115.8587792060,FTZ
 0,112,10085,10085,"St Georges Tce Stand R S (After Sherwood Ct)","",-31.9553624152,115.8582722930,FTZ
 0,112,10086,10086,"St Georges Tce Stand T (After Sherwood Ct)","",-31.9552750592,115.8580024830,FTZ
-0,112,10087,10087,"St Georges Tce Stand M (After Sherwood Ct)","",-31.9552125491,115.8578022740,FTZ
+0,112,10087,10087,"St Georges Tce Stand M (Before Howard St)","",-31.9552125491,115.8578022740,FTZ
 0,,10088,10088,"St Georges Tce Stand Nop (Before William St)","St Georges Tce / William St",-31.9549213648,115.8569215470,FTZ
 0,116,10089,10089,"St Georges Tce Stand R (After William St)","St Georges Tce / Westralia Square",-31.9542253406,115.8547178230,FTZ
 0,116,10090,10090,"St Georges Tce Stand S (After William St)","St Georges Tce / Westralia Square",-31.9541603808,115.8545198460,FTZ
@@ -122,7 +122,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,104,10130,10130,"St Georges Tce Stand B (Before Pier St)","",-31.9562182727,115.8614466430,FTZ
 0,,10131,10131,"St Georges Tce Stand C (Before Irwin St)","St Georges Tce / Irwin St",-31.95650611111110,115.862346111111,FTZ
 0,,10132,10132,"St Georges Tce Stand D (Before Irwin St)","St Georges Tce / Irwin St",-31.956555,115.862496666667,FTZ
-0,108,10133,10133,"St Georges Tce Stand B E F (Before Victoria Av)","St Georges Tce / Victoria Av",-31.9570812841,115.8640951910,FTZ
+0,108,10133,10133,"St Georges Tce Stand B E F (After Irwin St)","St Georges Tce / Victoria Av",-31.9570812841,115.8640951910,FTZ
 0,108,10134,10134,"St Georges Tce Stand A C D (Before Victoria Av)","St Georges Tce / Victoria Av",-31.9571388285,115.8642541660,FTZ
 0,,10135,10135,"Adelaide Tce Before Hill St","Adelaide Tce / Hill St",-31.9583927777777990,115.867760555556,FTZ
 0,,10136,10136,"Adelaide Tce Before Bennett St","",-31.9594542779,115.8710155070,FTZ
@@ -459,6 +459,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10519,10519,"Ranford Rd Before Nicholson Rd","",-32.0905805171,115.9195507480,2
 0,,10520,10520,"Ranford Rd - Livingston Marketplace","Livingston Marketplace",-32.0874640291,115.9159834270,2
 0,,10521,10521,"Ranford Rd After Brennan Av","Ranford Rd / Brennan Av",-32.0848768125,115.9130946990,2
+0,,10522,10522,"Ranford Rd Before Wilfred Rd","",-32.082670,115.910325555556,2
 0,,10523,10523,"Ranford Rd After Wilfred Rd","",-32.081940,115.909036111111,2
 0,,10525,10525,"Ranford Rd Before Livingstone Dr","",-32.078330,115.902025,2
 0,,10526,10526,"Ranford Rd Before Bannister Rd","",-32.0732139639,115.89439395,2
