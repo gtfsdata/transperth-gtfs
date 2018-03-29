@@ -8806,6 +8806,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,21033,21033,"Beeliar Dr After Poletti Rd","",-32.1289471845,115.8513744440,3
 0,,21034,21034,"Beeliar Dr After Wentworth Pde","",-32.1293132547,115.8509384270,3
 0,,21035,21035,"Beeliar Dr After Poletti Rd","",-32.1284206901,115.8453020130,3
+0,,21036,21036,"Beeliar Dr After Hammond Rd","",-32.12642333333330,115.840488333333,3
 0,,21037,21037,"Beeliar Dr After Kemp Rd","",-32.1250784935,115.8358392710,3
 0,,21038,21038,"Beeliar Dr Before The Grange","",-32.1278560718,115.8213766370,3
 0,,21039,21039,"Dunraven Dr After Cervantes Loop","",-32.1261451246,115.8229459230,3
