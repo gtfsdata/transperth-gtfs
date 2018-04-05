@@ -9734,7 +9734,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,23093,23093,"North Lake Rd Before South St","",-32.0712106830,115.8147204420,2
 0,,23099,23099,"Johnson Rd Before Centennial Av","",-32.2518349859,115.8475638680,4
 0,,23100,23100,"Johnson Rd After Centennial Av","",-32.25178944444450,115.847469444444,4
-0,,23101,23101,"Johnson Rd After Mortimer Rd","",-32.2537270692,115.8474770910,4
+0,,23101,23101,"Johnson Rd After Mortimer Rd","",-32.25408722222220,115.847470,4
 0,,23102,23102,"Johnson Rd Before Mortimer Rd","",-32.2537555270,115.84759774,4
 0,,23119,23119,"Timberlane Dr After Gascoyne Av","",-31.7851529357,115.7956348510,3
 0,,23145,23145,"Secret Harbour Bvd Before Albenga Pl","",-32.4050867027,115.74927023,6
@@ -11551,7 +11551,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27466,27466,"Marmion Av After Revolution Av","",-31.57765333333330,115.660483333333,5
 0,,27467,27467,"Honeywood Av After Labatt Gdns","",-32.19034166666670,115.860957777778,4
 0,,27468,27468,"Honeywood Av Before Labatt Gdns","",-32.19014111111110,115.861042222222,3
-0,,27469,27469,"Honeywood Av Before Barakee Rd","",-32.184655,115.860046666667,3
+0,,27469,27469,"Honeywood Av After Cascade Rd","",-32.18478055555560,115.859993333333,3
 0,,27470,27470,"Honeywood Av After Barakee Rd","",-32.18479888888890,115.860167222222,3
 0,,27471,27471,"Honeywood Av Before Bindarri Gr","",-32.18785833333330,115.859726111111,3
 0,,27472,27472,"Honeywood Av Before Bindarri Gr","",-32.18750666666670,115.859902777778,3
@@ -11793,10 +11793,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27830,27830,"Hollington Bvd Before Clsa Cr","",-31.62935722222220,115.692479444444,5
 0,,27832,27832,"Ravendale Dr Stand 3","Mandurah Catholic College",-32.55049388888890,115.737824444444,8
 0,,27833,27833,"Ravendale Dr Stand 4","Mandurah Catholic College",-32.55035777777780,115.737685555556,8
-0,,27859,27859,"Webb St After Bull Creek Rd","",-32.0447033237,115.8670877590,2
-0,,27861,27861,"Webb St Before Bull Creek Rd","",-32.04467888888890,115.867173888889,2
-0,,27862,27862,"Webb St Before Wilber St","",-32.04234333333330,115.8671,2
-0,,27863,27863,"Webb St After Wilber St","",-32.04225777777780,115.867188888889,2
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce",-28.7734316666666990,114.612454444444,1
 0,,70003,70003,"Chapman Rd Before Mark St","",-28.76018222222220,114.615859444444,1
