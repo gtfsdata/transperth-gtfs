@@ -458,6 +458,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10518,10518,"Ranford Rd After Campbell Rd","Ranford Rd / Campbell Rd",-32.0927375471,115.9250733870,2
 0,,10519,10519,"Ranford Rd Before Nicholson Rd","",-32.0905805171,115.9195507480,2
 0,,10520,10520,"Ranford Rd - Livingston Marketplace","Livingston Marketplace",-32.0874640291,115.9159834270,2
+0,,10520A,10520A,"Ranford Rd - Livingston Marketplace","Livingston Marketplace",-32.086355,115.914680,2
 0,,10521,10521,"Ranford Rd After Brennan Av","Ranford Rd / Brennan Av",-32.0848768125,115.9130946990,2
 0,,10522,10522,"Ranford Rd Before Wilfred Rd","",-32.082670,115.910325555556,2
 0,,10523,10523,"Ranford Rd After Wilfred Rd","",-32.081940,115.909036111111,2
@@ -9182,7 +9183,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,21581,21581,"Pinjarra Rd After Webster Wy","",-32.5446092951,115.7691729290,7
 0,,21582,21582,"Pinjarra Rd Before Old Pinjarra Rd","",-32.5405016161,115.7633272610,7
 0,,21583,21583,"Pinjarra Rd After Rio Grande Av","",-32.5386210230,115.75026221,7
-0,,21584,21584,"Pinjarra Rd After Arnold St","Mandurah Forum",-32.53661944444450,115.739735,7
+0,,21584,21584,"Pinjarra Rd After Arnold St","Mandurah Forum",-32.5371473090,115.7418840920,7
 0,,21585,21585,"Pinjarra Rd Before Randell St","",-32.5351744542,115.7303184110,7
 0,,21586,21586,"Pinjarra Rd Before Forrest St","",-32.5349038499,115.7269104230,7
 0,,21587,21587,"Pinjarra Rd Before Sutton St","",-32.5348706133,115.7235990120,7
@@ -9804,6 +9805,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,23306,23306,"The Parkway   After Pinaster Pde","",-31.7848448045,115.9726605940,3
 0,,23307,23307,"The Parkway   After Villa Pass","",-31.7837078780,115.96758299,3
 0,,23308,23308,"The Promenade   After Main St","",-31.7782696807,115.9656681990,3
+0,,23309,23309,"Brookmount Dr After Charlottes Vsta","",-31.7743696992,115.9635176460,3
 0,,23310,23310,"Brookmount Dr Before Arbor Dr","",-31.7700288480,115.9639755720,3
 0,,23311,23311,"Arrowsmith Av After Moulton Trl","",-31.7680736409,115.9637057680,3
 0,,23312,23312,"Oakhill Hts After Birkett Cir","",-31.7659660256,115.9648792870,3
@@ -9814,6 +9816,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,23317,23317,"Oakhill Hts Before Arrowsmith Av","",-31.7662559826,115.9641439390,3
 0,,23318,23318,"Arrowsmith Av Before Woburn Park Av","",-31.76745611111110,115.963692777778,3
 0,,23319,23319,"Brookmount Dr After Arbor Dr","",-31.7701387571,115.9640797180,3
+0,,23320,23320,"Brookmount Dr After Molloy L","",-31.7741841636,115.9637412080,3
 0,,23321,23321,"The Promenade   Before Main St","",-31.7777307574,115.9653848690,3
 0,,23322,23322,"The Parkway   After Villa Pass","",-31.7835312913,115.9674954630,3
 0,,23323,23323,"Pinaster Pde After Ponte Vecchio Bvd","",-31.7923078433,115.96426780,3
@@ -11652,6 +11655,10 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27596,27596,"Ashburton St After Boulder St","",-32.004490,115.915914444444,1
 0,,27597,27597,"Ashburton St Before Boulder St","",-32.00425611111110,115.916023888889,1
 0,,27598,27598,"Hill View Tce Before Boundary Rd","",-32.00378944444450,115.902265555556,1
+0,,27603,27603,"Arthur St After Chinook Dr","",-31.85403055555550,115.973181666667,2
+0,,27604,27604,"Arthur St After Olivina Pwy","",-31.85406777777780,115.973289444444,2
+0,,27605,27605,"Arthur St Before Cranleigh St","",-31.85246722222220,115.973173888889,2
+0,,27606,27606,"Arthur St After Cranleigh St","",-31.85191444444440,115.973327777778,2
 0,,27609,27609,"Collis Rd After Mortimer St","Collis Rd / Mortimer St",-32.16492277777780,115.814255,3
 0,,27610,27610,"Honeywood Av Before Litoria Dr","Honeywood Av / Darling Ch",-32.19843444444440,115.861543333333,4
 0,,27611,27611,"Honeywood Av Before Mornington Cr","",-32.19551888888890,115.860678888889,4
@@ -11793,6 +11800,32 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27830,27830,"Hollington Bvd Before Clsa Cr","",-31.62935722222220,115.692479444444,5
 0,,27832,27832,"Ravendale Dr Stand 3","Mandurah Catholic College",-32.55049388888890,115.737824444444,8
 0,,27833,27833,"Ravendale Dr Stand 4","Mandurah Catholic College",-32.55035777777780,115.737685555556,8
+0,,27837,27837,"Dayton Bvd After Arthur St","",-31.85565222222220,115.971210,2
+0,,27838,27838,"Dayton Bvd Before Arthur St","",-31.85554777777780,115.971687777778,2
+0,,27839,27839,"Arthur St Before Platinum Rd","",-31.84947722222220,115.973156111111,2
+0,,27840,27840,"Arthur St Before Harrow St","",-31.84633777777780,115.973076111111,2
+0,,27841,27841,"Harrow St Before Lord St","",-31.84538333333340,115.969762222222,2
+0,,27842,27842,"Everglades Av Before Gloucester App","",-31.82818055555550,115.969290555556,3
+0,,27843,27843,"Partridge St After Elsey Rd","",-31.824720,115.968996111111,3
+0,,27844,27844,"Partridge St After Kasanka Av","",-31.82262388888890,115.969013888889,3
+0,,27845,27845,"Partridge St After Balboa Prom","",-31.81980222222220,115.968981666667,3
+0,,27846,27846,"Partridge St After Livonia St","",-31.81620777777780,115.969017222222,3
+0,,27847,27847,"Partridge St Before Park St","Partridge St / Park St",-31.814075,115.969003333333,3
+0,,27848,27848,"Park St Before Fairmount Bvd","",-31.813420,115.964188333333,3
+0,,27849,27849,"Park St After Lord St","",-31.813320,115.963970555556,3
+0,,27850,27850,"Partridge St After Park St","Partridge St / Park St",-31.81399444444450,115.969121111111,3
+0,,27851,27851,"Partridge St After Heisler Bvd","",-31.81630166666670,115.969119444444,3
+0,,27852,27852,"Partridge St After Tiergarten Rd","",-31.81989555555550,115.969176111111,3
+0,,27853,27853,"Partridge St After Dodgers St","",-31.82281555555560,115.969183888889,3
+0,,27854,27854,"Partridge St After Perlis Rd","",-31.82477888888890,115.969190555556,3
+0,,27855,27855,"Everglades Av After Woollcott Av","",-31.82784944444440,115.969353888889,3
+0,,27856,27856,"Harrow St After Lord St","",-31.84528166666670,115.969917777778,2
+0,,27857,27857,"Arthur St After Harrow St","",-31.84643555555560,115.973238888889,2
+0,,27858,27858,"Arthur St After Platinum Rd","",-31.84952277777780,115.973259444444,2
+0,,27869,27869,"Stillwater Dr After Callistemon Gdns","",-32.33267388888890,115.822738888889,5
+0,,27870,27870,"Stillwater Dr Before Selina Vw","",-32.33264333333340,115.823508888889,5
+0,,27871,27871,"Callistemon Gdns After Magenta Cr","",-32.33550333333330,115.825428333333,5
+0,,27872,27872,"Callistemon Gdns After Kennedia Cct","",-32.33580222222220,115.825442222222,5
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce",-28.7734316666666990,114.612454444444,1
 0,,70003,70003,"Chapman Rd Before Mark St","",-28.76018222222220,114.615859444444,1
@@ -12838,7 +12871,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,72464,72464,"Edith Cowan Av After Eaton Dr","",-33.31581055555560,115.725161666667,2
 0,,72466,72466,"Recreation Dr Before Finch Wy","",-33.31972166666670,115.720128888889,1
 0,,72468,72468,"Lusitano Av After Glen Huon Bvd","",-33.31141666666670,115.725405,2
-0,,72469,72469,"Travers Dr After Paris Rd","",-33.27397555555560,115.726727777778,2
+0,,72469,72469,"Travers Dr After Paris Rd","Travers Dr / Paris Rd",-33.27397555555560,115.726727777778,2
 0,,72470,72470,"Kingston Dr Before Sherwood Rd","",-33.26255777777780,115.744986111111,2
 0,,72471,72471,"Parade Rd Before Washington Av","",-33.37758777777780,115.633753888889,1
 0,,72472,72472,"Parade Rd After Washington Av","",-33.37795166666670,115.633964444444,1
