@@ -484,7 +484,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10546,10546,"South St After Mccombe Av","",-32.0654457357,115.80038885,2
 0,,10548,10548,"South St Before Stock Rd","",-32.0646243454,115.7965500710,2
 0,,10549,10549,"South St After Collick St","",-32.0634005674,115.78870305,2
-0,,10550,10550,"South St Before Hines Rd","",-32.06330611111110,115.7833,2
+0,,10550,10550,"South St After Hines Rd","",-32.06330611111110,115.7833,2
 0,,10551,10551,"South St Before Carrington St","",-32.0633456437,115.7804099820,2
 0,,10552,10552,"South St After Darling St","",-32.06332944444440,115.778232777778,2
 0,,10553,10553,"South St After Gibson St","",-32.0633780566,115.7746999030,2
@@ -649,7 +649,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10729,10729,"Marmion St After North Lake Rd","Marmion Reserve",-32.0400288826,115.8150008030,2
 0,,10730,10730,"Marmion St Before Love St","Marmion St / Love St",-32.0400002563,115.8127882380,2
 0,,10731,10731,"Marmion St After Hayward St","",-32.0400375299,115.8109867980,2
-0,,10732,10732,"Marmion St After Rome Rd","",-32.0408365329,115.8066225540,2
+0,,10732,10732,"Marmion St After Rome Rd","",-32.04055666666660,115.807530,2
 0,,10733,10733,"Marmion St Before Potts St","",-32.0413385895,115.8042975120,2
 0,,10734,10734,"Marmion St Before Thorn St","",-32.0425508132,115.8020570340,2
 0,,10735,10735,"Marmion St After Challenger Pl","",-32.0438020765,115.8000017060,2
@@ -1884,6 +1884,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12143,12143,"Beaufort St After Second Av","",-31.9276425061,115.8783546840,1
 0,,12144,12144,"Beaufort St After Fourth Av","",-31.925750,115.880626666667,1
 0,,12145,12145,"Beaufort St Before Sixth Av","",-31.9242081027,115.8824499790,1
+0,,12146,12146,"Beaufort St Before Eighth Av","",-31.92274222222220,115.884180,1
 0,,12147,12147,"Beaufort St After Ninth Av","",-31.92110722222220,115.886103333333,1
 0,,12148,12148,"Beaufort St Before Normanby Rd","",-31.91963833333330,115.888137222222,1
 0,,12149,12149,"Beaufort St Before Nelson St","Beaufort St / Wood St",-31.91753555555560,115.890692777778,1
@@ -2171,7 +2172,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12505,12505,"Mirrabooka Av After Marangaroo Dr","",-31.8366116084,115.8547531810,2
 0,,12506,12506,"Mirrabooka Av Before Edgington Cr","",-31.8385906001,115.8547532960,2
 0,,12507,12507,"Mirrabooka Av After Koondoola Av","",-31.8431952873,115.8554545420,2
-0,,12508,12508,"Mirrabooka Av - Mercy College  ","Mercy College",-31.8467040624,115.8554228940,2
+0,,12508,12508,"Mirrabooka Av - Mercy College  ","Mercy College",-31.84584722222220,115.855398888889,2
 0,,12509,12509,"Mirrabooka Av After Beach Rd","",-31.8511879617,115.8553464580,2
 0,,12510,12510,"Mirrabooka Av Before Heathcroft Rd","",-31.8534149250,115.85532299,2
 0,,12511,12511,"Mirrabooka Av Before Mildmay St","",-31.8563017960,115.8553014380,2
@@ -7656,7 +7657,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,19503,19503,"Alfred Rd Before Graylands Rd","Alfred Rd / Davies Rd",-31.9689237458,115.7827483860,1
 0,,19504,19504,"Alfred Rd Before Mimosa Av","",-31.9689962935,115.7841824170,1
 0,,19505,19505,"Alfred Rd Before Ashton Av","",-31.9689719288,115.7879072040,1
-0,,19506,19506,"Alfred Rd Before Brockway Rd","",-31.9689471387,115.79107943,1
 0,,19507,19507,"Railway Rd Loch St Stn Rr","Loch Street Stn",-31.97177333333330,115.791918333333,1
 0,,19508,19508,"Railway Rd Karrakatta Stn Rr","",-31.9687443964,115.7961284810,1
 0,,19509,19509,"Railway Rd Karrakatta Stn Rr","",-31.96889611111110,115.796273888889,1
@@ -8373,7 +8373,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,20455,20455,"Nicholson Rd Before Hughes St","Nicholson Rd / Hughes St",-32.0674516785,115.9320147730,2
 0,,20456,20456,"Nicholson Rd After Bengalla Bvd","",-32.0710599881,115.9275322220,2
 0,,20457,20457,"Nicholson Rd After Birnam Rd","",-32.0753923098,115.9221691220,2
-0,,20459,20459,"Nicholson Rd Before Eucalyptus Bvd","Nicholson Rd / Eucalyptus Bvd",-32.0868755555556010,115.918511666667,2
+0,,20459,20459,"Nicholson Rd After Eucalyptus Bvd","Nicholson Rd / Eucalyptus Bvd",-32.08687555555560,115.918511666667,2
 0,,20463,20463,"Nicholson Rd After Ranford Rd","Nicholson Rd / Ranford Rd",-32.0877248040,115.9179977420,2
 0,,20464,20464,"Nicholson Rd After Eucalyptus Bvd","",-32.0834984259,115.9192661890,2
 0,,20466,20466,"Nicholson Rd Before Amherst Rd","",-32.0723393829,115.92558024,2
@@ -9087,10 +9087,10 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,21418,21418,"Secret Harbour Bvd Before Warnbro Sound Av","Secret Harbour Bvd / Warnbro Sound Av",-32.3955206504,115.7583468970,6
 0,,21419,21419,"Secret Harbour Bvd After Warnbro Sound Av","Secret Harbour Bvd / Warnbro Sound Av",-32.3955992308,115.7581190050,6
 0,,21420,21420,"Secret Harbour Bvd Before La Spezia Dr","",-32.3962383776,115.7550826430,6
-0,,21421,21421,"Secret Harbour Bvd After Horta L","",-32.3968249141,115.7509731230,6
+0,,21421,21421,"Secret Harbour Bvd After Horta L","",-32.39664777777780,115.750385,6
 0,,21422,21422,"Secret Harbour Bvd After Vila Do Porto Cr","",-32.3957694199,115.7469631450,6
 0,,21423,21423,"Secret Harbour Bvd After Siracusa Ct","",-32.39996166666670,115.747192222222,6
-0,,21424,21424,"Secret Harbour Bvd Before Saint Kitts Bvd","",-32.4018380245,115.74867539,6
+0,,21424,21424,"Secret Harbour Bvd Before Saint Kitts Bvd","",-32.40173666666670,115.748589444444,6
 0,,21425,21425,"Secret Harbour Bvd After Saint Kitts Bvd","",-32.4018163615,115.74854708,6
 0,,21426,21426,"Secret Harbour Bvd Before Siracusa Ct","",-32.40017611111110,115.747182222222,6
 0,,21428,21428,"Secret Harbour Bvd Before Palermo Cove","",-32.40769222222220,115.747876666667,6
@@ -9725,7 +9725,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,23021,23021,"Rockingham Rd Before Thomas Rd","",-32.2242273698,115.7879046360,4
 0,,23024,23024,"Bagot Rd After Salisbury St","Bagot Rd / Rokeby Rd",-31.9503861103,115.8264748070,1
 0,,23025,23025,"Anchorage Dr Mindarie Senior College","Mindarie Senior College",-31.6779311706,115.7066516080,4
-0,,23085,23085,"Wellington St Perth Arena Yellow Cat 16","",-31.94984388888890,115.853491111111,FTZ
+0,,23085,23085,"Wellington St Perth Arena Yellow Cat 16","",-31.9498346764,115.8535620020,FTZ
 0,,23086,23086,"Wellington St Sutherland St Yellow Cat 17","",-31.94764055555560,115.846720,FTZ
 0,,23087,23087,"Wellington St Colin St Yellow Cat 19","Wellington St / Colin St",-31.9463438297,115.8427639460,FTZ
 0,,23088,23088,"Murray St Princess Margaret Hospital Y 20","Princess Margaret Hospital",-31.9462753846,115.8393774720,FTZ
@@ -9737,7 +9737,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,23101,23101,"Johnson Rd After Mortimer Rd","",-32.25408722222220,115.847470,4
 0,,23102,23102,"Johnson Rd Before Mortimer Rd","",-32.2537555270,115.84759774,4
 0,,23119,23119,"Timberlane Dr After Gascoyne Av","",-31.7851529357,115.7956348510,3
-0,,23145,23145,"Secret Harbour Bvd Before Albenga Pl","",-32.4050867027,115.74927023,6
+0,,23145,23145,"Secret Harbour Bvd Before Albenga Pl","",-32.40530833333330,115.749128333333,6
 0,,23146,23146,"Secret Harbour Bvd After Albenga Pl","",-32.4051238216,115.7491488920,6
 0,,23150,23150,"Shenton Av After Grand Bvd","",-31.7402262642,115.7707889910,3
 0,,23151,23151,"Davidson Tce Before Reid Prom","",-31.7414641821,115.7723726240,3
@@ -10305,7 +10305,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,24339,24339,"Sulphur Rd After Oreilia Av","",-32.2399538746,115.8180272040,4
 0,,24341,24341,"Pinjarra Rd After Dower St","",-32.5362151455,115.7374111130,7
 0,,24343,24343,"Bluestone Pwy After Miltona Dr","",-32.4093985224,115.76899477,6
-0,,24344,24344,"Secret Harbour Bvd After Vilado Porto Dr","",-32.3979697623,115.7458740250,6
+0,,24344,24344,"Secret Harbour Bvd After Vilado Porto Dr","",-32.39809222222220,115.745934444444,6
 0,,24345,24345,"Longreach Pde After Fairbairn Rd","",-32.1230537272,115.77311006,3
 0,,24346,24346,"Longreach Pde Before Fairbairn Rd","",-32.1230704311,115.77320119,3
 0,,24347,24347,"Hamilton Rd After Cranberry St","",-32.1143246047,115.7749789670,3
@@ -11047,8 +11047,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26575,26575,"Golf Links Dr Before Labianca Vsta","",-31.7055465281,115.7954933880,4
 0,,26576,26576,"Golf Links Dr After Fineview Cr","",-31.70521444444440,115.798483333333,4
 0,,26577,26577,"Golf Links Dr After Pinjar Rd","",-31.705305,115.798269444444,4
-0,,26580,26580,"Ghost Gum Bvd After Joseph Banks Bvd","",-31.70219833333330,115.801815,4
-0,,26581,26581,"Ghost Gum Bvd After Formosa Wy","",-31.70220666666670,115.802008333333,4
+0,,26580,26580,"Ghost Gum Bvd After Joseph Banks Bvd","",-31.70231222222220,115.801835,4
+0,,26581,26581,"Ghost Gum Bvd After Formosa Wy","",-31.70250444444450,115.801996666667,4
 0,,26591,26591,"South Western Hwy Before Nettleton Rd","",-32.22589666666670,116.007521111111,4
 0,,26592,26592,"South Western Hwy Before Nettleton Rd","",-32.22513388888890,116.008067777778,4
 0,,26593,26593,"Moora Cl Before Nyabing Pass","",-32.62554888888890,115.630151111111,9
