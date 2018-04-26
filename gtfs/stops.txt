@@ -9651,7 +9651,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,22791,22791,"Stoneville Rd After Hartung St","Stoneville Rd / Happiness L",-31.9009429073,116.1682516850,4
 0,,22802,22802,"King St After Hamilton Rd","",-32.1113203467,115.7737271870,3
 0,,22804,22804,"Everingham St Carine Snr High Sch Stand 5","Carine Senior High School",-31.8528784166,115.7775318770,2
-0,,22805,22805,"Alexander Dr Before Yirrigan Dr","",-31.8764003189,115.87733868,2
+0,,22805,22805,"Alexander Dr Before Yirrigan Dr","",-31.87667611111110,115.877352777778,2
 0,,22806,22806,"Old Coast Rd Before Oakleigh Dr","",-32.5599308494,115.6884422460,8
 0,,22807,22807,"Old Coast Rd After Oakleigh Dr","",-32.5603403352,115.6884727630,8
 0,,22887,22887,"Burrendah Bvd Before Springfield St","",-32.0556120741,115.8758336040,2
@@ -11654,6 +11654,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27596,27596,"Ashburton St After Boulder St","",-32.004490,115.915914444444,1
 0,,27597,27597,"Ashburton St Before Boulder St","",-32.00425611111110,115.916023888889,1
 0,,27598,27598,"Hill View Tce Before Boundary Rd","",-32.00378944444450,115.902265555556,1
+0,,27601,27601,"Arthur St After St Leonards Bvd","",-31.85645666666660,115.973407777778,2
+0,,27602,27602,"Arthur St After Dayton Bvd","",-31.85654222222220,115.973516666667,2
 0,,27603,27603,"Arthur St After Chinook Dr","",-31.85403055555550,115.973181666667,2
 0,,27604,27604,"Arthur St After Olivina Pwy","",-31.85406777777780,115.973289444444,2
 0,,27605,27605,"Arthur St Before Cranleigh St","",-31.85246722222220,115.973173888889,2
@@ -11799,8 +11801,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27830,27830,"Hollington Bvd Before Clsa Cr","",-31.62935722222220,115.692479444444,5
 0,,27832,27832,"Ravendale Dr Stand 3","Mandurah Catholic College",-32.55049388888890,115.737824444444,8
 0,,27833,27833,"Ravendale Dr Stand 4","Mandurah Catholic College",-32.55035777777780,115.737685555556,8
-0,,27837,27837,"Dayton Bvd After Arthur St","",-31.85565222222220,115.971210,2
-0,,27838,27838,"Dayton Bvd Before Arthur St","",-31.85554777777780,115.971687777778,2
 0,,27839,27839,"Arthur St Before Platinum Rd","",-31.84947722222220,115.973156111111,2
 0,,27840,27840,"Arthur St Before Harrow St","",-31.84633777777780,115.973076111111,2
 0,,27841,27841,"Harrow St Before Lord St","",-31.84538333333340,115.969762222222,2
@@ -11825,6 +11825,12 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27870,27870,"Stillwater Dr Before Selina Vw","",-32.33264333333340,115.823508888889,5
 0,,27871,27871,"Callistemon Gdns After Magenta Cr","",-32.33550333333330,115.825428333333,5
 0,,27872,27872,"Callistemon Gdns After Kennedia Cct","",-32.33580222222220,115.825442222222,5
+0,,27874,27874,"Dampiera St After Lunata St","",-31.85793388888890,115.969157777778,2
+0,,27875,27875,"Dampiera St Before Lunata St","",-31.858210,115.969258333333,2
+0,,27876,27876,"Kennedia Ent After Litoria Pass","",-31.85957666666670,115.970936111111,2
+0,,27877,27877,"Kennedia Ent After Attenuata Way","",-31.85966111111110,115.971402777778,2
+0,,27878,27878,"Arthur St Before Floribunda Gate","",-31.85892388888890,115.973448888889,2
+0,,27879,27879,"Arthur St After Floribunda Gate","",-31.85891444444450,115.973545,2
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce",-28.7734316666666990,114.612454444444,1
 0,,70003,70003,"Chapman Rd Before Mark St","",-28.76018222222220,114.615859444444,1
@@ -13751,6 +13757,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,95473,95473,"Transwa Bay   Manypeaks","Many Peaks",-34.83894388888890,118.171323888889,4
 0,,95474,95474,"Brand Hwy To Muchea Brand Hwy Temp","",-31.57982722222220,115.984292222222,5
 0,,95475,95475,"Brand Hwy From Muchea Brand Hwy Temp","",-31.58044166666670,115.977178888889,5
+0,,95476,95476,"Unnamed Rd Transwa Stadium","Transwa Stadium",-31.954105,115.890954444444,1
 0,,95499,95499,"Perth Stn Transwa Rail Perth","Transwa Rail Perth",-31.951295,115.860132777778,1
 0,,95501,95501,"Transwa Bay East Perth Set-Down","East Perth Stn - Transwa",-31.94271722222220,115.876982222222,1
 0,56,99004,99004,"Perth Stn Platform 4","Perth Stn",-31.9512488888889020,115.86003888888899,FTZ
