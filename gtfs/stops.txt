@@ -2229,7 +2229,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12566,12566,"Scarborough Beach Rd After Grant St","Westfield Innaloo Shopping Centre ",-31.90029555555550,115.791462777778,2
 0,,12567,12567,"Scarborough Beach Rd After Wotan St","",-31.90087888888890,115.794273333333,2
 0,,12568,12568,"Scarborough Beach Rd After Odin Rd","Innaloo Shopping Centre",-31.9019876394,115.7969298390,2
-0,,12569,12569,"Scarborough Beach Rd After Ellen Stirling Bvd","",-31.9034170601,115.8014753580,2
+0,,12569,12569,"Scarborough Beach Rd After Ellen Stirling Bvd","",-31.90365888888890,115.802524444444,1
 0,,12570,12570,"Scarborough Beach Rd After King Edward Rd","",-31.9046289428,115.8060783170,1
 0,,12571,12571,"Scarborough Beach Rd After Omalley St","",-31.9056755193,115.8086730320,1
 0,,12572,12572,"Scarborough Beach Rd After Hutton St","",-31.9086624439,115.8124049430,1
@@ -4590,10 +4590,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,15611,15611,"Reid St After Hamilton St","",-31.9150794981,115.9510856540,2
 0,,15612,15612,"Reid St After Whitfield St","",-31.9153448869,115.95138305,2
 0,,15613,15613,"Reid St After Iveson Pl","",-31.9143202173,115.9484165180,2
-0,,15615,15615,"Marshall Rd After Rugby St","",-31.8556801391,115.9643858810,2
-0,,15616,15616,"Marshall Rd After Dulwich St","",-31.8557063868,115.9565576240,2
-0,,15619,15619,"Marshall Rd After Roedean St","",-31.8556023194,115.95669391,2
-0,,15620,15620,"Marshall Rd After Cheltenham St","",-31.8555714138,115.9642874520,2
 0,,15622,15622,"Benara Rd After West Swan Rd","Benara Rd / West Swan Rd",-31.8758530128,115.9741994430,2
 0,,15624,15624,"Benara Rd After Waldeck Rd","",-31.8757693598,115.9655578310,2
 0,,15627,15627,"Benara Rd After Sturtridge Rd","",-31.8756768878,115.9510968970,2
@@ -4617,8 +4613,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,15650,15650,"Benara Rd After Lord St","",-31.8755921381,115.9605314760,2
 0,,15651,15651,"Benara Rd Before Waldeck Rd","",-31.8756496939,115.9653911110,2
 0,,15653,15653,"Benara Rd Before West Swan Rd","Benara Rd / West Swan Rd",-31.8757197217,115.9734013410,2
-0,,15655,15655,"Altone Rd After Driftwood Wy","Altone Rd / Bennett Springs Dr",-31.8572560303,115.9456266130,2
-0,,15656,15656,"Altone Rd After Spoonbill Pass","",-31.85876666666670,115.945670555556,2
 0,,15657,15657,"Altone Rd After Reid Hwy","Altone Rd / Thorburn Av",-31.8641506407,115.9450142350,2
 0,,15658,15658,"Altone Rd After Small St","",-31.8689544436,115.9448192530,2
 0,,15659,15659,"Altone Rd After Amazon Dr","Altone Park Shop Ctr",-31.8706396118,115.9448088920,2
@@ -4631,7 +4625,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,15666,15666,"Altone Rd Before Amazon Dr","Altone Park Shopping Centre",-31.87093666666670,115.944587222222,2
 0,,15667,15667,"Altone Rd After Amazon Dr","",-31.8691447487,115.9445880480,2
 0,,15668,15668,"Altone Rd After Vistula Av","Altone Rd / Thorburn Av",-31.8638513055,115.94487075,2
-0,,15669,15669,"Altone Rd After Tattler Wy","",-31.85834277777780,115.945484444444,2
 0,,15670,15670,"Bennett Springs Dr After Albatross Loop","Bennet Springs Dr / Portland Mews",-31.8577220854,115.9432913410,2
 0,,15671,15671,"Bennett Springs Dr After Lockier Crsg","",-31.8576346316,115.9437125120,2
 0,,15672,15672,"Bennett Springs Dr After Waterway Pass","",-31.8577267078,115.9406901910,2
@@ -9457,7 +9450,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,21999,21999,"Bennett St Before Benara Rd","",-31.872120,115.959942777778,2
 0,,22000,22000,"Bennett St Before Benara Rd","",-31.8751311658,115.9599167650,2
 0,,22001,22001,"Bennett St After Benara Rd","",-31.8750968744,115.9598268220,2
-0,,22002,22002,"Altone Rd After Bennett Springs Dr","Altone Rd / Bennett Springs Dr",-31.8565576412,115.9452865550,2
 0,,22012,22012,"School Rd Darling Range Sports College Stand 4","Darling Range Sports College",-31.976495,116.010227222222,2
 0,,22013,22013,"Strelitzia Av After Salix Wy","",-31.9851909123,116.0098449250,2
 0,,22014,22014,"Strelitzia Av Before Salix Wy","",-31.9851616909,116.0096059950,2
@@ -9499,8 +9491,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,22069,22069,"Joondalup Dr Edgewater Stn Rr","Edgewater Stn",-31.77027888888890,115.780231111111,3
 0,,22071,22071,"Great Eastern Hwy Before Wanderra Cr","",-31.9031689703,116.1778615340,4
 0,,22072,22072,"Great Eastern Hwy After Wanderra Cr","",-31.9035160006,116.17799157,4
-0,,22083,22083,"Marshall Rd After Cheltenham St","",-31.85558944444440,115.961819444444,2
-0,,22084,22084,"Marshall Rd Before Cheltenham St","",-31.8556900132,115.9616470580,2
 0,,22103,22103,"Duke St After Newborough St","",-31.8860895924,115.7716652460,2
 0,,22112,22112,"Herreshoff Rmbl Ocean Reef High Sch Stand 2","Ocean Reef Senior High School",-31.7599357310,115.7398222240,3
 0,,22131,22131,"Hilarion Rd Before Casilda Rd","",-31.8232372205,115.7717630870,2
