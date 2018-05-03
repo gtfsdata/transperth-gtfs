@@ -152,6 +152,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10160,10160,"Albany Hwy Before George Wy","",-32.0151004585,115.9291698720,2
 0,,10161,10161,"Albany Hwy Before Fletcher St","",-32.0169468834,115.9332085630,2
 0,,10163,10163,"Albany Hwy Before Liege St","Carousel Shop Ctr / Albany Hwy",-32.0219300531,115.9384349850,2
+0,,10163A,10163A,"Albany Hwy Before Liege St","Carousel Shop Ctr / Albany Hwy",-32.01889277777780,115.935748333333,2
 0,,10164,10164,"Albany Hwy Before Station St","Carousel Shop Ctr / Liege St",-32.02343555555560,115.940082777778,2
 0,,10165,10165,"Albany Hwy After Station St","",-32.0257530094,115.9428894090,2
 0,,10166,10166,"Albany Hwy After Nicholson Rd","",-32.0269236293,115.9466657480,2
@@ -460,7 +461,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10520,10520,"Ranford Rd - Livingston Marketplace","Livingston Marketplace",-32.086355,115.914680,2
 0,,10521,10521,"Ranford Rd After Brennan Av","Ranford Rd / Brennan Av",-32.0848768125,115.9130946990,2
 0,,10522,10522,"Ranford Rd Before Wilfred Rd","",-32.082670,115.910325555556,2
-0,,10523,10523,"Ranford Rd After Wilfred Rd","",-32.081940,115.909036111111,2
+0,,10523,10523,"Ranford Rd After Wilfred Rd","",-32.08144833333340,115.907999444444,2
 0,,10525,10525,"Ranford Rd Before Livingstone Dr","",-32.07785666666670,115.901140,2
 0,,10526,10526,"Ranford Rd Before Bannister Rd","",-32.0732139639,115.89439395,2
 0,,10528,10528,"South St After Beasley Rd","South St / Beasley Rd",-32.0666667448,115.8842447880,2
@@ -2965,7 +2966,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,13545,13545,"Sevenoaks St After Mallard Wy","",-32.00738833333330,115.938152777778,2
 0,,13546,13546,"Sevenoaks St After John St","",-31.99550166666670,115.923218333333,1
 0,,13547,13547,"Sevenoaks St After Tate St","",-31.99538666666670,115.923242222222,1
-0,,13548,13548,"Sevenoaks St Before Mallard Wy","",-32.007060,115.938102777778,2
+0,,13548,13548,"Sevenoaks St Before Mallard Wy","",-32.00752722222220,115.938606666667,2
 0,,13551,13551,"Ladywell St After Streatham St","",-32.0284855673,115.9651871380,2
 0,,13554,13554,"Ladywell St After Brenchley St","",-32.0286050895,115.9651790540,2
 0,,13555,13555,"Sydenham St Before Streatham St","",-32.0267578639,115.9620866650,2
@@ -4530,12 +4531,10 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,15522,15522,"Lord St Before Henley St","",-31.8026543671,115.9630229150,3
 0,,15523,15523,"Lord St After Henley St","",-31.8076638880,115.9632787010,3
 0,,15524,15524,"Lord St After Park St","",-31.8150023925,115.9625326420,3
-0,,15525,15525,"Lord St Before Woollcott Av","",-31.8262230760,115.9625267440,3
 0,,15526,15526,"Lord St After Youle-Dean Rd","Whiteman Park",-31.8346632081,115.9655841710,2
 0,,15527,15527,"Lord St After Cranleigh St","",-31.85202611111110,115.969274444444,2
 0,,15528,15528,"Lord St Before Cranleigh St","",-31.85205277777780,115.969092222222,2
 0,,15529,15529,"Lord St Before Youle-Dean Rd","",-31.8346184887,115.9653742880,2
-0,,15530,15530,"Lord St After Woollcott Av","",-31.82763222222220,115.962413888889,3
 0,,15531,15531,"Lord St Before Park St","",-31.81377944444440,115.962325555556,3
 0,,15532,15532,"Lord St After Park St","",-31.8075485489,115.96309678,3
 0,,15533,15533,"Lord St Before Henley St","",-31.8041928227,115.9628928720,3
@@ -10192,7 +10191,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,24187,24187,"Safety Bay Rd After Donald Dr","",-32.30828333333340,115.728481666667,5
 0,,24188,24188,"Mataitai Loop After Cambridge Cr","",-32.2942467785,115.7556890830,5
 0,,24189,24189,"Mataitai Loop After Waterton Wy","",-32.2938766402,115.7558993890,5
-0,,24200,24200,"Rae Rd After Read St","",-32.2951945268,115.7473139360,5
+0,,24200,24200,"Rae Rd After Read St","",-32.295085,115.747542777778,5
 0,,24201,24201,"Rae Rd Before Read St","",-32.2953939070,115.7474434510,5
 0,,24202,24202,"Grand Ocean Bvd Before Tryall Av","",-32.3598944870,115.7513434690,5
 0,,24203,24203,"Tryall Av After Roundhill Dr","",-32.3620895943,115.7504623970,6
@@ -11780,6 +11779,10 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27813,27813,"Toodyay Rd Before Afric St","",-31.87441277777780,116.012678888889,3
 0,,27814,27814,"Grose Av Before Carousel Rd","Carousel Shop Ctr / Grose Av",-32.0185180597,115.9399607480,2
 0,,27815,27815,"Grose Av After Carousel Rd","",-32.0187874782,115.9399908440,2
+0,,27816,27816,"Collier Rd After Wright St","",-31.9052021355,115.9191525980,1
+0,,27817,27817,"Collier Rd Before Wright St","",-31.90479722222220,115.919020,1
+0,,27819,27819,"Collier Rd After Jackson Ave","",-31.90610888888890,115.926397222222,1
+0,,27820,27820,"Collier Rd After Jackson St","",-31.90590722222220,115.927965555556,2
 0,,27821,27821,"Helena Valley Rd Before Scott St","",-31.92307388888890,116.047176111111,3
 0,,27822,27822,"Eighty Rd Before Cheshire Dr","Mother Teresa Catholic College",-32.362830,115.798407777778,5
 0,,27823,27823,"Perth Stadium Bus Stn Perth Stadium Set Down","Perth Stadium Bus Stn",-31.95273944444440,115.889883333333,1
@@ -11800,8 +11803,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27845,27845,"Partridge St After Balboa Prom","",-31.81980222222220,115.968981666667,3
 0,,27846,27846,"Partridge St After Livonia St","",-31.81620777777780,115.969017222222,3
 0,,27847,27847,"Partridge St Before Park St","Partridge St / Park St",-31.814075,115.969003333333,3
-0,,27848,27848,"Park St Before Fairmount Bvd","",-31.813420,115.964188333333,3
-0,,27849,27849,"Park St After Lord St","",-31.813320,115.963970555556,3
+0,,27848,27848,"Park St Before Fairmount Bvd","",-31.81341388888890,115.964540555556,3
+0,,27849,27849,"Park St After Lord St","",-31.81332611111110,115.964225,3
 0,,27850,27850,"Partridge St After Park St","Partridge St / Park St",-31.81399444444450,115.969121111111,3
 0,,27851,27851,"Partridge St After Heisler Bvd","",-31.81630166666670,115.969119444444,3
 0,,27852,27852,"Partridge St After Tiergarten Rd","",-31.81989555555550,115.969176111111,3
@@ -11821,6 +11824,10 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27877,27877,"Kennedia Ent After Attenuata Way","",-31.85966111111110,115.971402777778,2
 0,,27878,27878,"Arthur St Before Floribunda Gate","",-31.85892388888890,115.973448888889,2
 0,,27879,27879,"Arthur St After Floribunda Gate","",-31.85891444444450,115.973545,2
+0,,27880,27880,"Mansfield Av After Benfleet Dr","",-31.63540055555560,115.696389444444,5
+0,,27881,27881,"Mansfield Av After Farway Link","",-31.63572833333340,115.696082777778,5
+0,,27882,27882,"Watsonia Rd Before Ridge Hill Rd","",-31.94416222222220,116.032836666667,2
+0,,27883,27883,"Watsonia Rd After Ridge Hill Rd","",-31.94417166666660,116.032935555556,2
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce",-28.7734316666666990,114.612454444444,1
 0,,70003,70003,"Chapman Rd Before Mark St","",-28.76018222222220,114.615859444444,1
