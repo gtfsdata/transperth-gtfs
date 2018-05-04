@@ -11729,15 +11729,15 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27724,27724,"Gnangara Rd Before Callaway St","",-31.79937722222220,115.844898888889,3
 0,,27725,27725,"North Lake Rd After Somerville Bvd","",-32.06270333333330,115.814922222222,2
 0,,27726,27726,"North Lake Rd Before Archibald St","",-32.05301722222220,115.816033333333,2
-0,140,27728,27728,"Perth Stadium Bus Stn Perth Stadium Stand 1","Perth Stadium Bus Stn",-31.95505388888890,115.890493333333,1
+0,139,27728,27728,"Perth Stadium Bus Stn Perth Stadium Stand 1","Perth Stadium Bus Stn",-31.95505388888890,115.890493333333,1
 0,139,27731,27731,"Perth Stadium Bus Stn Perth Stadium Stand 4","Perth Stadium Bus Stn",-31.95451777777780,115.890361666667,1
-0,140,27733,27733,"Perth Stadium Bus Stn Perth Stadium Stand 6","Perth Stadium Bus Stn",-31.95396111111110,115.890252777778,1
-0,140,27735,27735,"Perth Stadium Bus Stn Perth Stadium Stand 8","Perth Stadium Bus Stn",-31.95360666666660,115.890172777778,1
-0,140,27737,27737,"Perth Stadium Bus Stn Perth Stadium Stand 10","Perth Stadium Bus Stn",-31.95326388888890,115.890101111111,1
-0,140,27739,27739,"Perth Stadium Bus Stn Perth Stadium Stand 12","Perth Stadium Bus Stn",-31.95310888888890,115.889657777778,1
-0,140,27741,27741,"Perth Stadium Bus Stn Perth Stadium Stand 14","Perth Stadium Bus Stn",-31.953405,115.889729444444,1
-0,140,27743,27743,"Perth Stadium Bus Stn Perth Stadium Stand 16","Perth Stadium Bus Stn",-31.95377777777780,115.889825,1
-0,140,27745,27745,"Perth Stadium Bus Stn Perth Stadium Stand 18","Perth Stadium Bus Stn",-31.95433611111110,115.889949444444,1
+0,139,27733,27733,"Perth Stadium Bus Stn Perth Stadium Stand 6","Perth Stadium Bus Stn",-31.95396111111110,115.890252777778,1
+0,139,27735,27735,"Perth Stadium Bus Stn Perth Stadium Stand 8","Perth Stadium Bus Stn",-31.95360666666660,115.890172777778,1
+0,139,27737,27737,"Perth Stadium Bus Stn Perth Stadium Stand 10","Perth Stadium Bus Stn",-31.95326388888890,115.890101111111,1
+0,139,27739,27739,"Perth Stadium Bus Stn Perth Stadium Stand 12","Perth Stadium Bus Stn",-31.95310888888890,115.889657777778,1
+0,139,27741,27741,"Perth Stadium Bus Stn Perth Stadium Stand 14","Perth Stadium Bus Stn",-31.953405,115.889729444444,1
+0,139,27743,27743,"Perth Stadium Bus Stn Perth Stadium Stand 16","Perth Stadium Bus Stn",-31.95377777777780,115.889825,1
+0,139,27745,27745,"Perth Stadium Bus Stn Perth Stadium Stand 18","Perth Stadium Bus Stn",-31.95433611111110,115.889949444444,1
 0,,27751,27751,"Nelson Av Stand 1","East Perth Special Event Bus Stn",-31.95676555555550,115.883850555556,FTZ
 0,,27754,27754,"Nelson Av Stand 4","East Perth Special Event Bus Stn",-31.95624166666660,115.883661666667,FTZ
 0,,27758,27758,"Nile St Stand 8","East Perth Special Event Bus Stn",-31.95532944444440,115.883323333333,FTZ
@@ -11785,7 +11785,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27820,27820,"Collier Rd After Jackson St","",-31.90590722222220,115.927965555556,2
 0,,27821,27821,"Helena Valley Rd Before Scott St","",-31.92307388888890,116.047176111111,3
 0,,27822,27822,"Eighty Rd Before Cheshire Dr","Mother Teresa Catholic College",-32.362830,115.798407777778,5
-0,,27823,27823,"Perth Stadium Bus Stn Perth Stadium Set Down","Perth Stadium Bus Stn",-31.95273944444440,115.889883333333,1
+0,139,27823,27823,"Perth Stadium Bus Stn Perth Stadium Set Down","Perth Stadium Bus Stn",-31.95273944444440,115.889883333333,1
 0,,27824,27824,"Gaebler Rd After Gorringe St","",-32.16845444444440,115.850658888889,3
 0,,27825,27825,"Gaebler Rd Before Gorringe St","",-32.16854444444440,115.850795,3
 0,,27826,27826,"Bluewater Dr  After Merchant Way","",-31.59947166666670,115.687376111111,5
