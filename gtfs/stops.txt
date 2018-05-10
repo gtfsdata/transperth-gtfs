@@ -459,6 +459,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10518,10518,"Ranford Rd After Campbell Rd","Ranford Rd / Campbell Rd",-32.0927375471,115.9250733870,2
 0,,10519,10519,"Ranford Rd Before Nicholson Rd","",-32.0905805171,115.9195507480,2
 0,,10520,10520,"Ranford Rd - Livingston Marketplace","Livingston Marketplace",-32.086355,115.914680,2
+0,,10520A,10520A,"Ranford Rd - Livingston Marketplace","Livingston Marketplace",-32.08747388888890,115.915967222222,2
 0,,10521,10521,"Ranford Rd After Brennan Av","Ranford Rd / Brennan Av",-32.0848768125,115.9130946990,2
 0,,10522,10522,"Ranford Rd Before Wilfred Rd","",-32.082670,115.910325555556,2
 0,,10523,10523,"Ranford Rd After Wilfred Rd","",-32.08144833333340,115.907999444444,2
@@ -2537,7 +2538,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12997,12997,"Strawberry Dr After Fortunella Gr","",-32.1447918123,115.9871306240,3
 0,,12998,12998,"Strawberry Dr After Orange Gr","",-32.1421826125,115.9820519740,3
 0,,12999,12999,"Strawberry Dr Before San Jacinta Rd","Strawberry Dr / San Jancinta Rd",-32.14063888888890,115.978835,3
-0,,13000,13000,"Seville Dr Before Braemore St","Seville Dr / Armadale Rd",-32.1464947363,115.9907573920,3
+0,,13000,13000,"Seville Dr Before Braemore St","Seville Dr / Armadale Rd",-32.146495,115.990757222222,3
 0,,13001,13001,"Seville Dr After Strawberry Dr","",-32.1437939613,115.9905804790,3
 0,,13002,13002,"Seville Dr After Chidzey Dr","Seville Dr / Poad St",-32.1413964893,115.9888865530,3
 0,,13003,13003,"Seville Dr Before Poad St","",-32.1402560858,115.98773224,3
@@ -2549,7 +2550,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,13009,13009,"Seville Dr After Westfield Rd","",-32.1357723364,115.9911264170,3
 0,,13010,13010,"Seville Dr Before Chidzey Dr","Seville Dr / Poad St",-32.1411340348,115.9887488320,3
 0,,13011,13011,"Seville Dr Before Strawberry Dr","",-32.1438412994,115.9907115890,3
-0,,13012,13012,"Seville Dr Before Armadale Rd","Seville Dr / Armadale Rd",-32.1464130330,115.9909510010,3
+0,,13012,13012,"Seville Dr Before Armadale Rd","Seville Dr / Armadale Rd",-32.14641277777780,115.990951111111,3
 0,,13013,13013,"San Jacinta Rd Before Hansen Rd","",-32.1386465189,115.9793434680,3
 0,,13014,13014,"San Jacinta Rd Before Sepal Cl","",-32.1364872867,115.9810629690,3
 0,,13015,13015,"San Jacinta Rd After Sepal Cl","",-32.1365453261,115.9811604240,3
@@ -10315,7 +10316,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,129,24973,24973,"Bluestone Pwy Comet Bay College Stand 2","Comet Bay College",-32.4142415396,115.7626783850,6
 0,129,24974,24974,"Bluestone Pwy Comet Bay College Stand 3","Comet Bay College",-32.4142733640,115.7629315450,6
 0,,24975,24975,"Bluestone Pwy Comet Bay College Stand 4","Comet Bay College",-32.4142569499,115.7632124090,6
-0,,24992,24992,"Helena Valley Rd After Scott St","Helena Valley Rd / Ridge Hill Rd",-31.9231184832,116.0474647550,3
+0,,24992,24992,"Helena Valley Rd After Scott St","Helena Valley Rd / Ridge Hill Rd",-31.9230022285,116.0473121140,3
 0,,24993,24993,"School Rd Penrhos College","Penrhos College",-31.9963908916,115.8713711540,1
 0,,24994,24994,"Bruce St After Bruce Cl","Como Secondary College",-32.0021848887,115.86917303,1
 0,,25008,25008,"Sparks Rd Before Quill Wy","",-32.1579067164,115.7771408630,3
@@ -11667,8 +11668,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27629,27629,"Manning Rd Before Dumond St","",-32.01281277777780,115.907893333333,1
 0,,27630,27630,"Manning Rd Before Bungaree Rd","",-32.01318166666660,115.905428333333,1
 0,,27631,27631,"Manning Rd After Ellis St","",-32.013035,115.907654444444,1
-0,,27632,27632,"Lyon Rd After Gibbs Rd","",-32.15643555555560,115.860791111111,3
-0,,27633,27633,"Lyon Rd After Alliance Ent","",-32.15660222222220,115.860933888889,3
 0,,27637,27637,"Banksiadale Gte After Badgerup Av","Banksiadale Gte / Badgerup Av",-32.4690410085,115.7616678040,7
 0,,27639,27639,"Eucalyptus Dr After Cooli Street","",-32.1661314483,115.8465968790,3
 0,,27640,27640,"Eucalyptus Dr Before Cooli Street","",-32.16626611111110,115.846290,3
@@ -11767,7 +11766,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27787,27787,"Perth Stadium Stn Platform 3","Perth Stadium Stn",-31.94977777777780,115.892267222222,1
 0,,27788,27788,"Perth Stadium Stn Platform 4","Perth Stadium Stn",-31.94972388888890,115.892338888889,1
 0,140,27789,27789,"Perth Stadium Stn Platform 5","Perth Stadium Stn",-31.95072055555560,115.893581666667,1
-0,,27790,27790,"Perth Stadium Stn Platform 6","Perth Stadium Stn",-31.95067833333330,115.893642222222,1
+0,140,27790,27790,"Perth Stadium Stn Platform 6","Perth Stadium Stn",-31.95067833333330,115.893642222222,1
 0,,27791,27791,"Jewel Wy After Ghost Gum Bvd","Banksia Grove Village Shop Ctr",-31.70457944444440,115.800693333333,4
 0,,27792,27792,"Jewel Wy Before Ghost Gum Bvd","Banksia Grove Village Shop Ctr",-31.70441277777780,115.801046111111,4
 0,,27794,27794,"Helena Valley Rd After Goldsbrough Ent","Helena Valley Rd / Lomandra Rd",-31.91862944444440,116.033565,2
@@ -11828,6 +11827,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27881,27881,"Mansfield Av After Farway Link","",-31.63572833333340,115.696082777778,5
 0,,27882,27882,"Watsonia Rd Before Ridge Hill Rd","",-31.94416222222220,116.032836666667,2
 0,,27883,27883,"Watsonia Rd After Ridge Hill Rd","",-31.94417166666660,116.032935555556,2
+0,,27884,27884,"Hale St Run For A Reason Shuttles","Hale St / Waca",-31.95950444444450,115.878315555556,FTZ
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce",-28.7734316666666990,114.612454444444,1
 0,,70003,70003,"Chapman Rd Before Mark St","",-28.76018222222220,114.615859444444,1
@@ -12640,7 +12640,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,71977,71977,"Old Coast Rd Between Hamilton Rd/Australind By","",-33.3207749999999980,115.696191666667,1
 0,,71978,71978,"Old Coast Rd Before Australind Bypa","",-33.32446833333330,115.69711055555599,1
 0,,71979,71979,"Forrest Hwy After Alyxia Dr","",-33.33351777777780,115.688053888889,1
-0,,71980,71980,"Forrest Hwy After Vittoria Rd","",-33.33625388888890,115.677674444444,1
+0,,71980,71980,"Forrest Hwy After Vittoria Rd","",-33.33624277777780,115.678107222222,1
 0,,71981,71981,"Forrest Hwy Before Moorland Av","",-33.33635388888890,115.672919444444,1
 0,,71982,71982,"Old Coast Rd After Venezia Bvd","Old Coast Rd / Venezia Bvd",-33.31187666666670,115.695672222222,1
 0,,71983,71983,"Old Coast Rd After Pratt Rd","Old Coast Rd / Pratt Rd",-33.31143055555560,115.696132777778,1
@@ -14014,4 +14014,4 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 1,,137,137,"Perth Busport",,-31.950090,115.856856111111,
 1,,138,138,"Aubin Grove Stn",,-32.1551978012,115.8578771850,
 1,,139,139,"Perth Stadium Bus Stn",,-31.9541,115.89,
-1,,140,140,"Perth Stadium Stn",,-31.9496,115.8934,
+1,,140,140,"Perth Stadium Stn",,-31.9507,115.8917,
