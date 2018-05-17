@@ -151,8 +151,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10159,10159,"Albany Hwy Before Mallard Wy","",-32.0128774864,115.9277038550,2
 0,,10160,10160,"Albany Hwy Before George Wy","",-32.0151004585,115.9291698720,2
 0,,10161,10161,"Albany Hwy Before Fletcher St","",-32.0169468834,115.9332085630,2
-0,,10163,10163,"Albany Hwy Before Liege St","Carousel Shop Ctr / Albany Hwy",-32.0219300531,115.9384349850,2
-0,,10163A,10163A,"Albany Hwy Before Liege St","Carousel Shop Ctr / Albany Hwy",-32.01889277777780,115.935748333333,2
+0,,10163,10163,"Albany Hwy Before Liege St","Carousel Shop Ctr / Albany Hwy",-32.01889277777780,115.935748333333,2
 0,,10164,10164,"Albany Hwy Before Station St","Carousel Shop Ctr / Liege St",-32.02343555555560,115.940082777778,2
 0,,10165,10165,"Albany Hwy After Station St","",-32.0257530094,115.9428894090,2
 0,,10166,10166,"Albany Hwy After Nicholson Rd","",-32.0269236293,115.9466657480,2
@@ -458,9 +457,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10517,10517,"Ranford Rd After Warton Rd","",-32.0983050741,115.9301719110,3
 0,,10518,10518,"Ranford Rd After Campbell Rd","Ranford Rd / Campbell Rd",-32.0927375471,115.9250733870,2
 0,,10519,10519,"Ranford Rd Before Nicholson Rd","",-32.0905805171,115.9195507480,2
-0,,10520,10520,"Ranford Rd - Livingston Marketplace","Livingston Marketplace",-32.086355,115.914680,2
-0,,10520A,10520A,"Ranford Rd - Livingston Marketplace","Livingston Marketplace",-32.08747388888890,115.915967222222,2
-0,,10521,10521,"Ranford Rd After Brennan Av","Ranford Rd / Brennan Av",-32.0848768125,115.9130946990,2
+0,,10520,10520,"Ranford Rd - Livingston Marketplace","Livingston Marketplace",-32.08747388888890,115.915967222222,2
+0,,10521,10521,"Ranford Rd Before Brennan Av","Ranford Rd / Brennan Av",-32.0848768125,115.9130946990,2
 0,,10522,10522,"Ranford Rd Before Wilfred Rd","",-32.082670,115.910325555556,2
 0,,10523,10523,"Ranford Rd After Wilfred Rd","",-32.08144833333340,115.907999444444,2
 0,,10525,10525,"Ranford Rd Before Livingstone Dr","",-32.07785666666670,115.901140,2
@@ -5684,7 +5682,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,17016,17016,"Old Coast Rd After Casuarina Dr","Old Coast Rd / Casuarina Dr",-32.55606777777780,115.694098333333,8
 0,,17017,17017,"Old Coast Rd After Peelwood Pde","Old Coast Rd / Peelwood Pde",-32.5506811779,115.7023115520,8
 0,,17018,17018,"Mandurah Rd After Watersun Dr","",-32.5000842805,115.74322483,7
-0,,17019,17019,"Mandurah Rd After Stop 17018","",-32.4973215858,115.7440412840,7
 0,,17020,17020,"Mandurah Rd Before Meadow Springs Dr","Mandurah Rd / Meadow Springs Dr",-32.4945702843,115.7453489490,7
 0,,17021,17021,"Mandurah Rd After Ronsard Dr","Meadow Springs Shop Ctr",-32.4900104342,115.7482185840,7
 0,,17022,17022,"Mandurah Rd After Karinga Rd","",-32.4878016759,115.7496713230,7
@@ -5727,7 +5724,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,17089,17089,"Medina Av Before Hoyle Rd","",-32.2320164368,115.8054659250,4
 0,,17090,17090,"Medina Av After Budden Wy","",-32.2350892606,115.8054585840,4
 0,,17091,17091,"Medina Av After Barwell Rd","",-32.2376416426,115.8066255980,4
-0,,17092,17092,"Medina Av After Heylmore Rd","",-32.2398257888,115.8074562890,4
 0,,17093,17093,"Medina Av After Summerton Rd","",-32.2400433449,115.8073421270,4
 0,,17094,17094,"Medina Av Before Oakley Pl","",-32.2380447598,115.80666849,4
 0,,17095,17095,"Medina Av After Westcott Rd","",-32.2357409908,115.8052714380,4
@@ -7650,6 +7646,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,19503,19503,"Alfred Rd Before Graylands Rd","Alfred Rd / Davies Rd",-31.9689237458,115.7827483860,1
 0,,19504,19504,"Alfred Rd Before Mimosa Av","",-31.9689962935,115.7841824170,1
 0,,19505,19505,"Alfred Rd Before Ashton Av","",-31.9689719288,115.7879072040,1
+0,,19506,19506,"Alfred Rd Before Brockway Rd","",-31.9689471387,115.79107943,1
 0,,19507,19507,"Railway Rd Loch St Stn Rr","Loch Street Stn",-31.97177333333330,115.791918333333,1
 0,,19508,19508,"Railway Rd Karrakatta Stn Rr","",-31.9687443964,115.7961284810,1
 0,,19509,19509,"Railway Rd Karrakatta Stn Rr","",-31.96889611111110,115.796273888889,1
@@ -10675,7 +10672,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26048,26048,"Hume Rd After Ciulligan Rd","",-32.05929777777780,115.960975555556,2
 0,,26049,26049,"Warnbro Sound Av Before Lark Hill Sporting Com","",-32.39375166666670,115.759342222222,6
 0,,26050,26050,"Warnbro Sound Av After Lark Hill Sports Complex","",-32.3939360019,115.7596984320,6
-0,,26060,26060,"Beechboro Rd Before Orchid Av","",-31.8600388840,115.9247076760,2
 0,,26061,26061,"Wright Rd After Guerin Av","Wright Rd / Bordeaux Pde",-32.1274561487,115.9143781620,3
 0,,26062,26062,"Wright Rd After Marseille Gdns","",-32.1253127021,115.9168845420,3
 0,,26063,26063,"Wright Rd After Gilman Ct","",-32.1249953074,115.9199500210,3
@@ -11485,7 +11481,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27343,27343,"Hillsborough Av Before Ninian Ct","",-32.34593555555560,115.820969444444,5
 0,,27344,27344,"Delta Rd Before Pharlap Pde","",-32.3438413115,115.81929132,5
 0,,27345,27345,"Makybe Dr After Gatum St","",-32.34130777777780,115.818086666667,5
-0,,27346,27346,"Acrasia Rd After Makybe Dr","",-32.33969944444440,115.820142222222,5
+0,,27346,27346,"Acrasia Rd After Makybe Dr","",-32.33974777777780,115.820161666667,5
 0,,27347,27347,"Clyde Av Before Doriemus Rd","",-32.338880,115.818124444444,5
 0,,27348,27348,"Norseman App Before Nevin Wy","",-32.33038444444450,115.816543888889,5
 0,,27349,27349,"Norseman App After Grafton Ri","",-32.32841722222220,115.815630,5
@@ -11828,6 +11824,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27882,27882,"Watsonia Rd Before Ridge Hill Rd","",-31.94416222222220,116.032836666667,2
 0,,27883,27883,"Watsonia Rd After Ridge Hill Rd","",-31.94417166666660,116.032935555556,2
 0,,27884,27884,"Hale St Run For A Reason Shuttles","Hale St / Waca",-31.95950444444450,115.878315555556,FTZ
+0,,27885,27885,"Access Rd Lake Joondalup Baptist Coll","Lake Joondalup Baptist College",-31.73636555555560,115.761195,4
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce",-28.7734316666666990,114.612454444444,1
 0,,70003,70003,"Chapman Rd Before Mark St","",-28.76018222222220,114.615859444444,1
