@@ -86,7 +86,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,116,10090,10090,"St Georges Tce Stand S (After William St)","St Georges Tce / Westralia Square",-31.9541603808,115.8545198460,FTZ
 0,,10091,10091,"St Georges Tce Mill St Green Cat 2","",-31.95338722222220,115.852168888889,FTZ
 0,,10092,10092,"St Georges Tce Milligan St Green Cat 3","",-31.9527714390,115.8501783610,FTZ
-0,,10093,10093,"Malcolm St Harvest Tce Green Cat 4","",-31.9530333467,115.8474694440,FTZ
+0,,10093,10093,"Malcolm St Harvest Tce Green Cat 4","Malcolm St / Mitchell Fwy",-31.9530333467,115.8474694440,FTZ
 0,,10094,10094,"Kings Park Rd Havelock St Green Cat 5","Dumas House",-31.9537700458,115.8429707090,FTZ
 0,,10095,10095,"Kings Park Rd Before Colin St","",-31.95292777777780,115.840434444444,FTZ
 0,,10096,10096,"Kings Park Rd Before Outram St","",-31.9522207021,115.8382645760,FTZ
@@ -106,7 +106,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10110,10110,"Kings Park Rd Before Outram St","",-31.9518501392,115.8379195840,FTZ
 0,,10111,10111,"Kings Park Rd Before Colin St","",-31.95256277777780,115.840016666667,FTZ
 0,,10113,10113,"Kings Park Rd Havelock St Green Cat 17","Dumas House",-31.9535809163,115.8432219760,FTZ
-0,,10114,10114,"Malcolm St Harvest Tce Green Cat 18","",-31.95277333333330,115.847568333333,FTZ
+0,,10114,10114,"Malcolm St Harvest Tce Green Cat 18","Malcom St / Mitchell Fwy",-31.95277333333330,115.847568333333,FTZ
 0,,10115,10115,"St Georges Tce Milligan St Green Cat 19","",-31.9525054444,115.8500249640,FTZ
 0,,10116,10116,"St Georges Tce After Milligan St","",-31.9533766666666990,115.85263444444401,FTZ
 0,,10117,10117,"St Georges Tce Cloisters Green Cat 20","",-31.9536381113,115.8535367120,FTZ
@@ -3011,7 +3011,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,13628,13628,"Carousel Rd Before Cecil Av","",-32.01635944444440,115.940180,2
 0,,13629,13629,"Cecil Av After Leila St","",-32.0171003874,115.93628320,2
 0,,13630,13630,"Cecil Av After Carousel Rd","",-32.01494277777780,115.939708333333,2
-0,,13631,13631,"Cecil Av Before Sevenoaks St","",-32.0139827777777980,115.942775555556,2
+0,,13631,13631,"Cecil Av Before Sevenoaks St","",-32.01398277777780,115.942775555556,2
 0,,13632,13632,"Cecil Av After Sevenoaks St","",-32.01404611111110,115.943188888889,2
 0,,13633,13633,"Cecil Av Before Carousel Rd","",-32.01504722222220,115.939921111111,2
 0,,13634,13634,"Cecil Av After Pattie St","Carousel Shop Ctr / Cecil Av",-32.01725944444440,115.936345555556,2
@@ -6324,7 +6324,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,17869,17869,"Shenton Av After Mclarty Av","",-31.7398422655,115.7682920160,3
 0,,17870,17870,"Boas Av After Lakeside Dr","",-31.7431694463,115.7729386230,3
 0,,17871,17871,"Boas Av Before Lakeside Dr","",-31.7430628917,115.7733568580,3
-0,,17872,17872,"Kennedya Dr Lake Joondalup Baptist Coll","Lake Joondalup Baptist College",-31.73625222222220,115.762305555556,4
 0,,17873,17873,"Moore Dr After Candlewood Bvd","",-31.7325852110,115.7596037820,4
 0,,17876,17876,"Moore Dr After Christchurch Tce","",-31.7346644934,115.7501760910,4
 0,,17877,17877,"Moore Dr After Connolly Dr","",-31.7351186568,115.7438341370,4
@@ -10422,7 +10421,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,25578,25578,"Peelwood Pde Before Seascapes Bvd","Peelwood Pde / Seascapes Bvd",-32.5584746359,115.6769900760,8
 0,,25579,25579,"Peelwood Pde After Beaufortia Turn","",-32.5611092731,115.6751887920,8
 0,,25580,25580,"Peelwood Pde Before Acerosa Tce","",-32.5606730733,115.6753298460,8
-0,,25581,25581,"Peelwood Pde After Decora Wy","",-32.5637297549,115.6749889940,8
+0,,25581,25581,"Peelwood Pde After Decora Wy","Peelwood Pde / Decora Way",-32.5637297549,115.6749889940,8
 0,,25582,25582,"Peelwood Pde Before Decora Wy","",-32.5636775231,115.6748782090,8
 0,,25583,25583,"Vanessa Rd After Peelwood Pde","",-32.5661370676,115.6750058990,8
 0,,25584,25584,"Vanessa Rd Before Peelwood Pde","",-32.5660427578,115.6749274070,8
@@ -11551,7 +11550,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27485,27485,"Parker St After Old Perth Rd","Bassendean Town Centre",-31.90452166666670,115.948061111111,2
 0,,27486,27486,"Patricia St After Coonawarra Dr","",-31.86639611111110,115.962482222222,2
 0,,27487,27487,"Suffolk St After Kerner Av","",-31.86663555555550,115.967339444444,2
-0,,27488,27488,"Suffolk St Before Coloriino Av","",-31.86686055555550,115.970910,2
+0,,27488,27488,"Suffolk St Before Colorino Av","",-31.86686055555550,115.970910,2
 0,,27489,27489,"Patricia St After Carignan Av","",-31.86646055555550,115.962205,2
 0,,27494,27494,"Resolute Dr After Damepattie Dr","Two Rocks Primary School",-31.49007277777780,115.591605555556,7
 0,88,27495,27495,"Glendalough Stn Stand 5","Glendalough Stn",-31.9148964305,115.8226166490,1
@@ -12637,7 +12636,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,71977,71977,"Old Coast Rd Between Hamilton Rd/Australind By","",-33.3207749999999980,115.696191666667,1
 0,,71978,71978,"Old Coast Rd Before Australind Bypa","",-33.32446833333330,115.69711055555599,1
 0,,71979,71979,"Forrest Hwy After Alyxia Dr","",-33.33351777777780,115.688053888889,1
-0,,71980,71980,"Forrest Hwy After Vittoria Rd","",-33.33624277777780,115.678107222222,1
+0,,71980,71980,"Forrest Hwy After Vittoria Rd","",-33.33630111111110,115.677651111111,1
 0,,71981,71981,"Forrest Hwy Before Moorland Av","",-33.33635388888890,115.672919444444,1
 0,,71982,71982,"Old Coast Rd After Venezia Bvd","Old Coast Rd / Venezia Bvd",-33.31187666666670,115.695672222222,1
 0,,71983,71983,"Old Coast Rd After Pratt Rd","Old Coast Rd / Pratt Rd",-33.31143055555560,115.696132777778,1
