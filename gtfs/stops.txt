@@ -641,7 +641,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10721,10721,"Marmion St Before Davy St","",-32.0371090831,115.8323838530,2
 0,47,10722,10722,"Marmion St Stand A2","Booragoon Bus Stn",-32.03622388888890,115.836702777778,2
 0,47,10723,10723,"Marmion St Stand A1","Booragoon Bus Stn",-32.03625055555560,115.837043888889,2
-0,,10724,10724,"Marmion St Melville Aquatic Centre","",-32.0385290272,115.8295223570,2
+0,,10724,10724,"Marmion St Melville Aquatic Centre","",-32.03866333333330,115.829174444444,2
 0,,10725,10725,"Marmion St After Marcus Av","",-32.0394061463,115.8274824520,2
 0,,10726,10726,"Marmion St Before Norma Rd","",-32.0399708376,115.8249323960,2
 0,,10727,10727,"Marmion St After Norma Rd","",-32.0399703463,115.8208479490,2
@@ -2171,7 +2171,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12505,12505,"Mirrabooka Av After Marangaroo Dr","",-31.8366116084,115.8547531810,2
 0,,12506,12506,"Mirrabooka Av Before Edgington Cr","",-31.8385906001,115.8547532960,2
 0,,12507,12507,"Mirrabooka Av After Koondoola Av","",-31.8431952873,115.8554545420,2
-0,,12508,12508,"Mirrabooka Av - Mercy College  ","Mercy College",-31.84584722222220,115.855398888889,2
+0,,12508,12508,"School Rd - Mercy College  ","Mercy College",-31.84702722222220,115.855478333333,2
 0,,12509,12509,"Mirrabooka Av After Beach Rd","",-31.8511879617,115.8553464580,2
 0,,12510,12510,"Mirrabooka Av Before Heathcroft Rd","",-31.8534149250,115.85532299,2
 0,,12511,12511,"Mirrabooka Av Before Mildmay St","",-31.8563017960,115.8553014380,2
@@ -5972,9 +5972,9 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,17410,17410,"Nicholson Rd After Waverley St","Derby Rd / Nicholson Rd",-31.9564148038,115.8154509980,1
 0,,17412,17412,"Nicholson Rd Before Hensman Rd","",-31.9563307090,115.8191776110,1
 0,,17413,17413,"Nicholson Rd Before Union St","",-31.9563386072,115.8208575460,1
-0,,17414,17414,"Nicholson Rd After Coolgardie St","",-31.95636555555560,115.823325,1
+0,,17414,17414,"Nicholson Rd After Coolgardie St","Nicholson Rd/Rokeby Rd",-31.95636555555560,115.823325,1
 0,,17415,17415,"Brookdale St After Oceanic Dr","",-31.9410763797,115.7920891010,1
-0,,17416,17416,"Brookdale St After Salvado Rd","",-31.9423338880,115.7918450210,1
+0,,17416,17416,"Brookdale St After Salvado Rd","",-31.9422781243,115.7918275660,1
 0,,17417,17417,"Brookdale St After Alderbury St","",-31.9455441838,115.7918460930,1
 0,,17418,17418,"Brookdale St After Gunn St","Brookdale St / Alderberry St",-31.94544555555560,115.791672222222,1
 0,,17420,17420,"Brookdale St Before Salvado Rd","",-31.9422738243,115.7916643670,1
@@ -6045,7 +6045,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,17504,17504,"Mounts Bay Rd The Mount Hospital","",-31.958920,115.846132777778,FTZ
 0,,17505,17505,"Mounts Bay Rd Mount Hospital ","",-31.95899722222220,115.845748333333,FTZ
 0,,17507,17507,"Mounts Bay Rd Mounts Bay Village","",-31.95526055555560,115.848691666667,FTZ
-0,,17509,17509,"Ord St Ord Street Red Cat 19","Ord St / Collins St",-31.9505218458,115.84076736,FTZ
+0,,17509,17509,"Ord St Ord Street Red Cat 19","Ord St / Colin St",-31.9505218458,115.84076736,FTZ
 0,,17510,17510,"Ord St Havelock Street Red Cat 20","Ord St / Havelock St",-31.9512910030,115.8431178020,FTZ
 0,,17511,17511,"Outram St Outram Street Red Cat 18","Outram St / Ord St",-31.9495598810,115.8393309620,FTZ
 0,,17512,17512,"Bagot Rd After Bedford Av","",-31.9504397041,115.8317988240,1
@@ -8791,7 +8791,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,21029,21029,"Beeliar Dr Before Dunraven Dr","",-32.1276026430,115.8212747640,3
 0,,21030,21030,"Beeliar Dr Before Kemp Rd","",-32.1248758753,115.83622633,3
 0,,21031,21031,"Beeliar Dr After Hammond Rd","",-32.1272586910,115.8431944440,3
-0,,21032,21032,"Beeliar Dr Before Poletti Rd","",-32.1282351608,115.8454555750,3
+0,,21032,21032,"Beeliar Dr Before Poletti Rd","",-32.1282689196,115.8455485390,3
 0,,21033,21033,"Beeliar Dr After Poletti Rd","",-32.1289471845,115.8513744440,3
 0,,21034,21034,"Beeliar Dr After Wentworth Pde","",-32.1293132547,115.8509384270,3
 0,,21035,21035,"Beeliar Dr After Poletti Rd","",-32.1284206901,115.8453020130,3
@@ -10784,7 +10784,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26198,26198,"Templetonia Cr After Kalari Dr","",-31.9341493730,115.7640193120,2
 0,,26199,26199,"Templetonia Cr After Marapana Rd","",-31.9342031298,115.7637723790,2
 0,,26200,26200,"Marapana Rd Before Marimba Cr","",-31.9382266254,115.7659743290,2
-0,,26201,26201,"Wellington St Before Forrest Pl","Wellington St / Forrest Pl",-31.9519474164,115.8600583720,FTZ
+0,,26201,26201,"Wellington St Before Forrest Pl","Wellington St / Forrest Pl",-31.95146666666660,115.858554444444,FTZ
 0,,26202,26202,"Pemberton Bvd After Jitarning Br","",-32.3210398659,115.8143581650,5
 0,,26203,26203,"Birdsville Dr Before Hundle Rd","",-32.3230590433,115.8163821480,5
 0,,26207,26207,"Heritage Park Dr After Correa Wy","",-32.3428646010,115.82973774,5
