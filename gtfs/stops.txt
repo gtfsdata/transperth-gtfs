@@ -84,7 +84,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10088,10088,"St Georges Tce Stand Nop (Before William St)","St Georges Tce / William St",-31.9549213648,115.8569215470,FTZ
 0,116,10089,10089,"St Georges Tce Stand R (After William St)","St Georges Tce / Westralia Square",-31.9542253406,115.8547178230,FTZ
 0,116,10090,10090,"St Georges Tce Stand S (After William St)","St Georges Tce / Westralia Square",-31.9541603808,115.8545198460,FTZ
-0,,10091,10091,"St Georges Tce Mill St Green Cat 2","",-31.95338722222220,115.852168888889,FTZ
+0,,10091,10091,"St Georges Tce Mill St Green Cat 2","St Georges Tce / Mill St",-31.95338722222220,115.852168888889,FTZ
 0,,10092,10092,"St Georges Tce Milligan St Green Cat 3","",-31.9527714390,115.8501783610,FTZ
 0,,10093,10093,"Malcolm St Harvest Tce Green Cat 4","Malcolm St / Mitchell Fwy",-31.9530333467,115.8474694440,FTZ
 0,,10094,10094,"Kings Park Rd Havelock St Green Cat 5","Dumas House",-31.9537700458,115.8429707090,FTZ
@@ -108,7 +108,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10113,10113,"Kings Park Rd Havelock St Green Cat 17","Dumas House",-31.9535809163,115.8432219760,FTZ
 0,,10114,10114,"Malcolm St Harvest Tce Green Cat 18","Malcom St / Mitchell Fwy",-31.95277333333330,115.847568333333,FTZ
 0,,10115,10115,"St Georges Tce Milligan St Green Cat 19","",-31.9525054444,115.8500249640,FTZ
-0,,10116,10116,"St Georges Tce After Milligan St","",-31.9533766666666990,115.85263444444401,FTZ
+0,,10116,10116,"St Georges Tce After Milligan St","St Georges Tce / Mill St",-31.95337666666670,115.852634444444,FTZ
 0,,10117,10117,"St Georges Tce Cloisters Green Cat 20","",-31.9536381113,115.8535367120,FTZ
 0,115,10118,10118,"St Georges Tce Stand A-F (Before William St)","",-31.954310,115.855575,FTZ
 0,115,10119,10119,"St Georges Tce Stand B E (Before William St)","St Georges Tce / William St",-31.9543274288,115.85564404,FTZ
@@ -2484,7 +2484,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,122,12902,12902,"Wellington St Before Forrest Pl","Perth Stn",-31.9514092902,115.8590372080,FTZ
 0,121,12904,12904,"Wellington St Pier St Yellow Cat 26","Wellington St / Pier St North",-31.9526748920,115.8628028720,FTZ
 0,131,12906,12906,"Wellington St Royal Perth Hospital Yellow Cat 27","Mciver Stn",-31.95370611111110,115.865950555556,FTZ
-0,,12909,12909,"Wellington St Wellington Fair Yellow Cat 28","",-31.9548407019,115.8693559980,FTZ
+0,,12909,12909,"Wellington St Wellington Fair Yellow Cat 28","Wellington St / Hill St",-31.9548407019,115.8693559980,FTZ
 0,,12911,12911,"Wellington St Wellington Square Yellow Cat 29","",-31.95589777777780,115.872440,FTZ
 0,,12912,12912,"Wellington St Plain St Y30","",-31.95677722222220,115.875195,FTZ
 0,,12914,12914,"Wellington St Plain Street R3 / Y8","Wellington St / Plain St",-31.9568532583,115.8749706150,FTZ
@@ -4858,7 +4858,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,15959,15959,"Kingfisher Av After Lyrebird Sq","",-31.8366142127,115.89742504,2
 0,,15960,15960,"Kingfisher Av After Jacana Pde","Ballajura Shopping Ctr",-31.8395175315,115.8953131630,2
 0,,15961,15961,"Shearwater Tce After Pelican Pde","",-31.84182722222220,115.896527222222,2
-0,,15962,15962,"Shearwater Tce After Illawara Cr ","",-31.8416564811,115.89642368,2
+0,,15962,15962,"Shearwater Tce After Illawara Cr ","",-31.84165666666670,115.896423888889,2
 0,,15963,15963,"Pelican Pde After Cahow Gr","",-31.8433971858,115.8970604020,2
 0,,15964,15964,"Pelican Pde After Larkspur L","",-31.8418980430,115.8998641010,2
 0,,15965,15965,"Pelican Pde Before Kingfisher Av","",-31.8419045485,115.9050071660,2
@@ -11732,9 +11732,9 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,139,27741,27741,"Perth Stadium Bus Stn Perth Stadium Stand 14","Perth Stadium Bus Stn",-31.953405,115.889729444444,1
 0,139,27743,27743,"Perth Stadium Bus Stn Perth Stadium Stand 16","Perth Stadium Bus Stn",-31.95377777777780,115.889825,1
 0,139,27745,27745,"Perth Stadium Bus Stn Perth Stadium Stand 18","Perth Stadium Bus Stn",-31.95433611111110,115.889949444444,1
-0,,27751,27751,"Nelson Av Stand 1","East Perth Special Event Bus Stn",-31.95676555555550,115.883850555556,FTZ
-0,,27754,27754,"Nelson Av Stand 4","East Perth Special Event Bus Stn",-31.95624166666660,115.883661666667,FTZ
-0,,27758,27758,"Nelson Av Stand 8","East Perth Special Event Bus Stn",-31.95532944444440,115.883323333333,FTZ
+0,141,27751,27751,"Nelson Av Stand 1","Matagarup Bridge",-31.95676555555550,115.883850555556,FTZ
+0,141,27754,27754,"Nelson Av Stand 4","Matagarup Bridge",-31.95624166666660,115.883661666667,FTZ
+0,141,27758,27758,"Nelson Av Stand 8","Matagarup Bridge",-31.95532944444440,115.883323333333,FTZ
 0,,27759,27759,"Swan View Rd After Old York Rd","",-31.89727111111110,116.060643333333,3
 0,,27760,27760,"Swan View Rd Before Wandu Rd","",-31.89509777777780,116.061076666667,3
 0,,27761,27761,"Swan View Rd Before Grevillea Cr","",-31.89237333333340,116.061480,3
@@ -14016,3 +14016,4 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 1,,138,138,"Aubin Grove Stn",,-32.1551978012,115.8578771850,
 1,,139,139,"Perth Stadium Bus Stn",,-31.9541,115.89,
 1,,140,140,"Perth Stadium Stn",,-31.9507,115.8917,
+1,,141,141,"Matagarup Bridge",,-31.95529835238740,115.883264277926,
