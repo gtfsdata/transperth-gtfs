@@ -2171,7 +2171,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12505,12505,"Mirrabooka Av After Marangaroo Dr","",-31.8366116084,115.8547531810,2
 0,,12506,12506,"Mirrabooka Av Before Edgington Cr","",-31.8385906001,115.8547532960,2
 0,,12507,12507,"Mirrabooka Av After Koondoola Av","",-31.8431952873,115.8554545420,2
-0,,12508,12508,"School Rd - Mercy College  ","Mercy College",-31.84702722222220,115.855478333333,2
+0,,12508,12508,"Mirrabooka Av - Mercy College  ","Mercy College",-31.84702722222220,115.855478333333,2
 0,,12509,12509,"Mirrabooka Av After Beach Rd","",-31.8511879617,115.8553464580,2
 0,,12510,12510,"Mirrabooka Av Before Heathcroft Rd","",-31.8534149250,115.85532299,2
 0,,12511,12511,"Mirrabooka Av Before Mildmay St","",-31.8563017960,115.8553014380,2
@@ -5142,10 +5142,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,16297,16297,"Cartwright Rd After Muswell St","",-31.8476191907,115.8296235650,2
 0,,16301,16301,"Hewett Wy Before Cartwright Rd","",-31.8480066954,115.8308756510,2
 0,,16302,16302,"Culloton Cr After Muswell St","",-31.8496117962,115.8291203470,2
-0,,16303,16303,"Culloton Cr After Chisholm Wy","",-31.8524579835,115.8307246190,2
-0,,16304,16304,"Culloton Cr After Elward Wy","",-31.8540633981,115.8300973960,2
-0,,16305,16305,"Culloton Cr After Camberwell Rd","",-31.8542916378,115.8299363980,2
-0,,16306,16306,"Culloton Cr After Tolson St","",-31.85181722222220,115.830560555556,2
+0,,16303,16303,"Culloton Cr After Chisholm Wy","",-31.85338333333330,115.830428888889,2
+0,,16305,16305,"Culloton Cr After Tolson St","",-31.85339111111110,115.830320,2
 0,,16307,16307,"Culloton Cr After Wallington Rd","",-31.8500239301,115.8295035240,2
 0,,16312,16312,"Camberwell Rd After Culloton Rd","",-31.85518166666670,115.831331111111,2
 0,,16313,16313,"Camberwell Rd After Maitland Rd","",-31.8551825809,115.8340215180,2
@@ -5197,7 +5195,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,16361,16361,"Fernhurst Cr After Tratton St","",-31.8618441672,115.8469834480,2
 0,,16362,16362,"Fernhurst Cr After Tratton St","",-31.8615819451,115.8448357390,2
 0,,16363,16363,"Loxwood Rd After Elstead Wy","",-31.8612777131,115.8520523390,2
-0,,16365,16365,"Arkana Rd After Princess Rd","",-31.8664073032,115.8368409120,2
 0,,16366,16366,"Arkana Rd Before Stroughton Rd","",-31.8653591927,115.8434163430,2
 0,,16367,16367,"Arkana Rd After Stroughton Rd","",-31.8653900051,115.8462132780,2
 0,,16368,16368,"Arkana Rd Before Stroughton Rd","",-31.8654744436,115.8460279320,2
@@ -5207,7 +5204,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,16372,16372,"Marloo Rd Before Amelia St","",-31.8733990130,115.8375306150,2
 0,,16373,16373,"Marloo Rd After Amelia St","",-31.8724992422,115.8374390720,2
 0,,16374,16374,"Marloo Rd Before Canara Rd","",-31.8704323517,115.8374419730,2
-0,,16375,16375,"Marloo Rd After Chipala Rd","",-31.8684954927,115.8374616760,2
 0,,16376,16376,"Marloo Rd Before Arkana Rd","",-31.8668569985,115.83746478,2
 0,,16377,16377,"Stroughton Rd After Arkana Rd","",-31.8659842843,115.8448260950,2
 0,,16378,16378,"Stroughton Rd After Salmar Wy","",-31.8683535008,115.8447617430,2
@@ -8429,7 +8425,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,20543,20543,"Bannister Rd Before Baile Rd","",-32.0643587286,115.9018902720,2
 0,,20544,20544,"Bannister Rd After Hurley St","",-32.0590658908,115.9089260330,2
 0,,20545,20545,"Bannister Rd After Sherman St","",-32.0582559573,115.9117571540,2
-0,,20546,20546,"Bannister Rd After Magnet Rd","Bannister Rd / Magnet Rd",-32.06240277777780,115.927807222222,2
+0,,20546,20546,"Bannister Rd After Magnet Rd","Bannister Rd / Magnet Rd",-32.06183555555550,115.928611111111,2
 0,,20547,20547,"Bannister Rd Before Vulcan Rd","",-32.0605137053,115.9302706930,2
 0,,20548,20548,"Bannister Rd Before Nicholson Rd","",-32.0584674533,115.9328128960,2
 0,,20549,20549,"Bannister Rd After Nicholson Rd","",-32.0588295455,115.9327108680,2
@@ -9541,7 +9537,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,22417,22417,"Main St After The Promenade","Ellenbrook Central Shop Ctr",-31.7809284915,115.96799040,3
 0,,22418,22418,"Main St Before The Promenade","Ellenbrook Central Shop Ctr",-31.7807155873,115.9679357320,3
 0,,22419,22419,"Grenville St Tuart College","",-31.9032679973,115.8374768480,1
-0,,22448,22448,"Marmion Av After Yanchep Beach Rd","",-31.5484732977,115.6369131780,6
+0,,22448,22448,"Marmion Av After Yanchep Beach Rd","Marmion Av / Peony Bvd",-31.5484732977,115.6369131780,6
 0,,22449,22449,"Marmion Av Before Yanchep Beach Rd","",-31.5485842342,115.6367038110,6
 0,,22450,22450,"Viridian Dr Before Tumbleweed Dr","Viridian Dr / Tumbleweed Dr",-31.7033776035,115.8073239680,4
 0,,22471,22471,"Bannister Rd Before Vulcan Rd","",-32.0615569882,115.9052015410,2
@@ -10779,8 +10775,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26193,26193,"Whitlock Rd Before Wharf St","",-32.0001582435,115.95262724,2
 0,,26194,26194,"Whitlock Rd After Blacksmith St","",-32.0016476217,115.9543413780,2
 0,,26195,26195,"Whitlock Rd After Serisier Pwy","",-32.0015790976,115.9544475330,2
-0,,26196,26196,"Marmion Av After Bluewater Dr","",-31.6005859030,115.6821603710,5
-0,,26197,26197,"Marmion Av Before Bluewater Dr","",-31.6008564790,115.68196885,5
+0,,26196,26196,"Marmion Av After Bluewater Dr","Marmion Av / Shorehaven Bld",-31.6005859030,115.6821603710,5
+0,,26197,26197,"Marmion Av Before Bluewater Dr","Marmion Av / Shorehaven Bvd",-31.6008564790,115.68196885,5
 0,,26198,26198,"Templetonia Cr After Kalari Dr","",-31.9341493730,115.7640193120,2
 0,,26199,26199,"Templetonia Cr After Marapana Rd","",-31.9342031298,115.7637723790,2
 0,,26200,26200,"Marapana Rd Before Marimba Cr","",-31.9382266254,115.7659743290,2
@@ -11131,7 +11127,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26719,26719,"Harrington Waters Dr After Abbeytwon Cir","",-32.32309222222220,115.763036111111,5
 0,,26720,26720,"Ambleside Pde After Harrington Waters Dr","",-32.3247492870,115.7605188480,5
 0,,26721,26721,"Ambleside Pde After Keswick Way","",-32.3245584115,115.7604046370,5
-0,,26723,26723,"Mounts Bay Rd After Hampden Road","University Of Wa",-31.9765916157,115.8150425380,1
+0,,26723,26723,"Stirling Hwy After Hampden Road","University Of Wa",-31.9765916157,115.8150425380,1
 0,,26724,26724,"Heritage Park Dr After Brumby Ent","",-32.3447879161,115.8297099610,5
 0,,26725,26725,"Heritage Park Dr After Pavonia Pde","",-32.3440160958,115.8297536410,5
 0,,26726,26726,"James St Before Fauntleroy St","",-31.8994358018,115.9797584470,2
@@ -11192,7 +11188,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26832,26832,"Telford Cr After Brunel St","Telford Cr / Brunel St",-31.8916294444444010,115.81597833333301,2
 0,,26833,26833,"Telford Cr Before Brunel St","Telford Cr / Brunel St",-31.8920466666667010,115.815856666667,2
 0,,26834,26834,"Telford Cr After Messina Av","",-31.89461166666670,115.814391111111,2
-0,,26835,26835,"Telford Cr Before Messina Av","",-31.8948004902,115.8143900280,2
+0,,26835,26835,"Telford Cr Before Messina Av","",-31.8948004902,115.8143900280,1
 0,,26836,26836,"Messina Av Before Torino Wy","",-31.8954038880,115.8166836390,1
 0,,26837,26837,"Messina Av Before Torino Wy","",-31.89564847,115.8171111210,1
 0,,26838,26838,"Cassino Dr Before Tivoli Dr","",-31.8968953073,115.8197665490,1
@@ -11732,9 +11728,9 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,139,27741,27741,"Perth Stadium Bus Stn Perth Stadium Stand 14","Perth Stadium Bus Stn",-31.953405,115.889729444444,1
 0,139,27743,27743,"Perth Stadium Bus Stn Perth Stadium Stand 16","Perth Stadium Bus Stn",-31.95377777777780,115.889825,1
 0,139,27745,27745,"Perth Stadium Bus Stn Perth Stadium Stand 18","Perth Stadium Bus Stn",-31.95433611111110,115.889949444444,1
-0,141,27751,27751,"Nelson Av Stand 1","Matagarup Bridge",-31.95676555555550,115.883850555556,FTZ
-0,141,27754,27754,"Nelson Av Stand 4","Matagarup Bridge",-31.95624166666660,115.883661666667,FTZ
-0,141,27758,27758,"Nelson Av Stand 8","Matagarup Bridge",-31.95532944444440,115.883323333333,FTZ
+0,141,27751,27751,"Nelson Av Stand 1","Matagarup Bridge",-31.95540055555560,115.883337777778,FTZ
+0,141,27754,27754,"Nelson Av Stand 4","Matagarup Bridge",-31.95588722222220,115.883562777778,FTZ
+0,141,27758,27758,"Nelson Av Stand 8","Matagarup Bridge",-31.95676666666670,115.883826666667,FTZ
 0,,27759,27759,"Swan View Rd After Old York Rd","",-31.89727111111110,116.060643333333,3
 0,,27760,27760,"Swan View Rd Before Wandu Rd","",-31.89509777777780,116.061076666667,3
 0,,27761,27761,"Swan View Rd Before Grevillea Cr","",-31.89237333333340,116.061480,3
@@ -11775,7 +11771,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27815,27815,"Grose Av After Carousel Rd","",-32.0187874782,115.9399908440,2
 0,,27816,27816,"Collier Rd After Wright St","",-31.9052021355,115.9191525980,1
 0,,27817,27817,"Collier Rd Before Wright St","",-31.90479722222220,115.919020,1
-0,,27819,27819,"Collier Rd After Jackson Ave","",-31.90610888888890,115.926397222222,1
+0,,27819,27819,"Collier Rd After Jackson Ave","",-31.90610888888890,115.926397222222,2
 0,,27820,27820,"Collier Rd After Jackson St","",-31.90590722222220,115.927965555556,2
 0,,27821,27821,"Helena Valley Rd Before Scott St","",-31.92307388888890,116.047176111111,3
 0,,27822,27822,"Eighty Rd Before Cheshire Dr","Mother Teresa Catholic College",-32.362830,115.798407777778,5
@@ -11796,10 +11792,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27844,27844,"Partridge St After Kasanka Av","",-31.82262388888890,115.969013888889,3
 0,,27845,27845,"Partridge St After Balboa Prom","",-31.81980222222220,115.968981666667,3
 0,,27846,27846,"Partridge St After Livonia St","",-31.81620777777780,115.969017222222,3
-0,,27847,27847,"Partridge St Before Park St","Partridge St / Park St",-31.814075,115.969003333333,3
-0,,27848,27848,"Park St Before Fairmount Bvd","",-31.81341388888890,115.964540555556,3
-0,,27849,27849,"Park St After Lord St","",-31.81332611111110,115.964225,3
-0,,27850,27850,"Partridge St After Park St","Partridge St / Park St",-31.81399444444450,115.969121111111,3
 0,,27851,27851,"Partridge St After Heisler Bvd","",-31.81630166666670,115.969119444444,3
 0,,27852,27852,"Partridge St After Tiergarten Rd","",-31.81989555555550,115.969176111111,3
 0,,27853,27853,"Partridge St After Dodgers St","",-31.82281555555560,115.969183888889,3
@@ -11815,7 +11807,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27874,27874,"Dampiera St After Lunata St","",-31.85793388888890,115.969157777778,2
 0,,27875,27875,"Dampiera St Before Lunata St","",-31.858210,115.969258333333,2
 0,,27876,27876,"Kennedia Ent After Litoria Pass","",-31.85957666666670,115.970936111111,2
-0,,27877,27877,"Kennedia Ent After Attenuata Way","",-31.85966111111110,115.971402777778,2
+0,,27877,27877,"Kennedia Ent After Attenuata Way","",-31.85966055555550,115.971380555556,2
 0,,27878,27878,"Arthur St Before Floribunda Gate","",-31.85892388888890,115.973448888889,2
 0,,27879,27879,"Arthur St After Floribunda Gate","",-31.85891444444450,115.973545,2
 0,,27880,27880,"Mansfield Av After Benfleet Dr","",-31.63540055555560,115.696389444444,5
@@ -12839,7 +12831,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,72256,72256,"Grand Ent After Topaz Ct","Grand Ent / The Boulevard",-33.27552722222220,115.736058888889,2
 0,,72258,72258,"Azurite Dr After Peridot Br","Treendale Primary",-33.28274611111110,115.735481111111,2
 0,,72264,72264,"Break Oday Dr Australind Shs","Australind Senior High School",-33.27746611111110,115.727720555556,2
-0,,72273,72273,"Macquarie Dr Kingston Primary School","Kingston Primary School",-33.2598577777778030,115.74324277777799,2
+0,,72273,72273,"Macquarie Dr Kingston Primary School","Kingston Primary School",-33.25985777777780,115.743242777778,2
 0,,72317,72317,"Parade Rd After Frollet Wy","",-33.3914416666667010,115.63375444444399,1
 0,,72318,72318,"Parade Rd Before Murtin Rd","",-33.3936055555556020,115.632785555556,1
 0,,72319,72319,"Parade Rd Before Norton Prom","Parade Rd / Norton Prom",-33.39648666666660,115.632706666667,1
