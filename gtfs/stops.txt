@@ -1737,7 +1737,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11951,11951,"Bruce St Before Henley St","",-32.0048921365,115.8691488350,1
 0,,11952,11952,"Bruce St Como Snr High Sch","Como Secondary College",-32.00445111111110,115.869027222222,1
 0,,11953,11953,"Bruce St Before Bruce Cl","",-32.0020983120,115.8690422220,1
-0,,11954,11954,"Henley St After Canning Hwy","Henley St/Canning Hwy",-32.0056620842,115.8608398270,1
+0,,11954,11954,"Henley St After Canning Hwy","Henley St/Canning Hwy",-32.005665,115.860921666667,1
 0,,11955,11955,"Henley St After Axford St","",-32.005745,115.868080,1
 0,,11956,11956,"Henley St After Henley St","",-32.0057407705,115.8734024130,1
 0,,11957,11957,"Henley St After Abjornson St","",-32.0058383520,115.8734031990,1
@@ -1977,10 +1977,10 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12268,12268,"Brazier Rd After Compass Cir","",-31.5583185058,115.6318941850,6
 0,,12269,12269,"Brazier Rd Before Leonard Wy","",-31.5573343542,115.6301338270,6
 0,,12270,12270,"Brazier Rd Before Coles Pl","",-31.55409555555550,115.627985,6
-0,,12271,12271,"Lagoon Dr After Primary Rd","Yanchep Secondary College",-31.5518014117,115.6368758050,6
+0,,12271,12271,"Lagoon Dr After Primary Rd","Lagoon Dr / Saint Ives Dr",-31.5518014117,115.6368758050,6
 0,,12272,12272,"Lagoon Dr After Saint Ives Dr","",-31.5539669350,115.6355880940,6
 0,,12273,12273,"Lagoon Dr Before Saint Ives Dr","",-31.5537071421,115.63564839,6
-0,,12274,12274,"Lagoon Dr After Saint Ives Dr","Yanchep Secondary College",-31.55223333333330,115.636608333333,6
+0,,12274,12274,"Lagoon Dr After Saint Ives Dr","Lagoon Dr / Saint Ives Dr",-31.55223333333330,115.636608333333,6
 0,,12275,12275,"Moorpark Av Before Wentworth St","",-31.5400170118,115.64709749,6
 0,,12276,12276,"Moorpark Av Before Wentworth St","",-31.5418579005,115.64784793,6
 0,,12277,12277,"Moorpark Av Before Saint Andrews Dr","",-31.5459093641,115.6513761580,6
@@ -9537,7 +9537,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,22417,22417,"Main St After The Promenade","Ellenbrook Central Shop Ctr",-31.7809284915,115.96799040,3
 0,,22418,22418,"Main St Before The Promenade","Ellenbrook Central Shop Ctr",-31.7807155873,115.9679357320,3
 0,,22419,22419,"Grenville St Tuart College","",-31.9032679973,115.8374768480,1
-0,,22448,22448,"Marmion Av After Yanchep Beach Rd","Marmion Av / Peony Bvd",-31.5484732977,115.6369131780,6
+0,,22448,22448,"Marmion Av After Yanchep Beach Rd","Marmion Av / Yanchep Beach Rd",-31.5484732977,115.6369131780,6
 0,,22449,22449,"Marmion Av Before Yanchep Beach Rd","",-31.5485842342,115.6367038110,6
 0,,22450,22450,"Viridian Dr Before Tumbleweed Dr","Viridian Dr / Tumbleweed Dr",-31.7033776035,115.8073239680,4
 0,,22471,22471,"Bannister Rd Before Vulcan Rd","",-32.0615569882,115.9052015410,2
@@ -9611,7 +9611,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,22747,22747,"Stalker Rd Before Hicks St","",-32.0725033198,115.9971962260,3
 0,,22748,22748,"Wheatley St Before Walter St","",-32.0691588120,115.9971303290,3
 0,,22749,22749,"Stalker Rd Before Watson St","",-32.07448722,115.9949891430,3
-0,,22750,22750,"Lady Lindsay Cove Yanchep High School","Yanchep Secondary College",-31.55082722222220,115.635351666667,6
+0,,22750,22750,"Lady Lindsay Cove Yanchep High School","Lagoon Dr / Saint Ives Dr",-31.55082722222220,115.635351666667,6
 0,,22751,22751,"Pier St Before Brewer St","Nib Stadium",-31.94541666666670,115.868679444444,1
 0,,22752,22752,"Pier St After Brewer St","Nib Stadium",-31.945380,115.868591111111,1
 0,,22758,22758,"Bardwell St After Denham Wy","",-32.0608478743,115.9720830470,2
@@ -11792,6 +11792,10 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27844,27844,"Partridge St After Kasanka Av","",-31.82262388888890,115.969013888889,3
 0,,27845,27845,"Partridge St After Balboa Prom","",-31.81980222222220,115.968981666667,3
 0,,27846,27846,"Partridge St After Livonia St","",-31.81620777777780,115.969017222222,3
+0,,27847,27847,"Partridge St Before Park St","Partridge St / Park St",-31.814075,115.969003333333,3
+0,,27848,27848,"Park St Before Fairmount Bvd","",-31.81341388888890,115.964540555556,3
+0,,27849,27849,"Park St After Lord St","",-31.81332611111110,115.964225,3
+0,,27850,27850,"Partridge St After Park St","Partridge St / Park St",-31.81399444444450,115.969121111111,3
 0,,27851,27851,"Partridge St After Heisler Bvd","",-31.81630166666670,115.969119444444,3
 0,,27852,27852,"Partridge St After Tiergarten Rd","",-31.81989555555550,115.969176111111,3
 0,,27853,27853,"Partridge St After Dodgers St","",-31.82281555555560,115.969183888889,3
@@ -11804,6 +11808,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27870,27870,"Stillwater Dr Before Selina Vw","",-32.33264333333340,115.823508888889,5
 0,,27871,27871,"Callistemon Gdns After Magenta Cr","",-32.33550333333330,115.825428333333,5
 0,,27872,27872,"Callistemon Gdns After Kennedia Cct","",-32.33580222222220,115.825442222222,5
+0,,27873,27873,"Erindale Rd  Before Ellersdale","",-31.84145055555560,115.813060555556,2
 0,,27874,27874,"Dampiera St After Lunata St","",-31.85793388888890,115.969157777778,2
 0,,27875,27875,"Dampiera St Before Lunata St","",-31.858210,115.969258333333,2
 0,,27876,27876,"Kennedia Ent After Litoria Pass","",-31.85957666666670,115.970936111111,2
@@ -11818,6 +11823,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27885,27885,"Access Rd Lake Joondalup Baptist Coll","Lake Joondalup Baptist College",-31.73636555555560,115.761195,4
 0,,27887,27887,"Partridge St After Pennington Wy","Partridge St / Park St",-31.81481611111110,115.969015555556,3
 0,,27888,27888,"Partridge St After Blidersee Av","Partridge St / Park St",-31.81492388888890,115.969115555556,3
+0,,27889,27889,"Glencoe Pde After Tennyson Ave","",-32.545115,115.7017,8
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce",-28.7734316666666990,114.612454444444,1
 0,,70003,70003,"Chapman Rd Before Mark St","",-28.76018222222220,114.615859444444,1
@@ -12823,13 +12829,11 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,72248,72248,"The Boulevard   After Jadeite St","",-33.27909055555560,115.737902222222,2
 0,,72249,72249,"The Boulevard   After Emerald Wy","",-33.28131777777780,115.738184444444,2
 0,,72250,72250,"The Boulevard   Before Constellation Dr","The Boulevard / Constellation Dr",-33.28444388888890,115.739253888889,2
-0,,72251,72251,"Zircon Way After The Boulevard","Zircon Way / The Boulevard",-33.28640722222220,115.738538333333,2
 0,,72252,72252,"The Boulevard   After Constellation","The Boulevard / Constellation Dr",-33.284160,115.739118333333,2
 0,,72253,72253,"The Boulevard   After Opal Dr","",-33.28129555555560,115.738007222222,2
 0,,72254,72254,"The Boulevard   After Tanzanite Rd","",-33.27916611111110,115.737775555556,2
 0,,72255,72255,"The Boulevard   After Sapphire Br","",-33.27760944444450,115.737783888889,2
 0,,72256,72256,"Grand Ent After Topaz Ct","Grand Ent / The Boulevard",-33.27552722222220,115.736058888889,2
-0,,72258,72258,"Azurite Dr After Peridot Br","Treendale Primary",-33.28274611111110,115.735481111111,2
 0,,72264,72264,"Break Oday Dr Australind Shs","Australind Senior High School",-33.27746611111110,115.727720555556,2
 0,,72273,72273,"Macquarie Dr Kingston Primary School","Kingston Primary School",-33.25985777777780,115.743242777778,2
 0,,72317,72317,"Parade Rd After Frollet Wy","",-33.3914416666667010,115.63375444444399,1
@@ -13048,7 +13052,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,72946,72946,"Preiss St After Banks St","Preiss St / Banks St",-35.0064022222221990,117.859392222222,1
 0,,72947,72947,"Campbell Rd After North Rd","Campbell Rd / Bathurst St",-35.01310944444440,117.894274444444,1
 0,,72948,72948,"North Rd Before Beaufort Rd","John Calvin School",-35.00455666666670,117.870733333333,1
-0,,72953,72953,"Ryeland Av Before Holstein Dr","Ryeland St / Holstein Dr",-33.3047388888888990,115.726598333333,2
 0,,72954,72954,"Pinyali Wy After Kultown Dr","",-28.71565666666670,114.648733888889,1
 0,,72955,72955,"Pinyali Wy Before Kultown Dr","",-28.71574777777780,114.648803888889,1
 0,,72956,72956,"Pinyali Wy Before Jabiru Wy","Pinyali Wy / Jabiru Wy",-28.7153961111111010,114.65040444444401,1
@@ -13358,8 +13361,10 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,74092,74092,"Millbridge Bvd Before Braddon Wy","Millbridge Bvd / Braddon Wy",-33.3056195311,115.7374279330,2
 0,,74094,74094,"Flinders Pde Before Adelaide Cr","Flinders Parade / Adelaide Cr",-35.02509166666660,117.915334444444,1
 0,,74095,74095,"Peninsula Lakes Dr Before Holstein Dr","Peninsula Lakes Dr / Holstein Dr",-33.30355333333340,115.727178333333,2
-0,,74096,74096,"Little St Before Doolan St","Little St / Doolan St",-33.39870555555560,115.756430,2
-0,,74097,74097,"Russell Rd After Shenton Rd","Russell Rd / Shenton Rd",-33.308740,115.813849444444,2
+0,,74106,74106,"Clayton View After Denison Link","",-33.30799833333330,115.738167222222,2
+0,,74107,74107,"Clayton View Before Dension Link","",-33.30792166666670,115.738225555556,2
+0,,74108,74108,"Denison Link Before Surrey Link","",-33.30582888888890,115.739615555556,2
+0,,74109,74109,"Denison Link After Surrey Link","",-33.30597944444450,115.739645555556,2
 0,,95000,95000,"Armadale Stn Armadale 1","Armadale (Rail)",-32.15377166666670,116.012988333333,4
 0,,95001,95001,"Armadale Stn Armadale 2","Armadale (Rail)",-32.15377833333330,116.013023333333,4
 0,,95002,95002,"Byford Stn Byford 1","Byford (Rail)",-32.2252633333333020,116.006801111111,4
@@ -13511,7 +13516,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,95191,95191,"Transwa Bay Abbey","",-33.66077166666670,115.259909444444,1
 0,,95192,95192,"Ajana-Kalbarri Rd To Ajana","",-27.95016444444440,114.637967222222,9
 0,,95193,95193,"Ajana-Kalbarri Rd From Ajana","",-27.94989166666670,114.637924444444,9
-0,,95194,95194,"Proudlove Pde Albany","Albany",-35.0279066666667020,117.88586555555599,1
+0,,95194,95194,"Proudlove Pde Albany","Albany Railway Station",-35.02790666666670,117.885865555556,1
 0,,95195,95195,"Midlands Rd To Arrino","",-29.43947055555560,115.628372777778,9
 0,,95196,95196,"Midlands Rd From Arrino","",-29.4394983333333010,115.628098333333,9
 0,,95197,95197,"Transwa Bay Arthur River","Arthur River",-33.3378177777778010,117.034380555556,6
