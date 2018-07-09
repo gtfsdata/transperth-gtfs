@@ -1414,12 +1414,12 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11606,11606,"Walter Rd After Lancaster St","",-31.91059055555560,115.878341666667,1
 0,,11607,11607,"Walter Rd After Harold St","",-31.90813944444440,115.880687777778,1
 0,,11608,11608,"Walter Rd Before Grand Prom","",-31.9068531683,115.8819434220,1
-0,,11610,11610,"Walter Rd After Birkett St","",-31.90364388888890,115.885006111111,1
+0,,11610,11610,"Walter Rd After Birkett St","",-31.90355111111110,115.885083888889,1
 0,,11611,11611,"Walter Rd After The Strand","",-31.9012931885,115.8872519210,1
 0,,11612,11612,"Walter Rd After Coode St","",-31.8989474960,115.8899391240,1
 0,,11613,11613,"Walter Rd After Light St","",-31.8973373038,115.8922559990,1
 0,,11614,11614,"Walter Rd After Russell St","",-31.8955898011,115.8953930290,1
-0,,11615,11615,"Walter Rd After Wheeler St","",-31.8946613209,115.9011138270,1
+0,,11615,11615,"Walter Rd After Wheeler St","",-31.89467166666670,115.900872777778,1
 0,,11616,11616,"Walter Rd Before Bourne St","",-31.8946627537,115.9033929880,1
 0,,11617,11617,"Walter Rd After Crimea St","",-31.8946684648,115.9066137190,2
 0,,11618,11618,"Walter Rd Before Tilford Pl","",-31.8946731484,115.90823343,2
@@ -4811,7 +4811,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,15908,15908,"Crimea St After Field St","",-31.8851746479,115.9051324930,2
 0,,15909,15909,"Crimea St After Morley Dr","",-31.8884516170,115.9052075880,2
 0,,15910,15910,"Crimea St After Halvorson Rd","Crimea St / Halvorson Rd",-31.8908277636,115.9050138060,2
-0,,15911,15911,"Crimea St After Robinson Rd","",-31.8931891634,115.9050233740,2
+0,,15911,15911,"Crimea St Before Robinson Rd","",-31.89254055555560,115.905010,2
 0,,15912,15912,"Crimea St After Aliffe St","",-31.8962169820,115.90458552,1
 0,,15913,15913,"Crimea St After Johnsmith St","",-31.89625944444440,115.904411111111,1
 0,,15914,15914,"Crimea St After Walter Rd","",-31.89243666666660,115.904773888889,2
@@ -4860,10 +4860,10 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,15961,15961,"Shearwater Tce After Pelican Pde","",-31.84182722222220,115.896527222222,2
 0,,15962,15962,"Shearwater Tce After Illawara Cr ","",-31.84165666666670,115.896423888889,2
 0,,15963,15963,"Pelican Pde After Cahow Gr","",-31.8433971858,115.8970604020,2
-0,,15964,15964,"Pelican Pde After Larkspur L","",-31.8418980430,115.8998641010,2
+0,,15964,15964,"Pelican Pde After Larkspur L","",-31.84250111111110,115.901102222222,2
 0,,15965,15965,"Pelican Pde Before Kingfisher Av","",-31.8419045485,115.9050071660,2
 0,,15966,15966,"Pelican Pde After Kingfisher Av","",-31.8419979741,115.9049537540,2
-0,,15967,15967,"Pelican Pde After Hawk Cl","",-31.84263277777780,115.901208333333,2
+0,,15967,15967,"Pelican Pde After Hawk Cl","",-31.84267222222220,115.901269444444,2
 0,,15968,15968,"Pelican Pde After Shearwater Tce","",-31.8429433606,115.8974371870,2
 0,,15969,15969,"Pelican Pde After Cahow Gr","",-31.8447069401,115.8967473390,2
 0,,15970,15970,"Cassowary Dr After Bellefin Dr","",-31.8461066939,115.9053640620,2
@@ -4917,12 +4917,12 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,16019,16019,"Victoria Rd After Camboon Rd","",-31.8615988880,115.8868027960,2
 0,,16020,16020,"Victoria Rd After Irvine Dr","",-31.8615979753,115.8842941790,2
 0,,16021,16021,"Victoria Rd Goodwill Industries","Goodwill Industries",-31.8614633883,115.8897622610,2
-0,,16022,16022,"Malaga Dr After Commerce St","",-31.8577918057,115.8935546740,2
-0,,16023,16023,"Malaga Dr After Mulgul Rd","",-31.8602884582,115.8935412440,2
+0,,16022,16022,"Malaga Dr After Commerce St","",-31.85757444444440,115.893567777778,2
+0,,16023,16023,"Malaga Dr After Mulgul Rd","",-31.86051388888890,115.893556111111,2
 0,,16024,16024,"Malaga Dr After Beringarra Av","",-31.8645709151,115.8954558420,2
 0,,16025,16025,"Malaga Dr Before Beringarra Av","",-31.8645920562,115.8952041610,2
 0,,16026,16026,"Malaga Dr After Victoria Rd","",-31.8603296112,115.8933172220,2
-0,,16027,16027,"Malaga Dr Before Beach Rd","",-31.8576533146,115.8933247930,2
+0,,16027,16027,"Malaga Dr Before Beach Rd","",-31.85749666666670,115.893327222222,2
 0,,16030,16030,"Abbotswood Dr After Stonewall Cct","",-31.8123284042,115.8621074230,2
 0,,16031,16031,"Abbotswood Dr After Stonewall Cct","",-31.8107072357,115.8641430640,2
 0,,16032,16032,"Abbotswood Dr Before Wexford Mndr","",-31.81020777777780,115.864205555556,2
@@ -9210,10 +9210,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,21643,21643,"Peelwood Pde Before Boardwalk Bvd","",-32.5498217766,115.6870206530,8
 0,,21649,21649,"Glencoe Pde Before Peelwood Pde","Glencoe Pde / Peelwood Pde",-32.5472946082,115.7002982730,8
 0,,21650,21650,"Aberdeen Cl Glencoe Ps","Glencoe Primary School",-32.54311444444440,115.704698888889,8
-0,,21652,21652,"Hungerford Av After Glencoe Pde","",-32.5456719305,115.7018542350,8
-0,,21653,21653,"Hungerford Av Before Penola Wy","",-32.5449767989,115.7051458970,8
-0,,21654,21654,"Hungerford Av After Penola Wy","",-32.5440957026,115.7066231060,8
-0,,21655,21655,"Hungerford Av Before Mclarty Rd","Hungerford Av / Mclarty Rd",-32.5433608384,115.7075510370,8
 0,,21656,21656,"Hungerford Av After Mclarty Rd","Hungerford Av / Mclarty Rd",-32.5434483907,115.7075822790,8
 0,,21657,21657,"Hungerford Av Before Penola Wy","",-32.5443691403,115.7063822060,8
 0,,21658,21658,"Hungerford Av Before Balmoral Pde","",-32.5450855062,115.7051579930,8
