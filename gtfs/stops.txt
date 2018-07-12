@@ -1234,7 +1234,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11405,11405,"Morley Dr After Lord St","",-31.8878165519,115.95519891,2
 0,,11406,11406,"Morley Dr After Clay St","",-31.8878136637,115.95320615,2
 0,,11407,11407,"Morley Dr After Hampton Sq","Morley Dr / Beechboro Rd",-31.88904944444440,115.922353888889,2
-0,,11408,11408,"Morley Dr After Bath Rd","Morley Dr / Tonkin Hwy",-31.88850888888890,115.913972777778,2
+0,,11408,11408,"Morley Dr Before Bath Rd","Morley Dr / Tonkin Hwy",-31.8890429149,115.9158191070,2
 0,,11409,11409,"Morley Dr After Emberson Rd","",-31.8878988569,115.9112800960,2
 0,,11410,11410,"Morley Dr After Byfleet St","",-31.8878956477,115.9090375880,2
 0,,11411,11411,"Morley Dr After Randerson Pl","",-31.8890651509,115.8850875280,1
@@ -3106,7 +3106,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,13747,13747,"Lesmurdie Rd After Rooth Rd","Lesmurdie Rd / Rooth Rd",-31.9978733066,116.0526217350,3
 0,,13748,13748,"Lesmurdie Rd Before Catherine Pl","St Brigids College",-31.99470888888890,116.052275555556,3
 0,,13749,13749,"Lesmurdie Rd After Falls Rd","Villa Maria Homes",-31.9925639766,116.0531032050,3
-0,,13750,13750,"Lesmurdie Rd After Hope Cr","Lesmurdie Rd / Hopecr",-31.9910743910,116.0576519220,3
+0,,13750,13750,"Lesmurdie Rd After Hope Cr","Lesmurdie Rd / Hopecr",-31.9910698939,116.0577723660,3
 0,,13751,13751,"Lesmurdie Rd After Sampson Rd","",-31.9910685642,116.0615394310,3
 0,,13752,13752,"Lesmurdie Rd Before Canning Rd","",-31.9910425057,116.0640421870,3
 0,,13753,13753,"Lesmurdie Rd After Canning Rd","",-31.9911664919,116.0637922220,3
@@ -5103,7 +5103,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,16256,16256,"Beach Rd After Harray St","",-31.8440816236,115.8184253260,2
 0,,16257,16257,"Beach Rd Before Erindale Rd","",-31.8451713915,115.8148242140,2
 0,,16258,16258,"Beach Rd - Warwick Grove Shopping Ctr","Warwick Grove Shop Ctr",-31.8456998232,115.8102782380,2
-0,,16259,16259,"Beach Rd After Glendale Av","",-31.8459657338,115.8073065420,2
+0,,16259,16259,"Beach Rd After Glendale Av","",-31.8461053279,115.8059377890,2
 0,,16260,16260,"Beach Rd Before Belvedere Rd","",-31.8461236277,115.8045009350,2
 0,,16261,16261,"Beach Rd After Belvedere Rd","",-31.8461203646,115.8020361110,2
 0,,16262,16262,"Beach Rd After Duffy Rd","",-31.8460620313,115.7944678750,2
@@ -5121,7 +5121,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,16274,16274,"Beach Rd After Davallia Rd","",-31.8457391271,115.7865885630,2
 0,,16275,16275,"Beach Rd After Sycamore Dr","",-31.8457623901,115.7928809570,2
 0,,16276,16276,"Beach Rd After Springvale Dr","",-31.8457985221,115.8022824760,2
-0,,16277,16277,"Beach Rd Before Dorchester Av","",-31.8458044998,115.8047336690,2
+0,,16277,16277,"Beach Rd Before Dorchester Av","",-31.84573666666670,115.806215555556,2
 0,,16278,16278,"Beach Rd After Dorchester Av","Warwick Grove Shop Ctr",-31.8451982551,115.8117407650,2
 0,,16279,16279,"Beach Rd After Erindale Rd","",-31.8448597390,115.8148148090,2
 0,,16280,16280,"Beach Rd After Lloyd Dr","",-31.8437809943,115.8182710740,2
@@ -5278,7 +5278,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,16457,16457,"Nollamara Av After Winchelsea Rd","",-31.8783243315,115.8514656430,2
 0,,16458,16458,"Nollamara Av Before Hancock St","",-31.8794757471,115.8495237160,2
 0,,16462,16462,"Yirrigan Dr After Farrier Rd","",-31.8738725478,115.8612049630,2
-0,,16463,16463,"Yirrigan Dr After Dianella Dr","",-31.8767958394,115.8657459570,2
 0,,16464,16464,"Yirrigan Dr Before Broadmoor Av","",-31.8760530557,115.8688256020,2
 0,,16465,16465,"Yirrigan Dr After Broadmoor Av","",-31.8755860964,115.8740024970,2
 0,,16466,16466,"Yirrigan Dr After Escallonia St","",-31.8758215681,115.87410125,2
@@ -11724,9 +11723,9 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,139,27741,27741,"Perth Stadium Bus Stn Perth Stadium Stand 14","Perth Stadium Bus Stn",-31.953405,115.889729444444,1
 0,139,27743,27743,"Perth Stadium Bus Stn Perth Stadium Stand 16","Perth Stadium Bus Stn",-31.95377777777780,115.889825,1
 0,139,27745,27745,"Perth Stadium Bus Stn Perth Stadium Stand 18","Perth Stadium Bus Stn",-31.95433611111110,115.889949444444,1
-0,141,27751,27751,"Nelson Av Stand 1","Matagarup Bridge",-31.95540055555560,115.883337777778,FTZ
-0,141,27754,27754,"Nelson Av Stand 4","Matagarup Bridge",-31.95588722222220,115.883562777778,FTZ
-0,141,27758,27758,"Nelson Av Stand 8","Matagarup Bridge",-31.95676666666670,115.883826666667,FTZ
+0,141,27751,27751,"Nelson Av Stand 1","Matagarup Bridge",-31.95650944444450,115.883790,FTZ
+0,141,27754,27754,"Nelson Av Stand 4","Matagarup Bridge",-31.95702277777780,115.883935555556,FTZ
+0,141,27758,27758,"Nelson Av Stand 8","Matagarup Bridge",-31.957905,115.883942777778,FTZ
 0,,27759,27759,"Swan View Rd After Old York Rd","",-31.89727111111110,116.060643333333,3
 0,,27760,27760,"Swan View Rd Before Wandu Rd","",-31.89509777777780,116.061076666667,3
 0,,27761,27761,"Swan View Rd Before Grevillea Cr","",-31.89237333333340,116.061480,3
@@ -13361,6 +13360,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,74107,74107,"Clayton View Before Dension Link","",-33.30792166666670,115.738225555556,2
 0,,74108,74108,"Denison Link Before Surrey Link","",-33.30582888888890,115.739615555556,2
 0,,74109,74109,"Denison Link After Surrey Link","",-33.30597944444450,115.739645555556,2
+0,,74110,74110,"Brand Hwy Mt Adams Rd T/O","Mt Adams Rd Turnoff",-29.410015,115.012422222222,9
+0,,74117,74117,"Brand Hwy Skipper Rd T/O","Skipper Rd Turnoff ",-29.637380,115.221070555556,9
 0,,95000,95000,"Armadale Stn Armadale 1","Armadale (Rail)",-32.15377166666670,116.012988333333,4
 0,,95001,95001,"Armadale Stn Armadale 2","Armadale (Rail)",-32.15377833333330,116.013023333333,4
 0,,95002,95002,"Byford Stn Byford 1","Byford (Rail)",-32.2252633333333020,116.006801111111,4
