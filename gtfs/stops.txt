@@ -66,7 +66,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10069,10069,"Shepperton Rd Before Rushton St","",-31.9705602118,115.8950214930,1
 0,13,10070,10070,"Victoria Park Transfer Stn Stand E","Victoria Park Transfer Stn",-31.96828833333330,115.888946666667,1
 0,,10071,10071,"Adelaide Tce Westend Causeway","Adelaide Tce / Westend Cway",-31.9615645625,115.8767979170,FTZ
-0,,10072,10072,"Adelaide Tce After Plain St","",-31.9605911637,115.8739112420,FTZ
+0,,10072,10072,"Adelaide Tce After Plain St","",-31.96059111111110,115.873911111111,FTZ
 0,,10073,10073,"Adelaide Tce After Bennett St","",-31.95949833333330,115.870643333333,FTZ
 0,,10074,10074,"Adelaide Tce After Hill St","St Georges Tce / Victoria Av",-31.9582206311,115.8666410060,FTZ
 0,107,10075,10075,"St Georges Tce Stand M (After Victoria Av)","",-31.95733611111110,115.864253333333,FTZ
@@ -78,10 +78,10 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,103,10082,10082,"St Georges Tce Stand N (Before Barrack St)","",-31.9559776129,115.8601019830,FTZ
 0,111,10083,10083,"St Georges Tce Stand O (After Barrack St)","",-31.9555800463,115.8589309180,FTZ
 0,111,10084,10084,"St Georges Tce Stand P (After Barrack St)","",-31.9555300725,115.8587792060,FTZ
-0,112,10085,10085,"St Georges Tce Stand R S (After Sherwood Ct)","",-31.9553624152,115.8582722930,FTZ
+0,112,10085,10085,"St Georges Tce Stand R S (After Sherwood Ct)","",-31.95536222222220,115.858272222222,FTZ
 0,112,10086,10086,"St Georges Tce Stand T (After Sherwood Ct)","",-31.9552750592,115.8580024830,FTZ
 0,112,10087,10087,"St Georges Tce Stand M (Before Howard St)","",-31.9552125491,115.8578022740,FTZ
-0,,10088,10088,"St Georges Tce Stand Nop (Before William St)","St Georges Tce / William St",-31.9549213648,115.8569215470,FTZ
+0,,10088,10088,"St Georges Tce Stand Nop (Before William St)","St Georges Tce / William St",-31.95492111111110,115.856921666667,FTZ
 0,116,10089,10089,"St Georges Tce Stand R (After William St)","St Georges Tce / Westralia Square",-31.9542253406,115.8547178230,FTZ
 0,116,10090,10090,"St Georges Tce Stand S (After William St)","St Georges Tce / Westralia Square",-31.9541603808,115.8545198460,FTZ
 0,,10091,10091,"St Georges Tce Mill St Green Cat 2","St Georges Tce / Mill St",-31.95338722222220,115.852168888889,FTZ
@@ -126,7 +126,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,108,10134,10134,"St Georges Tce Stand A C D (Before Victoria Av)","St Georges Tce / Victoria Av",-31.9571388285,115.8642541660,FTZ
 0,,10135,10135,"Adelaide Tce Before Hill St","Adelaide Tce / Hill St",-31.9583927777777990,115.867760555556,FTZ
 0,,10136,10136,"Adelaide Tce Before Bennett St","",-31.9594542779,115.8710155070,FTZ
-0,,10137,10137,"Adelaide Tce Before Plain St","Adelaide Tce / Plain St",-31.9604187330,115.8739883960,FTZ
+0,,10137,10137,"Adelaide Tce Before Plain St","Adelaide Tce / Plain St",-31.96041888888890,115.873988333333,FTZ
 0,117,10138,10138,"Adelaide Tce Westend Causeway","",-31.96180333333330,115.878134444444,FTZ
 0,117,10139,10139,"Adelaide Tce Westend Causeway ","Adelaide Tce / Westend Cway",-31.96190222222230,115.878317222222,FTZ
 0,13,10140,10140,"Victoria Park Transfer Stn Stand D","Victoria Park Transfer Stn",-31.968150,115.889071666667,1
@@ -461,6 +461,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10521,10521,"Ranford Rd Before Brennan Av","Ranford Rd / Brennan Av",-32.0848768125,115.9130946990,2
 0,,10522,10522,"Ranford Rd Before Wilfred Rd","",-32.082670,115.910325555556,2
 0,,10523,10523,"Ranford Rd After Wilfred Rd","",-32.08144833333340,115.907999444444,2
+0,,10524,10524,"Ranford Rd After Waratah Bvd","",-32.07991166666660,115.904989444444,2
 0,,10525,10525,"Ranford Rd Before Livingstone Dr","",-32.07785666666670,115.901140,2
 0,,10526,10526,"Ranford Rd Before Bannister Rd","",-32.07321388888890,115.894393888889,2
 0,,10528,10528,"South St After Beasley Rd","South St / Beasley Rd",-32.0666667448,115.8842447880,2
@@ -1419,7 +1420,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11612,11612,"Walter Rd After Coode St","",-31.8989474960,115.8899391240,1
 0,,11613,11613,"Walter Rd After Light St","",-31.8973373038,115.8922559990,1
 0,,11614,11614,"Walter Rd After Russell St","",-31.8955898011,115.8953930290,1
-0,,11615,11615,"Walter Rd After Wheeler St","",-31.89467166666670,115.900872777778,1
+0,,11615,11615,"Walter Rd After Wheeler St","",-31.8946602796,115.9008727780,1
 0,,11616,11616,"Walter Rd Before Bourne St","",-31.8946627537,115.9033929880,1
 0,,11617,11617,"Walter Rd After Crimea St","",-31.8946684648,115.9066137190,2
 0,,11618,11618,"Walter Rd Before Tilford Pl","",-31.8946731484,115.90823343,2
@@ -2481,7 +2482,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12897,12897,"Wellington St Perth Arena Yellow Cat 23","Wellington St / Milligan St",-31.949180,115.852251111111,FTZ
 0,124,12900,12900,"Wellington St William St Cat Yellow 24 ","Wellington St / William St",-31.9508073325,115.8571967920,FTZ
 0,122,12901,12901,"Wellington St Perth Stn Red 24/Yellow Cat25","Perth Stn",-31.9519177428,115.8605527390,FTZ
-0,122,12902,12902,"Wellington St Before Forrest Pl","Perth Stn",-31.9514092902,115.8590372080,FTZ
+0,122,12902,12902,"Wellington St Before Forrest Pl","Perth Stn",-31.95140944444440,115.859037222222,FTZ
 0,121,12904,12904,"Wellington St Pier St Yellow Cat 26","Wellington St / Pier St North",-31.9526748920,115.8628028720,FTZ
 0,131,12906,12906,"Wellington St Royal Perth Hospital Yellow Cat 27","Mciver Stn",-31.95370611111110,115.865950555556,FTZ
 0,,12909,12909,"Wellington St Wellington Fair Yellow Cat 28","Wellington St / Hill St",-31.9548407019,115.8693559980,FTZ
@@ -4815,7 +4816,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,15912,15912,"Crimea St After Aliffe St","",-31.8962169820,115.90458552,1
 0,,15913,15913,"Crimea St After Johnsmith St","",-31.89625944444440,115.904411111111,1
 0,,15914,15914,"Crimea St After Walter Rd","",-31.89243666666660,115.904773888889,2
-0,,15915,15915,"Crimea St After Halvorson Rd","Crimea St / Halvorson Rd",-31.88988777777780,115.904813333333,2
+0,,15915,15915,"Crimea St Before Halvorson Rd","Crimea St / Halvorson Rd",-31.89042666666670,115.904757777778,2
 0,,15916,15916,"Crimea St After Morley Dr","Crimea St / Morley Dr",-31.88718222222220,115.904931111111,2
 0,,15917,15917,"Crimea St After Field St","",-31.8846205547,115.9049406320,2
 0,,15918,15918,"Crimea St After Driscoll Wy","",-31.883020,115.904924444444,2
@@ -5104,7 +5105,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,16257,16257,"Beach Rd Before Erindale Rd","",-31.8451713915,115.8148242140,2
 0,,16258,16258,"Beach Rd - Warwick Grove Shopping Ctr","Warwick Grove Shop Ctr",-31.8456998232,115.8102782380,2
 0,,16259,16259,"Beach Rd After Glendale Av","",-31.8461053279,115.8059377890,2
-0,,16260,16260,"Beach Rd Before Belvedere Rd","",-31.8461236277,115.8045009350,2
 0,,16261,16261,"Beach Rd After Belvedere Rd","",-31.8461203646,115.8020361110,2
 0,,16262,16262,"Beach Rd After Duffy Rd","",-31.8460620313,115.7944678750,2
 0,,16263,16263,"Beach Rd Before Okely Rd","",-31.8460808921,115.7866731230,2
@@ -5273,10 +5273,14 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,16446,16446,"Sylvia St After Carcoola St","",-31.8800663025,115.8408109180,2
 0,,16447,16447,"Sylvia St After Hillsborough Dr","",-31.8803768597,115.8399600550,2
 0,,16448,16448,"Hillsborough Dr After Nollamara Av","",-31.8813448766,115.8400319130,2
+0,,16449,16449,"Nollamara Av After Hillsborough Dr","",-31.88122333333330,115.841949444444,2
+0,,16451,16451,"Nollamara Av Before Apara Wy","",-31.8807592221,115.8455308150,2
 0,,16452,16452,"Nollamara Av Before Hancock St","",-31.8796425276,115.8489166670,2
 0,,16453,16453,"Nollamara Av After Tuckfield Wy","",-31.87821888888890,115.851321111111,2
 0,,16457,16457,"Nollamara Av After Winchelsea Rd","",-31.8783243315,115.8514656430,2
 0,,16458,16458,"Nollamara Av Before Hancock St","",-31.8794757471,115.8495237160,2
+0,,16459,16459,"Nollamara Av Before Sussex St","",-31.8808791432,115.8450620070,2
+0,,16460,16460,"Nollamara Av Before Hillsborough Dr","",-31.8815641292,115.8416255940,2
 0,,16462,16462,"Yirrigan Dr After Farrier Rd","",-31.8738725478,115.8612049630,2
 0,,16464,16464,"Yirrigan Dr Before Broadmoor Av","",-31.8760530557,115.8688256020,2
 0,,16465,16465,"Yirrigan Dr After Broadmoor Av","",-31.8755860964,115.8740024970,2
@@ -9434,7 +9438,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,21996,21996,"Bennett St Before Simla Pl","",-31.8698148053,115.9598372220,2
 0,,21997,21997,"Bennett St Before Patricia St","Bennett St / Patricia St",-31.86685388888890,115.959919444444,2
 0,,21998,21998,"Bennett St After Simla Pl","",-31.8699779995,115.9599284090,2
-0,,21999,21999,"Bennett St Before Benara Rd","",-31.872120,115.959942777778,2
 0,,22000,22000,"Bennett St Before Benara Rd","",-31.8751311658,115.9599167650,2
 0,,22001,22001,"Bennett St After Benara Rd","",-31.8750968744,115.9598268220,2
 0,,22012,22012,"School Rd Darling Range Sports College Stand 4","Darling Range Sports College",-31.976495,116.010227222222,2
@@ -11716,7 +11719,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27726,27726,"North Lake Rd Before Archibald St","",-32.05301722222220,115.816033333333,2
 0,139,27728,27728,"Perth Stadium Bus Stn Perth Stadium Stand 1","Perth Stadium Bus Stn",-31.95505388888890,115.890493333333,1
 0,139,27731,27731,"Perth Stadium Bus Stn Perth Stadium Stand 4","Perth Stadium Bus Stn",-31.95451777777780,115.890361666667,1
-0,139,27733,27733,"Perth Stadium Bus Stn Perth Stadium Stand 6","Perth Stadium Bus Stn",-31.95396111111110,115.890252777778,1
 0,139,27735,27735,"Perth Stadium Bus Stn Perth Stadium Stand 8","Perth Stadium Bus Stn",-31.95360666666660,115.890172777778,1
 0,139,27737,27737,"Perth Stadium Bus Stn Perth Stadium Stand 10","Perth Stadium Bus Stn",-31.95326388888890,115.890101111111,1
 0,139,27739,27739,"Perth Stadium Bus Stn Perth Stadium Stand 12","Perth Stadium Bus Stn",-31.95310888888890,115.889657777778,1
@@ -11724,8 +11726,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,139,27743,27743,"Perth Stadium Bus Stn Perth Stadium Stand 16","Perth Stadium Bus Stn",-31.95377777777780,115.889825,1
 0,139,27745,27745,"Perth Stadium Bus Stn Perth Stadium Stand 18","Perth Stadium Bus Stn",-31.95433611111110,115.889949444444,1
 0,141,27751,27751,"Nelson Av Stand 1","Matagarup Bridge",-31.95650944444450,115.883790,FTZ
-0,141,27754,27754,"Nelson Av Stand 4","Matagarup Bridge",-31.95702277777780,115.883935555556,FTZ
-0,141,27758,27758,"Nelson Av Stand 8","Matagarup Bridge",-31.957905,115.883942777778,FTZ
 0,,27759,27759,"Swan View Rd After Old York Rd","",-31.89727111111110,116.060643333333,3
 0,,27760,27760,"Swan View Rd Before Wandu Rd","",-31.89509777777780,116.061076666667,3
 0,,27761,27761,"Swan View Rd Before Grevillea Cr","",-31.89237333333340,116.061480,3
@@ -11807,7 +11807,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27874,27874,"Dampiera St After Lunata St","",-31.85793388888890,115.969157777778,2
 0,,27875,27875,"Dampiera St Before Lunata St","",-31.858210,115.969258333333,2
 0,,27876,27876,"Kennedia Ent After Litoria Pass","",-31.85957666666670,115.970936111111,2
-0,,27877,27877,"Kennedia Ent After Attenuata Way","",-31.85966055555550,115.971380555556,2
+0,,27877,27877,"Kennedia Ent After Attenuata Way","",-31.85965888888890,115.970465555556,2
 0,,27878,27878,"Arthur St Before Floribunda Gate","",-31.85892388888890,115.973448888889,2
 0,,27879,27879,"Arthur St After Floribunda Gate","",-31.85891444444450,115.973545,2
 0,,27880,27880,"Mansfield Av After Benfleet Dr","",-31.63540055555560,115.696389444444,5
@@ -11816,9 +11816,9 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27883,27883,"Watsonia Rd After Ridge Hill Rd","",-31.94417166666660,116.032935555556,2
 0,,27884,27884,"Hale St Run For A Reason Shuttles","Hale St / Waca",-31.95950444444450,115.878315555556,FTZ
 0,,27885,27885,"Access Rd Lake Joondalup Baptist Coll","Lake Joondalup Baptist College",-31.73636555555560,115.761195,4
-0,,27887,27887,"Partridge St After Pennington Wy","Partridge St / Park St",-31.81481611111110,115.969015555556,3
-0,,27888,27888,"Partridge St After Blidersee Av","Partridge St / Park St",-31.81492388888890,115.969115555556,3
 0,,27889,27889,"Glencoe Pde After Tennyson Ave","",-32.545115,115.7017,8
+0,,27892,27892,"Bannister Rd Before Canvale Rd","",-32.06284722222220,115.925746666667,2
+0,141,27893,27893,"Nelson Av Set Down Stand","Matagarup Bridge",-31.95540777777780,115.883333333333,FTZ
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce",-28.7734316666666990,114.612454444444,1
 0,,70003,70003,"Chapman Rd Before Mark St","",-28.76018222222220,114.615859444444,1
@@ -13361,6 +13361,12 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,74108,74108,"Denison Link Before Surrey Link","",-33.30582888888890,115.739615555556,2
 0,,74109,74109,"Denison Link After Surrey Link","",-33.30597944444450,115.739645555556,2
 0,,74110,74110,"Brand Hwy Mt Adams Rd T/O","Mt Adams Rd Turnoff",-29.410015,115.012422222222,9
+0,,74111,74111,"Eaton Dr Before Jindalee Wy","",-33.29933333333330,115.730418333333,2
+0,,74112,74112,"Eaton Dr After Jindalee Wy","",-33.29896111111110,115.730392777778,2
+0,,74113,74113,"The Boulevard Bvd Before Golden Beryl Av","",-33.288940,115.739056666667,2
+0,,74114,74114,"The Boulevard Bvd Before Quartz Dr","",-33.28955722222220,115.739210,2
+0,,74115,74115,"The Boulevard Bvd Before Carina Lane","",-33.28726055555560,115.739222222222,2
+0,,74116,74116,"The Boulevard Bvd Before Zircon Wy","",-33.28656444444440,115.739071111111,2
 0,,74117,74117,"Brand Hwy Skipper Rd T/O","Skipper Rd Turnoff ",-29.637380,115.221070555556,9
 0,,95000,95000,"Armadale Stn Armadale 1","Armadale (Rail)",-32.15377166666670,116.012988333333,4
 0,,95001,95001,"Armadale Stn Armadale 2","Armadale (Rail)",-32.15377833333330,116.013023333333,4
