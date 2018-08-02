@@ -1551,7 +1551,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11753,11753,"Berwick St After Westminister St","",-31.9899235432,115.9017741950,1
 0,,11754,11754,"Berwick St After Balmoral St","",-31.9918584317,115.9037633610,1
 0,,11755,11755,"Berwick St After Langler St","",-31.9935550026,115.9052812280,1
-0,,11756,11756,"Berwick St After Hill View Tce","",-31.9956119022,115.90769102,1
+0,,11756,11756,"Berwick St After Hill View Tce","",-31.99561166666670,115.907691111111,1
 0,,11757,11757,"Berwick St After Leichardt St","",-31.9975497847,115.9089993910,1
 0,,11758,11758,"Chapman Rd Before Victoria St","Chapman Rd / Boundary Rd",-32.0014867682,115.9094857520,1
 0,,11759,11759,"Chapman Rd Before Walpole St","",-32.0025908485,115.9107626640,1
@@ -2500,7 +2500,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12931,12931,"Railway St City West Stn Green Cat 12","",-31.94437888888890,115.845032777778,FTZ
 0,,12932,12932,"Railway St City West Stn Green Cat 10","",-31.94449333333340,115.844942222222,FTZ
 0,,12933,12933,"Shenton St Russell Square Blue Cat 10","Shenton St / James St",-31.9459578408,115.8549155470,FTZ
-0,,12934,12934,"James St Northbridge Blue Cat 11","",-31.9474298307,115.8558513530,FTZ
+0,,12934,12934,"James St Northbridge Blue Cat 11","",-31.947430,115.855851111111,FTZ
 0,,12935,12935,"James St James St Blue Cat 12","",-31.9488118642,115.8588821450,FTZ
 0,,12936,12936,"Aberdeen St Art Centre Blue Cat 6","Aberdeen St / Museum",-31.9483436681,115.8627469920,FTZ
 0,,12937,12937,"Aberdeen St Central Institute Blue Cat 7","",-31.9475105731,115.8609310660,FTZ
@@ -2600,7 +2600,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,13064,13064,"Grovelands Dr After Beechcroft Pl","",-32.1204264192,115.9924164790,3
 0,,13065,13065,"Grovelands Dr After Shetland Rd","",-32.1222812461,115.9918793880,3
 0,,13066,13066,"Grovelands Dr After Faraday St","",-32.1234831227,115.9941282380,3
-0,,13067,13067,"Grovelands Dr Before Westfield Rd","",-32.1238946782,115.9963824860,3
 0,,13068,13068,"Third Av After Detling Ct","",-32.1258165796,115.9990437750,3
 0,,13069,13069,"Third Av After Hollybush Wy","",-32.1261017397,116.0017004410,3
 0,,13070,13070,"Third Av Before Kidbroke Pl","",-32.1245491970,116.0041769150,3
@@ -5636,7 +5635,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,16942,16942,"Nelson Av Trinity College Stand 3","Trinity College",-31.9592387435,115.8828290810,FTZ
 0,,16944,16944,"Waterloo Cr Main Roads Yellow Cat 31","Waterloo Cr / Plain St",-31.95745444444450,115.877228333333,FTZ
 0,,16946,16946,"Trafalgar Rd East Perth Cemeteries Y32","Waterloo Cr / Wittenoom St",-31.9557293436,115.8801102320,FTZ
-0,,16949,16949,"Trafalgar Rd Nile St Yellow Cat6","Waterloo Cr / Wittenoom St",-31.9556139014,115.88019736,FTZ
+0,,16949,16949,"Trafalgar Rd Nile St Yellow Cat6","Waterloo Cr / Wittenoom St",-31.95561388888890,115.880197222222,FTZ
 0,,16951,16951,"Waterloo Cr Don Aitken Centre R2 / Y7","",-31.9576988805,115.8776963990,FTZ
 0,,16952,16952,"Royal St Haig Park Yellow Cat 33","",-31.9531794168,115.8794731620,FTZ
 0,,16954,16954,"Royal St Regal Place Yellow Cat 34","",-31.9532611843,115.8760883920,FTZ
@@ -6047,7 +6046,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,17507,17507,"Mounts Bay Rd Mounts Bay Village","",-31.95526055555560,115.848691666667,FTZ
 0,,17509,17509,"Ord St Ord Street Red Cat 19","Ord St / Colin St",-31.9505218458,115.84076736,FTZ
 0,,17510,17510,"Ord St Havelock Street Red Cat 20","Ord St / Havelock St",-31.9512910030,115.8431178020,FTZ
-0,,17511,17511,"Outram St Outram Street Red Cat 18","Outram St / Ord St",-31.9495598810,115.8393309620,FTZ
+0,,17511,17511,"Outram St Outram Street Red Cat 18","Outram St / Ord St",-31.949560,115.839331111111,FTZ
 0,,17512,17512,"Bagot Rd After Bedford Av","",-31.9504397041,115.8317988240,1
 0,,17513,17513,"Hamersley Rd After Thomas St","",-31.9525304135,115.8295692650,1
 0,,17514,17514,"Hamersley Rd After Townshend Rd","",-31.9525221142,115.8280533750,1
@@ -7836,7 +7835,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,19757,19757,"Reynolds Rd After Locke St","",-32.0209453471,115.8465525460,1
 0,,19758,19758,"Reynolds Rd Before Gibson St","",-32.0195205390,115.8456179270,1
 0,,19759,19759,"Reynolds Rd Before Bombard St","",-32.0176670102,115.8443917670,1
-0,,19760,19760,"Reynolds Rd Before Canning Hwy","",-32.0164221102,115.8435614190,1
 0,,19761,19761,"Reynolds Rd Before Bombard St","",-32.0170228809,115.8441056930,1
 0,,19762,19762,"Reynolds Rd Before Gibson St","",-32.0189875951,115.8453887950,1
 0,,19763,19763,"Reynolds Rd Before David St","",-32.0218483065,115.8472977420,1
@@ -7970,7 +7968,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,19950,19950,"Murdoch Dr After South St","",-32.0664539486,115.84205203,2
 0,,19952,19952,"Murdoch Dr Challenger Tafe Murdoch","",-32.0740638509,115.8433224180,2
 0,,19953,19953,"Murdoch Dr Rangeview Remand Centre","",-32.0757155053,115.8429119390,2
-0,,19954,19954,"Murdoch Dr Rangeview Remand Centre","",-32.0763713884,115.8424769740,2
 0,,19955,19955,"Murdoch Dr Murdoch University","",-32.0738179928,115.8430397310,2
 0,,19957,19957,"Murdoch Dr Before South St","",-32.0667449033,115.8416045140,2
 0,,19958,19958,"Murdoch Dr After South St","",-32.0643430056,115.8423664160,2
@@ -10000,7 +9997,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,23803,23803,"Birchley Rd After Bayview Tce","",-32.1270912321,115.8024823210,3
 0,,23815,23815,"Main St Before Tome Wy","Ellenbrook Secondary College",-31.78462055555560,115.965560555556,3
 0,,23816,23816,"Main St After Tome Wy","Ellenbrook Secondary College",-31.7850952959,115.9657357350,3
-0,,23817,23817,"The Broadway   Before Coolamon Bvd","",-31.77190055555560,115.968719444444,3
+0,,23817,23817,"The Broadway . Before Coolamon Bvd","",-31.77190055555560,115.968719444444,3
 0,,23818,23818,"The Broadway   Before Galatea Pass","",-31.7669164135,115.9714935390,3
 0,95,23819,23819,"Midland Stn Stand 1","Midland Stn",-31.8917971343,116.0022012290,2
 0,,23835,23835,"Warnbro Sound Av Comet Bay High School","Warnbro Sound Av / Bluestone Pwy",-32.4156673880,115.7606893680,6
@@ -10575,21 +10572,21 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,25890,25890,"Bailey Bvd After Carnaby Dr","",-32.6350631696,115.6301706510,9
 0,,25891,25891,"Wilkins St Before Mclarty Rd","",-32.5304280438,115.6991819890,7
 0,,25894,25894,"Canning Hwy After Gairloch St","",-32.0165542486,115.8408253840,1
-0,,25897,25897,"The Broadway   After Moseley Dr","",-31.7615308609,115.9871315160,3
+0,,25897,25897,"The Broadway  After Moseley Dr","",-31.7615308609,115.9871315160,3
 0,,25898,25898,"The Broadway   After Bordeaux Lane","",-31.7646072191,115.9860825750,3
 0,,25899,25899,"The Broadway   After Birchmore Gdns","",-31.7663449065,115.98026598,3
 0,,25900,25900,"The Broadway   Before Elmridge Pwy","",-31.7658088855,115.9771489670,3
 0,,25901,25901,"The Broadway   After Elmina Av","",-31.7670540569,115.9715464580,3
-0,,25902,25902,"The Broadway   After Coolamon Bvd","",-31.7721117356,115.9687834220,3
-0,,25903,25903,"The Broadway   After Pinegrove Dr","",-31.77492611111110,115.968014444444,3
-0,,25904,25904,"The Broadway   Before Comserv Loop","",-31.7784929885,115.96909931,3
+0,,25902,25902,"The Broadway . After Coolamon Bvd","",-31.7721117356,115.9687834220,3
+0,,25903,25903,"The Broadway . After Pinegrove Dr","",-31.77425388888890,115.967999444444,3
+0,,25904,25904,"The Broadway   Before Comserv Loop","",-31.77970813,115.9689803080,3
 0,,25905,25905,"Main St Before The Promenade","Ellenbrook Central Shop Ctr",-31.7806281138,115.9680192180,3
 0,,25906,25906,"The Broadway   After Comserv Loop","",-31.7784552308,115.9689979660,3
 0,,25907,25907,"The Broadway   Before Pinegrove Dr","",-31.7750840236,115.9679325090,3
 0,,25908,25908,"The Broadway   After Elmridge Pwy","",-31.7657080705,115.9770690230,3
 0,,25909,25909,"The Broadway   Before Birchmore Gdns","",-31.7662365640,115.9801667640,3
 0,,25910,25910,"The Broadway   Before Voyager Link","",-31.7644947746,115.9860231790,3
-0,,25911,25911,"The Broadway   Before Mosele Dr","",-31.7616270271,115.9869966460,3
+0,,25911,25911,"The Broadway  Before Mosele Dr","",-31.7616270271,115.9869966460,3
 0,,25913,25913,"Ecu Access Rd Ecu Library","",-31.7532071043,115.7705218970,3
 0,,25916,25916,"Bennett Springs Dr After Beechboro Rd","",-31.8576745326,115.9259145890,2
 0,,25918,25918,"Westgrove Dr After Branxholme Tce","",-31.7693178138,115.9761061890,3
