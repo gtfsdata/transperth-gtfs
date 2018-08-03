@@ -2491,7 +2491,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12914,12914,"Wellington St Plain Street R3 / Y8","Wellington St / Plain St",-31.9568532583,115.8749706150,FTZ
 0,,12915,12915,"Wellington St Wellington Squ R4 / Y9","Wellington Square",-31.95634888888890,115.873418888889,FTZ
 0,,12917,12917,"Wellington St Hill Street Yellow Cat 10","",-31.9558188339,115.8717824310,FTZ
-0,,12919,12919,"Wellington St Lord St Yellow Cat 11","Wellington St / Lord St",-31.9548616390,115.8688458910,FTZ
+0,,12919,12919,"Wellington St Lord St Yellow Cat 11","Wellington St / Lord St",-31.95486166666670,115.868846111111,FTZ
 0,119,12920,12920,"Wellington St Royal Perth Hospital Y12","",-31.953820,115.865642222222,FTZ
 0,120,12923,12923,"Wellington St Western Power Yellow Cat 13","Wellington St / Pier St South",-31.9526034799,115.8619374520,FTZ
 0,,12924,12924,"Wellington St Forrest Place R10 / Y14","Wellington St / Forrest Pl",-31.9516360671,115.8591222040,FTZ
@@ -12602,7 +12602,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,71942,71942,"Mangles St After Stanbury Cr","Mangles St / Stanbury Cr",-33.34933277777780,115.622880,1
 0,,71943,71943,"Stanbury Cr After Mangles St","",-33.3483716666667010,115.625950,1
 0,,71944,71944,"Parry St Before Morgan Pl","",-33.3474238888888980,115.628041111111,1
-0,,71945,71945,"Lee St After Parry St","",-33.3465241262,115.6315957230,1
+0,,71945,71945,"Lee St After Parry St","",-33.34652277777780,115.631508888889,1
 0,,71948,71948,"Minninup Rd After Hudson Rd","",-33.36485111111110,115.628189444444,1
 0,,71949,71949,"Minninup Rd After Argyle Av","",-33.36642722222220,115.627324444444,1
 0,,71950,71950,"Minninup Rd After Westwood St","",-33.36636444444440,115.627281666667,1
