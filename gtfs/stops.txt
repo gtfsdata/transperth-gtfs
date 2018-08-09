@@ -124,7 +124,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10132,10132,"St Georges Tce Stand D (Before Irwin St)","St Georges Tce / Irwin St",-31.956555,115.862496666667,FTZ
 0,108,10133,10133,"St Georges Tce Stand B E F (After Irwin St)","St Georges Tce / Victoria Av",-31.9570812841,115.8640951910,FTZ
 0,108,10134,10134,"St Georges Tce Stand A C D (Before Victoria Av)","St Georges Tce / Victoria Av",-31.9571388285,115.8642541660,FTZ
-0,,10135,10135,"Adelaide Tce Before Hill St","Adelaide Tce / Hill St",-31.9583927777777990,115.867760555556,FTZ
+0,,10135,10135,"Adelaide Tce Before Hill St","Adelaide Tce / Hill St",-31.95839277777780,115.867760555556,FTZ
 0,,10136,10136,"Adelaide Tce Before Bennett St","",-31.9594542779,115.8710155070,FTZ
 0,,10137,10137,"Adelaide Tce Before Plain St","Adelaide Tce / Plain St",-31.96041888888890,115.873988333333,FTZ
 0,117,10138,10138,"Adelaide Tce Westend Causeway","",-31.96180333333330,115.878134444444,FTZ
@@ -1579,7 +1579,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11784,11784,"Kent St Before Hayman Rd","",-31.9992915397,115.8866386390,1
 0,,11785,11785,"Kent St After Hayman Rd","Kent St / Hayman Rd",-31.99650777777780,115.886626111111,1
 0,,11786,11786,"Kent St After Berwick St","",-31.98465555555550,115.896753333333,1
-0,,11788,11788,"Kent St Before Albany Hwy","",-31.98182222222220,115.900107777778,1
+0,,11788,11788,"Kent St Before Albany Hwy","Kent St / Albany Hwy",-31.98182222222220,115.900107777778,1
 0,,11789,11789,"Lansdowne Rd After Canning Hwy","",-31.9764503824,115.8820581840,1
 0,,11790,11790,"Lansdowne Rd After Second Av","",-31.9776215069,115.8833934130,1
 0,,11791,11791,"Lansdowne Rd Before Sixth Av","",-31.9796610441,115.8857276080,1
@@ -4124,7 +4124,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,15055,15055,"Fenton St After Craig St","Fenton St / Craig St",-31.9043388888889010,116.17020055555599,4
 0,,15056,15056,"Craig St After Nichol St","Craig St / Nichol St",-31.9028831132,116.1666563050,4
 0,,15058,15058,"Mundaring Weir Rd After Craig St","Craig St / Nichol St",-31.9027831954,116.1680796710,4
-0,,15059,15059,"Mann St After Great Eastern Hwy","",-31.9010710280,116.1638102870,4
 0,,15063,15063,"Railway Tce After Great Eastern Hwy","",-31.903715,116.180682222222,4
 0,,15064,15064,"Railway Tce Before Lemmey Rd","",-31.9016268922,116.1863217820,4
 0,,15065,15065,"Railway Tce Before Lee Rd","",-31.901295,116.189414444444,4
@@ -8237,6 +8236,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,20294,20294,"Lyndale Av After Blandfield Wy","",-32.0497832781,115.9108231010,2
 0,,20295,20295,"Lyndale Av Before Blandfield Wy","",-32.0498419473,115.9106556510,2
 0,,20297,20297,"Skinner St John Curtin College Of The Arts","John Curtin College Of The Arts",-32.04830611111110,115.756082222222,2
+0,,20297A,20297A,"Skinner St John Curtin College Of The Arts","John Curtin College Of The Arts",-32.04780888888890,115.755599444444,2
 0,,20303,20303,"Peter Hughes Dr Maritime Musuem","Maritime Museum",-32.0539716276,115.7405928550,2
 0,,20306,20306,"Coolbellup Av Before Camillo St","",-32.07549833333330,115.806108888889,2
 0,,20307,20307,"Coolbellup Av Before Emilia St","",-32.0778853273,115.8064034870,2
@@ -10039,7 +10039,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,23882,23882,"Gardiner Av Acept Munster Tafe","Acept Munster Tafe",-32.1425703348,115.7881739470,3
 0,,23883,23883,"Rockingham Rd Acept Munster Tafe","Acept Munster Tafe",-32.1425562202,115.7899501750,3
 0,,23884,23884,"Atwick Tce - Settlers Hill Shopping Ctr","Attwick Tce / Settlers Av",-32.3332652818,115.8133825480,5
-0,,23893,23893,"Railway Tce Before Kent St","Railway Tce / Kent St",-32.2762103521,115.7293141220,5
 0,,23897,23897,"Cedric St Before George St","",-31.8906973316,115.8090795220,2
 0,,23898,23898,"Cedric St After George St","",-31.89076611111110,115.809343888889,2
 0,,23904,23904,"Pinetree Gully Rd Before Kingsford Dr","",-32.0634082249,115.8777181750,2
@@ -11320,7 +11319,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27087,27087,"George St After Pinjarra","",-32.63060833333330,115.872782222222,8
 0,,27090,27090,"Safety Bay Rd After Goulburn Rd","",-32.33231277777780,115.819522222222,5
 0,,27091,27091,"Safety Bay Rd After Baldivis Rd","",-32.332670,115.819427222222,5
-0,137,27092,27092,"Perth Busport  Stand 1","Perth Busport",-31.94982666666670,115.856288333333,FTZ
+0,137,27092,27092,"Perth Busport Stands 1-4","Perth Busport",-31.94982666666670,115.856288333333,FTZ
 0,,27095,27095,"Marangaroo Dr After Mereworth Wy","",-31.83261222222220,115.826157777778,2
 0,,27098,27098,"Joseph Banks Bvd Stand 1","Joseph Banks Secondary College",-31.69690944444440,115.798310555556,4
 0,,27099,27099,"Joseph Banks Bvd Stand 2","Joseph Banks Secondary College",-31.69713555555560,115.798298333333,4
@@ -11380,21 +11379,9 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27168,27168,"Bramall Tce After Overton L","",-32.3493242032,115.8111882750,5
 0,,27169,27169,"Smirk Rd After Branchton Loop","",-32.3502339019,115.8131335410,5
 0,,27170,27170,"Smirk Rd After Greenock Rd","",-32.3504316877,115.8131873160,5
-0,137,27171,27171,"Perth Busport  Stand 2","Perth Busport",-31.94991388888890,115.856478333333,FTZ
-0,137,27172,27172,"Perth Busport  Stand 3","Perth Busport",-31.95000111111110,115.856668888889,FTZ
-0,137,27173,27173,"Perth Busport  Stand 4","Perth Busport",-31.950090,115.856856111111,FTZ
-0,137,27174,27174,"Perth Busport  Stand 5","Perth Busport",-31.95017777777780,115.857045,FTZ
-0,137,27175,27175,"Perth Busport  Stand 6","Perth Busport",-31.95026722222220,115.857235555556,FTZ
-0,137,27176,27176,"Perth Busport  Stand 7","Perth Busport",-31.95035333333330,115.857423888889,FTZ
-0,137,27177,27177,"Perth Busport  Stand 8","Perth Busport",-31.95044277777780,115.857614444444,FTZ
-0,137,27178,27178,"Perth Busport  Stand 9","Perth Busport",-31.95025055555560,115.857548888889,FTZ
-0,137,27179,27179,"Perth Busport  Stand 10","Perth Busport",-31.95016166666660,115.857359444444,FTZ
-0,137,27180,27180,"Perth Busport  Stand 11","Perth Busport",-31.95007388888890,115.857171111111,FTZ
-0,137,27181,27181,"Perth Busport  Stand 12","Perth Busport",-31.94998722222220,115.856980555556,FTZ
-0,137,27182,27182,"Perth Busport  Stand 13","Perth Busport",-31.94989888888890,115.856792222222,FTZ
-0,137,27183,27183,"Perth Busport  Stand 14","Perth Busport",-31.94981055555550,115.856602222222,FTZ
-0,137,27184,27184,"Perth Busport  Stand 15","Perth Busport",-31.94972333333330,115.856413333333,FTZ
-0,137,27185,27185,"Perth Busport  Stand 16","Perth Busport",-31.94963611111110,115.856223333333,FTZ
+0,137,27174,27174,"Perth Busport Stands 5-8","Perth Busport",-31.95017777777780,115.857045,FTZ
+0,137,27178,27178,"Perth Busport Stands 9-12","Perth Busport",-31.95025055555560,115.857548888889,FTZ
+0,137,27182,27182,"Perth Busport Stands 13-16","Perth Busport",-31.94989888888890,115.856792222222,FTZ
 0,,27187,27187,"Batman Rd After Warton Rd","Batman Rd / Warton Rd",-32.0882844436,115.9437237730,2
 0,,27188,27188,"Holmes St After Figbird Wy","",-32.0900856425,115.9451545970,2
 0,,27189,27189,"Holmes St Before Casablanca Av","",-32.0901740386,115.94523041,2
@@ -11819,6 +11806,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,141,27893,27893,"Nelson Av Set Down Stand","Matagarup Bridge",-31.95540777777780,115.883333333333,FTZ
 0,,27894,27894,"Gordon Rd After Mandurah Rd","",-32.51088944444440,115.745347777778,7
 0,,27895,27895,"Gordon Rd After Panton Rd","",-32.51106277777780,115.744892222222,7
+0,,27899,27899,"Berwick St After Canterbury Tce","",-31.98839555555550,115.899565,1
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce",-28.7734316666666990,114.612454444444,1
 0,,70003,70003,"Chapman Rd Before Mark St","",-28.76018222222220,114.615859444444,1
@@ -13360,7 +13348,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,74107,74107,"Clayton View Before Dension Link","",-33.30792166666670,115.738225555556,2
 0,,74108,74108,"Denison Link Before Surrey Link","",-33.30582888888890,115.739615555556,2
 0,,74109,74109,"Denison Link After Surrey Link","",-33.30597944444450,115.739645555556,2
-0,,74110,74110,"Brand Hwy Mt Adams Rd T/O","Mt Adams Rd Turnoff",-29.410015,115.012422222222,9
 0,,74111,74111,"Eaton Dr Before Jindalee Wy","",-33.29933333333330,115.730418333333,2
 0,,74112,74112,"Eaton Dr After Jindalee Wy","",-33.29896111111110,115.730392777778,2
 0,,74113,74113,"The Boulevard Bvd Before Golden Beryl Av","",-33.288940,115.739056666667,2
@@ -13755,7 +13742,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,95473,95473,"Transwa Bay   Manypeaks","Many Peaks",-34.83894388888890,118.171323888889,4
 0,,95474,95474,"Brand Hwy To Muchea Brand Hwy Temp","",-31.57982722222220,115.984292222222,5
 0,,95475,95475,"Brand Hwy From Muchea Brand Hwy Temp","",-31.58044166666670,115.977178888889,5
-0,,95476,95476,"Unnamed Rd Transwa Stadium","Transwa Stadium",-31.954105,115.890954444444,1
+0,,95476,95476,"Roger Mackay Dr Transwa Perth Stadium","Transwa Stadium",-31.95486333333330,115.891099444444,1
+0,,95477,95477,"Brand Hwy Mt Adams Rd T/O","Mt Adams Rd Turnoff",-29.410015,115.012422222222,9
 0,,95499,95499,"Perth Stn Transwa Rail Perth","Transwa Rail Perth",-31.951295,115.860132777778,1
 0,,95501,95501,"Transwa Bay East Perth Set-Down","East Perth Stn - Transwa",-31.94271722222220,115.876982222222,1
 0,56,99004,99004,"Perth Stn Platform 4","Perth Stn",-31.9512488888889020,115.86003888888899,FTZ
