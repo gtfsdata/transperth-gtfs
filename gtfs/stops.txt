@@ -1567,7 +1567,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11769,11769,"Berwick St Before Hill View Tce","",-31.9958195790,115.9076805350,1
 0,,11770,11770,"Berwick St Before Whittlesford St","",-31.99404111111110,115.905613888889,1
 0,,11771,11771,"Berwick St After Langler St","",-31.99264444444440,115.904154444444,1
-0,,11772,11772,"Berwick St After Willis St","",-31.9904544444443990,115.902090,1
+0,,11772,11772,"Berwick St After Willis St","",-31.99045444444440,115.902090,1
 0,,11773,11773,"Berwick St Before Kent St","",-31.98568277777780,115.896516111111,1
 0,,11774,11774,"Berwick St After Kent St","",-31.98471055555560,115.895392222222,1
 0,,11775,11775,"Berwick St After State St","",-31.9834634786,115.8939639070,1
@@ -1738,7 +1738,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11951,11951,"Bruce St Before Henley St","",-32.0048921365,115.8691488350,1
 0,,11952,11952,"Bruce St Como Snr High Sch","Como Secondary College",-32.00445111111110,115.869027222222,1
 0,,11953,11953,"Bruce St Before Bruce Cl","",-32.0020983120,115.8690422220,1
-0,,11954,11954,"Henley St After Canning Hwy","Henley St/Canning Hwy",-32.005665,115.860921666667,1
+0,,11954,11954,"Henley St After Canning Hwy","Henley St/Canning Hwy",-32.00566833333330,115.860501666667,1
 0,,11955,11955,"Henley St After Axford St","",-32.005745,115.868080,1
 0,,11956,11956,"Henley St After Henley St","",-32.0057407705,115.8734024130,1
 0,,11957,11957,"Henley St After Abjornson St","",-32.0058383520,115.8734031990,1
@@ -4906,7 +4906,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,16006,16006,"Illawarra Cr After Sunset Dr","Illawarra Cr / Alexander Dr",-31.8459548935,115.8809280430,2
 0,,16007,16007,"Marshall Rd After Energy St","",-31.8565542995,115.8982556120,2
 0,,16008,16008,"Marshall Rd Before Trade Rd","",-31.8555918338,115.8963691190,2
-0,,16009,16009,"Marshall Rd After Malaga Dr","",-31.8554662267,115.89682437,2
+0,,16009,16009,"Marshall Rd After Malaga Dr","",-31.85545166666670,115.896758888889,2
 0,,16010,16010,"Marshall Rd Before Bellefin Dr","",-31.8565169737,115.8985842920,2
 0,,16011,16011,"Crocker Dr After Victoria Rd","",-31.8602253312,115.8815438740,2
 0,,16012,16012,"Crocker Dr After Hunt St","",-31.8574802470,115.8821077210,2
@@ -7437,7 +7437,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,19209,19209,"Odin Rd Before Geneff St","",-31.8915587778,115.7974704870,2
 0,,19210,19210,"Odin Rd Before Kyarra St","Odin Rd / Cedric St",-31.8933782862,115.79673257,2
 0,,19211,19211,"Odin Rd After King George St","",-31.8981800754,115.7960533360,2
-0,,19212,19212,"Odin Rd After Cloates St","Odin Rd / Cloates St",-31.9003399443,115.7960177420,2
+0,,19212,19212,"Odin Rd After Cloates St","Odin Rd / Cloates St",-31.90013166666670,115.796006666667,2
 0,,19213,19213,"Odin Rd After Scarborough Beach Rd","",-31.9008268030,115.7957736770,2
 0,,19214,19214,"Odin Rd Before Minilya St","",-31.8966316383,115.79582270,2
 0,,19215,19215,"Odin Rd After Beatrice St","",-31.8932311565,115.7965419530,2
@@ -8235,8 +8235,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,20293,20293,"Lyndale Av Before Ropele Dr","",-32.0484124696,115.9087353080,2
 0,,20294,20294,"Lyndale Av After Blandfield Wy","",-32.0497832781,115.9108231010,2
 0,,20295,20295,"Lyndale Av Before Blandfield Wy","",-32.0498419473,115.9106556510,2
-0,,20297,20297,"Skinner St John Curtin College Of The Arts","John Curtin College Of The Arts",-32.04830611111110,115.756082222222,2
-0,,20297A,20297A,"Skinner St John Curtin College Of The Arts","John Curtin College Of The Arts",-32.04780888888890,115.755599444444,2
+0,,20297,20297,"Skinner St John Curtin College Of The Arts","John Curtin College Of The Arts",-32.04780888888890,115.755599444444,2
 0,,20303,20303,"Peter Hughes Dr Maritime Musuem","Maritime Museum",-32.0539716276,115.7405928550,2
 0,,20306,20306,"Coolbellup Av Before Camillo St","",-32.07549833333330,115.806108888889,2
 0,,20307,20307,"Coolbellup Av Before Emilia St","",-32.0778853273,115.8064034870,2
@@ -11592,8 +11591,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,138,27566,27566,"Aubin Grove Stn Stand 2","Aubin Grove Stn",-32.15564555555560,115.856001111111,3
 0,138,27567,27567,"Aubin Grove Stn Stand 3","Aubin Grove Stn",-32.15564444444440,115.855818333333,3
 0,138,27568,27568,"Aubin Grove Stn Stand 4","Aubin Grove Stn",-32.15564888888890,115.855610,3
-0,,27569,27569,"Burswood Rd After Teddington Rd","",-31.96729333333330,115.895460555556,1
-0,,27570,27570,"Burswood Rd After Leigh St","",-31.96416444444450,115.898598333333,1
 0,,27571,27571,"Laverton Cr Stand 1","",-32.128380,115.933208888889,3
 0,,27572,27572,"Laverton Cr Stand 2","Harrisdale Senior High School",-32.12804722222220,115.933362777778,3
 0,,27573,27573,"Sixty Eight Rd After Baldvis Rd","Sixty Eight Rd / Baldivis Rd",-32.36216333333330,115.827873888889,5
@@ -11792,7 +11789,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27874,27874,"Dampiera St After Lunata St","",-31.85793388888890,115.969157777778,2
 0,,27875,27875,"Dampiera St Before Lunata St","",-31.858210,115.969258333333,2
 0,,27876,27876,"Kennedia Ent After Litoria Pass","",-31.85957666666670,115.970936111111,2
-0,,27877,27877,"Kennedia Ent After Attenuata Way","",-31.85965888888890,115.970465555556,2
+0,,27877,27877,"Kennedia Ent After Attenuata Way","",-31.85965444444450,115.971379444444,2
 0,,27878,27878,"Arthur St Before Floribunda Gate","",-31.85892388888890,115.973448888889,2
 0,,27879,27879,"Arthur St After Floribunda Gate","",-31.85891444444450,115.973545,2
 0,,27880,27880,"Mansfield Av After Benfleet Dr","",-31.63540055555560,115.696389444444,5
@@ -11806,6 +11803,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,141,27893,27893,"Nelson Av Set Down Stand","Matagarup Bridge",-31.95540777777780,115.883333333333,FTZ
 0,,27894,27894,"Gordon Rd After Mandurah Rd","",-32.51088944444440,115.745347777778,7
 0,,27895,27895,"Gordon Rd After Panton Rd","",-32.51106277777780,115.744892222222,7
+0,,27897,27897,"Century Rd After Trade Rd","",-31.85709833333330,115.896931666667,2
 0,,27899,27899,"Berwick St After Canterbury Tce","",-31.98839555555550,115.899565,1
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce",-28.7734316666666990,114.612454444444,1
