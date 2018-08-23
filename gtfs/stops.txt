@@ -83,7 +83,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,112,10087,10087,"St Georges Tce Stand M (Before Howard St)","",-31.9552125491,115.8578022740,FTZ
 0,,10088,10088,"St Georges Tce Stand Nop (Before William St)","St Georges Tce / William St",-31.95492111111110,115.856921666667,FTZ
 0,116,10089,10089,"St Georges Tce Stand R (After William St)","St Georges Tce / Westralia Square",-31.9542253406,115.8547178230,FTZ
-0,116,10090,10090,"St Georges Tce Stand S (After William St)","St Georges Tce / Westralia Square",-31.9541603808,115.8545198460,FTZ
+0,116,10090,10090,"St Georges Tce Stand O S T (After William St)","St Georges Tce / Westralia Square",-31.9541603808,115.8545198460,FTZ
 0,,10091,10091,"St Georges Tce Mill St Green Cat 2","St Georges Tce / Mill St",-31.95338722222220,115.852168888889,FTZ
 0,,10092,10092,"St Georges Tce Milligan St Green Cat 3","",-31.9527714390,115.8501783610,FTZ
 0,,10093,10093,"Malcolm St Harvest Tce Green Cat 4","Malcolm St / Mitchell Fwy",-31.9530333467,115.8474694440,FTZ
@@ -114,9 +114,9 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,115,10119,10119,"St Georges Tce Stand B E (Before William St)","St Georges Tce / William St",-31.9543274288,115.85564404,FTZ
 0,115,10121,10121,"St Georges Tce Stand C (Before William St)","St Georges Tce / William St",-31.9544563244,115.8560381150,FTZ
 0,115,10122,10122,"St Georges Tce Stand D (Before William St)","St Georges Tce / William St",-31.9545594444443990,115.856338888889,FTZ
-0,113,10123,10123,"St Georges Tce Stand A-F (After William St)","",-31.9549776764,115.8576024810,FTZ
-0,113,10124,10124,"St Georges Tce Stand B C (After William St)","",-31.9550706285,115.8578859880,FTZ
-0,113,10126,10126,"St Georges Tce Stand D (After William St)","",-31.9551944971,115.8582818380,FTZ
+0,113,10123,10123,"St Georges Tce Stand A E F (After William St)","",-31.9549776764,115.8576024810,FTZ
+0,113,10124,10124,"St Georges Tce Stand C (After William St)","",-31.9550706285,115.8578859880,FTZ
+0,113,10126,10126,"St Georges Tce Stand B D (After William St)","",-31.9551944971,115.8582818380,FTZ
 0,104,10128,10128,"St Georges Tce Stand E - F (Before Pier St)","St Georges Tce / Irwin St",-31.9560538676,115.8609414410,FTZ
 0,104,10129,10129,"St Georges Tce Stand A (Before Pier St)","",-31.9561319601,115.8611805180,FTZ
 0,104,10130,10130,"St Georges Tce Stand B (Before Pier St)","",-31.9562182727,115.8614466430,FTZ
@@ -1526,7 +1526,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11726,11726,"Albany Hwy After Mint St","The Park Shop Ctr",-31.9837320470,115.9024163250,1
 0,,11727,11727,"Albany Hwy After Sussex St","",-31.98208166666670,115.901345555556,1
 0,,11728,11728,"Albany Hwy After Tuam St","Albany Hwy / Kent St",-31.9799468379,115.8999299420,1
-0,,11729,11729,"Albany Hwy After Rathay St","",-31.9776469168,115.8986414760,1
+0,,11729,11729,"Albany Hwy After Rathay St","Albany Hwy / Manchester St",-31.9776469168,115.8986414760,1
 0,,11730,11730,"Albany Hwy Before Mcmillan St","",-31.9753816666666990,115.89776444444399,1
 0,,11731,11731,"Albany Hwy After Leonard St","",-31.9733957520,115.8965348040,1
 0,,11732,11732,"Albany Hwy After Mcmaster St","",-31.9720697113,115.89482293,1
@@ -4537,7 +4537,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,15529,15529,"Lord St Before Youle-Dean Rd","",-31.8346184887,115.9653742880,2
 0,,15531,15531,"Lord St Before Park St","",-31.81377944444440,115.962325555556,3
 0,,15532,15532,"Lord St After Park St","",-31.8075485489,115.96309678,3
-0,,15533,15533,"Lord St Before Henley St","",-31.8041928227,115.9628928720,3
 0,,15534,15534,"Lord St After Barrambie Wy","",-31.7993388124,115.9627703050,3
 0,,15544,15544,"Access Rd Swan Christian College","Swan Christian College",-31.8591049118,116.0118552460,3
 0,,15546,15546,"Old Perth Rd After Whitfield St","Bassendean Village Shop Ctr",-31.9045239035,115.9532958650,2
@@ -13680,8 +13679,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,95376,95376,"Hampton Rd From Northampton","Northampton",-28.35117538647410,114.630738727851,6
 0,,95377,95377,"Hampton Rd To Northampton","Northampton",-28.3511651169724990,114.630829489257,6
 0,,95378,95378,"Transwa Bay New Norcia","New Norcia",-30.97306222222220,116.213050,9
-0,,95379,95379,"Transwa Bay Walebing","",-30.69836166666670,116.211554444444,9
-0,,95380,95380,"Transwa Bay Moora","Moora",-30.6403211111110990,116.009210,9
+0,,95379,95379,"Great Northern Hwy Walebing","",-30.69836166666670,116.211554444444,9
+0,,95380,95380,"Transwa Bay Moora","Moora",-30.64032111111110,116.009210,9
 0,,95381,95381,"Midlands Rd To Coomberdale","",-30.46381888888890,116.037703888889,9
 0,,95382,95382,"Midlands Rd From Coomberdale","",-30.46378611111110,116.037278333333,9
 0,,95383,95383,"George St From Watheroo","Watheroo",-30.2984911111111010,116.058560,9
