@@ -151,8 +151,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10159,10159,"Albany Hwy Before Mallard Wy","",-32.0128774864,115.9277038550,2
 0,,10160,10160,"Albany Hwy Before George Wy","",-32.0151004585,115.9291698720,2
 0,,10161,10161,"Albany Hwy Before Fletcher St","",-32.0169468834,115.9332085630,2
-0,,10162,10162,"Albany Hwy After Cecil Av","",-32.020710,115.937281111111,2
-0,,10163,10163,"Albany Hwy Before Liege St","Carousel Shop Ctr / Albany Hwy",-32.01889277777780,115.935748333333,2
+0,,10162,10162,"Albany Hwy Before Liege St","",-32.020710,115.937281111111,2
+0,,10163,10163,"Albany Hwy Before Liege St","Carousel Shop Ctr / Albany Hwy",-32.020920,115.937492222222,2
 0,,10164,10164,"Albany Hwy Before Station St","Carousel Shop Ctr / Liege St",-32.02343555555560,115.940082777778,2
 0,,10165,10165,"Albany Hwy After Station St","",-32.0257530094,115.9428894090,2
 0,,10166,10166,"Albany Hwy After Nicholson Rd","",-32.0269236293,115.9466657480,2
@@ -1520,7 +1520,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11720,11720,"Albany Hwy After Baillie Av","Albany Hwy / Oats St",-31.9915793383,115.9098382780,1
 0,,11721,11721,"Albany Hwy After Welshpool Rd","Albany Hwy / Alday St",-31.9934949514,115.9121655070,1
 0,,11722,11722,"Albany Hwy After Hill View Tce","Albany Hwy / Oats St",-31.9914708471,115.9094809020,1
-0,,11723,11723,"Albany Hwy After Patricia St","",-31.9904049808,115.9079181720,1
 0,,11724,11724,"Albany Hwy After Balmoral St","",-31.9887637123,115.9057382360,1
 0,,11725,11725,"Albany Hwy After Westminister St","",-31.9860488089,115.9039181960,1
 0,,11726,11726,"Albany Hwy After Mint St","The Park Shop Ctr",-31.9837320470,115.9024163250,1
@@ -8836,7 +8835,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,21080,21080,"Wentworth Pde Before Bartram Rd","",-32.1450276787,115.85683098,3
 0,,21081,21081,"Wentworth Pde After Dunalp Rd","",-32.1478119898,115.8559856710,3
 0,,21082,21082,"Wentworth Pde Before Dunlap Rd","",-32.1477434128,115.85581565,3
-0,,21083,21083,"Wentworth Pde After Bartram Rd","",-32.1449554449,115.8566536230,3
+0,,21083,21083,"Wentworth Pde After Bartram Rd","",-32.14457111111110,115.856648888889,3
 0,,21084,21084,"Wentworth Pde After Richmond Ent","",-32.1415717949,115.8565880470,3
 0,,21085,21085,"Wentworth Pde Before Gillen Wy","",-32.1399792796,115.8559960920,3
 0,,21086,21086,"Wentworth Pde After Pearson St","",-32.1358185271,115.8556783930,3
@@ -9210,6 +9209,10 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,21643,21643,"Peelwood Pde Before Boardwalk Bvd","",-32.5498217766,115.6870206530,8
 0,,21649,21649,"Glencoe Pde Before Peelwood Pde","Glencoe Pde / Peelwood Pde",-32.5472946082,115.7002982730,8
 0,,21650,21650,"Aberdeen Cl Glencoe Ps","Glencoe Primary School",-32.54311444444440,115.704698888889,8
+0,,21652,21652,"Hungerford Av After Glencoe Pde","",-32.5456719305,115.7018542350,8
+0,,21653,21653,"Hungerford Av Before Penola Wy","",-32.5449767989,115.7051458970,8
+0,,21654,21654,"Hungerford Av After Penola Wy","",-32.5440957026,115.7066231060,8
+0,,21655,21655,"Hungerford Av Before Mclarty Rd","Hungerford Av / Mclarty Rd",-32.5433608384,115.7075510370,8
 0,,21656,21656,"Hungerford Av After Mclarty Rd","Hungerford Av / Mclarty Rd",-32.5434483907,115.7075822790,8
 0,,21657,21657,"Hungerford Av Before Penola Wy","",-32.5443691403,115.7063822060,8
 0,,21658,21658,"Hungerford Av Before Balmoral Pde","",-32.5450855062,115.7051579930,8
@@ -10270,7 +10273,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,24322,24322,"Colchester Av After Middleham Bvd","",-32.2313218058,115.82915688,4
 0,,24323,24323,"Rockingham Busway After Genie Ct","",-32.2916231406,115.7557541410,5
 0,,24324,24324,"Rockingham Busway Before Genie Ct","",-32.2914985018,115.7558098690,5
-0,,24328,24328,"Wanliss St Before Rockingham Beach Rd","",-32.2730269248,115.7343700570,5
 0,,24329,24329,"Chalgrove Av Before Louise St","",-32.2831943188,115.74763004,5
 0,,24330,24330,"Chalgrove Av Before Whitfield St","",-32.2837018018,115.7474606510,5
 0,,24331,24331,"Contest Pde Rockingham City Council","",-32.2861095229,115.7475190850,5
@@ -10656,7 +10658,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26040,26040,"Casserly Dr After Rosemont Pl","",-32.0831568043,115.85960632,2
 0,,26041,26041,"Casserly Dr After Greencroft Gdns","",-32.0840977876,115.8560136020,2
 0,,26043,26043,"Casserly Dr Before Sierra Ch","",-32.0839504918,115.8533070490,2
-0,,26044,26044,"Casserly Dr After Shemmels Ct","",-32.0811697025,115.8522240610,2
+0,,26044,26044,"Casserly Dr After Shemels Ct","",-32.0811697025,115.8522240610,2
 0,,26045,26045,"Farrington Rd Before Aulberry Pde","",-32.0790350864,115.8544874020,2
 0,,26048,26048,"Hume Rd After Ciulligan Rd","",-32.05929777777780,115.960975555556,2
 0,,26049,26049,"Warnbro Sound Av Before Lark Hill Sporting Com","",-32.39375166666670,115.759342222222,6
@@ -11401,7 +11403,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27252,27252,"Safety Bay Rd Before Settlers Av ","Safety Bay Rd / Settlers Av",-32.3346980368,115.8148366120,5
 0,,27253,27253,"Heritage Park Dr After Furioso Dr","Heritage Park Dr / Gidran Rd",-32.3495656203,115.8298457480,5
 0,,27254,27254,"Bradford St After Alexander Dr","Edith Cowan University Mount Lawley",-31.92036611111110,115.865998333333,1
-0,,27257,27257,"May Dr Kings Park Shuttle Bus","Fraser Av / Kings Park",-31.95908277777780,115.839745,FTZ
+0,,27257,27257,"May Dr Kings Park Anzac Day Shuttle","Fraser Av / Kings Park",-31.95908277777780,115.839745,FTZ
 0,,27258,27258,"Albany Hwy Before Tonkin Hwy","",-32.0932063445,116.0130953260,3
 0,,27260,27260,"Mather Dr Mather Dr Carpark Shuttle","Mather Dr Carpark",-31.67978722222220,115.788967777778,4
 0,,27264,27264,"Progress Dr Ice Arena West","",-32.0994869844,115.8215295160,2
@@ -11635,6 +11637,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27629,27629,"Manning Rd Before Dumond St","",-32.01281277777780,115.907893333333,1
 0,,27630,27630,"Manning Rd Before Bungaree Rd","",-32.01318166666660,115.905428333333,1
 0,,27631,27631,"Manning Rd After Ellis St","",-32.013035,115.907654444444,1
+0,,27634,27634,"Mandurah Rd After Redwood Av","",-32.4477593496,115.7635853260,6
 0,,27637,27637,"Banksiadale Gte After Badgerup Av","Banksiadale Gte / Badgerup Av",-32.4690410085,115.7616678040,7
 0,,27639,27639,"Eucalyptus Dr After Cooli Street","",-32.1661314483,115.8465968790,3
 0,,27640,27640,"Eucalyptus Dr Before Cooli Street","",-32.16626611111110,115.846290,3
@@ -11794,6 +11797,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27883,27883,"Watsonia Rd After Ridge Hill Rd","",-31.94417166666660,116.032935555556,2
 0,,27884,27884,"Hale St Run For A Reason Shuttles","Hale St / Waca",-31.95950444444450,115.878315555556,FTZ
 0,,27885,27885,"Access Rd Lake Joondalup Baptist Coll","Lake Joondalup Baptist College",-31.73636555555560,115.761195,4
+0,,27887,27887,"Partridge St After Pennington Wy","Partridge St / Park St",-31.81481611111110,115.969015555556,3
+0,,27888,27888,"Partridge St After Blidersee Av","Partridge St / Park St",-31.81492388888890,115.969115555556,3
 0,,27889,27889,"Glencoe Pde After Tennyson Ave","",-32.545115,115.7017,8
 0,,27892,27892,"Bannister Rd Before Canvale Rd","",-32.06284722222220,115.925746666667,2
 0,141,27893,27893,"Nelson Av Set Down Stand","Matagarup Bridge",-31.95540777777780,115.883333333333,FTZ
@@ -11802,6 +11807,12 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27897,27897,"Century Rd After Trade Rd","",-31.85709833333330,115.896931666667,2
 0,,27899,27899,"Berwick St After Canterbury Tce","",-31.98839555555550,115.899565,1
 0,,27903,27903,"Willcock St After Grace St","",-32.02507722222220,115.930097777778,2
+0,,27906,27906,"Milldale Wy Milldale After Mirrabooka Ave","",-31.86773944444450,115.856598333333,2
+0,,27907,27907,"Milldale Wy Milldale After Chesterfield","",-31.86786611111110,115.856300555556,2
+0,,27908,27908,"Dandaragan Dr After Wickepin Pde","",-32.62796444444440,115.628902222222,9
+0,,27909,27909,"Dandaragan Dr Before Mukinbudin Wy","",-32.62821666666670,115.628945,9
+0,,27910,27910,"Dandaragan Dr After Bailey Bvd","",-32.63167444444450,115.629953333333,9
+0,,27911,27911,"Dandaragan Dr Before Anaconda Lp","",-32.63193944444450,115.629891111111,9
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce",-28.7734316666666990,114.612454444444,1
 0,,70003,70003,"Chapman Rd Before Mark St","",-28.76018222222220,114.615859444444,1
@@ -13453,7 +13464,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,95140,95140,"Hampton St To Bridgetown","Bridgetown",-33.95654722222220,116.137003333333,4
 0,,95141,95141,"South Western Hwy From Yornup","Yornup",-34.0551094444443980,116.169707777778,3
 0,,95142,95142,"South Western Hwy To Yornup","Yornup",-34.0551272222221970,116.169510,3
-0,,95143,95143,"Transwa Bay Gnowangerup","Gnowangerup",-33.9342266666667030,118.00561166666699,9
+0,,95143,95143,"Yougenup Rd Gnowangerup","Gnowangerup",-33.93422666666670,118.005611666667,9
 0,,95144,95144,"South Western Hwy From Palgarup","Palgarup",-34.1635016666666970,116.183992777778,2
 0,,95145,95145,"South Western Hwy To Palgarup","Palgarup",-34.1633911111111030,116.18366111111099,2
 0,,95146,95146,"Transwa Bay Broomehill","Broomehill",-33.8443538888888970,117.639532222222,9
@@ -13470,8 +13481,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,95157,95157,"Old Coast Rd To Falcon","Falcon",-32.5812672222222020,115.661750,8
 0,,95158,95158,"Forrest St From Boyup Brook","Boyup Brook",-33.83355277777780,116.388862222222,6
 0,,95159,95159,"Donnybrook-Boyup Brook Rd To Wilga T/O","Wilga",-33.6915150000000030,116.27214555555599,5
-0,,95160,95160,"Transwa Bay Mumballup","Mumballup",-33.528475,116.11452277777801,3
-0,,95161,95161,"Transwa Bay Collie","Collie",-33.3604105555556030,116.15482222222199,1
+0,,95160,95160,"Transwa Bay Mumballup","Mumballup",-33.528475,116.114522777778,3
+0,,95161,95161,"Transwa Bay Collie","Collie",-33.36041055555560,116.154822222222,1
 0,,95162,95162,"Coalfields Rd From Allanson","Allanson",-33.33744722222220,116.097887777778,1
 0,,95163,95163,"Coalfields Rd To Allanson","Allanson",-33.337505,116.097826111111,1
 0,,95165,95165,"Great Eastern Hwy From Mundaring","Mundaring",-31.9016372222221990,116.164461111111,4
@@ -13621,12 +13632,12 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,95316,95316,"Albany Hwy To Tenterden","Tenterden",-34.3705961111110980,117.54794222222201,9
 0,,95317,95317,"Albany Hwy From Tenterden","Tenterden",-34.3705488888888980,117.548061111111,9
 0,,95318,95318,"Albany Hwy To Kendenup T/O","Kendenup T/O",-34.49004444444440,117.581970555556,7
-0,,95319,95319,"Albany Hwy From Kendenup T/O","Kendenup T/O",-34.4900527777777980,117.582475555556,7
+0,,95319,95319,"Albany Hwy From Kendenup T/O","Kendenup T/O",-34.49005277777780,117.582475555556,7
 0,,95320,95320,"Transwa Bay Mt Barker","Mt Barker",-34.6270844444443990,117.663396111111,6
-0,,95321,95321,"Albany Hwy To Narrikup T/O","",-34.77574055555560,117.710586666667,4
-0,,95322,95322,"Albany Hwy From Narrikup T/O","",-34.77573555555560,117.711245,4
-0,,95323,95323,"Albany Hwy To Redmond T/O","",-34.894410,117.780871666667,3
-0,,95324,95324,"Albany Hwy From Redmond T/O","",-34.89444833333330,117.781122777778,3
+0,,95321,95321,"Albany Hwy To Narrikup T/O","Narrikup T/O",-34.77574055555560,117.710586666667,4
+0,,95322,95322,"Albany Hwy From Narrikup T/O","Narrikup T/O",-34.77573555555560,117.711245,4
+0,,95323,95323,"Albany Hwy To Redmond T/O","Redmond T/O",-34.894410,117.780871666667,3
+0,,95324,95324,"Albany Hwy From Redmond T/O","Redmond T/O",-34.89444833333330,117.781122777778,3
 0,,95325,95325,"Transwa Bay Tambellup","Tambellup",-34.0440516666666970,117.640997777778,9
 0,,95326,95326,"Cornwall St Katanning Roadhouse","Katanning Roadhouse",-33.70112741755920,117.560727598798,9
 0,,95327,95327,"Transwa Bay Northam","Northam",-31.6491221471682990,116.67577225937301,9
@@ -13679,7 +13690,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,95376,95376,"Hampton Rd From Northampton","Northampton",-28.35117538647410,114.630738727851,6
 0,,95377,95377,"Hampton Rd To Northampton","Northampton",-28.3511651169724990,114.630829489257,6
 0,,95378,95378,"Transwa Bay New Norcia","New Norcia",-30.97306222222220,116.213050,9
-0,,95379,95379,"Great Northern Hwy Walebing","",-30.69836166666670,116.211554444444,9
+0,,95379,95379,"Great Northern Hwy Walebing","Walebing",-30.69836166666670,116.211554444444,9
 0,,95380,95380,"Transwa Bay Moora","Moora",-30.64032111111110,116.009210,9
 0,,95381,95381,"Midlands Rd To Coomberdale","",-30.46381888888890,116.037703888889,9
 0,,95382,95382,"Midlands Rd From Coomberdale","",-30.46378611111110,116.037278333333,9
@@ -13739,6 +13750,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,95475,95475,"Brand Hwy From Muchea Brand Hwy Temp","",-31.58044166666670,115.977178888889,5
 0,,95476,95476,"Roger Mackay Dr Transwa Perth Stadium","Transwa Stadium",-31.95486333333330,115.891099444444,1
 0,,95477,95477,"Brand Hwy Mt Adams Rd T/O","Mt Adams Rd Turnoff",-29.410015,115.012422222222,9
+0,,95488,95488,"Unnamed Rd Brunswick Junction","Brunswick Junction",-33.25773166666660,115.838147777778,3
 0,,95499,95499,"Perth Stn Transwa Rail Perth","Transwa Rail Perth",-31.951295,115.860132777778,1
 0,,95501,95501,"Transwa Bay East Perth Set-Down","East Perth Stn - Transwa",-31.94271722222220,115.876982222222,1
 0,56,99004,99004,"Perth Stn Platform 4","Perth Stn",-31.9512488888889020,115.86003888888899,FTZ
