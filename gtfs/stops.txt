@@ -10776,7 +10776,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26198,26198,"Templetonia Cr After Kalari Dr","",-31.9341493730,115.7640193120,2
 0,,26199,26199,"Templetonia Cr After Marapana Rd","",-31.9342031298,115.7637723790,2
 0,,26200,26200,"Marapana Rd Before Marimba Cr","",-31.9382266254,115.7659743290,2
-0,,26201,26201,"Wellington St Before Forrest Pl","Wellington St / Forrest Pl",-31.95146666666660,115.858554444444,FTZ
+0,,26201,26201,"Wellington St Before William St","Wellington St / Forrest Pl",-31.95146666666660,115.858554444444,FTZ
 0,,26202,26202,"Pemberton Bvd After Jitarning Br","",-32.3210398659,115.8143581650,5
 0,,26203,26203,"Birdsville Dr Before Hundle Rd","",-32.3230590433,115.8163821480,5
 0,,26207,26207,"Heritage Park Dr After Correa Wy","",-32.3428646010,115.82973774,5
@@ -11768,10 +11768,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27844,27844,"Partridge St After Kasanka Av","",-31.82262388888890,115.969013888889,3
 0,,27845,27845,"Partridge St After Balboa Prom","",-31.81980222222220,115.968981666667,3
 0,,27846,27846,"Partridge St After Livonia St","",-31.81620777777780,115.969017222222,3
-0,,27847,27847,"Partridge St Before Park St","Partridge St / Park St",-31.814075,115.969003333333,3
-0,,27848,27848,"Park St Before Fairmount Bvd","",-31.81341388888890,115.964540555556,3
-0,,27849,27849,"Park St After Lord St","",-31.81332611111110,115.964225,3
-0,,27850,27850,"Partridge St After Park St","Partridge St / Park St",-31.81399444444450,115.969121111111,3
 0,,27851,27851,"Partridge St After Heisler Bvd","",-31.81630166666670,115.969119444444,3
 0,,27852,27852,"Partridge St After Tiergarten Rd","",-31.81989555555550,115.969176111111,3
 0,,27853,27853,"Partridge St After Dodgers St","",-31.82281555555560,115.969183888889,3
@@ -11799,7 +11795,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27885,27885,"Access Rd Lake Joondalup Baptist Coll","Lake Joondalup Baptist College",-31.73636555555560,115.761195,4
 0,,27887,27887,"Partridge St After Pennington Wy","Partridge St / Park St",-31.81481611111110,115.969015555556,3
 0,,27888,27888,"Partridge St After Blidersee Av","Partridge St / Park St",-31.81492388888890,115.969115555556,3
-0,,27889,27889,"Glencoe Pde After Tennyson Ave","",-32.545115,115.7017,8
 0,,27892,27892,"Bannister Rd Before Canvale Rd","",-32.06284722222220,115.925746666667,2
 0,141,27893,27893,"Nelson Av Set Down Stand","Matagarup Bridge",-31.95540777777780,115.883333333333,FTZ
 0,,27894,27894,"Gordon Rd After Mandurah Rd","",-32.51088944444440,115.745347777778,7
