@@ -151,7 +151,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10159,10159,"Albany Hwy Before Mallard Wy","",-32.0128774864,115.9277038550,2
 0,,10160,10160,"Albany Hwy Before George Wy","",-32.0151004585,115.9291698720,2
 0,,10161,10161,"Albany Hwy Before Fletcher St","",-32.0169468834,115.9332085630,2
-0,,10162,10162,"Albany Hwy Before Liege St","",-32.020710,115.937281111111,2
+0,,10162,10162,"Albany Hwy Before Liege St","Carousel Shop Ctr / Albany Hwy",-32.020710,115.937281111111,2
 0,,10163,10163,"Albany Hwy Before Liege St","Carousel Shop Ctr / Albany Hwy",-32.020920,115.937492222222,2
 0,,10164,10164,"Albany Hwy Before Station St","Carousel Shop Ctr / Liege St",-32.02343555555560,115.940082777778,2
 0,,10165,10165,"Albany Hwy After Station St","",-32.0257530094,115.9428894090,2
@@ -10304,7 +10304,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,129,24973,24973,"Bluestone Pwy Comet Bay College Stand 2","Comet Bay College",-32.4142415396,115.7626783850,6
 0,129,24974,24974,"Bluestone Pwy Comet Bay College Stand 3","Comet Bay College",-32.4142733640,115.7629315450,6
 0,,24975,24975,"Bluestone Pwy Comet Bay College Stand 4","Comet Bay College",-32.4142569499,115.7632124090,6
-0,,24992,24992,"Helena Valley Rd After Scott St","Helena Valley Rd / Ridge Hill Rd",-31.9230022285,116.0473121140,3
+0,,24992,24992,"Helena Valley Rd After Scott St","Helena Valley Rd / Ridge Hill Rd",-31.92307722222220,116.047403333333,3
 0,,24993,24993,"School Rd Penrhos College","Penrhos College",-31.9963908916,115.8713711540,1
 0,,24994,24994,"Bruce St After Bruce Cl","Como Secondary College",-32.0021848887,115.86917303,1
 0,,25008,25008,"Sparks Rd Before Quill Wy","",-32.1579067164,115.7771408630,3
@@ -12175,7 +12175,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,70623,70623,"Bussell Hwy After Bell Dr","Bussell Hwy / Armstrong Rd",-33.66025722222220,115.283824444444,1
 0,,70624,70624,"Bussell Hwy Before Armstrong Rd","Bussell Hwy / Armstrong Rd",-33.66008166666670,115.283712222222,1
 0,,70625,70625,"Bussell Hwy After Barnard Rd","",-33.6597411111111030,115.291809444444,1
-0,,70626,70626,"Broadwater Bvd Before Bussell Hwy","Broadwater Bvd / Bussell Hwy",-33.66009277777780,115.293073333333,1
+0,,70626,70626,"Broadwater Bvd Before Bussell Hwy","Broadwater Bvd / Bussell Hwy",-33.66082333333330,115.293125555556,1
 0,,70627,70627,"Melaleuca Dr After Fairway Dr","",-33.665680,115.318213333333,1
 0,,70628,70628,"Melaleuca Dr After Bottlebrush Gdns","",-33.66547222222220,115.3195,1
 0,,70629,70629,"Bussell Hwy After Mill Rd","",-33.65590111111110,115.321950555556,1
@@ -12621,7 +12621,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,71978,71978,"Old Coast Rd Before Australind Bypa","",-33.32446833333330,115.69711055555599,1
 0,,71979,71979,"Forrest Hwy After Alyxia Dr","",-33.33351777777780,115.688053888889,1
 0,,71980,71980,"Forrest Hwy After Vittoria Rd","",-33.33630111111110,115.677651111111,1
-0,,71981,71981,"Forrest Hwy Before Moorland Av","",-33.33635388888890,115.672919444444,1
+0,,71981,71981,"Forrest Hwy Before Moorland Av","",-33.33633833333330,115.671970,1
 0,,71982,71982,"Old Coast Rd After Venezia Bvd","Old Coast Rd / Venezia Bvd",-33.31187666666670,115.695672222222,1
 0,,71983,71983,"Old Coast Rd After Pratt Rd","Old Coast Rd / Pratt Rd",-33.31143055555560,115.696132777778,1
 0,,71986,71986,"Beach Rd After Jarrah St","",-33.33647055555550,115.633847777778,1
@@ -13685,7 +13685,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,95376,95376,"Hampton Rd From Northampton","Northampton",-28.35117538647410,114.630738727851,6
 0,,95377,95377,"Hampton Rd To Northampton","Northampton",-28.3511651169724990,114.630829489257,6
 0,,95378,95378,"Transwa Bay New Norcia","New Norcia",-30.97306222222220,116.213050,9
-0,,95379,95379,"Great Northern Hwy Walebing","Walebing",-30.69836166666670,116.211554444444,9
+0,,95379,95379,"Transwa Bay Walebing","Walebing",-30.69832277777780,116.211890555556,9
 0,,95380,95380,"Transwa Bay Moora","Moora",-30.64032111111110,116.009210,9
 0,,95381,95381,"Midlands Rd To Coomberdale","",-30.46381888888890,116.037703888889,9
 0,,95382,95382,"Midlands Rd From Coomberdale","",-30.46378611111110,116.037278333333,9
