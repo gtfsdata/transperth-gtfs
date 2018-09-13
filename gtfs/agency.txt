@@ -8,7 +8,6 @@ NIC-NAR,TransNarrogin,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServic
 PAT-CIR,Transperth,http://www.transperth.wa.gov.au,Australia/Perth,en
 PAT-KAL,Transperth,http://www.transperth.wa.gov.au,Australia/Perth,en
 PAT-MOR,Transperth,http://www.transperth.wa.gov.au,Australia/Perth,en
-PAT-RRP,Transperth,http://www.transperth.wa.gov.au,Australia/Perth,en
 PHN-PTH,TransHedland,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
 PTB-PTB,TransBroome,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
 PTR-KGL,TransGoldfields,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
@@ -29,7 +28,6 @@ SWA-CLA,Transperth,http://www.transperth.wa.gov.au,Australia/Perth,en
 SWA-MAR,Transperth,http://www.transperth.wa.gov.au,Australia/Perth,en
 SWA-MID,Transperth,http://www.transperth.wa.gov.au,Australia/Perth,en
 SWA-MSH,Transperth,http://www.transperth.wa.gov.au,Australia/Perth,en
-SWA-RRP,Transperth,http://www.transperth.wa.gov.au,Australia/Perth,en
 SWA-SRI,Transperth,http://www.transperth.wa.gov.au,Australia/Perth,en
 TRA-TRA,Transwa,http://www.transwa.wa.gov.au,Australia/Perth,en
 TRI-KUN,2K Tours,http://www.pta.wa.gov.au/OurServices/RegionalTownBusServices/tabid/62/Default.aspx,Australia/Perth,en
