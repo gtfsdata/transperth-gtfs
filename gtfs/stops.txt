@@ -578,7 +578,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10650,10650,"Rockingham Rd Before Packham Rd","",-32.0886913833,115.78137420,2
 0,,10651,10651,"Rockingham Rd Before Carrington St","Rockingham Rd / Carrington St",-32.0868178245,115.7778565530,2
 0,,10652,10652,"Rockingham Rd After Hamilton Rd","Rockingham Rd / Carrington St",-32.0850207477,115.7753597640,2
-0,,10653,10653,"Rockingham Rd After Strode Av","",-32.08352277777780,115.772305,2
+0,,10653,10653,"Rockingham Rd After Strode Av","",-32.08358055555560,115.772432777778,2
 0,,10654,10654,"Rockingham Rd - Hamilton Hill Shopping Ctr","",-32.0820367639,115.7690628570,2
 0,,10655,10655,"Rockingham Rd Before Davilak Av","",-32.0809761607,115.7668687720,2
 0,,10656,10656,"Rockingham Rd Before Healy Rd","",-32.07877555555560,115.762347222222,2
@@ -827,7 +827,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10923,10923,"Watkins St Before Yalgoo Av","",-32.0595843290,115.7724060950,2
 0,,10924,10924,"Watkins St After Newbold St","",-32.0595853509,115.7741234690,2
 0,,10925,10925,"Watkins St After Wongan Av","",-32.0595689175,115.7760438920,2
-0,,10926,10926,"Watkins St Before Carrington St","Watkins St / Carrington St",-32.0595246426,115.7790130870,2
+0,,10926,10926,"Watkins St Before Carrington St","Watkins St / Carrington St",-32.05952444444440,115.779013333333,2
 0,,10927,10927,"Watkins St After Carrington St","Watkins St / Carrington St",-32.0596525143,115.7787669370,2
 0,,10928,10928,"Watkins St After Minilya Av","",-32.0596853557,115.7761508070,2
 0,,10929,10929,"Watkins St After Newbold St","",-32.0597304703,115.7734459010,2
@@ -1520,6 +1520,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11720,11720,"Albany Hwy After Baillie Av","Albany Hwy / Oats St",-31.9915793383,115.9098382780,1
 0,,11721,11721,"Albany Hwy After Welshpool Rd","Albany Hwy / Alday St",-31.9934949514,115.9121655070,1
 0,,11722,11722,"Albany Hwy After Hill View Tce","Albany Hwy / Oats St",-31.9914708471,115.9094809020,1
+0,,11723,11723,"Albany Hwy After Patricia St","",-31.9904049808,115.9079181720,1
 0,,11724,11724,"Albany Hwy After Balmoral St","",-31.9887637123,115.9057382360,1
 0,,11725,11725,"Albany Hwy After Westminister St","",-31.9860488089,115.9039181960,1
 0,,11726,11726,"Albany Hwy After Mint St","The Park Shop Ctr",-31.9837320470,115.9024163250,1
@@ -2172,7 +2173,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12505,12505,"Mirrabooka Av After Marangaroo Dr","",-31.8366116084,115.8547531810,2
 0,,12506,12506,"Mirrabooka Av Before Edgington Cr","",-31.8385906001,115.8547532960,2
 0,,12507,12507,"Mirrabooka Av After Koondoola Av","",-31.8431952873,115.8554545420,2
-0,,12508,12508,"Mirrabooka Av - Mercy College  ","Mercy College",-31.84702722222220,115.855478333333,2
+0,,12508,12508,"Mirrabooka Av Mercy College  ","Mercy College",-31.84702722222220,115.855478333333,2
 0,,12509,12509,"Mirrabooka Av After Beach Rd","",-31.8511879617,115.8553464580,2
 0,,12510,12510,"Mirrabooka Av Before Heathcroft Rd","",-31.8534149250,115.85532299,2
 0,,12511,12511,"Mirrabooka Av Before Mildmay St","",-31.8563017960,115.8553014380,2
@@ -5953,7 +5954,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,17393,17393,"Hampden Rd After Broadway","Hampden Rd / Stirling Hwy",-31.97598722222220,115.813499444444,1
 0,,17394,17394,"Hampden Rd After Park Rd","",-31.9739221418,115.8133753450,1
 0,,17395,17395,"Hampden Rd Before Micrantha L","Hampden Rd / Monash Av",-31.9711466948,115.81338017,1
-0,,17396,17396,"Thomas St After Kings Park Rd","",-31.9523015196,115.8317868370,1
+0,,17396,17396,"Thomas St After Kings Park Rd","",-31.95230166666660,115.831786666667,1
 0,,17397,17397,"Thomas St After Hamersley Rd","",-31.9541471746,115.8296573390,1
 0,,17398,17398,"Thomas St Before Nicholson Rd","",-31.9566009292,115.8267948480,1
 0,,17399,17399,"Thomas St After Saw Av","",-31.9593706136,115.8235715320,1
@@ -9574,6 +9575,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,22668,22668,"Milina St After Palamuna Ct","",-32.2847160533,115.7684825120,5
 0,,22669,22669,"Darile St After Milna St","",-32.2824920512,115.7696367640,5
 0,,22674,22674,"School Rd Stand 4","Mater Dei College",-31.7635778769,115.7759289280,3
+0,,22677,22677,"School Rd Belridge College Stand 1","Belridge Secondary College",-31.7711340440,115.7644327030,3
 0,,22688,22688,"Access Rd Frederick Irwin School","Frederick Irwin Anglican Sch",-32.50864109,115.7519338140,7
 0,,22689,22689,"Access Rd Frederick Irwin School","Frederick Irwin Anglican Sch",-32.5085587391,115.7520343490,7
 0,,22690,22690,"Mandurah Rd After Catalina Dr","",-32.4774607154,115.7576397890,7
