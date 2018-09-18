@@ -10231,7 +10231,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,24258,24258,"Camden Wy After Caslano Rd","",-32.4985826570,115.7543880850,7
 0,,24259,24259,"Gordon Rd After Thornborough Rd","",-32.5108462986,115.7541046390,7
 0,,24260,24260,"Gordon Rd Before Thornborough Rd","",-32.5110101082,115.7534371280,7
-0,,24261,24261,"Pinjarra Rd After Parkview St","",-32.53611166666670,115.737638888889,7
 0,,24262,24262,"Allnutt St Before Dower St","",-32.5276394240,115.7416887160,7
 0,,24266,24266,"Allnutt St After Dower St","",-32.5274122704,115.74175793,7
 0,,24267,24267,"Karinga Rd Before Hestia Wy","",-32.4875176785,115.74901918,7
@@ -10283,7 +10282,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,24337,24337,"Sulphur Rd After Orelia Av","",-32.24016444444440,115.820964444444,4
 0,,24338,24338,"Sulphur Rd After Tanson Rd","",-32.2402185844,115.8207387170,4
 0,,24339,24339,"Sulphur Rd After Oreilia Av","",-32.2399538746,115.8180272040,4
-0,,24341,24341,"Pinjarra Rd After Dower St","",-32.5362151455,115.7374111130,7
 0,,24343,24343,"Bluestone Pwy After Miltona Dr","",-32.4093985224,115.76899477,6
 0,,24344,24344,"Secret Harbour Bvd After Vilado Porto Dr","",-32.39809222222220,115.745934444444,6
 0,,24345,24345,"Longreach Pde After Fairbairn Rd","",-32.1230537272,115.77311006,3
