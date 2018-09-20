@@ -10231,6 +10231,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,24258,24258,"Camden Wy After Caslano Rd","",-32.4985826570,115.7543880850,7
 0,,24259,24259,"Gordon Rd After Thornborough Rd","",-32.5108462986,115.7541046390,7
 0,,24260,24260,"Gordon Rd Before Thornborough Rd","",-32.5110101082,115.7534371280,7
+0,,24261,24261,"Pinjarra Rd After Parkview St","",-32.53611166666670,115.737638888889,7
 0,,24262,24262,"Allnutt St Before Dower St","",-32.5276394240,115.7416887160,7
 0,,24266,24266,"Allnutt St After Dower St","",-32.5274122704,115.74175793,7
 0,,24267,24267,"Karinga Rd Before Hestia Wy","",-32.4875176785,115.74901918,7
@@ -10282,6 +10283,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,24337,24337,"Sulphur Rd After Orelia Av","",-32.24016444444440,115.820964444444,4
 0,,24338,24338,"Sulphur Rd After Tanson Rd","",-32.2402185844,115.8207387170,4
 0,,24339,24339,"Sulphur Rd After Oreilia Av","",-32.2399538746,115.8180272040,4
+0,,24341,24341,"Pinjarra Rd After Dower St","",-32.5362151455,115.7374111130,7
 0,,24343,24343,"Bluestone Pwy After Miltona Dr","",-32.4093985224,115.76899477,6
 0,,24344,24344,"Secret Harbour Bvd After Vilado Porto Dr","",-32.39809222222220,115.745934444444,6
 0,,24345,24345,"Longreach Pde After Fairbairn Rd","",-32.1230537272,115.77311006,3
@@ -11805,6 +11807,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27909,27909,"Dandaragan Dr Before Mukinbudin Wy","",-32.62821666666670,115.628945,9
 0,,27910,27910,"Dandaragan Dr After Bailey Bvd","",-32.63167444444450,115.629953333333,9
 0,,27911,27911,"Dandaragan Dr Before Anaconda Lp","",-32.63193944444450,115.629891111111,9
+0,,27914,27914,"Murdoch Dr Before Farrington Rd","",-32.0788470256,115.8426327780,2
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce",-28.7734316666666990,114.612454444444,1
 0,,70003,70003,"Chapman Rd Before Mark St","",-28.76018222222220,114.615859444444,1
