@@ -5854,13 +5854,13 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,17286,17286,"Warnbro Sound Av Before Secret Harbour Bvd","",-32.3968775722,115.7594125870,6
 0,,17287,17287,"Warnbro Sound Av Before Blackburn Dr","Warnbro Sound Av / Port Kennedy Dr",-32.37115722222220,115.754885,6
 0,,17289,17289,"Warnbro Sound Av After Endeavour Dr","",-32.36742666666670,115.755651666667,6
-0,,17290,17290,"Warnbro Sound Av After Clipper Dr","Warnbro Sound Av / Clipper Dr",-32.3649529687,115.7571645580,6
+0,,17290,17290,"Warnbro Sound Av After Clipper Dr","Warnbro Sound Av / Clipper Dr",-32.36495277777780,115.757164444444,6
 0,,17291,17291,"Warnbro Sound Av Before Bakewell Dr","",-32.3634157959,115.75837844,6
 0,,17292,17292,"Warnbro Sound Av After Bakewell Dr","",-32.36076888888890,115.760462222222,5
 0,,17293,17293,"Warnbro Sound Av After Grand Ocean Bvd","",-32.35681666666660,115.762010555556,5
 0,,17294,17294,"Warnbro Sound Av Before Pamplona Bvd","",-32.3542879616,115.7620729150,5
 0,,17295,17295,"Warnbro Sound Av After Chelmsford Av","",-32.35166888888890,115.761690555556,5
-0,,17296,17296,"Warnbro Sound Av Before Halliburton Av","Warnbro Fair Shops",-32.3492499408,115.7613158240,5
+0,,17296,17296,"Warnbro Sound Av Before Halliburton Av","Warnbro Fair Shops",-32.349250,115.761315555556,5
 0,,17297,17297,"Warnbro Sound Av Before Palm Springs Bvd","",-32.34440055555560,115.760512222222,5
 0,,17298,17298,"Warnbro Sound Av Before Holcombe Rd","",-32.34149166666670,115.760166666667,5
 0,,17299,17299,"Warnbro Sound Av After Monkton Wy","",-32.3378198506,115.7595796450,5
@@ -8188,8 +8188,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,20243,20243,"Metcalfe Rd After Fleetwood Rd","Metcalfe Rd / Fleetwood Rd",-32.0321691081,115.9299531450,2
 0,,20244,20244,"Metcalfe Rd Before Clovelly Cr","",-32.0314881776,115.9322279930,2
 0,,20245,20245,"Metcalfe Rd After Bridgeway Av","",-32.0316871956,115.9354402930,2
-0,,20246,20246,"Bridgeway Av After Eastfield Ct","",-32.0301019778,115.9351747370,2
-0,,20247,20247,"Bridgeway Av Before Eastfield Ct","",-32.0300504125,115.9353128590,2
 0,,20248,20248,"Grace St After Nields St","",-32.0277412778,115.9339113410,2
 0,,20249,20249,"Grace St Before Gurnard Rd","",-32.0261506961,115.9320634290,2
 0,,20251,20251,"Grace St Before Camsell Wy","",-32.02631222222220,115.932408888889,2
@@ -8302,7 +8300,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,20386,20386,"Parkway Rd Before Mallard Av","",-32.0881224725,115.8406753430,2
 0,,20387,20387,"Parkway Rd Before Ingvarson Wy","Parkway Rd / Ingvarson Wy",-32.0877585305,115.8373535070,2
 0,,20388,20388,"Farrington Rd Before Murdoch Dr","",-32.0796399235,115.8415344330,2
-0,,20389,20389,"Farrington Rd After Murdoch Dr","",-32.0798726249,115.8400528330,2
 0,,20390,20390,"Farrington Rd Before Grover Ct","Farrington Rd / Karel Av",-32.0796274988,115.8639869920,2
 0,,20391,20391,"Farrington Rd After Grover Ct","",-32.0796450489,115.8621765530,2
 0,,20392,20392,"Farrington Rd After Findlay Rd","",-32.0796066399,115.8574349980,2
