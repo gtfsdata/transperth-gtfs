@@ -82,8 +82,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,112,10086,10086,"St Georges Tce Stand T (After Sherwood Ct)","",-31.9552750592,115.8580024830,FTZ
 0,112,10087,10087,"St Georges Tce Stand M (Before Howard St)","",-31.9552125491,115.8578022740,FTZ
 0,,10088,10088,"St Georges Tce Stand Nop (Before William St)","St Georges Tce / William St",-31.95492111111110,115.856921666667,FTZ
-0,116,10089,10089,"St Georges Tce Stand R (After William St)","St Georges Tce / Westralia Square",-31.9542253406,115.8547178230,FTZ
-0,116,10090,10090,"St Georges Tce Stand S (After William St)","St Georges Tce / Westralia Square",-31.9541603808,115.8545198460,FTZ
+0,116,10089,10089,"St Georges Tce Stand R (After William St)","St Georges Tce / Westralia Square",-31.9542253406,115.8547178230,1
+0,116,10090,10090,"St Georges Tce Stand Ost (After William St)","St Georges Tce / Westralia Square",-31.9541603808,115.8545198460,FTZ
 0,,10091,10091,"St Georges Tce Mill St Green Cat 2","St Georges Tce / Mill St",-31.95338722222220,115.852168888889,FTZ
 0,,10092,10092,"St Georges Tce Milligan St Green Cat 3","",-31.9527714390,115.8501783610,FTZ
 0,,10093,10093,"Malcolm St Harvest Tce Green Cat 4","Malcolm St / Mitchell Fwy",-31.9530333467,115.8474694440,FTZ
@@ -91,7 +91,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10095,10095,"Kings Park Rd Before Colin St","",-31.95292777777780,115.840434444444,FTZ
 0,,10096,10096,"Kings Park Rd Before Outram St","",-31.9522207021,115.8382645760,FTZ
 0,,10097,10097,"Kings Park Rd Before Walker Av","",-31.951595,115.836353333333,FTZ
-0,,10098,10098,"Kings Park Rd Before Thomas St","Kings Park Rd / Thomas St",-31.9510064245,115.8345504150,FTZ
+0,,10098,10098,"Kings Park Rd Before Thomas St","Kings Park Rd / Thomas St",-31.9510064245,115.8345504150,1
 0,,10099,10099,"Bagot Rd Before Bedford Av","",-31.9505486381,115.8315599820,1
 0,,10100,10100,"Bagot Rd Before Townshend Rd","",-31.950505,115.828883333333,1
 0,,10101,10101,"Bagot Rd Before Denis St","",-31.9504647817,115.8222407910,1
@@ -114,9 +114,9 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,115,10119,10119,"St Georges Tce Stand B E (Before William St)","St Georges Tce / William St",-31.9543274288,115.85564404,FTZ
 0,115,10121,10121,"St Georges Tce Stand C (Before William St)","St Georges Tce / William St",-31.9544563244,115.8560381150,FTZ
 0,115,10122,10122,"St Georges Tce Stand D (Before William St)","St Georges Tce / William St",-31.9545594444443990,115.856338888889,FTZ
-0,113,10123,10123,"St Georges Tce Stand A-F (After William St)","",-31.9549776764,115.8576024810,FTZ
-0,113,10124,10124,"St Georges Tce Stand Bc (After William St)","",-31.9550706285,115.8578859880,FTZ
-0,113,10126,10126,"St Georges Tce Stand B (After William St)","",-31.9551944971,115.8582818380,FTZ
+0,113,10123,10123,"St Georges Tce Stand Aef (After William St)","",-31.9549776764,115.8576024810,FTZ
+0,113,10124,10124,"St Georges Tce Stand C (After William St)","",-31.9550706285,115.8578859880,FTZ
+0,113,10126,10126,"St Georges Tce Stand Bd (After William St)","",-31.9551944971,115.8582818380,FTZ
 0,104,10128,10128,"St Georges Tce Stand E - F (Before Pier St)","St Georges Tce / Irwin St",-31.9560538676,115.8609414410,FTZ
 0,104,10129,10129,"St Georges Tce Stand A (Before Pier St)","",-31.9561319601,115.8611805180,FTZ
 0,104,10130,10130,"St Georges Tce Stand B (Before Pier St)","",-31.9562182727,115.8614466430,FTZ
@@ -6040,7 +6040,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,17503,17503,"Fraser Av Before Kings Park Rd","",-31.9547589883,115.8442374490,FTZ
 0,,17504,17504,"Mounts Bay Rd The Mount Hospital","",-31.958920,115.846132777778,FTZ
 0,,17505,17505,"Mounts Bay Rd Mount Hospital ","",-31.95899722222220,115.845748333333,FTZ
-0,,17507,17507,"Mounts Bay Rd Mounts Bay Village","",-31.95526055555560,115.848691666667,FTZ
+0,,17507,17507,"Mounts Bay Rd Mounts Bay Village","",-31.95526055555560,115.848691666667,1
 0,,17509,17509,"Ord St Ord Street Red Cat 19","Ord St / Colin St",-31.9505218458,115.84076736,FTZ
 0,,17510,17510,"Ord St Havelock Street Red Cat 20","Ord St / Havelock St",-31.9512910030,115.8431178020,FTZ
 0,,17511,17511,"Outram St Outram Street Red Cat 18","Outram St / Ord St",-31.949560,115.839331111111,FTZ
@@ -8166,13 +8166,13 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,20219,20219,"Ferndale Cr Before Karri Wy","",-32.0345709156,115.9203039670,2
 0,,20220,20220,"Ferndale Cr After Lambertia Wy","",-32.0336107611,115.9174381210,2
 0,,20221,20221,"Ferndale Cr Before Bern Rd","",-32.0316527119,115.9158598480,2
-0,,20222,20222,"Ferndale Cr Before Spey Pl","",-32.0293307873,115.9161079120,2
+0,,20222,20222,"Ferndale Cr Before Spey Pl","",-32.02919333333340,115.916187777778,2
 0,,20223,20223,"Ferndale Cr Before Narval Wy","",-32.0269973888,115.91917190,2
 0,,20224,20224,"Ferndale Cr Before Crocus Wy","",-32.0278741208,115.9220927240,2
 0,,20225,20225,"Ferndale Cr After Crocus Wy","",-32.0277742760,115.9218194650,2
-0,,20226,20226,"Ferndale Cr After Glen Ct","",-32.0271082685,115.9195853470,2
+0,,20226,20226,"Ferndale Cr After Glen Ct","",-32.02710666666670,115.919988888889,2
 0,,20227,20227,"Ferndale Cr Before Spey Pl","",-32.0288458264,115.91659027,2
-0,,20228,20228,"Ferndale Cr After Bern Rd","",-32.0322360709,115.9161041790,2
+0,,20228,20228,"Ferndale Cr After Bern Rd","",-32.03217944444450,115.916078888889,2
 0,,20229,20229,"Ferndale Cr Before Lambertia Wy","",-32.0336340815,115.9178390640,2
 0,,20230,20230,"Ferndale Cr Before Crowea Wy","",-32.0353218462,115.9215905590,2
 0,,20231,20231,"Ferndale Cr After Karri Wy","",-32.0367279057,115.9222401380,2
@@ -8183,7 +8183,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,20237,20237,"Metcalfe Rd After Jaccard Wy","Metcalfe Rd / Jaccard Wy",-32.03951444444440,115.921438888889,2
 0,,20238,20238,"Metcalfe Rd Before High Rd","Metcalfe Rd / High Rd",-32.0407901902,115.9199133620,2
 0,,20239,20239,"Metcalfe Rd After High Rd","Metcalfe Rd / High Rd",-32.0405848192,115.9199562470,2
-0,,20240,20240,"Metcalfe Rd Before Jaccard Wy","Metcalfe Rd / Jaccard Wy",-32.03915277777780,115.921645555556,2
+0,,20240,20240,"Metcalfe Rd Before Jaccard Wy","Metcalfe Rd / Jaccard Wy",-32.03910555555560,115.921720,2
 0,,20242,20242,"Metcalfe Rd After Lynwood Av","Lynwood Shop Ctr",-32.03419055555550,115.927541111111,2
 0,,20243,20243,"Metcalfe Rd After Fleetwood Rd","Metcalfe Rd / Fleetwood Rd",-32.0321691081,115.9299531450,2
 0,,20244,20244,"Metcalfe Rd Before Clovelly Cr","",-32.0314881776,115.9322279930,2
@@ -11045,7 +11045,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26627,26627,"Russell Rd After Cockburn Rd","",-32.1456439124,115.7797652510,3
 0,,26628,26628,"Discovery Way Murdoch University","Murdoch University",-32.0701340762,115.8299709860,2
 0,,26629,26629,"Milford St After Swansea St","",-31.9914955547,115.9148403260,1
-0,,26630,26630,"Beaufort St After Parry St","",-31.9468554109,115.8644054780,FTZ
+0,,26630,26630,"Beaufort St After Parry St","",-31.9468554109,115.8644054780,1
 0,,26631,26631,"Castlewood Pwy After Streamside St","",-32.1059017484,115.9529059960,3
 0,,26632,26632,"Stillwater St After Reflections Rd","",-32.1061178267,115.95525563,3
 0,,26633,26633,"Clearwater Dr Before Southern River Rd","",-32.1054078469,115.9577418820,3
@@ -11068,7 +11068,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26653,26653,"Colin St Hay St Green Cat 15","",-31.9480431898,115.8424954210,FTZ
 0,,26654,26654,"Sutherland St Sutherland St Green Cat 9","",-31.94625333333330,115.846908888889,FTZ
 0,,26655,26655,"Sutherland St Sutherland St Green Cat 13","",-31.94644111111110,115.847025555556,FTZ
-0,,26656,26656,"Bus Access Rd Stand 1","Leederville Stn / Green Cat 1",-31.9398974160,115.8404061650,FTZ
+0,,26656,26656,"Bus Access Rd Stand 1","Leederville Stn / Green Cat 1",-31.9398974160,115.8404061650,1
 0,,26658,26658,"Mather Dr Barbagello Raceway","Barbagello Raceway",-31.66683222222220,115.787107222222,4
 0,,26664,26664,"Barry Marshall Pde After Fiona Wood Rd","",-32.06858611111110,115.846583888889,2
 0,,26665,26665,"Barry Marshall Pde Before Fiona Wood Rd","",-32.06843277777780,115.846456666667,2
@@ -11802,6 +11802,10 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27910,27910,"Dandaragan Dr After Bailey Bvd","",-32.63167444444450,115.629953333333,9
 0,,27911,27911,"Dandaragan Dr Before Anaconda Lp","",-32.63193944444450,115.629891111111,9
 0,,27914,27914,"Murdoch Dr Before Farrington Rd","",-32.0788470256,115.8426327780,2
+0,,27923,27923,"Paterson St After Keirnan St","",-32.28283888888890,115.990472777778,5
+0,,27924,27924,"Central Av After Dunreath Dr","",-31.93500833333330,115.949556666667,2
+0,,27925,27925,"Central Av Before Dunreath Dr","",-31.93514111111110,115.949988888889,2
+0,,27926,27926,"Cemetery Rd Before Pinjarra Rd","",-32.53661444444450,115.736291666667,7
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce",-28.7734316666666990,114.612454444444,1
 0,,70003,70003,"Chapman Rd Before Mark St","",-28.76018222222220,114.615859444444,1
@@ -12260,7 +12264,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,70971,70971,"Ocean Queen Dr After Wild Rose Cr","Ocean Queen Dr / Wild Rose App",-28.8127444444444020,114.632926666667,1
 0,,70972,70972,"Derna Pde After Ivy Wy","",-28.8148438888888980,114.634341666667,1
 0,,70973,70973,"Derna Pde After Ajax Dr","",-28.8149200000000010,114.633976111111,1
-0,,70974,70974,"Ajax Dr After Ilma Rise","Ajax Dr / Ilma Rise",-28.81693611111110,114.635666111111,1
+0,,70974,70974,"Ajax Dr After Ilma Rise","Ajax Dr / Ilma Rise",-28.81610333333330,114.635701666667,1
 0,,70975,70975,"Ajax Dr Before Ilma Rise","Ajax Dr / Ilma Rise",-28.8173527777777990,114.635762777778,1
 0,,70976,70976,"Columbus Bvd After Ajax Dr","",-28.82061277777780,114.634963333333,1
 0,,70978,70978,"Kultown Dr After Mugana Cr","",-28.7187294444443990,114.647475,1
@@ -13033,7 +13037,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,72955,72955,"Pinyali Wy Before Kultown Dr","",-28.71574777777780,114.648803888889,1
 0,,72956,72956,"Pinyali Wy Before Jabiru Wy","Pinyali Wy / Jabiru Wy",-28.7153961111111010,114.65040444444401,1
 0,,72968,72968,"Mabel St Before Chapman Rd","Mabel St / Chapman Rd",-28.74988055555560,114.619921111111,1
-0,,72969,72969,"Mabel St After Chapman Rd","Mabel St / Chapman Rd",-28.74972388888890,114.619851111111,1
+0,,72969,72969,"Mabel St After Chapman Rd","Mabel St / Chapman Rd",-28.74998555555560,114.620548333333,1
 0,,72970,72970,"Broome St After Tambyln St","Broome St / Tamblyn St",-28.73860666666670,114.630390555556,1
 0,,72971,72971,"Crawford St Before Bedford St","Crawford St / Webberton Rd",-28.74402944444440,114.630865,1
 0,,72972,72972,"Eighth St After Central Rd","Eighth St / Central Rd",-28.7682655555556010,114.629308888889,1
@@ -13716,8 +13720,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,95389,95389,"Midlands Rd To Yandanooka","",-29.31699111111110,115.569472222222,9
 0,,95390,95390,"Midlands Rd From Yandanooka","",-29.31705888888890,115.569320,9
 0,,95391,95391,"Midlands Rd Mingenew","Mingenew",-29.1899238888888990,115.442845555556,9
-0,,95392,95392,"Bindoon-Moora Rd Mogumber","Mogumber",-31.03975722222220,116.045021666667,9
-0,,95393,95393,"Bindoon-Moora Rd Wannamal","Wannamal",-31.1637044444443990,116.05724499999999,9
 0,,95394,95394,"Transwa Bay Goomalling","Goomalling",-31.297870,116.827262777778,9
 0,,95395,95395,"Northam-Pithara Rd To Konnongorring","",-31.05362777777780,116.776365555556,9
 0,,95396,95396,"Northam-Pithara Rd From Konnongorring","",-31.05378388888890,116.775706666667,9
