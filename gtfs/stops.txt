@@ -1066,7 +1066,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11218,11218,"Vahland Av After Silvertop Tce","",-32.0516272958,115.8901631680,2
 0,,11219,11219,"Vahland Av After Apsley Rd","",-32.0471237599,115.8929796190,2
 0,,11220,11220,"Vahland Av Before Querrin Av","",-32.04466444444440,115.893246666667,2
-0,,11221,11221,"Vahland Av Before Kielman Rd","",-32.04097277777780,115.893233333333,2
+0,,11221,11221,"Vahland Av Before Kielman Rd","",-32.04076555555550,115.893257222222,2
 0,,11222,11222,"Vahland Av After Swanson St","",-32.0395148346,115.8932635450,2
 0,,11224,11224,"Vahland Av After Betula St","Vahland Av /  High Rd",-32.03598555555560,115.893141666667,2
 0,,11225,11225,"Vahland Av Before Tribute St","",-32.03163166666670,115.893012777778,2
@@ -1151,7 +1151,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11314,11314,"Grandstand Rd Before Waterway Cr","Ascot Racecourse",-31.9369123833,115.9197379330,1
 0,,11315,11315,"Garratt Rd After Williamson St","",-31.9278748909,115.9120219360,1
 0,,11316,11316,"Lord St Before Brewer St","",-31.9476335474,115.8704539250,FTZ
-0,,11317,11317,"Lord St Before Murchison Tce","",-31.94648055555560,115.871397222222,FTZ
+0,,11317,11317,"Lord St Before Murchison Tce","Nib Stadium",-31.94648055555560,115.871397222222,FTZ
 0,,11318,11318,"Lord St After Bulwer St","",-31.94442333333340,115.872897222222,1
 0,,11319,11319,"Lord St After Marlborough St","",-31.9425379250,115.8741967440,1
 0,,11320,11320,"Lord St After Turner St","Mt Lawley Tafe",-31.94062833333330,115.875478333333,1
@@ -1520,6 +1520,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11721,11721,"Albany Hwy After Welshpool Rd","Albany Hwy / Alday St",-31.9934949514,115.9121655070,1
 0,,11722,11722,"Albany Hwy After Hill View Tce","Albany Hwy / Oats St",-31.9914708471,115.9094809020,1
 0,,11723,11723,"Albany Hwy After Patricia St","",-31.9904049808,115.9079181720,1
+0,,11724,11724,"Albany Hwy After Balmoral St","",-31.9887637123,115.9057382360,1
+0,,11726,11726,"Albany Hwy After Mint St","The Park Shop Ctr",-31.9837320470,115.9024163250,1
 0,,11728,11728,"Albany Hwy After Tuam St","Albany Hwy / Kent St",-31.9799468379,115.8999299420,1
 0,,11729,11729,"Albany Hwy After Rathay St","Albany Hwy / Manchester St",-31.9776469168,115.8986414760,1
 0,,11730,11730,"Albany Hwy Before Mcmillan St","",-31.9753816666666990,115.89776444444399,1
@@ -6368,7 +6370,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,17947,17947,"Constellation Dr After Naval Pde","",-31.7557702620,115.7373894480,3
 0,,17948,17948,"Constellation Dr After Prendiville Av","",-31.7528764322,115.7359320880,3
 0,,17949,17949,"Constellation Dr Before Resolute Dr","",-31.7506904815,115.73292065,3
-0,,17950,17950,"Constellation Dr After Resolute Wy","",-31.7492056426,115.7324104210,3
+0,,17950,17950,"Constellation Dr After Resolute Wy","",-31.7484860677,115.7324568790,3
 0,,17951,17951,"Constellation Dr After Tarolinta Gdns","",-31.7471505547,115.7324537160,4
 0,,17952,17952,"Constellation Dr After Bacchante Cir","",-31.7446890055,115.7310137540,4
 0,,17953,17953,"Constellation Dr After Shenton Av","",-31.7441015387,115.7311841190,4
@@ -8152,7 +8154,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,20216,20216,"Iveston Rd After Watling Av","",-32.0417013158,115.9268254060,2
 0,,20217,20217,"Iveston Rd After Abinger Rd","",-32.0436430758,115.9240570160,2
 0,,20218,20218,"Ferndale Cr Before Dampiera Wy","",-32.0374411767,115.9222435070,2
-0,,20219,20219,"Ferndale Cr Before Karri Wy","",-32.0345709156,115.9203039670,2
+0,,20219,20219,"Ferndale Cr After Karri Wy","",-32.03426944444440,115.919475555556,2
 0,,20220,20220,"Ferndale Cr After Lambertia Wy","",-32.0336107611,115.9174381210,2
 0,,20221,20221,"Ferndale Cr Before Bern Rd","",-32.0316527119,115.9158598480,2
 0,,20222,20222,"Ferndale Cr Before Spey Pl","",-32.02919333333340,115.916187777778,2
@@ -8163,7 +8165,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,20227,20227,"Ferndale Cr Before Spey Pl","",-32.0288458264,115.91659027,2
 0,,20228,20228,"Ferndale Cr After Bern Rd","",-32.03217944444450,115.916078888889,2
 0,,20229,20229,"Ferndale Cr Before Lambertia Wy","",-32.0336340815,115.9178390640,2
-0,,20230,20230,"Ferndale Cr Before Crowea Wy","",-32.0353218462,115.9215905590,2
+0,,20230,20230,"Ferndale Cr After Lambertia Wy","",-32.03434722222220,115.920043888889,2
 0,,20231,20231,"Ferndale Cr After Karri Wy","",-32.0367279057,115.9222401380,2
 0,,20232,20232,"Metcalfe Rd Before Bridgeway Av","",-32.03192388888890,115.936090,2
 0,,20233,20233,"Metcalfe Rd Before Kinlock Av","",-32.0316088230,115.9320381220,2
@@ -8182,11 +8184,9 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,20251,20251,"Grace St Before Camsell Wy","",-32.02631222222220,115.932408888889,2
 0,,20252,20252,"Grace St Before Kinlock Av","",-32.0280597147,115.93443983,2
 0,,20253,20253,"Willcock St Before Jillman Wy","",-32.0294504901,115.9247446190,2
-0,,20254,20254,"Willcock St After Liseron Wy","",-32.0278509421,115.9266449630,2
 0,,20255,20255,"Willcock St Before Lofoten Wy","",-32.0269010714,115.9277713050,2
 0,,20256,20256,"Willcock St After Marmot Wy","",-32.0250776591,115.92992397,2
-0,,20257,20257,"Willcock St After Bubara Wy","",-32.0265793013,115.9283147930,2
-0,,20258,20258,"Willcock St Before Liseron Wy","",-32.0279835006,115.9266469570,2
+0,,20258,20258,"Willcock St After Latham Rd","",-32.02754611111110,115.927169444444,2
 0,,20259,20259,"Willcock St Before Ferndale Cr","",-32.0297058261,115.9246026640,2
 0,,20260,20260,"Lynwood Av Before Winfield St","Lynwood Shop Ctr",-32.0360973066,115.9273507380,2
 0,,20261,20261,"Lynwood Av After Kenton St","",-32.0369352567,115.9283186590,2
@@ -9258,7 +9258,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,21739,21739,"Casuarina Dr Before Lavender Gdns","Casaurina Dr / Old Coast Rd",-32.5560256859,115.6924222690,8
 0,,21740,21740,"Casuarina Dr Before Templetonia Prom","Casaurina Dr / Old Coast Rd",-32.5560089548,115.6922574420,8
 0,,21741,21741,"Casuarina Dr After Everlasting Rtt","",-32.55148111111110,115.690715555556,8
-0,,21742,21742,"School Rd Halls Head Community College","Halls Head Community College",-32.5546208439,115.6928795580,8
+0,,21742,21742,"School Rd Halls Head College","Halls Head College",-32.5546208439,115.6928795580,8
 0,,21746,21746,"Sticks Bvd After Abbotswood Pwy","",-32.5553655065,115.7022490250,8
 0,,21747,21747,"Sticks Bvd Before Quarriston Av","",-32.5558794917,115.7039807090,8
 0,,21748,21748,"Sticks Bvd After Willoughbridge Cr","Sticks Bvd / Willoughbridge Cr",-32.5573203623,115.7072679510,8
@@ -10711,7 +10711,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26140,26140,"Joondalup Dr After Brenz Dr","",-31.7253747150,115.7695549220,4
 0,,26141,26141,"Hartman Dr After Prindiville Dr","Hartman Dr/Prindiville Dr ",-31.7921283037,115.8284100030,3
 0,,26142,26142,"Hartman Dr Before Prindiville Dr","Hartman Dr/Prindiville Dr ",-31.7927009664,115.8283698270,3
-0,,26143,26143,"Egerton Dr After Wexcombe Wy","",-31.7937414281,115.9883175150,3
+0,,26143,26143,"Egerton Dr After Wexcombe Wy","Egerton Dr / Swanleigh Pde",-31.7937414281,115.9883175150,3
 0,,26144,26144,"Flecker Prom After Lago Prom","",-31.7921285915,115.9869629330,3
 0,,26145,26145,"Flecker Prom After Pasalich Bend","",-31.7907687993,115.9840840280,3
 0,,26146,26146,"Flecker Prom Before Edgecombe Pass","Flecker Prom / Edgecombe Pass",-31.7884225306,115.9821518760,3
@@ -10726,7 +10726,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26155,26155,"Flecker Prom After Edgecombe Pass","Flecker Prom / Edgecombe Pass",-31.7878535132,115.9822620520,3
 0,,26156,26156,"Flecker Prom After Colac Ally","",-31.7905605176,115.9839283190,3
 0,,26157,26157,"Flecker Prom Before Lago Prom","",-31.7920378633,115.9870049430,3
-0,,26158,26158,"Egerton Dr After Swanleigh Pde","",-31.7937422713,115.9885321660,3
+0,,26158,26158,"Egerton Dr After Swanleigh Pde","Egerton Dr / Swanleigh Pde",-31.7937422713,115.9885321660,3
 0,,26159,26159,"Hinchinbrook Av After Carrigallen St","",-31.6531164609,115.7189341950,5
 0,,26160,26160,"Hinchinbrook Av After Carrigallen St","",-31.6529562627,115.7190305020,5
 0,,26161,26161,"Shepperton Dr After Captiva App","",-31.6514953069,115.7157192950,5
@@ -11171,7 +11171,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26838,26838,"Cassino Dr Before Tivoli Dr","",-31.8968953073,115.8197665490,1
 0,,26839,26839,"Cassino Dr After Potenza Av","",-31.8967730066,115.81952316,1
 0,,26840,26840,"Hamilton St Before Firsby St","",-31.8985120116,115.8227735130,1
-0,,26841,26841,"Hamilton St After Firsby St","",-31.89860388888890,115.822731666667,1
+0,,26841,26841,"Hamilton St Before Firsby St","",-31.898845,115.822981666667,1
 0,,26842,26842,"Hutton St After Edward St","",-31.8973942238,115.8265045270,1
 0,,26843,26843,"Powell St Before French St","",-31.9103452314,115.8360041370,1
 0,,26844,26844,"Powell St After French St","",-31.91042555555550,115.835825555556,1
