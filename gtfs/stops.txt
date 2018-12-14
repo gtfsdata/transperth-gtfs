@@ -6449,8 +6449,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,18034,18034,"Kinross Dr After Bonnyrigg Pass","",-31.7164221322,115.7336012840,4,Bus
 0,,18035,18035,"Kinross Dr After Geoff Russell Av","",-31.7176106290,115.7346402880,4,Bus;School Bus
 0,,18036,18036,"Kinross Dr After Edinburgh Av","",-31.7204694085,115.7361051940,4,Bus
-0,,18037,18037,"Kinross Dr After Glencoe Loop","",-31.7221742213,115.7376866860,4,Bus
-0,,18038,18038,"Kinross Dr Before Callander Av","",-31.7218835768,115.73984477,4,Bus
+0,,18037,18037,"Kinross Dr After Glencoe Loop","",-31.72217444444440,115.737686666667,4,Bus
+0,,18038,18038,"Kinross Dr Before Callander Av","",-31.72188333333330,115.739845,4,Bus
 0,,18039,18039,"Marmion Av After Lukin Dr","",-31.6580685611,115.7052267270,5,Bus
 0,,18042,18042,"Marmion Av After Santa Barbara Pde","",-31.6662915197,115.70705328,4,Bus
 0,,18043,18043,"Marmion Av After Greyhound Dr","",-31.6703146648,115.7090744360,4,Bus
@@ -10330,7 +10330,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,25076,25076,"Banjine Rd Before Frederic St","",-31.9094104638,116.0438415710,3,Bus
 0,,25077,25077,"Great Eastern Hwy After Miller St","",-31.89600444444440,116.034370,3,Bus;School Bus
 0,,25086,25086,"Pinjarra Rd Before Murray St","",-32.6290983141,115.8724802660,8,Bus;School Bus
-0,,25087,25087,"Pinjarra Rd Before Murray St","",-32.6290646507,115.8726812280,8,Bus;School Bus
+0,,25087,25087,"Pinjarra Rd After Murray St","",-32.6290646507,115.8726812280,8,Bus;School Bus
 0,,25094,25094,"Reginald St After Cooloon Ct","",-32.0039056951,115.9537348750,2,Bus
 0,,25095,25095,"Whitlock Rd After Wharf St","",-32.0002147057,115.9528284480,2,Bus
 0,,25096,25096,"Wharf St After Elshaw St","",-32.0002843571,115.9516790410,2,Bus
