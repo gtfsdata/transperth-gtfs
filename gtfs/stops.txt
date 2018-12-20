@@ -2704,7 +2704,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,43,13191,13191,"Armadale Stn  Stand 1","Armadale Stn",-32.15454111111110,116.012880,4,Bus;School Bus
 0,43,13192,13192,"Armadale Stn  Stand 4","Armadale Stn",-32.155025,116.012767222222,4,Bus
 0,,13193,13193,"Commerce Av After Third Rd","",-32.1528173029,116.0138134340,4,Bus
-0,,13194,13194,"Commerce Av Before Third Rd","",-32.1527351158,116.0136589880,4,Bus
+0,,13194,13194,"Commerce Av Before Third Rd","",-32.152735,116.013658888889,4,Bus
 0,,13203,13203,"Seventh Rd After Bowden Pl","",-32.1579670474,116.0082912490,4,Bus
 0,,13204,13204,"Seventh Rd After Devonshire Tce","",-32.1568362801,116.0069942920,4,Bus
 0,,13205,13205,"Seventh Rd Before Forrest Rd","",-32.1556079319,116.0055525660,4,Bus
@@ -4848,7 +4848,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,15948,15948,"Kingfisher Av After Illawarra Cr","Ballajura Shopping Ctr",-31.8393473738,115.8953061710,2,Bus;School Bus
 0,,15949,15949,"Kingfisher Av After Sanderling Gr","",-31.8365043589,115.8973463780,2,Bus;School Bus
 0,,15950,15950,"Kingfisher Av After Meadowview Dr","",-31.8349878617,115.8992572010,2,Bus;School Bus
-0,,15951,15951,"Kingfisher Av After Lakefarm Rtt","",-31.8355699144,115.9017156720,2,Bus;School Bus
+0,,15951,15951,"Kingfisher Av After Lakefarm Rtt","",-31.83565777777780,115.901897777778,2,Bus;School Bus
 0,,15952,15952,"Kingfisher Av After Pintail Pde","",-31.8370175793,115.90436299,2,Bus;School Bus
 0,,15953,15953,"Kingfisher Av Before Belvoir Pl","",-31.8380190943,115.9054966120,2,Bus;School Bus
 0,,15954,15954,"Kingfisher Av After Belvoir Pl","",-31.8401577487,115.9056176640,2,Bus;School Bus
@@ -8801,7 +8801,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,21067,21067,"Baningan Av After Carnegie Pde","Baningan Av / Carnegie Pde",-32.1449620505,115.8477467480,3,Bus
 0,,21068,21068,"Baningan Av Before Kenworth Pass","Baningan Av / Kenworth Pass",-32.1427151645,115.8488759020,3,Bus
 0,,21069,21069,"Baningan Av After Lavender Wy","",-32.1406666666666960,115.84953611111099,3,Bus
-0,,21070,21070,"Baningan Av After Carmel Wy","",-32.1378815110,115.8469174520,3,Bus
+0,,21070,21070,"Baningan Av After Carmel Wy","",-32.13788166666670,115.846917222222,3,Bus
 0,,21071,21071,"Baningan Av Before Cherniss Ct","",-32.13502555555560,115.846916111111,3,Bus
 0,,21072,21072,"Alabaster Dr After Manitoba Pl","",-32.1328386670,115.85028575,3,Bus
 0,,21073,21073,"Alabaster Dr After Michigan Hts","",-32.1314260365,115.8524476430,3,Bus
@@ -9606,7 +9606,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,22766,22766,"Emerald Rd Before Eva St","",-32.0370520888,116.0002286350,2,Bus
 0,,22767,22767,"Alcock St After Borden St","",-32.0481961359,116.0016033950,2,Bus
 0,,22771,22771,"Joondalup Dr After Pinjar Rd","",-31.70587611111110,115.803496111111,4,Bus;School Bus
-0,,22774,22774,"Joondalup Dr Before Pinjar Rd","",-31.7068833251,115.8032117280,4,Bus
+0,,22774,22774,"Joondalup Dr Before Pinjar Rd","",-31.70688333333330,115.803211666667,4,Bus
 0,,22775,22775,"Joondalup Dr After Pinjar Rd","",-31.7096158570,115.80089190,4,Bus
 0,,22776,22776,"Fremantle Rd After Albany Hwy","",-32.0688322341,115.9983909980,3,Bus
 0,,22778,22778,"Stalker Rd After Watson St","",-32.0744854789,115.9948587930,3,Bus
@@ -11424,7 +11424,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27291,27291,"Harborne St After Parkland Rd","",-31.91617944444440,115.819931111111,1,Bus
 0,,27292,27292,"Harborne St Before Parkland Rd","",-31.91618611111110,115.820150,1,Bus
 0,,27293,27293,"Harborne St After Leeder Street","",-31.91881333333330,115.819928888889,1,Bus
-0,,27294,27294,"Harborne St Before Leeder St","",-31.91883611111110,115.820160,1,Bus
+0,,27294,27294,"Harborne St Before Leeder St","",-31.91881611111110,115.820157777778,1,Bus
 0,,27295,27295,"Anzac Rd Before Powis St","",-31.9227935084,115.8279065050,1,Bus
 0,,27296,27296,"Anzac Rd After Powis St","",-31.92289277777780,115.828083333333,1,Bus
 0,,27297,27297,"Anzac Rd Before Federation St","",-31.9251394029,115.8307471070,1,Bus
@@ -11773,7 +11773,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27851,27851,"Partridge St After Heisler Bvd","",-31.81630166666670,115.969119444444,3,Bus
 0,,27852,27852,"Partridge St After Tiergarten Rd","",-31.81989555555550,115.969176111111,3,Bus
 0,,27853,27853,"Partridge St After Dodgers St","",-31.82281555555560,115.969183888889,3,Bus
-0,,27854,27854,"Partridge St After Perlis Rd","",-31.82387722222220,115.969196111111,3,Bus
+0,,27854,27854,"Partridge St After Perlis Rd","",-31.82494111111110,115.969191111111,3,Bus
 0,,27855,27855,"Everglades Av After Woollcott Av","",-31.82784944444440,115.969353888889,3,Bus
 0,,27856,27856,"Harrow St After Lord St","",-31.84528166666670,115.969917777778,2,Bus
 0,,27857,27857,"Arthur St After Harrow St","",-31.84643555555560,115.973238888889,2,Bus
@@ -11817,6 +11817,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27947,27947,"Main St Main Street","",-31.89339722222220,115.828363333333,1,Bus;School Bus
 0,,27965,27965,"Yanchep Beach Rd Before Mpltn","",-31.54763277777780,115.650877777778,6,Bus
 0,,27966,27966,"Yanchep Beach Rd After Mpltn Dve","",-31.54769722222220,115.650577777778,6,Bus
+0,,27973,27973,"Adelaide Tce After Plain St","",-31.96093111111110,115.875576111111,FTZ,Bus
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1,Bus
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce ",-28.77343166666670,114.612454444444,1,Bus
 0,,70003,70003,"Chapman Rd Before Mark St","",-28.76018222222220,114.615859444444,1,Bus;School Bus
