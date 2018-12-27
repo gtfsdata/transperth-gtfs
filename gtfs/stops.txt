@@ -126,8 +126,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10135,10135,"Adelaide Tce Before Hill St","Adelaide Tce / Hill St",-31.95839277777780,115.867760555556,FTZ,Bus
 0,,10136,10136,"Adelaide Tce Before Bennett St","",-31.95945666666670,115.871012222222,FTZ,Bus
 0,,10137,10137,"Adelaide Tce Before Plain St","Adelaide Tce / Plain St",-31.96041388888890,115.873981111111,FTZ,Bus
-0,117,10138,10138,"Adelaide Tce Westend Causeway","",-31.96180333333330,115.878134444444,FTZ,Bus
-0,117,10139,10139,"Adelaide Tce Westend Causeway ","Adelaide Tce / Westend Cway",-31.96190222222230,115.878317222222,FTZ,Bus
 0,13,10140,10140,"Victoria Park Transfer Stn Stand D","Victoria Park Transfer Stn",-31.968150,115.889071666667,1,Bus
 0,13,10141,10141,"Victoria Park Transfer Stn Stand C","Victoria Park Transfer Stn",-31.96826944444440,115.889323888889,1,Bus
 0,13,10142,10142,"Victoria Park Transfer Stn Stand B","Victoria Park Transfer Stn",-31.96837055555560,115.889545,1,Bus
@@ -642,16 +640,16 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10721,10721,"Marmion St Before Davy St","",-32.0371304884,115.83232488,2,Bus
 0,47,10722,10722,"Marmion St Stand A2","Booragoon Bus Stn",-32.03622388888890,115.836702777778,2,Bus
 0,47,10723,10723,"Marmion St Stand A1","Booragoon Bus Stn",-32.03625055555560,115.837043888889,2,Bus
-0,,10724,10724,"Marmion St Melville Aquatic Centre","",-32.03866333333330,115.829174444444,2,Bus
-0,,10725,10725,"Marmion St After Marcus Av","",-32.0394061463,115.8274824520,2,Bus
-0,,10726,10726,"Marmion St Before Norma Rd","",-32.0399682682,115.8248403570,2,Bus
-0,,10727,10727,"Marmion St After Norma Rd","",-32.0399703463,115.8208479490,2,Bus
-0,,10728,10728,"Marmion St Before North Lake Rd","",-32.0399808118,115.8175425670,2,Bus
-0,,10729,10729,"Marmion St After North Lake Rd","Marmion Reserve",-32.0400288826,115.8150008030,2,Bus
-0,,10730,10730,"Marmion St Before Love St","Marmion St / Love St",-32.0400002563,115.8127882380,2,Bus
-0,,10731,10731,"Marmion St After Hayward St","",-32.0400375299,115.8109867980,2,Bus
-0,,10732,10732,"Marmion St After Rome Rd","",-32.04055666666660,115.807530,2,Bus
-0,,10733,10733,"Marmion St Before Potts St","",-32.0413385895,115.8042975120,2,Bus
+0,,10724,10724,"Marmion St Melville Aquatic Centre","",-32.03866333333330,115.829174444444,2,Bus;School Bus
+0,,10725,10725,"Marmion St After Marcus Av","",-32.0394061463,115.8274824520,2,Bus;School Bus
+0,,10726,10726,"Marmion St Before Norma Rd","",-32.0399682682,115.8248403570,2,Bus;School Bus
+0,,10727,10727,"Marmion St After Norma Rd","",-32.0399703463,115.8208479490,2,Bus;School Bus
+0,,10728,10728,"Marmion St Before North Lake Rd","",-32.0399808118,115.8175425670,2,Bus;School Bus
+0,,10729,10729,"Marmion St After North Lake Rd","Marmion Reserve",-32.0400288826,115.8150008030,2,Bus;School Bus
+0,,10730,10730,"Marmion St Before Love St","Marmion St / Love St",-32.0400002563,115.8127882380,2,Bus;School Bus
+0,,10731,10731,"Marmion St After Hayward St","",-32.0400375299,115.8109867980,2,Bus;School Bus
+0,,10732,10732,"Marmion St After Rome Rd","",-32.04055666666660,115.807530,2,Bus;School Bus
+0,,10733,10733,"Marmion St Before Potts St","",-32.0413385895,115.8042975120,2,Bus;School Bus
 0,,10734,10734,"Marmion St Before Thorn St","",-32.0425508132,115.8020570340,2,Bus
 0,,10735,10735,"Marmion St After Challenger Pl","",-32.0438020765,115.8000017060,2,Bus
 0,,10736,10736,"Marmion St Before Hornsby St","",-32.0446769352,115.7970767650,2,Bus
@@ -743,9 +741,9 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10829,10829,"Leach Hwy Before North Lake Rd","Leach Hwy / North Lake Rd",-32.0462940078,115.8139327080,2,Bus;School Bus
 0,,10830,10830,"Leach Hwy After North Lake Rd","Leach Hwy / North Lake Rd",-32.0460120034,115.8178843340,2,Bus;School Bus
 0,,10831,10831,"Leach Hwy After Norma Rd","",-32.0459873068,115.8235825150,2,Bus;School Bus
-0,,10832,10832,"Leach Hwy After Winthrop Dr","",-32.0459604521,115.8264976840,2,Bus
-0,,10833,10833,"Leach Hwy After Marcus Av","Leach Hwy / Marcus Av",-32.0459291850,115.8299195890,2,Bus
-0,,10834,10834,"Leach Hwy Before Riseley St","",-32.0459019778,115.8326058030,2,Bus
+0,,10832,10832,"Leach Hwy After Winthrop Dr","",-32.0459604521,115.8264976840,2,Bus;School Bus
+0,,10833,10833,"Leach Hwy After Marcus Av","Leach Hwy / Marcus Av",-32.0459291850,115.8299195890,2,Bus;School Bus
+0,,10834,10834,"Leach Hwy Before Riseley St","",-32.0459019778,115.8326058030,2,Bus;School Bus
 0,,10835,10835,"Leach Hwy After Riseley St","",-32.0458604906,115.8368941770,2,Bus
 0,,10836,10836,"Leach Hwy Before Aldridge Rd","",-32.0458666017,115.8397785070,2,Bus
 0,,10837,10837,"Leach Hwy After Murdoch Dr","",-32.0459459564,115.8444926840,2,Bus;School Bus
@@ -5927,7 +5925,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,17367,17367,"Arpenteur Dr After Huxtable Tce","Arpenteur Dr / Huxtable Tce",-32.3334835971,115.8060987350,5,Bus
 0,,17368,17368,"Dower St After Cooper St","Dower St / Elizabeth St",-32.5321592871,115.7396101550,7,Bus;School Bus
 0,,17369,17369,"Dower St - Centro Mandurah Shopping Ctr","Mandurah Forum",-32.53436611111110,115.739077222222,7,Bus;School Bus
-0,,17370,17370,"Dower St Before Aldgate Street","Mandurah Forum",-32.53430055555550,115.738926111111,7,Bus
+0,,17370,17370,"Dower St Before Aldgate Street","Mandurah Forum",-32.53430055555550,115.738926111111,7,Bus;School Bus
 0,,17371,17371,"Dower St After Elizabeth St","Dower St / Elizabeth St",-32.5323849999999980,115.739395555556,7,Bus;School Bus
 0,,17372,17372,"Dower St Before Allnutt St","",-32.5284733520,115.7402057860,7,Bus;School Bus
 0,,17373,17373,"Dower St After Allnutt St","",-32.5284772998,115.7403141550,7,Bus;School Bus
@@ -7410,7 +7408,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,19186,19186,"Pearl Pde After Neptune St","",-31.8873485257,115.76086523,2,Bus;School Bus
 0,,19187,19187,"Sackville Tce Before Abbett St","",-31.8877324181,115.7685759050,2,Bus
 0,,19188,19188,"Sackville Tce Before Northstead St","",-31.8877624733,115.7724078230,2,Bus
-0,,19189,19189,"Sackville Tce Before Grand Prom","",-31.8877895576,115.7760670160,2,Bus
+0,,19189,19189,"Sackville Tce Before Grand Prom","",-31.88778944444440,115.776067222222,2,Bus
 0,,19190,19190,"Sackville Tce After Herbert St","",-31.8878068902,115.7782316910,2,Bus
 0,,19191,19191,"Sackville Tce Before Alice St","Sackville Tce / Alice St",-31.8878268350,115.7808587790,2,Bus
 0,,19192,19192,"Sackville Tce After Woodside St","",-31.8878570834,115.7844311380,2,Bus
@@ -9688,7 +9686,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,23021,23021,"Rockingham Rd Before Thomas Rd","",-32.2242273698,115.7879046360,4,Bus
 0,,23024,23024,"Bagot Rd After Salisbury St","Bagot Rd / Rokeby Rd",-31.9503861103,115.8264748070,1,Bus
 0,,23025,23025,"Anchorage Dr Mindarie Senior College","Mindarie Senior College",-31.6779311706,115.7066516080,4,Bus;School Bus
-0,,23085,23085,"Wellington St Perth Arena Yellow Cat 16","",-31.94983444444440,115.853562222222,FTZ,Bus
+0,,23085,23085,"Wellington St Arena Yellow Cat 16","",-31.94983444444440,115.853562222222,FTZ,Bus
 0,,23086,23086,"Wellington St Sutherland St Yellow Cat 17","",-31.94764055555560,115.846720,FTZ,Bus
 0,,23087,23087,"Wellington St Colin St Yellow Cat 19","Wellington St / Colin St",-31.94634388888890,115.842763888889,FTZ,Bus
 0,,23088,23088,"Murray St Princess Margaret Hospital Y 20","Princess Margaret Hospital",-31.9462753846,115.8393774720,FTZ,Bus
@@ -11811,13 +11809,37 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27910,27910,"Dandaragan Dr After Bailey Bvd","",-32.63167444444450,115.629953333333,9,Bus
 0,,27911,27911,"Dandaragan Dr Before Anaconda Lp","",-32.63193944444450,115.629891111111,9,Bus
 0,,27914,27914,"Murdoch Dr Before Farrington Rd","",-32.0788470256,115.8426327780,2,Bus
+0,,27915,27915,"Viva Bvd Ridgeway Senior High School Stand 1","Ridge View Secondary College Stand 1",-32.36124333333330,115.818507222222,5,Bus
+0,,27918,27918,"Viva Bvd Ridgeway Senior High School Stand 4","Ridge View Secondary College S4",-32.35992055555560,115.818352222222,5,Bus
+0,,27920,27920,"Badgerup Av Coastal Lakes Senior High School Stand 2","Coastal Lakes College Stand 2",-32.4677102806,115.7632458070,7,Bus
+0,,27921,27921,"Badgerup Av Coastal Lakes Senior High School Stand 3","Coastal Lakes College Stand 1",-32.4682106591,115.7631025330,7,Bus;School Bus
 0,,27923,27923,"Paterson St After Keirnan St","",-32.28283888888890,115.990472777778,5,Bus
 0,,27924,27924,"Central Av After Dunreath Dr","",-31.93500833333330,115.949556666667,2,Bus
 0,,27925,27925,"Central Av Before Dunreath Dr","",-31.93514111111110,115.949988888889,2,Bus
+0,,27927,27927,"Sierra Pde Before Mcdonald Rd","Sierra Pde Before Mcdonald Rd",-32.2987792313,115.8080305690,5,Bus
 0,,27947,27947,"Main St Main Street","",-31.89339722222220,115.828363333333,1,Bus;School Bus
+0,,27951,27951,"Fifty Rd After Everest Wy","",-32.30801333333330,115.818699444444,5,Bus
+0,,27952,27952,"Nairn Dr After Fifty Rd","",-32.30742833333330,115.815612222222,5,Bus
+0,,27953,27953,"Nairn Dr Before Fifty Rd","",-32.307630,115.815714444444,5,Bus
+0,,27954,27954,"Nairn Dr After Reushaw Lk","",-32.305060,115.815606111111,5,Bus
+0,,27955,27955,"Nairn Dr Before Reushaw Lk","",-32.30514722222220,115.815757222222,5,Bus
+0,,27956,27956,"Fairchild Dr After Nairn Dr","",-32.30291888888890,115.813770555556,5,Bus
+0,,27957,27957,"Fairchild Dr Before Nairn Dr","",-32.30284388888890,115.814002222222,5,Bus
+0,,27958,27958,"Linaker St After Elderberry Dr","",-32.30211388888890,115.811887222222,5,Bus
+0,,27959,27959,"Linaker St After Nadine Prm","",-32.30190611111110,115.811969444444,5,Bus
+0,,27960,27960,"Desiree Dr After Dunning St","",-32.29930111111110,115.811443888889,5,Bus
+0,,27961,27961,"Desiree Dr After Chilvers St","",-32.29939222222220,115.811521666667,5,Bus
+0,,27962,27962,"Cervantes Av After Pemberton Bvd","",-32.32072333333330,115.814635,5,Bus
+0,,27963,27963,"Cervantes Av Before Pemberton Bvd","",-32.32078833333330,115.814725,5,Bus
 0,,27965,27965,"Yanchep Beach Rd Before Mpltn","",-31.54763277777780,115.650877777778,6,Bus
 0,,27966,27966,"Yanchep Beach Rd After Mpltn Dve","",-31.54769722222220,115.650577777778,6,Bus
-0,,27973,27973,"Adelaide Tce After Plain St","",-31.96093111111110,115.875576111111,FTZ,Bus
+0,,27967,27967,"Yanchep Beach Rd Before Spinnaker Bvd","",-31.547090,115.646291111111,6,Bus
+0,,27968,27968,"Yanchep Beach Rd After Spinnaker Bvd","",-31.54717722222220,115.646050555556,6,Bus
+0,,27969,27969,"Yanchep Beach Rd Before Marmion Ave","",-31.54683722222220,115.633791111111,6,Bus
+0,,27970,27970,"Yanchep Beach Rd Before Frigate Crescent","",-31.54691666666670,115.633562222222,6,Bus
+0,,27971,27971,"Eighty Rd Before Amazon Dr","",-32.31230555555560,115.816088333333,5,Bus
+0,,27972,27972,"Eighty Rd After Amazon Dr","",-32.312210,115.816038888889,5,Bus
+0,,27973,27973,"Adelaide Tce After Plain St","Adelaide Tce / Plain St",-31.96093111111110,115.875576111111,FTZ,Bus
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1,Bus
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce ",-28.77343166666670,114.612454444444,1,Bus
 0,,70003,70003,"Chapman Rd Before Mark St","",-28.76018222222220,114.615859444444,1,Bus;School Bus
@@ -14041,7 +14063,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 1,,114,114,"Ballajura Community College",,-31.8437,115.8916,,Bus
 1,,115,115,"St Georges Tce Before William St Eastbound",,-31.9545,115.8559,,Bus
 1,,116,116,"St Georges Tce After William St Westbound",,-31.95415105316910,115.854526507261,,Bus
-1,,117,117,"Adelaide Tce, Westend Causeway Eastbound",,-31.96184151126730,115.878219921897,,Bus
 1,,119,119,"Royal Perth Hospital Westbound",,-31.95381289072680,115.865754662466,,Bus;School Bus
 1,,120,120,"Wellington St Before Barrack St Westbound",,-31.95255289597790,115.861784244802,,Bus;School Bus
 1,,121,121,"Wellington St Before Pier St Eastbound",,-31.95265156159430,115.862597638523,,Bus;School Bus
