@@ -1196,12 +1196,12 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,21,11367,11367,"Morley Station   Stand 12","Morley Bus Stn",-31.89885277777780,115.897779444444,1,Bus
 0,21,11368,11368,"Morley Station   Stand 11","Morley Bus Stn",-31.89897222222220,115.897921111111,1,Bus
 0,21,11369,11369,"Morley Station   Stand 10","Morley Bus Stn",-31.89908888888890,115.898060,1,Bus
-0,,11370,11370,"Walter Rd After Fifth Av","",-31.8948307833,115.9527933510,2,Bus
-0,,11371,11371,"Walter Rd After Third Av","",-31.8948254806,115.9503018190,2,Bus
-0,,11372,11372,"Walter Rd Before Ivanhoe St","",-31.8948271388,115.9468528650,2,Bus
-0,,11373,11373,"Walter Rd Before Mickleton Tce","",-31.8948218447,115.93603226,2,Bus
-0,,11374,11374,"Walter Rd After Rugby St","",-31.8948463991,115.9322222030,2,Bus
-0,,11375,11375,"Walter Rd After Grey St","",-31.8948359261,115.92685552,2,Bus
+0,,11370,11370,"Walter Rd East After Fifth Av","",-31.8948307833,115.9527933510,2,Bus
+0,,11371,11371,"Walter Rd East After Third Av","",-31.8948254806,115.9503018190,2,Bus
+0,,11372,11372,"Walter Rd East Before Ivanhoe St","",-31.8948271388,115.9468528650,2,Bus
+0,,11373,11373,"Walter Rd East Before Mickleton Tce","",-31.8948218447,115.93603226,2,Bus
+0,,11374,11374,"Walter Rd East After Rugby St","",-31.8948463991,115.9322222030,2,Bus
+0,,11375,11375,"Walter Rd East After Grey St","",-31.8948359261,115.92685552,2,Bus
 0,,11376,11376,"Walter Rd After Embleton Av","",-31.8948123907,115.9159660890,2,Bus
 0,,11377,11377,"Walter Rd After Bath Rd","",-31.8948183822,115.9113117020,2,Bus
 0,,11378,11378,"Walter Rd Before Silverwood St","",-31.8948144658,115.9092841930,2,Bus
@@ -1313,7 +1313,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11493,11493,"Selby St Before Hay St","",-31.9463336554,115.8043501750,1,Bus
 0,,11494,11494,"Selby St Before Nash St","",-31.9544238847,115.8051361520,1,Bus
 0,,11495,11495,"Selby St After Lonnie St","",-31.9566943634,115.8051169030,1,Bus
-0,17,11496,11496,"Stubbs Tce Shenton Park Stn","Shenton Park Stn",-31.9599550951,115.8049128910,1,Bus
+0,17,11496,11496,"Stubbs Tce Shenton Park Stn","Shenton Park Stn",-31.9598712557,115.8049310170,1,Bus
 0,,11501,11501,"Aberdare Rd After Smyth Rd","",-31.9643444169,115.8068793910,1,Bus
 0,,11502,11502,"Aberdare Rd Before Herbert Rd","",-31.9643694569,115.81005820,1,Bus
 0,,11503,11503,"Hospital Av After Aberdare Rd","",-31.9655129063,115.8165828970,1,Bus
@@ -4669,15 +4669,15 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,15732,15732,"Brathwaite Rd Before Korbosky Rd","",-31.8864631083,115.94938908,2,Bus
 0,,15733,15733,"Brathwaite Rd After Korbosky Rd","",-31.8867927322,115.94984343,2,Bus
 0,,15735,15735,"Brathwaite Rd Before Rosher Rd","",-31.8840369640,115.9475202660,2,Bus
-0,,15736,15736,"Walter Rd After Beechboro Rd","",-31.89488166666670,115.923319444444,2,Bus
-0,,15737,15737,"Walter Rd After Doyle St","",-31.8947719187,115.92258006,2,Bus
-0,,15738,15738,"Walter Rd Before Grey St","Walter Rd East / Grey St",-31.8946870563,115.92733345,2,Bus
-0,,15739,15739,"Walter Rd After Abingdon St","",-31.8946824192,115.9312241970,2,Bus
-0,,15740,15740,"Walter Rd After Rugby St","",-31.8946857663,115.9331692730,2,Bus
-0,,15741,15741,"Walter Rd After Mickleton Tce","",-31.89467777777780,115.936474444444,2,Bus
-0,,15742,15742,"Walter Rd After Ivanhoe St","",-31.8946968087,115.9470332380,2,Bus
-0,,15743,15743,"Walter Rd After Third Av","",-31.89469277777780,115.950885555556,2,Bus
-0,,15744,15744,"Walter Rd After Fifth Av","",-31.8946948616,115.9533620520,2,Bus
+0,,15736,15736,"Walter Rd East After Beechboro Rd","",-31.89488166666670,115.923319444444,2,Bus
+0,,15737,15737,"Walter Rd East After Doyle St","",-31.8947719187,115.92258006,2,Bus
+0,,15738,15738,"Walter Rd East Before Grey St","Walter Rd East / Grey St",-31.8946870563,115.92733345,2,Bus
+0,,15739,15739,"Walter Rd East After Abingdon St","",-31.8946824192,115.9312241970,2,Bus
+0,,15740,15740,"Walter Rd East After Rugby St","",-31.8946857663,115.9331692730,2,Bus
+0,,15741,15741,"Walter Rd East After Mickleton Tce","",-31.89467777777780,115.936474444444,2,Bus
+0,,15742,15742,"Walter Rd East After Ivanhoe St","",-31.8946968087,115.9470332380,2,Bus
+0,,15743,15743,"Walter Rd East After Third Av","",-31.89469277777780,115.950885555556,2,Bus
+0,,15744,15744,"Walter Rd East After Fifth Av","",-31.8946948616,115.9533620520,2,Bus
 0,,15745,15745,"Ivanhoe St Before Faulkner Wy","",-31.8889746880,115.9477956540,2,Bus
 0,,15746,15746,"Ivanhoe St After Esther St","",-31.8938672388,115.9463303680,2,Bus
 0,,15747,15747,"Ivanhoe St After Walter Rd","",-31.8967504549,115.9463097340,2,Bus
