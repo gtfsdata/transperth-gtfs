@@ -394,7 +394,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10454,10454,"South Tce Fremantle Hospital","",-32.0576467646,115.7503796530,2,Bus
 0,,10455,10455,"South Tce Before Grey St","",-32.061090,115.752116666667,2,Bus
 0,,10456,10456,"South Tce Before Price St","South Tce / Douglas St",-32.06249666666670,115.752429444444,2,Bus
-0,,10457,10457,"South Tce Before Gold St","",-32.06418611111110,115.752472222222,2,Bus
+0,,10457,10457,"South Tce After Gold St","",-32.06457888888890,115.752492777778,2,Bus
 0,,10458,10458,"South Tce After Charles St","South Tce / Charles St",-32.06673833333330,115.752517777778,2,Bus
 0,,10459,10459,"South Tce After Wardie St","",-32.07003611111110,115.752822777778,2,Bus
 0,,10460,10460,"South Tce Before Orient St","South Tce / Orient St",-32.0718810596,115.7530168210,2,Bus
@@ -4615,7 +4615,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,15661,15661,"Altone Rd After Beckworth Av","",-31.8833597559,115.9444047720,2,Bus
 0,,15662,15662,"Altone Rd Before Morley Dr","",-31.88614055555550,115.944416111111,2,Bus
 0,,15663,15663,"Altone Rd After Morley Dr","",-31.88591055555550,115.944286666667,2,Bus
-0,,15664,15664,"Altone Rd After Rosher Rd","",-31.88343777777780,115.944309444444,2,Bus
 0,,15665,15665,"Altone Rd After Benara Rd","Altone Rd / Benara Rd",-31.87394888888890,115.944556666667,2,Bus;School Bus
 0,,15666,15666,"Altone Rd Before Amazon Dr","Altone Park Shopping Centre",-31.87093666666670,115.944587222222,2,Bus;School Bus
 0,,15667,15667,"Altone Rd After Amazon Dr","",-31.8691447487,115.9445880480,2,Bus;School Bus
@@ -6916,7 +6915,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,18603,18603,"North Beach Rd After Okely Rd","",-31.8593973856,115.7863395220,2,Bus
 0,,18604,18604,"North Beach Rd Before Pendine St","",-31.8593985806,115.7883860750,2,Bus
 0,,18609,18609,"Erindale Rd After North Beach Rd","",-31.8687458319,115.7974846710,2,Bus
-0,,18610,18610,"Erindale Rd After Mitchell Fwy","",-31.8669598181,115.8049465890,2,Bus
+0,,18610,18610,"Erindale Rd After Mitchell Fwy","",-31.86744333333330,115.802875555556,2,Bus
 0,,18611,18611,"Erindale Rd After Gibberd Rd","",-31.8638056523,115.8081957260,2,Bus
 0,,18612,18612,"Erindale Rd After Balcatta Rd","Erindale Rd / Balcatta Rd",-31.8591834548,115.8110341770,2,Bus
 0,,18613,18613,"Erindale Rd After Eglinton Cr","",-31.8528094997,115.8130854020,2,Bus
@@ -8253,8 +8252,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,20356,20356,"Bibra Dr Before Lewington Gdns","",-32.1007246497,115.82889719,2,Bus
 0,,20357,20357,"Bibra Dr Before Bulrush Dr","",-32.1004956984,115.8313397550,2,Bus
 0,,20358,20358,"Bibra Dr Before Style Ct","",-32.0995128954,115.8341584510,2,Bus
-0,,20359,20359,"Bibra Dr After Roe Hwy","",-32.0825773236,115.8378753470,2,Bus
-0,,20360,20360,"Bibra Dr After Farrington Rd","",-32.0825635073,115.83802190,2,Bus
 0,,20361,20361,"Bibra Dr Before Gwalia Pl","",-32.0998972276,115.8340470930,2,Bus
 0,,20362,20362,"Bibra Dr After Bulrush Dr","",-32.1006206356,115.8312873960,2,Bus
 0,,20363,20363,"Bibra Dr After Lewington Gdns","",-32.1008912410,115.8286897540,2,Bus
@@ -9549,7 +9546,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,22632,22632,"Park Rd Before Allnutt St","",-32.5261070250,115.7388278490,7,Bus
 0,,22651,22651,"Dampier Dr After Munja St","",-32.4251897796,115.7578499480,6,Bus;School Bus
 0,,22652,22652,"Dampier Dr Before Weebo St","",-32.4250176395,115.7589971690,6,Bus;School Bus
-0,,22658,22658,"Secret Harbour Bvd Before Vilado Porto Cr","",-32.3979864608,115.7459777030,6,Bus;School Bus
+0,,22658,22658,"Secret Harbour Bvd Before Vilado Porto Cr","",-32.39795277777780,115.745976111111,6,Bus;School Bus
 0,,22665,22665,"Railway St Before Station St","Cottesloe Stn",-31.9969695530,115.7613287540,2,Bus
 0,,22668,22668,"Milina St After Palamuna Ct","",-32.2847160533,115.7684825120,5,Bus;School Bus
 0,,22669,22669,"Darile St After Milna St","",-32.2824920512,115.7696367640,5,Bus;School Bus
@@ -11810,7 +11807,9 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27911,27911,"Dandaragan Dr Before Anaconda Lp","",-32.63193944444450,115.629891111111,9,Bus
 0,,27914,27914,"Murdoch Dr Before Farrington Rd","",-32.0788470256,115.8426327780,2,Bus
 0,,27915,27915,"Viva Bvd Ridgeway Senior High School Stand 1","Ridge View Secondary College Stand 1",-32.36124333333330,115.818507222222,5,Bus
+0,,27917,27917,"Viva Bvd Ridgeway Senior High School Stand 3","Ridge View Secondary College Stand 3",-32.36010166666670,115.818352777778,5,Bus
 0,,27918,27918,"Viva Bvd Ridgeway Senior High School Stand 4","Ridge View Secondary College S4",-32.35992055555560,115.818352222222,5,Bus
+0,,27919,27919,"Badgerup Av Coastal Lakes Senior High School Stand 1","",-32.4675141396,115.7632996780,7,Bus
 0,,27920,27920,"Badgerup Av Coastal Lakes Senior High School Stand 2","Coastal Lakes College Stand 2",-32.4677102806,115.7632458070,7,Bus
 0,,27921,27921,"Badgerup Av Coastal Lakes Senior High School Stand 3","Coastal Lakes College Stand 1",-32.4682106591,115.7631025330,7,Bus;School Bus
 0,,27923,27923,"Paterson St After Keirnan St","",-32.28283888888890,115.990472777778,5,Bus
