@@ -4612,9 +4612,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,15658,15658,"Altone Rd After Small St","",-31.8689544436,115.9448192530,2,Bus;School Bus
 0,,15659,15659,"Altone Rd After Amazon Dr","Altone Park Shop Ctr",-31.8706396118,115.9448088920,2,Bus;School Bus
 0,,15660,15660,"Altone Rd After Maguire Av","",-31.87385333333330,115.944796666667,2,Bus;School Bus
-0,,15661,15661,"Altone Rd After Beckworth Av","",-31.8833597559,115.9444047720,2,Bus
-0,,15662,15662,"Altone Rd Before Morley Dr","",-31.88614055555550,115.944416111111,2,Bus
-0,,15663,15663,"Altone Rd After Morley Dr","",-31.88591055555550,115.944286666667,2,Bus
 0,,15665,15665,"Altone Rd After Benara Rd","Altone Rd / Benara Rd",-31.87394888888890,115.944556666667,2,Bus;School Bus
 0,,15666,15666,"Altone Rd Before Amazon Dr","Altone Park Shopping Centre",-31.87093666666670,115.944587222222,2,Bus;School Bus
 0,,15667,15667,"Altone Rd After Amazon Dr","",-31.8691447487,115.9445880480,2,Bus;School Bus
@@ -8722,8 +8719,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,20981,20981,"Congdon Av After Waylen Sq","",-32.1325105547,115.7977623680,3,Bus;School Bus
 0,,20982,20982,"Merevale Gdns Before Lomax Ct","",-32.13009277777780,115.798311666667,3,Bus
 0,,20983,20983,"Ivankovich Av South Coogee Prim Sch","South Coogee Primary School",-32.1288600588,115.7971215910,3,Bus
-0,,20986,20986,"Spearwood Av Before Beeliar Dr","",-32.1271323945,115.8109794740,3,Bus
-0,,20987,20987,"Spearwood Av After Beeliar Dr","",-32.1272337389,115.8109199040,3,Bus
+0,,20986,20986,"Spearwood Av Before Beeliar Dr","",-32.12770388888890,115.811280555556,3,Bus
+0,,20987,20987,"Spearwood Av After Beeliar Dr","",-32.12761666666670,115.810939444444,3,Bus
 0,,20991,20991,"Osprey Dr After Parkes St","Osprey Dr / North Lake Rd",-32.11303304,115.8323731630,3,Bus
 0,,20992,20992,"Osprey Dr After Mudlark Wy","Osprey Dr / Mudlark Wy",-32.1133027769,115.8237437790,3,Bus
 0,,20993,20993,"Osprey Dr Before Pelican Rmbl","",-32.1145721265,115.8207579150,3,Bus
