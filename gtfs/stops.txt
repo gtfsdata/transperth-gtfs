@@ -10441,7 +10441,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,25714,25714,"Henley St Before Ley St","",-32.0056331298,115.8634034870,1,Bus;School Bus
 0,,25715,25715,"Henley St After Ley St","",-32.0058001755,115.86365435,1,Bus;School Bus
 0,,25716,25716,"Sturtridge Rd After Diana Cr","",-31.8818368319,115.9503174360,2,Bus
-0,,25717,25717,"Bishop Rd After Soldiers Rd","Serpentine Jarrahdale Grammar School",-32.2685533896,115.98999349,5,Bus
+0,,25717,25717,"Bishop Rd After Soldiers Rd","Court Grammar School",-32.2685533896,115.98999349,5,Bus
 0,,25720,25720,"Westfield Rd Before Glenfin Rd","",-32.12943888888890,115.990154444444,3,Bus
 0,,25721,25721,"Westfield Rd Before Starlight Pass","",-32.1300076272,115.9896132170,3,Bus
 0,,25724,25724,"Macquarie Bvd After Condamine App","",-32.16407333333330,115.846977222222,3,Bus
