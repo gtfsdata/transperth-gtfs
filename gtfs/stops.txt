@@ -126,6 +126,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10135,10135,"Adelaide Tce Before Hill St","Adelaide Tce / Hill St",-31.95839277777780,115.867760555556,FTZ,Bus
 0,,10136,10136,"Adelaide Tce Before Bennett St","",-31.95945666666670,115.871012222222,FTZ,Bus
 0,,10137,10137,"Adelaide Tce Before Plain St","Adelaide Tce / Plain St",-31.96041388888890,115.873981111111,FTZ,Bus
+0,117,10138,10138,"Adelaide Tce Westend Causeway","",-31.96180333333330,115.878134444444,FTZ,Bus
+0,117,10139,10139,"Adelaide Tce Westend Causeway ","Adelaide Tce / Westend Cway",-31.96190222222230,115.878317222222,FTZ,Bus
 0,13,10140,10140,"Victoria Park Transfer Stn Stand D","Victoria Park Transfer Stn",-31.968150,115.889071666667,1,Bus
 0,13,10141,10141,"Victoria Park Transfer Stn Stand C","Victoria Park Transfer Stn",-31.96826944444440,115.889323888889,1,Bus
 0,13,10142,10142,"Victoria Park Transfer Stn Stand B","Victoria Park Transfer Stn",-31.96837055555560,115.889545,1,Bus
@@ -1316,12 +1318,12 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,17,11496,11496,"Stubbs Tce Shenton Park Stn","Shenton Park Stn",-31.9598712557,115.8049310170,1,Bus
 0,,11501,11501,"Aberdare Rd After Smyth Rd","",-31.9643444169,115.8068793910,1,Bus
 0,,11502,11502,"Aberdare Rd Before Herbert Rd","",-31.9643694569,115.81005820,1,Bus
-0,,11503,11503,"Hospital Av After Aberdare Rd","",-31.9655129063,115.8165828970,1,Bus
+0,,11503,11503,"Hospital Av After Aberdare Rd","",-31.96547055555560,115.816567777778,1,Bus
 0,,11504,11504,"Hospital Av Qeii Medical Centre","Qeii Medical Ctr",-31.9672633093,115.8167615560,1,Bus
 0,,11505,11505,"Hospital Av Before Monash Av","Perth Childrens Hospital",-31.96946388888890,115.816603888889,1,Bus
 0,,11506,11506,"Hospital Av After Monash Av","Hospital Av / Monash Av",-31.9700947706,115.8164280090,1,Bus
 0,,11507,11507,"Hospital Av Qeii Medical Centre","Qeii Medical Ctr",-31.9676358908,115.8166385240,1,Bus
-0,,11508,11508,"Hospital Av Before Aberdare Rd","",-31.96589944444440,115.816420555556,1,Bus
+0,,11508,11508,"Hospital Av Before Aberdare Rd","",-31.965830,115.816420,1,Bus
 0,,11509,11509,"Aberdare Rd After Burwood St","",-31.96446555555550,115.809473888889,1,Bus
 0,,11510,11510,"Aberdare Rd After Hopetoun Tce","",-31.9644645235,115.8066928310,1,Bus
 0,17,11515,11515,"Stubbs Tce Shenton Park Stn","Shenton Park Stn",-31.9596524885,115.8048023890,1,Bus;School Bus
@@ -2473,7 +2475,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12893,12893,"Newcastle St Before Oxford St","",-31.93777611111110,115.842407777778,1,Bus
 0,,12894,12894,"Wellington St After Outram St","",-31.9459201156,115.8418859040,FTZ,Bus
 0,,12895,12895,"Wellington St Harold Boas Gardens G 8 / Y21","",-31.946535,115.843877777778,FTZ,Bus
-0,,12897,12897,"Wellington St Perth Arena Yellow Cat 23","Wellington St / Milligan St",-31.949180,115.852251111111,FTZ,Bus
+0,,12897,12897,"Wellington St Arena Yellow Cat 23","Arena",-31.949180,115.852251111111,FTZ,Bus
 0,124,12900,12900,"Wellington St William St Cat Yellow 24 ","Wellington St / William St",-31.95080722222220,115.857196666667,FTZ,Bus
 0,122,12901,12901,"Wellington St Perth Stn Red 24/Yellow Cat25","Perth Stn",-31.95189555555560,115.860503888889,FTZ,Bus
 0,122,12902,12902,"Wellington St Before Forrest Pl","Perth Stn",-31.95140944444440,115.859037222222,FTZ,Bus
@@ -2525,7 +2527,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12992,12992,"Strawberry Dr Before Silverhill Loop","Strawberry Dr / San Jancinta Rd",-32.1405890277,115.97909483,3,Bus
 0,,12993,12993,"Strawberry Dr After Imperial Ct","",-32.1415427457,115.9814597340,3,Bus
 0,,12994,12994,"Strawberry Dr Before Fortunella Gr","",-32.1447076305,115.9873030530,3,Bus
-0,,12995,12995,"Strawberry Dr After Minneola Rd","",-32.1444633081,115.9894321830,3,Bus
+0,,12995,12995,"Strawberry Dr After Minneola Rd","",-32.14446222222220,115.989454444444,3,Bus
 0,,12996,12996,"Strawberry Dr After Seville Dr","",-32.1444147854,115.9902177030,3,Bus
 0,,12997,12997,"Strawberry Dr After Fortunella Gr","",-32.1447918123,115.9871306240,3,Bus
 0,,12998,12998,"Strawberry Dr After Orange Gr","",-32.1421826125,115.9820519740,3,Bus
@@ -5210,7 +5212,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,16386,16386,"Amelia St Before Kimbara St","",-31.87381333333330,115.836015555556,2,Bus
 0,,16387,16387,"Amelia St After Hillsborough Dr","Amelia St / Wanneroo Rd",-31.8738000407,115.83378433,2,Bus
 0,,16388,16388,"Amelia St After Main St","",-31.8737697212,115.8261041590,2,Bus
-0,,16390,16390,"Amelia St After Canning St","Amelia St / Jones St",-31.8737575130,115.8218236390,2,Bus
+0,,16390,16390,"Amelia St After Canning St","Amelia St / Jones St",-31.87375777777780,115.821823888889,2,Bus
 0,,16391,16391,"Amelia St After Cedric St","",-31.8737048880,115.8090733570,2,Bus
 0,,16392,16392,"Amelia St After Kenrick St","",-31.8736909574,115.80550362,2,Bus
 0,,16393,16393,"Amelia St Before Hotchkiss Dr","",-31.8735659575,115.8072494850,2,Bus
@@ -7405,7 +7407,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,19187,19187,"Sackville Tce Before Abbett St","",-31.8877324181,115.7685759050,2,Bus
 0,,19188,19188,"Sackville Tce Before Northstead St","",-31.8877624733,115.7724078230,2,Bus
 0,,19189,19189,"Sackville Tce Before Grand Prom","",-31.88778944444440,115.776067222222,2,Bus
-0,,19190,19190,"Sackville Tce After Herbert St","",-31.8878068902,115.7782316910,2,Bus
+0,,19190,19190,"Sackville Tce After Herbert St","",-31.88780666666670,115.778231666667,2,Bus
 0,,19191,19191,"Sackville Tce Before Alice St","Sackville Tce / Alice St",-31.8878268350,115.7808587790,2,Bus
 0,,19192,19192,"Sackville Tce After Woodside St","",-31.8878570834,115.7844311380,2,Bus
 0,,19193,19193,"Sackville Tce After Ravenscar St","",-31.8878752649,115.7864371330,2,Bus
@@ -9683,7 +9685,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,23085,23085,"Wellington St Arena Yellow Cat 16","",-31.94983444444440,115.853562222222,FTZ,Bus
 0,,23086,23086,"Wellington St Sutherland St Yellow Cat 17","",-31.94764055555560,115.846720,FTZ,Bus
 0,,23087,23087,"Wellington St Colin St Yellow Cat 19","Wellington St / Colin St",-31.94634388888890,115.842763888889,FTZ,Bus
-0,,23088,23088,"Murray St Princess Margaret Hospital Y 20","Princess Margaret Hospital",-31.9462753846,115.8393774720,FTZ,Bus
+0,,23088,23088,"Murray St Thomas Street","Thomas Street",-31.9462753846,115.8393774720,FTZ,Bus
 0,,23090,23090,"Wellington St Sutherland St Yellow Cat 22","",-31.9475037269,115.8471534450,FTZ,Bus
 0,,23092,23092,"North Lake Rd After South St","",-32.0715778276,115.8150761110,2,Bus;School Bus
 0,,23093,23093,"North Lake Rd Before South St","",-32.0712106830,115.8147204420,2,Bus;School Bus
@@ -11787,8 +11789,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27883,27883,"Watsonia Rd After Ridge Hill Rd","",-31.94417166666660,116.032935555556,2,Bus
 0,,27884,27884,"Hale St Run For A Reason Shuttles","Hale St / Waca",-31.95950444444450,115.878315555556,FTZ,Bus
 0,,27885,27885,"Access Rd Lake Joondalup Baptist Coll","Lake Joondalup Baptist College",-31.73636555555560,115.761195,4,Bus
-0,,27887,27887,"Partridge St After Pennington Wy","Partridge St / Park St",-31.81481611111110,115.969015555556,3,Bus
-0,,27888,27888,"Partridge St After Blidersee Av","Partridge St / Park St",-31.81492388888890,115.969115555556,3,Bus
 0,,27892,27892,"Bannister Rd Before Canvale Rd","",-32.06284722222220,115.925746666667,2,Bus
 0,141,27893,27893,"Nelson Av Set Down Stand","Matagarup Bridge",-31.95540777777780,115.883333333333,FTZ,Bus
 0,,27894,27894,"Gordon Rd After Mandurah Rd","",-32.51088944444440,115.745347777778,7,Bus;School Bus
@@ -14059,6 +14059,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 1,,114,114,"Ballajura Community College",,-31.8437,115.8916,,Bus
 1,,115,115,"St Georges Tce Before William St Eastbound",,-31.9545,115.8559,,Bus
 1,,116,116,"St Georges Tce After William St Westbound",,-31.95415105316910,115.854526507261,,Bus
+1,,117,117,"Adelaide Tce, Westend Causeway Eastbound",,-31.96184151126730,115.878219921897,,Bus
 1,,119,119,"Royal Perth Hospital Westbound",,-31.95381289072680,115.865754662466,,Bus;School Bus
 1,,120,120,"Wellington St Before Barrack St Westbound",,-31.95255289597790,115.861784244802,,Bus;School Bus
 1,,121,121,"Wellington St Before Pier St Eastbound",,-31.95265156159430,115.862597638523,,Bus;School Bus
