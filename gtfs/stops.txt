@@ -271,7 +271,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10309,10309,"Canning Hwy Before Lentona Rd","",-32.0315150508,115.8121471740,2,Bus
 0,,10310,10310,"Canning Hwy After North Lake Rd","",-32.03058111111110,115.816517777778,2,Bus
 0,,10312,10312,"Canning Hwy Before Norma Rd","",-32.0298407614,115.8198496360,2,Bus;School Bus
-0,,10313,10313,"Canning Hwy Before Francis Rd","",-32.0292768984,115.8223999610,2,Bus
+0,,10313,10313,"Canning Hwy Before Francis Rd","Canning Hwy / Francis St",-32.0292768984,115.8223999610,2,Bus
 0,,10314,10314,"Canning Hwy Before Cantray Av","",-32.0270791856,115.8261086010,2,Bus
 0,,10315,10315,"Canning Hwy After Cunningham St","",-32.02471833333330,115.828846666667,2,Bus
 0,,10316,10316,"Canning Hwy After Collier St","",-32.0228335658,115.8307511680,1,Bus;School Bus
@@ -1845,7 +1845,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12085,12085,"Manning Rd After Aragon Wy","",-32.0124111019,115.9173727030,2,Bus;School Bus
 0,,12087,12087,"Manning Rd Before Townsing Dr","",-32.0134133108,115.8942530430,1,Bus
 0,,12088,12088,"Manning Rd After Waterford Av","Manning Rd / Kent St",-32.012350,115.884954444444,1,Bus
-0,,12088A,12088A,"Manning Rd After Waterford Av","Manning Rd / Kent St",-32.012350,115.884954444444,1,Bus
 0,,12089,12089,"Manning Rd After Cashel Wy","",-32.0120461020,115.8822441190,1,Bus
 0,,12090,12090,"Manning Rd Before Elderfield Rd","",-32.0122293915,115.8773738130,1,Bus
 0,,12091,12091,"Holder St After Hill View Tce","",-32.0064792675,115.9027406540,1,Bus
@@ -4583,7 +4582,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,15616,15616,"Marshall Rd After Dulwich St","",-31.8557063868,115.9565576240,2,Bus
 0,,15619,15619,"Marshall Rd After Roedean St","",-31.8556023194,115.95669391,2,Bus
 0,,15622,15622,"Benara Rd After West Swan Rd","Benara Rd / West Swan Rd",-31.8758530128,115.9741994430,2,Bus;School Bus
-0,,15624,15624,"Benara Rd After Waldeck Rd","",-31.8757693598,115.9655578310,2,Bus;School Bus
+0,,15624,15624,"Benara Rd After Waldeck Rd","",-31.87574777777780,115.964117777778,2,Bus;School Bus
 0,,15627,15627,"Benara Rd After Sturtridge Rd","",-31.8756768878,115.9510968970,2,Bus;School Bus
 0,,15628,15628,"Benara Rd After Brockmill Av","",-31.8756677486,115.9473818580,2,Bus
 0,,15629,15629,"Benara Rd After Altone Rd","",-31.8756735267,115.9433237690,2,Bus;School Bus
@@ -4603,7 +4602,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,15647,15647,"Benara Rd After Altone Rd","",-31.8755469439,115.9472779720,2,Bus
 0,,15648,15648,"Benara Rd After Weddall Rd","",-31.8755406113,115.9509395250,2,Bus;School Bus
 0,,15650,15650,"Benara Rd After Lord St","",-31.8755921381,115.9605314760,2,Bus;School Bus
-0,,15651,15651,"Benara Rd Before Waldeck Rd","",-31.8756496939,115.9653911110,2,Bus;School Bus
+0,,15651,15651,"Benara Rd Before Waldeck Rd","",-31.87562277777780,115.964058888889,2,Bus;School Bus
 0,,15653,15653,"Benara Rd Before West Swan Rd","Benara Rd / West Swan Rd",-31.8757197217,115.9734013410,2,Bus;School Bus
 0,,15655,15655,"Altone Rd After Driftwood Wy","Altone Rd / Bennett Springs Dr",-31.8572560303,115.9456266130,2,Bus
 0,,15656,15656,"Altone Rd After Spoonbill Pass","",-31.85876666666670,115.945670555556,2,Bus
@@ -4751,7 +4750,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,15832,15832,"Collier Rd After Priestley St","",-31.9029125028,115.9096225510,1,Bus
 0,,15833,15833,"Collier Rd After Irwin Rd","",-31.9035456992,115.9132939730,1,Bus
 0,,15834,15834,"Collier Rd After Doherty St","",-31.9038664740,115.9152530090,1,Bus
-0,,15837,15837,"Collier Rd After Alice St","",-31.9057369750,115.93150408,2,Bus
+0,,15837,15837,"Collier Rd After Alice St","",-31.90573722222220,115.931503888889,2,Bus
 0,,15838,15838,"Collier Rd After Fairford St","",-31.90455888888890,115.936031666667,2,Bus
 0,,15839,15839,"Collier Rd Before Iolanthe St","",-31.9052230234,115.9407611480,2,Bus
 0,,15840,15840,"Beechboro Rd After Bennett Spring Dr","",-31.8582232766,115.9248660930,2,Bus
@@ -6576,8 +6575,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,18211,18211,"Shropshire Cr After Coleford Ge","",-31.65057055555550,115.705586111111,5,Bus
 0,,18212,18212,"Shropshire Cr After Upham Br","",-31.6495255006,115.70378920,5,Bus
 0,,18213,18213,"Kingsbridge Bvd After Shropshire Rd","",-31.6480409687,115.7027721330,5,Bus
-0,,18214,18214,"Camborne Pwy After Brampton Av","",-31.6471711984,115.7014095040,5,Bus
-0,,18215,18215,"Camborne Pwy After Tollesbury Av","Camborne Pky / Tollesbury Av",-31.64678722222220,115.701560555556,5,Bus
+0,,18214,18214,"Camborne Pwy After Brampton Av","",-31.6471378989,115.7013957280,5,Bus
+0,,18215,18215,"Camborne Pwy After Tollesbury Av","Camborne Pky / Tollesbury Av",-31.6468038271,115.7015556810,5,Bus
 0,,18216,18216,"Kingsbridge Bvd After Cambourne Pwy","",-31.64792666666660,115.702693333333,5,Bus
 0,,18217,18217,"Shropshire Cr After Kingsbridge Bvd","",-31.6495302247,115.7038811110,5,Bus
 0,,18218,18218,"Shropshire Cr After Upham Br","",-31.6504649473,115.7054809170,5,Bus
@@ -7678,13 +7677,13 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,19558,19558,"North St Before Griver St","",-31.9819647877,115.7626789830,2,Bus
 0,,19559,19559,"North St Before Walpole St","",-31.9819635180,115.7639653110,2,Bus
 0,,19561,19561,"Marine Pde After North St","",-31.98267388888890,115.753909444444,2,Bus
-0,,19562,19562,"Marine Pde Before Vera View Pde","",-31.9836871695,115.7534060980,2,Bus
+0,,19562,19562,"Marine Pde Before Vera View Pde","",-31.98482277777780,115.752921111111,2,Bus
 0,,19563,19563,"Marine Pde Before Grant St","",-31.9860492163,115.7531524410,2,Bus
 0,,19564,19564,"Marine Pde Before Eileen St","",-31.9903116158,115.7525480870,2,Bus
 0,,19565,19565,"Marine Pde After Overton Gdns","",-31.9940992297,115.7520907290,2,Bus
 0,,19566,19566,"Marine Pde Before Forrest St","Cottesloe Beach",-31.9957736608,115.75208729,2,Bus
 0,,19574,19574,"Marine Pde After Forrest St","Cottesloe Beach",-31.9956767846,115.7519222790,2,Bus
-0,,19576,19576,"Marine Pde After Napier St","",-31.9928086809,115.7519243280,2,Bus
+0,,19576,19576,"Marine Pde After Napier St","",-31.99276222222220,115.751948333333,2,Bus
 0,,19577,19577,"Marine Pde Before Eric St","",-31.9901634616,115.7524000750,2,Bus
 0,,19578,19578,"Marine Pde Before Vera View Pde","",-31.9846254790,115.7528145430,2,Bus
 0,,19579,19579,"Marine Pde Before North St","",-31.9824295763,115.7538559960,2,Bus
@@ -7692,17 +7691,16 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,19581,19581,"Grant St After Broome St","",-31.9865807921,115.7556684650,2,Bus
 0,,19583,19583,"Broome St After Hawkstone St","",-31.9880357819,115.7562030080,2,Bus
 0,,19585,19585,"Broome St Before Jarrad St","",-31.9986013725,115.7562191220,2,Bus
-0,,19592,19592,"Broome St After Jarrad St","",-31.99837277777780,115.756097222222,2,Bus
-0,,19593,19593,"Broome St After Stanhope St","",-31.99671055555560,115.756134444444,2,Bus
+0,,19593,19593,"Broome St After Stanhope St","",-31.99661333333340,115.756124444444,2,Bus
 0,,19595,19595,"Broome St Before Hawkstone St","",-31.98778388888890,115.756099444444,2,Bus
-0,,19596,19596,"Eric St Before Gadsdon St","",-31.9896119078,115.7538408450,2,Bus
+0,,19596,19596,"Eric St Before Broome St","",-31.98965166666660,115.755450555556,2,Bus
 0,,19602,19602,"Leura Av After Gugeri St","Leura Ave / Gugeri St",-31.9819412028,115.7827432090,1,Bus
 0,,19603,19603,"Leura Av Before Gugeri St","Leura Ave / Gugeri St",-31.9815657123,115.7824531990,1,Bus;School Bus
 0,,19604,19604,"Gugeri St Before Bay View Tce","Claremont Stn",-31.98131833333330,115.780607222222,1,Bus;School Bus
 0,,19607,19607,"Claremont Cr Swanbourne Stn Rr","Swanbourne Stn",-31.982440,115.771033888889,2,Bus
 0,,19608,19608,"Curtin Av Grant St Stn Rr","",-31.9872915699,115.7642118970,2,Bus
 0,,19609,19609,"Curtin Av Grant St Stn Rr","",-31.98595777777780,115.764716666667,2,Bus
-0,,19611,19611,"Forrest St Before Broome St","",-31.99602444444440,115.755696111111,2,Bus
+0,,19611,19611,"Broome St After Frrst Street","",-31.99684388888890,115.756231666667,2,Bus
 0,,19612,19612,"Forrest St Before Marine Pde","",-31.99607777777780,115.753736111111,2,Bus
 0,,19613,19613,"Jarrad St After Broome St","",-31.99891222222220,115.757762777778,2,Bus
 0,,19614,19614,"Jarrad St Before Broome St","",-31.99900777777780,115.757369444444,2,Bus
@@ -8359,7 +8357,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,20500,20500,"Spencer Rd After Hume Rd","Thornlie Square Shop Ctr",-32.0569861030,115.9623165140,2,Bus;School Bus
 0,,20501,20501,"Spencer Rd After Sandon Rd","",-32.05497581,115.9605268970,2,Bus;School Bus
 0,,20502,20502,"Spencer Rd After Berehaven Av","",-32.0532090354,115.9589544470,2,Bus;School Bus
-0,,20503,20503,"Spencer Rd After Pembury Rd","",-32.0509031918,115.9568275090,2,Bus;School Bus
+0,,20503,20503,"Spencer Rd After Pembury Rd","",-32.05082388888890,115.956756666667,2,Bus;School Bus
 0,,20504,20504,"Spencer Rd After Yale Rd","",-32.0486684093,115.9543582570,2,Bus;School Bus
 0,,20506,20506,"Spencer Rd After Wilfred Rd","",-32.0444448619,115.9506467440,2,Bus;School Bus
 0,,20508,20508,"Spencer Rd After Langford Av","Spencer Rd / Langford Av",-32.03922222222220,115.947852777778,2,Bus
@@ -11799,13 +11797,13 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27924,27924,"Central Av After Dunreath Dr","",-31.93500833333330,115.949556666667,2,Bus
 0,,27925,27925,"Central Av Before Dunreath Dr","",-31.93514111111110,115.949988888889,2,Bus
 0,,27927,27927,"Sierra Pde Before Mcdonald Rd","Sierra Pde Before Mcdonald Rd",-32.2987792313,115.8080305690,5,Bus
-0,142,27928,27928,"Curtin Central Bus Stn Stand 1","Curtin Central Bus Stn",-32.00225444444440,115.889899444444,1,Bus
+0,142,27928,27928,"Curtin Central Bus Stn Stand 1","Curtin Central Bus Stn",-32.0022544444443970,115.889899444444,1,Bus
 0,142,27929,27929,"Curtin Central Bus Stn Stand 2","Curtin Central Bus Stn",-32.00225111111110,115.890089444444,1,Bus
-0,142,27930,27930,"Curtin Central Bus Stn Stand 3","Curtin Central Bus Stn",-32.00225277777780,115.890555,1,Bus
-0,142,27931,27931,"Curtin Central Bus Stn Stand 4","Curtin Central Bus Stn",-32.002255,115.890744444444,1,Bus
-0,142,27934,27934,"Curtin Central Bus Stn Stand 7","Curtin Central Bus Stn",-32.00208444444440,115.890925,1,Bus
-0,142,27935,27935,"Curtin Central Bus Stn Stand 8","Curtin Central Bus Stn",-32.00208444444440,115.890722777778,1,Bus
-0,142,27939,27939,"Curtin Central Bus Stn Stand 12","Curtin Central Bus Stn",-32.00208055555560,115.889677222222,1,Bus
+0,142,27930,27930,"Curtin Central Bus Stn Stand 3","Curtin Central Bus Stn",-32.0022527777777980,115.89055500000001,1,Bus
+0,142,27931,27931,"Curtin Central Bus Stn Stand 4","Curtin Central Bus Stn",-32.0022549999999980,115.890744444444,1,Bus
+0,142,27934,27934,"Curtin Central Bus Stn Stand 7","Curtin Central Bus Stn",-32.0020844444443990,115.890925,1,Bus
+0,142,27935,27935,"Curtin Central Bus Stn Stand 8","Curtin Central Bus Stn",-32.0020844444443990,115.890722777778,1,Bus
+0,142,27939,27939,"Curtin Central Bus Stn Stand 12","Curtin Central Bus Stn",-32.0020805555556010,115.88967722222201,1,Bus
 0,,27947,27947,"Main St Main Street","",-31.89339722222220,115.828363333333,1,Bus;School Bus
 0,,27951,27951,"Fifty Rd After Everest Wy","",-32.30801333333330,115.818699444444,5,Bus
 0,,27952,27952,"Nairn Dr After Fifty Rd","",-32.30742833333330,115.815612222222,5,Bus
@@ -12230,7 +12228,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,70679,70679,"Resort Dr After Tyneside Way","",-33.62617055555560,115.108111666667,3,Bus;School Bus
 0,,70680,70680,"Resort Dr After St Michaels Pwy","",-33.62781333333330,115.109345,3,Bus;School Bus
 0,,70681,70681,"St Michaels Pwy After Indrphlly Cr","",-33.62931333333330,115.109320555556,3,Bus;School Bus
-0,,70682,70682,"St Michaels Pwy After Dunsborough Lakes Dr","",-33.63226388888890,115.106227777778,3,Bus;School Bus
+0,,70682,70682,"St Michaels Pwy After Dunsborough Lakes Dr","St Michaels Pkwy / Parkstone Av",-33.63226388888890,115.106227777778,3,Bus;School Bus
 0,,70684,70684,"Dunsborough Lakes Dr After Bryan L","",-33.63285222222220,115.104523333333,3,Bus;School Bus
 0,,70685,70685,"Dunsborough Lakes Dr Before Gralyn L","",-33.63282777777780,115.102038333333,3,Bus;School Bus
 0,,70686,70686,"Dunsborough Lakes Dr After Rutter L","",-33.63172722222220,115.099928888889,3,Bus;School Bus
