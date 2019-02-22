@@ -84,7 +84,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,116,10089,10089,"St Georges Tce Stand R (After William St)","St Georges Tce / Westralia Square",-31.9542253406,115.8547178230,FTZ,Bus
 0,116,10090,10090,"St Georges Tce Stand Ost (After William St)","St Georges Tce / Westralia Square",-31.9541603808,115.8545198460,FTZ,Bus
 0,,10091,10091,"St Georges Tce Mill St Green Cat 2","St Georges Tce / Mill St",-31.95338722222220,115.852168888889,FTZ,Bus
-0,,10092,10092,"St Georges Tce Milligan St Green Cat 3","",-31.9527714390,115.8501783610,FTZ,Bus
+0,,10092,10092,"St Georges Tce Milligan St Green Cat 3","St Georges Tce / Milligan St",-31.9527714390,115.8501783610,FTZ,Bus
 0,,10093,10093,"Malcolm St Harvest Tce Green Cat 4","Malcolm St / Mitchell Fwy",-31.9530333467,115.8474694440,FTZ,Bus
 0,,10094,10094,"Kings Park Rd Havelock St Green Cat 5","Dumas House",-31.9537700458,115.8429707090,FTZ,Bus
 0,,10095,10095,"Kings Park Rd Before Colin St","",-31.95292777777780,115.840434444444,FTZ,Bus
@@ -2477,7 +2477,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12894,12894,"Wellington St After Outram St","",-31.9459201156,115.8418859040,FTZ,Bus
 0,,12895,12895,"Wellington St Harold Boas Gardens G 8 / Y21","",-31.946535,115.843877777778,FTZ,Bus
 0,,12897,12897,"Wellington St Arena Yellow Cat 23","Arena",-31.949180,115.852251111111,FTZ,Bus
-0,124,12900,12900,"Wellington St William St Cat Yellow 24 ","Wellington St / William St",-31.95080722222220,115.857196666667,FTZ,Bus
+0,124,12900,12900,"Wellington St Yagan Square Cat Yellow 24 ","Wellington St / William St",-31.95080722222220,115.857196666667,FTZ,Bus
 0,122,12901,12901,"Wellington St Perth Stn Red 24/Yellow Cat25","Perth Stn",-31.95189555555560,115.860503888889,FTZ,Bus
 0,122,12902,12902,"Wellington St Before Forrest Pl","Perth Stn",-31.95140944444440,115.859037222222,FTZ,Bus
 0,121,12904,12904,"Wellington St Pier St Yellow Cat 26","Wellington St / Pier St North",-31.9526748920,115.8628028720,FTZ,Bus;School Bus
@@ -7678,7 +7678,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,19559,19559,"North St Before Walpole St","",-31.9819635180,115.7639653110,2,Bus
 0,,19561,19561,"Marine Pde After North St","",-31.98267388888890,115.753909444444,2,Bus
 0,,19562,19562,"Marine Pde Before Vera View Pde","",-31.98482277777780,115.752921111111,2,Bus
-0,,19563,19563,"Marine Pde Before Grant St","",-31.9860492163,115.7531524410,2,Bus
 0,,19564,19564,"Marine Pde Before Eileen St","",-31.9903116158,115.7525480870,2,Bus
 0,,19565,19565,"Marine Pde After Overton Gdns","",-31.9940992297,115.7520907290,2,Bus
 0,,19566,19566,"Marine Pde Before Forrest St","Cottesloe Beach",-31.9957736608,115.75208729,2,Bus
@@ -8344,8 +8343,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,20484,20484,"Spencer Rd After Oak Tree Ct","",-32.0377142227,115.9468541010,2,Bus
 0,,20485,20485,"Spencer Rd After Langford Av","Spencer Rd / Langford Av",-32.04040611111110,115.948944444444,2,Bus;School Bus
 0,,20487,20487,"Spencer Rd After Roe Hwy","",-32.04437888888890,115.950926111111,2,Bus;School Bus
-0,,20490,20490,"Spencer Rd After Vance St","",-32.0504741695,115.9566015950,2,Bus
-0,,20491,20491,"Spencer Rd Before Hughenden Dr","",-32.0537726558,115.95977098,2,Bus
+0,,20490,20490,"Spencer Rd After Vance St","",-32.05139333333340,115.957572222222,2,Bus
+0,,20491,20491,"Spencer Rd Before Hughenden Dr","",-32.05378777777780,115.959776666667,2,Bus
 0,,20492,20492,"Spencer Rd After Thornlie Av","Thornlie Square Shop Ctr",-32.0563847256,115.9621438130,2,Bus
 0,,20493,20493,"Spencer Rd Before Kenmare Av","",-32.0591731159,115.9646547880,2,Bus
 0,,20494,20494,"Spencer Rd Before Glyndebourne Av","",-32.0609421832,115.9662689310,2,Bus
@@ -11803,7 +11802,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,142,27931,27931,"Curtin Central Bus Stn Stand 4","Curtin Central Bus Stn",-32.0022549999999980,115.890744444444,1,Bus
 0,142,27934,27934,"Curtin Central Bus Stn Stand 7","Curtin Central Bus Stn",-32.0020844444443990,115.890925,1,Bus
 0,142,27935,27935,"Curtin Central Bus Stn Stand 8","Curtin Central Bus Stn",-32.0020844444443990,115.890722777778,1,Bus
-0,142,27939,27939,"Curtin Central Bus Stn Stand 12","Curtin Central Bus Stn",-32.0020805555556010,115.88967722222201,1,Bus
+0,142,27939,27939,"Curtin Central Bus Stn Stand 12","Curtin Central Bus Stn",-32.00208055555560,115.889677222222,1,Bus
 0,,27947,27947,"Main St Main Street","",-31.89339722222220,115.828363333333,1,Bus;School Bus
 0,,27951,27951,"Fifty Rd After Everest Wy","",-32.30801333333330,115.818699444444,5,Bus
 0,,27952,27952,"Nairn Dr After Fifty Rd","",-32.30742833333330,115.815612222222,5,Bus
