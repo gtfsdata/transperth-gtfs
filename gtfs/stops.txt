@@ -152,6 +152,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10161,10161,"Albany Hwy Before Fletcher St","",-32.0169468834,115.9332085630,2,Bus;School Bus
 0,,10162,10162,"Albany Hwy Before Liege St","Carousel Shop Ctr / Albany Hwy",-32.020710,115.937281111111,2,Bus
 0,,10163,10163,"Albany Hwy Before Liege St","Carousel Shop Ctr / Albany Hwy",-32.020920,115.937492222222,2,Bus
+0,,10163A,10163A,"Albany Hwy Before Liege St","Carousel Shop Ctr / Albany Hwy",-32.01922777777780,115.936045,2,Bus
 0,,10164,10164,"Albany Hwy Before Station St","Carousel Shop Ctr / Liege St",-32.02343555555560,115.940082777778,2,Bus
 0,,10165,10165,"Albany Hwy After Station St","",-32.0257530094,115.9428894090,2,Bus
 0,,10166,10166,"Albany Hwy After Nicholson Rd","",-32.0269236293,115.9466657480,2,Bus
@@ -1979,6 +1980,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12279,12279,"St Andrews Dr After Carnoustie Ct","",-31.5425627760,115.6515789160,6,Bus
 0,,12280,12280,"St Andrews Dr Before Russley Gr","",-31.5404183792,115.6507243940,6,Bus
 0,,12281,12281,"Sunningdale Rd Before Hamilton Ct","",-31.5387775403,115.6485734770,6,Bus
+0,,12299,12299,"Wanneroo Rd Before Joondalup Dr","",-31.71321222222220,115.778668888889,4,Bus
 0,,12300,12300,"Wanneroo Rd After Joondalup Dr","Wanneroo Rd / Joondalup Dr",-31.7175136627,115.78184172,4,Bus
 0,,12301,12301,"Wanneroo Rd After Ashley Rd","",-31.7260719174,115.7876627260,4,Bus
 0,,12302,12302,"Wanneroo Rd After Monet Dr","",-31.7355664050,115.7934110330,3,Bus
@@ -2089,6 +2091,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12407,12407,"Wanneroo Rd After Wallawa St","",-31.7366620047,115.7937685230,3,Bus
 0,,12409,12409,"Wanneroo Rd After Conti Rd","",-31.7259848351,115.7872783890,4,Bus
 0,,12411,12411,"Wanneroo Rd Before Joondalup Dr","Wanneroo Rd / Joondalup Dr",-31.7178949336,115.7817946920,4,Bus
+0,,12412,12412,"Wanneroo Rd After Joondalup Dr","",-31.7125695304,115.7778562490,4,Bus
 0,,12427,12427,"Marangaroo Dr After Wanneroo Rd","",-31.8310758839,115.8234963430,2,Bus
 0,,12428,12428,"Marangaroo Dr After Giralt Rd","",-31.8326905527,115.8265889840,2,Bus
 0,,12429,12429,"Marangaroo Dr After Balgonie Av","Marangaroo Dr / Templeton Cr",-31.8340114234,115.8298928540,2,Bus
@@ -4501,13 +4504,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,15515,15515,"Sunray Cir After Woodlake Bvd","",-31.7897586720,115.9729794640,3,Bus
 0,,15516,15516,"Highpoint Bvd After Bronzewing Av","",-31.7872715308,115.9739795190,3,Bus
 0,,15517,15517,"Highpoint Bvd Before Bronzewing Av","Highpoint Bvd / Bronzewing Av",-31.7874019975,115.9741487660,3,Bus
-0,,15521,15521,"Lord St After Barrambie Wy","",-31.7997254736,115.9629625690,3,Bus
-0,,15522,15522,"Lord St Before Henley St","",-31.8026543671,115.9630229150,3,Bus
-0,,15523,15523,"Lord St After Henley St","",-31.8076638880,115.9632787010,3,Bus
 0,,15526,15526,"Lord St After Youle-Dean Rd","Whiteman Park",-31.83512111111110,115.964942777778,2,Bus
 0,,15529,15529,"Lord St Before Youle-Dean Rd","",-31.83386277777780,115.964102777778,2,Bus
-0,,15532,15532,"Lord St After Park St","",-31.8075485489,115.96309678,3,Bus
-0,,15534,15534,"Lord St After Barrambie Wy","",-31.7993388124,115.9627703050,3,Bus
 0,,15544,15544,"Unnamed Rd Swan Christian College","Swan Christian College",-31.8591049118,116.0118552460,3,Bus;School Bus
 0,,15546,15546,"Old Perth Rd After Whitfield St","Bassendean Village Shop Ctr",-31.9045239035,115.9532958650,2,Bus
 0,,15547,15547,"Old Perth Rd After West Rd","",-31.9047138178,115.9533113740,2,Bus
@@ -7050,6 +7048,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,18780,18780,"Seacrest Dr After Lancett Ct","",-31.8229041845,115.7532691970,3,Bus
 0,,18781,18781,"Seacrest Dr After Saint Helier Dr","Seacrest Dr / St Helier Dr",-31.8258910819,115.7530486410,3,Bus;School Bus
 0,,18782,18782,"Seacrest Dr After Haynes Rd","",-31.82720611111110,115.755729444444,3,Bus;School Bus
+0,,18784,18784,"Seacrest Dr After Justin Dr","",-31.8278265070,115.7599649240,3,Bus;School Bus
 0,,18785,18785,"Seacrest Dr Before Haynes Rd","",-31.8273137435,115.7560531020,3,Bus;School Bus
 0,,18786,18786,"Seacrest Dr After Haynes Rd","",-31.8265849876,115.7534993260,3,Bus;School Bus
 0,,18787,18787,"Seacrest Dr After St Helier Dr","",-31.8240670936,115.7526882750,3,Bus
@@ -9105,7 +9104,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,21576,21576,"Pinjarra Rd After Foulkes Pl","",-32.53476555555560,115.727928888889,7,Bus
 0,,21577,21577,"Pinjarra Rd After Randell St","Pinjarra Rd / Anstruther Rd",-32.5350639750,115.7308197330,7,Bus
 0,,21578,21578,"Pinjarra Rd Before Arnold St","Mandurah Forum",-32.5367192096,115.7415171270,7,Bus;School Bus
-0,,21579,21579,"Pinjarra Rd After Rio Grande Av","",-32.5385415782,115.7518914670,7,Bus;School Bus
 0,,21580,21580,"Pinjarra Rd Before Webster Wy","",-32.5444992301,115.7694849010,7,Bus;School Bus
 0,,21581,21581,"Pinjarra Rd After Webster Wy","",-32.5446092951,115.7691729290,7,Bus;School Bus
 0,,21582,21582,"Pinjarra Rd Before Old Pinjarra Rd","",-32.5405016161,115.7633272610,7,Bus;School Bus
@@ -9259,7 +9257,11 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,21821,21821,"Wilderness Dr After Bryde Ct","",-32.6412646891,115.64152132,9,Bus
 0,,21822,21822,"Wilderness Dr Before Old Coast Rd","",-32.6402486879,115.6394240640,9,Bus
 0,,21829,21829,"Lacey St After Redcliffe St","",-32.0169155643,115.9561152120,2,Bus
+0,,21830,21830,"Lacey St After North St","",-32.0148190702,115.9586099610,2,Bus
+0,,21831,21831,"Lacey St After Campbell St","",-32.0129053809,115.9608747340,2,Bus
 0,,21832,21832,"Lacey St Before Diamond St","",-32.0115096130,115.9626442320,2,Bus
+0,,21833,21833,"Lacey St After Diamond St","",-32.0130751294,115.9608013640,2,Bus
+0,,21834,21834,"Lacey St Before North St","",-32.0149352905,115.9585981060,2,Bus
 0,,21835,21835,"Lacey St After North St","",-32.0169123739,115.9562585650,2,Bus
 0,,21836,21836,"Elizabeth St After William St","Elizabeth St / Jubilee St",-32.0100399992,115.9683965710,2,Bus
 0,,21837,21837,"Station St Before Luyer Av","",-32.0046874108,115.96436776,2,Bus
@@ -10079,7 +10081,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,24150,24150,"Harlow Rd After Gilmore Av","",-32.24456611111110,115.809444444444,4,Bus
 0,,24152,24152,"Calista Av After Harlow Rd","",-32.2447673951,115.8065982410,4,Bus
 0,,24153,24153,"Calista Av Before Harlow Rd","",-32.2449853581,115.80640006,4,Bus
-0,,24154,24154,"Sicklemore Rd Before Adamson Rd","",-32.2394395481,115.8369855590,4,Bus
+0,,24154,24154,"Sicklemore Rd Before Adamson Rd","",-32.23969833333330,115.836891666667,4,Bus
 0,,24155,24155,"Warner Rd After Disney Rd","",-32.24377388888890,115.832428888889,4,Bus
 0,,24156,24156,"Warner Rd Before Disney Rd","",-32.2437070475,115.8325334110,4,Bus
 0,,24157,24157,"Warner Rd After Preston Rd","",-32.2426299412,115.8299262250,4,Bus
@@ -10417,6 +10419,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,25744,25744,"Abernethy Rd Before Grogan Rd","",-31.9531060306,115.9878064450,2,Bus
 0,,25745,25745,"Abernethy Rd After Grogan Rd","",-31.9530383286,115.9880979660,2,Bus
 0,,25751,25751,"Dunreath Dr After Brearley Av","",-31.93322277777780,115.952040555556,2,Bus
+0,,25755,25755,"School Access Rd Upper Swan Primary S1","Upper Swan Primary School",-31.7871006815,116.0232577840,3,Bus;School Bus
 0,,25757,25757,"Mount Henry Rd After Cloister Av","",-32.0175652721,115.8627160750,1,Bus
 0,,25758,25758,"Mount Henry Rd Before Cloister Av","",-32.0175529329,115.8625969890,1,Bus;School Bus
 0,,25759,25759,"Hope Av Before Cornish Cr","",-32.0200436804,115.8649143940,1,Bus
@@ -11800,8 +11803,10 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27994,27994,"Beaufort St After Aberdeen St","",-31.948060,115.863501666667,FTZ,Bus
 0,,27995,27995,"Herreshoff Rmbl Ocean Reef High Sch Stand 3","Ocean Reef Senior High School",-31.75999333333330,115.739758333333,3,Bus
 0,,27996,27996,"Herreshoff Rmbl Ocean Reef High Sch Stand 4","Ocean Reef Senior High School",-31.76011888888890,115.739657777778,3,Bus
+0,,28013,28013,"Gilbert Rd Duncraig Senior High School Stand 3","Duncraig Senior High School",-31.82255111111110,115.765170,3,Bus
 0,,28014,28014,"Selby St After The Boulevard","",-31.93897555555550,115.804082222222,1,Bus
 0,,28015,28015,"Selby St Before The Boulevard","",-31.93903166666670,115.804205,1,Bus
+0,,28017,28017,"Mather Dr Mather Dr Carpark Shuttle","",-31.67974722222220,115.789140555556,4,Bus
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1,Bus
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce ",-28.77343166666670,114.612454444444,1,Bus
 0,,70003,70003,"Chapman Rd Before Mark St","",-28.76018222222220,114.615859444444,1,Bus;School Bus
