@@ -150,9 +150,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10159,10159,"Albany Hwy Before Mallard Wy","",-32.0128774864,115.9277038550,2,Bus;School Bus
 0,,10160,10160,"Albany Hwy Before George Wy","",-32.0151004585,115.9291698720,2,Bus;School Bus
 0,,10161,10161,"Albany Hwy Before Fletcher St","",-32.0169468834,115.9332085630,2,Bus;School Bus
-0,,10162,10162,"Albany Hwy Before Liege St","Carousel Shop Ctr / Albany Hwy",-32.020710,115.937281111111,2,Bus
-0,,10163,10163,"Albany Hwy Before Liege St","Carousel Shop Ctr / Albany Hwy",-32.020920,115.937492222222,2,Bus
-0,,10163A,10163A,"Albany Hwy Before Liege St","Carousel Shop Ctr / Albany Hwy",-32.01922777777780,115.936045,2,Bus
+0,,10162,10162,"Albany Hwy Before Liege St","Carousel Shop Ctr / Albany Hwy",-32.01964388888890,115.936380,2,Bus
+0,,10163,10163,"Albany Hwy Before Liege St","Carousel Shop Ctr / Albany Hwy",-32.01922777777780,115.936045,2,Bus
 0,,10164,10164,"Albany Hwy Before Station St","Carousel Shop Ctr / Liege St",-32.02343555555560,115.940082777778,2,Bus
 0,,10165,10165,"Albany Hwy After Station St","",-32.0257530094,115.9428894090,2,Bus
 0,,10166,10166,"Albany Hwy After Nicholson Rd","",-32.0269236293,115.9466657480,2,Bus
@@ -422,7 +421,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10480,10480,"South St Before Victor St","",-32.0632037609,115.7803827970,2,Bus
 0,,10481,10481,"South St After Hines Rd","",-32.0631658941,115.7849668190,2,Bus
 0,,10483,10483,"South St After Stockdale Rd","South St / Stockdale Rd",-32.0630990113,115.7893125140,2,Bus
-0,,10484,10484,"South St After Yarrick St","",-32.0642994944,115.7966141660,2,Bus
+0,,10484,10484,"South St After Yarrick St","South St / Stock Rd",-32.0642994944,115.7966141660,2,Bus
 0,,10485,10485,"South St After Ladner St","Taylors College",-32.0653044468,115.8010360370,2,Bus
 0,,10486,10486,"South St After Plane Tree Gr","",-32.0659124499,115.8038308240,2,Bus
 0,,10487,10487,"South St After Petterson Av","",-32.0669692406,115.8084925690,2,Bus
@@ -483,7 +482,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10544,10544,"South St After Petterson Av","",-32.06699333333340,115.807390555556,2,Bus
 0,,10545,10545,"South St Before Mccombe Av","",-32.06613055555560,115.803480,2,Bus
 0,,10546,10546,"South St After Mccombe Av","",-32.0654457357,115.80038885,2,Bus
-0,,10548,10548,"South St Before Stock Rd","",-32.0646243454,115.7965500710,2,Bus
+0,,10548,10548,"South St Before Stock Rd","South St / Stock Rd",-32.0646243454,115.7965500710,2,Bus
 0,,10549,10549,"South St After Collick St","",-32.0634005674,115.78870305,2,Bus
 0,,10550,10550,"South St After Hines Rd","",-32.06330611111110,115.7833,2,Bus
 0,,10551,10551,"South St Before Carrington St","",-32.0633456437,115.7804099820,2,Bus
@@ -669,16 +668,13 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10748,10748,"Marmion St Before Stirling Hwy","",-32.0473638577,115.7651467230,2,Bus
 0,,10749,10749,"Marmion St After Stirling Hwy","",-32.0473933662,115.7626418520,2,Bus
 0,,10750,10750,"Marmion St After Chalmers St","",-32.0474338577,115.7595233710,2,Bus
-0,,10751,10751,"Lefroy Rd Before Mccleery St","",-32.0675732411,115.7585354450,2,Bus
 0,,10752,10752,"Lefroy Rd After Hale St","",-32.0675636216,115.7604606360,2,Bus
 0,,10753,10753,"Lefroy Rd After Sea View St","",-32.0675083172,115.7635905420,2,Bus
 0,,10754,10754,"Lefroy Rd After Caesar St","Fremantle College",-32.06721666666660,115.769643888889,2,Bus
 0,,10755,10755,"Lefroy Rd Before Fifth Av","",-32.0671312090,115.7717726290,2,Bus
-0,,10756,10756,"Lefroy Rd After Central Av","",-32.0671067012,115.7736286440,2,Bus
-0,,10757,10757,"Lefroy Rd After York St","",-32.0672028784,115.7736145670,2,Bus
 0,,10758,10758,"Lefroy Rd After Fifth Av","",-32.0672319703,115.7718656710,2,Bus
 0,,10759,10759,"Lefroy Rd Fremantle College Stand 1","Fremantle College",-32.06746333333330,115.768235,2,Bus
-0,,10760,10760,"Lefroy Rd Before Curedale St","",-32.0675829825,115.7645921750,2,Bus
+0,,10760,10760,"Lefroy Rd After Longford Rd","",-32.06760388888890,115.763575555556,2,Bus
 0,,10761,10761,"Lefroy Rd After Livingstone St","",-32.0676467749,115.7606598660,2,Bus
 0,,10762,10762,"Clontarf Rd After Newmarket St","",-32.0756020571,115.7628515760,2,Bus
 0,,10763,10763,"Clontarf Rd After Mather Rd","",-32.0753076880,115.7665315140,2,Bus
@@ -8335,7 +8331,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,20499,20499,"Spencer Rd After Glyndebourne Av","",-32.06030666666670,115.965517222222,2,Bus;School Bus
 0,,20500,20500,"Spencer Rd After Hume Rd","Thornlie Square Shop Ctr",-32.0569861030,115.9623165140,2,Bus;School Bus
 0,,20501,20501,"Spencer Rd After Sandon Rd","",-32.05497581,115.9605268970,2,Bus;School Bus
-0,,20502,20502,"Spencer Rd After Berehaven Av","",-32.0532090354,115.9589544470,2,Bus;School Bus
+0,,20502,20502,"Spencer Rd After Berehaven Av","",-32.05322611111110,115.959011111111,2,Bus;School Bus
 0,,20503,20503,"Spencer Rd After Pembury Rd","",-32.05082388888890,115.956756666667,2,Bus;School Bus
 0,,20504,20504,"Spencer Rd After Yale Rd","",-32.0486684093,115.9543582570,2,Bus;School Bus
 0,,20506,20506,"Spencer Rd After Wilfred Rd","",-32.0444448619,115.9506467440,2,Bus;School Bus
@@ -9246,7 +9242,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,21805,21805,"Dandaragan Dr After Ocean Rd","Dandaragan Dr / Moora Cl",-32.6248477962,115.6298339840,9,Bus
 0,,21808,21808,"Oceanic Dr After Belinda Loop","Oceanic Dr / Westbury Wy",-32.6361010743,115.6273201170,9,Bus
 0,,21810,21810,"Oceanic Dr Before Westbury Wy","Oceanic Dr / Westbury Wy",-32.63649777777780,115.626909444444,9,Bus
-0,,21813,21813,"Wilderness Dr After Old Coast Rd","",-32.6401443617,115.6394472220,9,Bus
+0,,21813,21813,"Wilderness Dr After Old Coast Rd","",-32.6401507677,115.6394069890,9,Bus
 0,,21814,21814,"Wilderness Dr After Gum Nut Av","",-32.6415053537,115.6416900190,9,Bus
 0,,21815,21815,"Wilderness Dr After Allendale Cr","",-32.6433925227,115.6410073970,9,Bus
 0,,21816,21816,"Wilderness Dr After Canopus Ct","",-32.64584388888890,115.641846111111,9,Bus
@@ -10551,7 +10547,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,25952,25952,"Blythe Av Before Hayes Av","",-31.9015824269,115.8521106710,1,Bus;School Bus
 0,,25953,25953,"Blythe Av Before Flinderst St","",-31.9015828864,115.8501902490,1,Bus;School Bus
 0,,25954,25954,"King Rd Before Salisbury Rd","",-31.8680013191,115.9335683720,2,Bus
-0,,25955,25955,"Platte Wy After King Rd","",-31.8674553334,115.9313865310,2,Bus
+0,,25955,25955,"Platte Wy After King Rd","",-31.86737777777780,115.931390555556,2,Bus
 0,,25956,25956,"Platte Wy Before King Rd","",-31.8675502945,115.9314989680,2,Bus
 0,,25957,25957,"King Rd After Salisbury Rd","",-31.8679215949,115.9336693290,2,Bus
 0,,25958,25958,"Diana Cr Before Arbon Wy","",-31.8807621859,115.9492611420,2,Bus
@@ -13358,28 +13354,9 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,74117,74117,"Brand Hwy Skipper Rd T/O","Skipper Rd Turnoff ",-29.637380,115.221070555556,9,Bus
 0,,74118,74118,"Dunsborough Lakes Dr Before Playing Fields Rd","",-33.61995944444440,115.107391666667,3,Bus;School Bus
 0,,74120,74120,"Resort Dr Before Dunsborough Lakes Dr","",-33.62307944444440,115.107781666667,3,Bus;School Bus
-0,,74123,74123,"Pinga Info Bay Before Carjarin Rd","",-20.37966944444450,118.597057222222,1,Bus
 0,,74124,74124,"Pinga St After Cajarina St","",-20.37968111111110,118.597522222222,1,Bus
-0,,74126,74126,"Cajarina Rd After Harwell Wy","",-20.38004888888890,118.594120,1,Bus;School Bus
-0,,74127,74127,"Cajarina Rd Before Harwell Wy","",-20.37998555555560,118.594106111111,1,Bus
-0,,74128,74128,"Pardoo St Before Munda Wy","",-20.37979055555550,118.591031111111,1,Bus;School Bus
-0,,74129,74129,"Pardoo St After Munda Wy","",-20.37975222222220,118.591197777778,1,Bus
-0,,74130,74130,"Munda Wy Before Harwell Wy","",-20.37796333333340,118.591765,1,Bus;School Bus
-0,,74131,74131,"Munda Wy After Harwell Wy","",-20.37796888888890,118.591966666667,1,Bus
-0,,74132,74132,"Iron Ore St After Maganese St","",-20.37586444444450,118.587737777778,1,Bus;School Bus
-0,,74133,74133,"Iron Ore St Before Manganese St","",-20.37593833333340,118.587886666667,1,Bus
-0,,74134,74134,"Taaffee St Before Murrena St","Taaffee St / Murrena St",-20.37390333333330,118.587106666667,1,Bus
-0,,74135,74135,"Taaffee St After Murrena St","Taaffee St / Murrena St",-20.37356555555560,118.587176111111,1,Bus
 0,,74136,74136,"Pinga St After Trig St","Pinga St / Trig St",-20.37229444444440,118.591542222222,1,Bus
 0,,74137,74137,"Pinga St After Schillaman St","Pinga St / Trig St",-20.37241166666670,118.591281666667,1,Bus
-0,,74138,74138,"Schillaman St Before Yanana","",-20.37202055555550,118.593998888889,1,Bus
-0,,74139,74139,"Schillaman St After Yanana St","",-20.37211666666670,118.593967222222,1,Bus
-0,,74140,74140,"Yanana St After Schillaman St","",-20.37036222222220,118.594957777778,1,Bus
-0,,74141,74141,"Yanana St Before Schillaman St","",-20.37031277777780,118.595041666667,1,Bus
-0,,74142,74142,"Yanana St Before Mooambine St","",-20.36864944444440,118.594396666667,1,Bus
-0,,74143,74143,"Yanana St After Mooambine St","",-20.36864722222230,118.594503333333,1,Bus
-0,,74144,74144,"Moorambine St Before Peawah St","",-20.36702388888890,118.592335555556,1,Bus
-0,,74145,74145,"Moorambine St Opposite Peahwah St","",-20.36687222222220,118.591951111111,1,Bus
 0,,74147,74147,"Glenfield Beach Dr After Chapman Rd","",-28.68083055555550,114.620132777778,2,Bus
 0,,74148,74148,"Glenfield Beach Dr Before Chapman Rd","",-28.68071333333340,114.620192222222,2,Bus
 0,,74149,74149,"Glenfield Beach Dr Before Surfside Tce","",-28.67915166666670,114.612165,2,Bus
