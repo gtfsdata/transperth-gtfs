@@ -3290,6 +3290,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,14039,14039,"Kalamunda Rd Before Highman St","",-31.9122867790,115.9692485070,2,Bus
 0,,14040,14040,"Kalamunda Rd Before Great Eastern Hwy","Kalamunda Rd / Great Eastern Hwy",-31.9109205547,115.96763592,2,Bus
 0,,14041,14041,"Kalamunda Rd After Great Eastern Hwy","",-31.9106928042,115.9675731260,2,Bus
+0,,14042,14042,"Kalamunda Rd After Highman St","",-31.9123376132,115.9695597910,2,Bus
 0,,14043,14043,"Kalamunda Rd After Short St","",-31.9147803093,115.9724730950,2,Bus
 0,,14044,14044,"Kalamunda Rd - Guildford Cemetery","",-31.9183053307,115.9773597790,2,Bus
 0,,14046,14046,"Kalamunda Rd Before Stirling Cr","Hillview Village",-31.9315021512,115.9990028970,2,Bus
@@ -10592,7 +10593,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26048,26048,"Hume Rd After Ciulligan Rd","",-32.05929777777780,115.960975555556,2,Bus;School Bus
 0,,26049,26049,"Warnbro Sound Av Before Lark Hill Sporting Com","",-32.39375166666670,115.759342222222,6,Bus
 0,,26050,26050,"Warnbro Sound Av After Lark Hill Sports Complex","",-32.3939360019,115.7596984320,6,Bus
-0,,26060,26060,"Beechboro Rd Before Orchid Av","",-31.8600388840,115.9247076760,2,Bus;School Bus
+0,,26060,26060,"Beechboro Rd Before Orchid Av","",-31.86003888888890,115.924678333333,2,Bus;School Bus
 0,,26061,26061,"Wright Rd After Guerin Av","Wright Rd / Bordeaux Pde",-32.1274561487,115.9143781620,3,Bus
 0,,26062,26062,"Wright Rd After Marseille Gdns","",-32.1253127021,115.9168845420,3,Bus
 0,,26063,26063,"Wright Rd After Gilman Ct","",-32.1249953074,115.9199500210,3,Bus
@@ -12960,7 +12961,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,72671,72671,"Adelaide Cr Before Middleton Rd","",-35.02365611111110,117.908971111111,1,Bus;School Bus
 0,,72672,72672,"Middleton Rd After Mckenzie St","",-35.02105166666670,117.905483333333,1,Bus;School Bus
 0,,72673,72673,"Middleton Rd After Denman Rd","",-35.0196472222221970,117.902151111111,1,Bus;School Bus
-0,,72674,72674,"Middleton Rd After Matthew L","",-35.01777055555560,117.896262777778,1,Bus;School Bus
+0,,72674,72674,"Middleton Rd After Matthew L","Middleton Rd/Matthew Ln",-35.01777055555560,117.896262777778,1,Bus;School Bus
 0,,72675,72675,"Rutherford St After Mckenzie Dr","",-34.95838888888890,117.933341111111,2,Bus;School Bus
 0,,72676,72676,"Rutherford St Before Slater St","",-34.959815,117.934030,2,Bus;School Bus
 0,,72677,72677,"Elizabeth St After Hubble St","",-34.960875,117.933931111111,2,Bus;School Bus
@@ -12998,7 +12999,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,72762,72762,"Collingwood Rd Before Rycraft Dr","",-35.00438166666670,117.911330555556,1,Bus;School Bus
 0,,72765,72765,"Nelson St Before Seymour St","",-35.01476888888890,117.902935555556,1,Bus
 0,,72769,72769,"Park Rd Before Baudin Pl","",-35.0102183333332990,117.891349444444,1,Bus;School Bus
-0,,72771,72771,"Angove Rd Before Wansborough St","",-35.00794277777780,117.895564444444,1,Bus;School Bus
+0,,72771,72771,"Angove Rd Before Wansborough St","Southern Masonic Village",-35.00794277777780,117.895564444444,1,Bus;School Bus
 0,,72775,72775,"Campbell Rd Before Cockburn Rd","",-35.0161816666666970,117.89330388888899,1,Bus;School Bus
 0,,72776,72776,"Middleton Rd Before Garden St","",-35.022655,117.910490,1,Bus;School Bus
 0,,72778,72778,"Golf Links Rd After Wollaston Rd","",-35.0209438888889010,117.912361111111,1,Bus;School Bus
