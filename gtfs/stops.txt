@@ -1646,7 +1646,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11864,11864,"Labouchere Rd Before Richardson St","",-31.9775833597,115.8524950760,1,Bus
 0,,11865,11865,"Labouchere Rd Perth Zoo","",-31.97567055555560,115.851722222222,1,Bus
 0,,11866,11866,"Labouchere Rd After Mends St","",-31.97389388888890,115.850956666667,1,Bus
-0,,11867,11867,"King Edward St After Mill Point Rd","",-31.9766634650,115.8586701380,1,Bus
 0,,11868,11868,"King Edward St After Clarence St","",-31.9782978431,115.8582807010,1,Bus
 0,,11869,11869,"King Edward St After York St","",-31.9794720099,115.8580256930,1,Bus
 0,,11870,11870,"King Edward St After Angelo St","",-31.9797130420,115.8578535470,1,Bus
@@ -1667,7 +1666,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11886,11886,"Coode St Before Hensman St","",-31.9850455555556010,115.86288111111099,1,Bus
 0,,11887,11887,"Coode St Before Angelo St","Coode St / Angelo St",-31.9814036633,115.8637108620,1,Bus
 0,,11888,11888,"Coode St Before Victoria St","Wesley College",-31.9796469572,115.8641326610,1,Bus
-0,,11889,11889,"Angelo St After King Edward St","",-31.98023277777780,115.859781111111,1,Bus
 0,,11890,11890,"Angelo St After Forrest St","",-31.9804879489,115.8613758070,1,Bus
 0,,11891,11891,"Angelo St Before Coode St","Angelo St / Coode St",-31.9808403565,115.8635852330,1,Bus
 0,,11892,11892,"Angelo St After Norfolk St","",-31.9813607665,115.8666855960,1,Bus
@@ -1859,6 +1857,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,10,12130,12130,"Beaufort St Museum Blue Cat 5","Beaufort St / Museum",-31.95016388888890,115.862133333333,FTZ,Bus
 0,10,12131,12131,"Beaufort St Museum Stop","Beaufort St / Museum",-31.9500099885,115.8622652410,FTZ,Bus
 0,10,12132,12132,"Beaufort St Museum Stand 1","Beaufort St / Museum",-31.94987166666670,115.862335555556,FTZ,Bus
+0,,12133,12133,"Beaufort St After Newcastle St","",-31.94670222222220,115.864340,FTZ,Bus
 0,,12139,12139,"Beaufort St Before Grosvenor Rd","Beaufort St / Walcott St",-31.93516555555560,115.871645555556,1,Bus
 0,,12140,12140,"Beaufort St Before Queens Cr","Perth College",-31.93236722222220,115.873827777778,1,Bus
 0,,12141,12141,"Beaufort St After Queens Cr","",-31.9310221702,115.8749580530,1,Bus
@@ -7835,7 +7834,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,19823,19823,"Kerry St Before Kerry Pl","",-32.0814357644,115.7744193730,2,Bus
 0,,19824,19824,"Kerry St Before Forrest Rd","",-32.0824069162,115.7743583540,2,Bus
 0,,19828,19828,"Carmody St After Redmond Rd","",-32.0821783577,115.7901685470,2,Bus
-0,,19829,19829,"Carmody St After Oconnell St","",-32.0829431782,115.7919719570,2,Bus
+0,,19829,19829,"Carmody St After Oconnell St","",-32.08284055555550,115.791713333333,2,Bus
 0,,19830,19830,"Carmody St Before Redmond Rd","",-32.0822040126,115.7899872240,2,Bus
 0,,19831,19831,"Ralston St After Cutts St","Ralston St / Dearle St",-32.0830581311,115.7944405590,2,Bus
 0,,19832,19832,"Ralston St Before Dearle St","Ralston St / Dearle St",-32.0830175219,115.7952278380,2,Bus
@@ -9767,8 +9766,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,23384,23384,"Joondalup Dr After Treetop Av","",-31.7621841148,115.7737083240,3,Bus;School Bus
 0,,23385,23385,"St Stephens Cr After Joondalup Dr","",-31.7156955971,115.7844490470,4,Bus
 0,,23388,23388,"Manning Rd After Elderfield Rd","",-32.0120026727,115.8781853260,1,Bus;School Bus
-0,,23389,23389,"Chittering Rd Before Maroubra Av","",-31.66715611111110,116.032257222222,4,Bus
-0,,23390,23390,"Chittering Rd After Maroubra Av","",-31.66705444444440,116.032397222222,4,Bus
+0,,23389,23389,"Chittering Rd Before Maroubra Av","",-31.66731611111110,116.032232777778,4,Bus
+0,,23390,23390,"Chittering Rd After Maroubra Av","",-31.66749388888890,116.032292777778,4,Bus
 0,,23392,23392,"Benara Rd Before Bennett St","",-31.8757032498,115.9606962460,2,Bus;School Bus
 0,,23394,23394,"South St After Vahland Av","",-32.0679009352,115.8884082150,2,Bus
 0,,23395,23395,"South St Before Vahland Av","",-32.0680993019,115.8880888240,2,Bus;School Bus
@@ -10541,7 +10540,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,25943,25943,"Armadale Rd After Seventh Rd","",-32.1469104137,115.99600289,3,Bus
 0,,25944,25944,"Armadale Rd After Tait St","",-32.1468500357,116.0034814760,3,Bus
 0,,25945,25945,"Armadale Rd Near Friar Rd","",-32.1468147834,116.0080847340,3,Bus
-0,,25946,25946,"Armadale Rd After Abbey Rd","",-32.1467870003,116.0114207270,3,Bus
+0,,25946,25946,"Armadale Rd Before Abbey Rd","",-32.1467870003,116.0114207270,3,Bus
 0,87,25947,25947,"Fremantle Stn Stand 13","Fremantle Stn",-32.05172444444450,115.746112777778,2,Bus
 0,,25948,25948,"Nangar St After Flinders St","Nangar St / Flinders Square",-31.9091888342,115.8482571330,1,Bus
 0,,25949,25949,"Blythe Av After Flinders St","",-31.9014499580,115.8503676080,1,Bus;School Bus
@@ -11209,7 +11208,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26947,26947,"Yandella Prom After Alvarez Pwy","",-31.7170023415,115.7966736630,4,Bus
 0,,26948,26948,"Yandella Prom After Waldburg Dr","",-31.7169261918,115.7966093070,4,Bus;School Bus
 0,,26949,26949,"Clarkson Av After Scarfo App","",-31.71789055555560,115.792066666667,4,Bus
-0,,26950,26950,"Clarkson Av After Scarfo App","",-31.71770888888890,115.792530555556,4,Bus
+0,,26950,26950,"Clarkson Av After Scarfo App","",-31.717730,115.792532777778,4,Bus
 0,,26951,26951,"Harrington Av After Clarkson Av","",-31.71692555555560,115.790436111111,4,Bus
 0,,26952,26952,"Harrington Av Before Clarkson Av","",-31.717385,115.790718333333,4,Bus
 0,,26953,26953,"Plant St Before Tighe St","Plant La / Tighe St",-31.97263055555560,115.949049444444,2,Bus
@@ -11796,6 +11795,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27970,27970,"Yanchep Beach Rd Before Frigate Crescent","",-31.54691666666670,115.633562222222,6,Bus
 0,,27971,27971,"Eighty Rd Before Amazon Dr","",-32.31230555555560,115.816088333333,5,Bus
 0,,27972,27972,"Eighty Rd After Amazon Dr","",-32.312210,115.816038888889,5,Bus
+0,,27988,27988,"Beach Rd After Dorchstr Ave","",-31.84533111111110,115.810145,2,Bus
 0,,27994,27994,"Beaufort St After Aberdeen St","",-31.948060,115.863501666667,FTZ,Bus
 0,,27995,27995,"Herreshoff Rmbl Ocean Reef High Sch Stand 3","Ocean Reef Senior High School",-31.75999333333330,115.739758333333,3,Bus
 0,,27996,27996,"Herreshoff Rmbl Ocean Reef High Sch Stand 4","Ocean Reef Senior High School",-31.76011888888890,115.739657777778,3,Bus
@@ -12919,7 +12919,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,72628,72628,"Albany Hwy After Coogee St","",-34.98954277777780,117.854997777778,1,Bus;School Bus
 0,,72629,72629,"Albany Hwy After Abercorn St","",-34.99523555555560,117.858739444444,1,Bus;School Bus
 0,,72630,72630,"Albany Hwy Before South Coast Hwy","",-35.00180333333330,117.864046666667,1,Bus;School Bus
-0,,72631,72631,"Albany Hwy After North Rd","",-35.00442777777780,117.866604444444,1,Bus;School Bus
+0,,72631,72631,"Albany Hwy After North Rd","Albany Hwy / North Rd",-35.00442777777780,117.866604444444,1,Bus;School Bus
 0,,72632,72632,"Albany Hwy After Macedon St","",-35.00697388888890,117.868294444444,1,Bus;School Bus
 0,,72633,72633,"Albany Hwy After Angus St","",-35.01072555555560,117.870795,1,Bus;School Bus
 0,,72634,72634,"Albany Hwy After Ashwell St","",-35.01282444444440,117.872593333333,1,Bus;School Bus
@@ -12945,7 +12945,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,72654,72654,"David St Before Campbell Rd","",-35.01039611111110,117.896148333333,1,Bus;School Bus
 0,,72655,72655,"Campbell Rd After Bathhurst St","Campbell Rd / Bathurst St",-35.0129222222222010,117.89423555555599,1,Bus;School Bus
 0,,72656,72656,"Campbell Rd After Cockburn Rd","",-35.01660777777780,117.893340555556,1,Bus;School Bus
-0,,72657,72657,"Middleton Rd After St Werburghs L","",-35.01943055555560,117.885367222222,1,Bus;School Bus
+0,,72657,72657,"Middleton Rd After St Werburghs L","Middleton Rd / St Werburghs Ln",-35.01943055555560,117.885367222222,1,Bus;School Bus
 0,,72658,72658,"St Emilie Wy Before Middleton Rd","St Emilie Wy / Middleton Rd",-35.0207077777778010,117.884521111111,1,Bus;School Bus
 0,,72659,72659,"Middleton Rd After Campbell Rd","Ambulance Hall",-35.0174588888889030,117.894845,1,Bus;School Bus
 0,,72660,72660,"Middleton Rd After Hay St","",-35.018575,117.900319444444,1,Bus;School Bus
@@ -13024,7 +13024,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,72935,72935,"Melville St After Grey St","",-35.02559166666670,117.876546666667,1,Bus
 0,,72936,72936,"Brunswick Rd Before Bolt Tce","",-35.03055444444440,117.895237777778,1,Bus
 0,,72937,72937,"Brunswick Rd Before Bridges St","",-35.02932777777780,117.891370,1,Bus
-0,,72942,72942,"Burt St After Campbell Rd","Albany Senior High School",-35.01931055555560,117.891167222222,1,Bus;School Bus
+0,,72942,72942,"Campbell Rd After Campbell Rd","Albany Senior High School",-35.01931055555560,117.891167222222,1,Bus;School Bus
 0,,72943,72943,"Burt St Before Campbell Rd","Albany Primary School",-35.01912333333330,117.890836666667,1,Bus;School Bus
 0,,72944,72944,"Hardie Rd Before Reidy Dr","Spencer Park Primary School",-35.00550055555560,117.900276666667,1,Bus;School Bus
 0,,72945,72945,"Lockyer Av Before Moir St","Hungry Jacks",-35.02029833333330,117.883550,1,Bus
