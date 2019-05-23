@@ -46,7 +46,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10048,10048,"Albany Hwy Before River Rd","",-32.0253285526,115.9416016280,2,Bus
 0,,10049,10049,"Albany Hwy After Liege St","Carousel Shop Ctr / Liege St",-32.0221095582,115.9381251150,2,Bus
 0,,10050,10050,"Albany Hwy - Carousel Shopping Ctr","Carousel Shop Ctr / Albany Hwy",-32.0192146875,115.9355699970,2,Bus
-0,,10051,10051,"Albany Hwy After Mason St","",-32.017205,115.932971666667,2,Bus;School Bus
+0,,10051,10051,"Albany Hwy After Mason St","",-32.017205,115.932971666667,2,Bus
 0,,10052,10052,"Albany Hwy After Wharf St","Albany Hwy / George St",-32.0161746350,115.93031973,2,Bus;School Bus
 0,,10053,10053,"Albany Hwy After Manning Rd","",-32.0124844390,115.9270083720,2,Bus
 0,,10054,10054,"Albany Hwy After Hamilton St","",-32.0106211964,115.9256581990,2,Bus
@@ -152,6 +152,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10161,10161,"Albany Hwy Before Fletcher St","",-32.0169468834,115.9332085630,2,Bus;School Bus
 0,,10162,10162,"Albany Hwy Before Liege St","Carousel Shop Ctr / Albany Hwy",-32.01964388888890,115.936380,2,Bus
 0,,10163,10163,"Albany Hwy Before Liege St","Carousel Shop Ctr / Albany Hwy",-32.01922777777780,115.936045,2,Bus
+0,,10163A,10163A,"Albany Hwy Before Liege St","Carousel Shop Ctr / Albany Hwy",-32.02090166666660,115.937496666667,2,Bus
 0,,10164,10164,"Albany Hwy Before Station St","Carousel Shop Ctr / Liege St",-32.02343555555560,115.940082777778,2,Bus
 0,,10165,10165,"Albany Hwy After Station St","",-32.0257530094,115.9428894090,2,Bus
 0,,10166,10166,"Albany Hwy After Nicholson Rd","",-32.0269236293,115.9466657480,2,Bus
@@ -196,7 +197,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10208,10208,"Albany Hwy Before Clarence Rd","",-32.1416531790,116.0174569180,3,Bus
 0,,10210,10210,"Albany Hwy After Brian St","",-32.1458895489,116.0192001910,3,Bus
 0,,10211,10211,"Albany Hwy Before Derry Av","",-32.1481740757,116.0207032990,4,Bus
-0,,10212,10212,"William St Before Forrest St","William St / Forrest St",-31.9321794561,115.8665313430,1,Bus
+0,,10212,10212,"William St Before Forrest St","William St / Walcott St",-31.9321794561,115.8665313430,1,Bus
 0,,10213,10213,"William St Before Grosvenor Rd","",-31.9345547106,115.8665222430,1,Bus
 0,,10214,10214,"William St Before Chatsworth Rd","",-31.9375233301,115.8659278360,1,Bus
 0,,10215,10215,"William St After Lincoln St","",-31.93980833333340,115.864500555556,1,Bus
@@ -2445,7 +2446,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12860,12860,"William St After Chatsworth Rd","",-31.9371314611,115.8660015130,1,Bus
 0,,12861,12861,"William St After Chelmsford Rd","",-31.9350460427,115.8663652690,1,Bus
 0,,12862,12862,"William St After Raglan Rd","",-31.9332838095,115.8663729320,1,Bus
-0,,12863,12863,"William St After Forrest St","William St / Forrest St",-31.9317680386,115.8663727020,1,Bus
+0,,12863,12863,"William St After Forrest St","William St / Walcott St",-31.9317680386,115.8663727020,1,Bus
 0,,12872,12872,"Newcastle St After Carr Pl","",-31.9381594706,115.8435305780,1,Bus
 0,,12873,12873,"Newcastle St Before Loftus St","",-31.9388356950,115.8450100920,1,Bus
 0,,12874,12874,"Newcastle St After Strathcona St","",-31.94103444444440,115.849831111111,FTZ,Bus
@@ -2989,9 +2990,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,13629,13629,"Cecil Av After Leila St","",-32.0171003874,115.93628320,2,Bus;School Bus
 0,,13630,13630,"Cecil Av After Carousel Rd","",-32.01494277777780,115.939708333333,2,Bus;School Bus
 0,,13631,13631,"Cecil Av Before Sevenoaks St","",-32.01398277777780,115.942775555556,2,Bus;School Bus
-0,,13632,13632,"Cecil Av After Sevenoaks St","",-32.01404611111110,115.943188888889,2,Bus;School Bus
-0,,13633,13633,"Cecil Av Before Carousel Rd","",-32.01504722222220,115.939921111111,2,Bus;School Bus
-0,,13634,13634,"Cecil Av After Pattie St","Carousel Shop Ctr / Cecil Av",-32.01725944444440,115.936345555556,2,Bus;School Bus
+0,,13632,13632,"Cecil Av After Sevenoaks St","",-32.01404611111110,115.943188888889,2,Bus
+0,,13633,13633,"Cecil Av Before Carousel Rd","",-32.01504722222220,115.939921111111,2,Bus
 0,,13642,13642,"Mills St Before Doust St","Bentley Health Service",-32.0071576132,115.9273032170,2,Bus
 0,,13648,13648,"Reginald St After Stephen St","",-32.0056612279,115.9515352410,2,Bus
 0,,13649,13649,"Reginald St Before Ayer Rd","",-32.0038182479,115.9536619680,2,Bus
@@ -4326,7 +4326,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,15307,15307,"Talbot Rd After Twin View","",-31.8753172214,116.0523959230,3,Bus
 0,,15308,15308,"Talbot Rd Before Chapman St","",-31.8770655399,116.0523909980,3,Bus
 0,,15309,15309,"Talbot Rd After Eaglemont Dr","",-31.8788432950,116.0523931830,3,Bus
-0,,15310,15310,"Talbot Rd After Kingsfield Av","",-31.8831106930,116.0523937580,3,Bus
+0,,15310,15310,"Talbot Rd After Kingsfield Av","",-31.882580,116.052388888889,3,Bus
 0,,15311,15311,"Talbot Rd After Churchill Dr","Talbot Rd / Morrison Rd",-31.8856361426,116.05240391,3,Bus
 0,,15312,15312,"Tunnel Rd After Talbot Rd","",-31.8811167932,116.0531826980,3,Bus
 0,,15313,15313,"Tunnel Rd After James St","",-31.8811075555,116.05454776,3,Bus
@@ -4667,8 +4667,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,15763,15763,"Amazon Dr After Madeira Av","",-31.8698258607,115.9413131030,2,Bus
 0,,15764,15764,"Amazon Dr After Danube Av","",-31.8676980276,115.9383173370,2,Bus
 0,,15765,15765,"Amazon Dr After Sacramento Av","",-31.8658428587,115.9354171930,2,Bus
-0,,15766,15766,"Amazon Dr After St Lawrence Dr","",-31.8659313132,115.9314498570,2,Bus
-0,,15769,15769,"Amazon Dr After Platte Wy","",-31.86583111111110,115.931395,2,Bus
+0,,15766,15766,"Amazon Dr After St Lawrence Dr","",-31.86583944444440,115.931686666667,2,Bus
+0,,15769,15769,"Amazon Dr After Platte Wy","",-31.86572555555560,115.931695555556,2,Bus
 0,,15770,15770,"Amazon Dr After St Lawrence Dr","",-31.8655515264,115.9343487740,2,Bus
 0,,15771,15771,"Amazon Dr After Sacramento Av","",-31.8672877630,115.9380184890,2,Bus
 0,,15772,15772,"Amazon Dr After Danube Av","",-31.8697769023,115.94150895,2,Bus
@@ -7831,9 +7831,9 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,19822,19822,"Stratton St Before Kerry St","",-32.0808291789,115.77427510,2,Bus
 0,,19823,19823,"Kerry St Before Kerry Pl","",-32.0814357644,115.7744193730,2,Bus
 0,,19824,19824,"Kerry St Before Forrest Rd","",-32.0824069162,115.7743583540,2,Bus
-0,,19828,19828,"Carmody St After Redmond Rd","",-32.0821783577,115.7901685470,2,Bus
+0,,19828,19828,"Redmond Rd After Hillier Cr","",-32.08120611111110,115.790095555556,2,Bus
 0,,19829,19829,"Carmody St After Oconnell St","",-32.08284055555550,115.791713333333,2,Bus
-0,,19830,19830,"Carmody St Before Redmond Rd","",-32.0822040126,115.7899872240,2,Bus
+0,,19830,19830,"Redmond Rd After Carmody St","",-32.08170944444450,115.789821111111,2,Bus
 0,,19831,19831,"Ralston St After Cutts St","Ralston St / Dearle St",-32.0830581311,115.7944405590,2,Bus
 0,,19832,19832,"Ralston St Before Dearle St","Ralston St / Dearle St",-32.0830175219,115.7952278380,2,Bus
 0,,19833,19833,"Carmody St After  Oconnell St","",-32.08280111111110,115.791478888889,2,Bus
@@ -7922,7 +7922,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,19953,19953,"Murdoch Dr Rangeview Remand Centre","",-32.0757155053,115.8429119390,2,Bus
 0,,19955,19955,"Murdoch Dr Murdoch University","",-32.0738179928,115.8430397310,2,Bus;School Bus
 0,,19957,19957,"Murdoch Dr Before South St","",-32.0667449033,115.8416045140,2,Bus
-0,,19958,19958,"Murdoch Dr After South St","",-32.0643430056,115.8423664160,2,Bus
 0,,19959,19959,"Murdoch Dr Before Hawke Pass","",-32.0561994124,115.8409850960,2,Bus
 0,,19960,19960,"Murdoch Dr Before Leach Hwy","",-32.0482725150,115.8430786590,2,Bus;School Bus
 0,,19961,19961,"Dean Rd After Grave Pass","Dean Rd / Graves Pass",-32.0509294779,115.8445103110,2,Bus
@@ -10157,7 +10156,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,24258,24258,"Camden Wy After Caslano Rd","",-32.4985826570,115.7543880850,7,Bus;School Bus
 0,,24259,24259,"Gordon Rd After Thornborough Rd","",-32.5108462986,115.7541046390,7,Bus;School Bus
 0,,24260,24260,"Gordon Rd Before Thornborough Rd","",-32.5110101082,115.7534371280,7,Bus;School Bus
-0,,24261,24261,"Pinjarra Rd After Parkview St","",-32.53611166666670,115.737638888889,7,Bus
+0,,24261,24261,"Pinjarra Rd Before Parkview St","",-32.53591111111110,115.736587222222,7,Bus
 0,,24262,24262,"Allnutt St Before Dower St","",-32.5276394240,115.7416887160,7,Bus;School Bus
 0,,24266,24266,"Allnutt St After Dower St","",-32.5274122704,115.74175793,7,Bus;School Bus
 0,,24267,24267,"Karinga Rd Before Hestia Wy","",-32.4875176785,115.74901918,7,Bus
@@ -10504,9 +10503,9 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,25899,25899,"The Broadway   After Birchmore Gdns","",-31.7663449065,115.98026598,3,Bus;School Bus
 0,,25900,25900,"The Broadway   Before Elmridge Pwy","",-31.7658088855,115.9771489670,3,Bus;School Bus
 0,,25901,25901,"The Broadway   After Elmina Av","",-31.7670540569,115.9715464580,3,Bus;School Bus
-0,,25902,25902,"The Broadway . After Coolamon Bvd","",-31.77260944444450,115.968756666667,3,Bus;School Bus
-0,,25903,25903,"The Broadway . After Pinegrove Dr","",-31.7754192455,115.9683441040,3,Bus;School Bus
-0,,25904,25904,"The Broadway . Before Comserv Loop","",-31.77849944444440,115.969268333333,3,Bus;School Bus
+0,,25902,25902,"The Broadway  After Coolamon Bvd","",-31.77260944444450,115.968756666667,3,Bus;School Bus
+0,,25903,25903,"The Broadway  After Pinegrove Dr","",-31.7754192455,115.9683441040,3,Bus;School Bus
+0,,25904,25904,"The Broadway  Before Comserv Loop","",-31.77849944444440,115.969268333333,3,Bus;School Bus
 0,,25905,25905,"Main St Before The Promenade","Ellenbrook Central Shop Ctr",-31.7806281138,115.9680192180,3,Bus;School Bus
 0,,25906,25906,"The Broadway   After Comserv Loop","",-31.7784552308,115.9689979660,3,Bus;School Bus
 0,,25907,25907,"The Broadway   Before Pinegrove Dr","",-31.7750840236,115.9679325090,3,Bus;School Bus
@@ -11076,6 +11075,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26768,26768,"William St Stand 6","William Street Stands",-31.9530679292,115.8571405410,FTZ,Bus
 0,,26769,26769,"William St Stand 7","William St / Perth Underground Entrance",-31.95324444444450,115.857005,FTZ,Bus
 0,,26772,26772,"Gordin Wy Before Abernethy Rd","Byford Secondary College",-32.2230017409,116.0040678930,4,Bus;School Bus
+0,,26772A,26772A,"Gordin Wy Before Abernethy Rd","Byford Secondary College",-32.22384444444450,116.003933333333,4,Bus;School Bus
 0,,26785,26785,"Brenchley Dr After Bartram Rd","Atwell College",-32.1448354453,115.8650818970,3,Bus
 0,,26786,26786,"Brenchley Dr Before Folland Pde","Atwell College",-32.1446479970,115.86512069,3,Bus
 0,,26787,26787,"Discovery Way Murdoch University","",-32.0702329742,115.8300490740,2,Bus
@@ -11557,8 +11557,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27602,27602,"Arthur St After Dayton Bvd","",-31.85654222222220,115.973516666667,2,Bus;School Bus
 0,,27603,27603,"Arthur St After Chinook Dr","",-31.85403055555550,115.973181666667,2,Bus;School Bus
 0,,27604,27604,"Arthur St After Olivina Pwy","",-31.85406777777780,115.973289444444,2,Bus;School Bus
-0,,27605,27605,"Arthur St Before Cranleigh St","",-31.85246722222220,115.973173888889,2,Bus;School Bus
-0,,27606,27606,"Arthur St After Cranleigh St","",-31.85191444444440,115.973327777778,2,Bus;School Bus
+0,,27605,27605,"Arthur St Before Cranleigh St","Arthur St / Cranleigh St",-31.85246722222220,115.973173888889,2,Bus;School Bus
+0,,27606,27606,"Arthur St After Cranleigh St","Arthur St / Cranleigh St",-31.85191444444440,115.973327777778,2,Bus;School Bus
 0,,27609,27609,"Collis Rd After Mortimer St","Collis Rd / Mortimer St",-32.16492277777780,115.814255,3,Bus
 0,,27610,27610,"Honeywood Av Before Litoria Dr","Honeywood Av / Darling Ch",-32.19843444444440,115.861543333333,4,Bus
 0,,27611,27611,"Honeywood Av Before Mornington Cr","",-32.19551888888890,115.860678888889,4,Bus
@@ -11669,12 +11669,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27780,27780,"Banksiadale Gte After Sinclair Vst","",-32.46948777777780,115.765428333333,7,Bus
 0,,27781,27781,"Banksiadale Gte Before Loretta Pky","",-32.46934166666670,115.765227777778,7,Bus
 0,,27784,27784,"Flynn St Before Reserve St","",-31.93106222222220,115.805796666667,1,Bus
-0,140,27785,27785,"Perth Stadium Stn Platform 1","Perth Stadium Stn",-31.95096722222220,115.893277777778,1,Rail
-0,140,27786,27786,"Perth Stadium Stn Platform 2","Perth Stadium Stn",-31.95092166666670,115.893335,1,Rail
-0,140,27787,27787,"Perth Stadium Stn Platform 3","Perth Stadium Stn",-31.94977777777780,115.892267222222,1,Rail
-0,140,27788,27788,"Perth Stadium Stn Platform 4","Perth Stadium Stn",-31.94972388888890,115.892338888889,1,Rail
-0,140,27789,27789,"Perth Stadium Stn Platform 5","Perth Stadium Stn",-31.95072055555560,115.893581666667,1,Rail
-0,140,27790,27790,"Perth Stadium Stn Platform 6","Perth Stadium Stn",-31.95067833333330,115.893642222222,1,Rail
 0,,27791,27791,"Jewel Wy After Ghost Gum Bvd","Banksia Grove Village Shop Ctr",-31.70457944444440,115.800693333333,4,Bus
 0,,27792,27792,"Jewel Wy Before Ghost Gum Bvd","Banksia Grove Village Shop Ctr",-31.70441277777780,115.801046111111,4,Bus
 0,,27794,27794,"Helena Valley Rd After Goldsbrough Ent","Helena Valley Rd / Lomandra Rd",-31.91862944444440,116.033565,2,Bus
@@ -11801,10 +11795,10 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,28014,28014,"Selby St After The Boulevard","",-31.93897555555550,115.804082222222,1,Bus
 0,,28015,28015,"Selby St Before The Boulevard","",-31.93903166666670,115.804205,1,Bus
 0,,28017,28017,"Mather Dr Mather Dr Carpark Shuttle","",-31.67974722222220,115.789140555556,4,Bus
-0,,28019,28019,"Wellington St After Old Milligan St","",-31.949680,115.853720,FTZ,Bus
+0,,28019,28019,"Wellington St After Maaman St","",-31.949680,115.853720,FTZ,Bus
 0,,28020,28020,"Wharf St After Pattie St","",-32.01503388888890,115.934283333333,2,Bus;School Bus
-0,,28025,28025,"Beaufort St Museum Blue Cat 5","Beaufort St / Museum",-31.95045555555560,115.861981666667,FTZ,Bus
-0,,28026,28026,"Beaufort St Museum Stop","Beaufort St / Museum",-31.95060277777780,115.861893333333,FTZ,Bus
+0,10,28025,28025,"Beaufort St Museum Blue Cat 5","Beaufort St / Museum",-31.95045555555560,115.861981666667,FTZ,Bus
+0,10,28026,28026,"Beaufort St Museum Stop","Beaufort St / Museum",-31.95060277777780,115.861893333333,FTZ,Bus
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1,Bus
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce ",-28.77343166666670,114.612454444444,1,Bus
 0,,70003,70003,"Chapman Rd Before Mark St","",-28.76018222222220,114.615859444444,1,Bus;School Bus
@@ -12271,7 +12265,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,70981,70981,"Whitworth Dr After Chapman Rd","Whitworth Dr / Nautilus Cr",-28.71845555555560,114.625193888889,1,Bus
 0,,70982,70982,"Whitworth Dr Before Volute St","",-28.7190666666666980,114.621901666667,1,Bus
 0,,70983,70983,"Volute St After Mitra Pl","",-28.7211477777778010,114.620777777778,1,Bus
-0,,70984,70984,"Baler Rd After Bosley St","",-28.7236049999999990,114.623104444444,1,Bus
+0,,70984,70984,"Baler Rd After Bosley St","",-28.7239014151,114.6231304030,1,Bus
 0,,70985,70985,"Charon Rd After Koolama Rd","",-28.7252366666666990,114.624610555556,1,Bus
 0,,70986,70986,"Gorgon Rd Before Swan Dr","",-28.7259061111111010,114.625849444444,1,Bus
 0,,70987,70987,"Swan Dr Before Chapman Rd","Swan Dr / Gorgon Rd",-28.7274299999999980,114.62615055555599,1,Bus
@@ -12901,7 +12895,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,72611,72611,"Admiral St After Mueller St","",-35.00670111111110,117.856706111111,1,Bus;School Bus
 0,,72612,72612,"Clifton St After Admiral St","",-35.00514555555560,117.855051666667,1,Bus
 0,,72613,72613,"Mckeown Av After Townsend St","",-35.002325,117.853033333333,1,Bus
-0,,72614,72614,"Cull Rd After Mckeown Av","",-35.00178555555560,117.848937777778,1,Bus
+0,,72614,72614,"Mueller St After Mckeown Av","",-35.00178555555560,117.848937777778,1,Bus
 0,,72615,72615,"South Coast Hwy Before Admiral St","",-35.00154388888890,117.856967777778,1,Bus
 0,,72616,72616,"Mckail St Before Russell Ct","Mckail St / Barrett St",-35.0002111111110990,117.859803888889,1,Bus
 0,,72617,72617,"Mckail St After Lennard St","",-35.00019055555560,117.855573333333,1,Bus
@@ -12931,7 +12925,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,72641,72641,"Park Rd Before Angove Rd","",-35.00743277777780,117.892653333333,1,Bus;School Bus
 0,,72642,72642,"Hardie Rd After Angove Rd","Hardie Rd Shops",-35.00783777777780,117.898888888889,1,Bus;School Bus
 0,,72643,72643,"Hardie Rd Before Maley Pl","Spencer Park Primary School",-35.0041883333333030,117.900692777778,1,Bus;School Bus
-0,,72644,72644,"Warden Av Before Reidy Dr","Albany Regional Hospital",-35.003555,117.902721111111,1,Bus
+0,,72644,72644,"Warden Av Before Reidy Dr","Albany Regional Hospital (North)",-35.003555,117.902721111111,1,Bus
 0,,72645,72645,"Poole St After Reidy Dr","",-35.00700055555560,117.903200555556,1,Bus
 0,,72646,72646,"Angove Rd After Nind St","",-35.00990055555560,117.901773333333,1,Bus
 0,,72647,72647,"Collingwood Rd Before Warden Av","",-35.00777111111110,117.906087222222,1,Bus;School Bus
@@ -12979,7 +12973,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,72690,72690,"Taylor St After Yatana Rd","",-34.97980166666670,117.927803333333,1,Bus
 0,,72691,72691,"Westall St After Kurannup Rd","",-34.98102611111110,117.928902777778,1,Bus
 0,,72692,72692,"Bayonet Head Rd Before Lower King Rd","Bayonet Head Rd / Lower King Rd",-34.98140777777780,117.922860,1,Bus;School Bus
-0,,72693,72693,"Warden Av After Reidy Dr","Albany Regional Hospital",-35.00356333333330,117.902510,1,Bus
+0,,72693,72693,"Warden Av After Reidy Dr","Albany Regional Hospital (South)",-35.00356333333330,117.902510,1,Bus
 0,,72694,72694,"Hardie Rd After Mokare Rd","Hardie Rd Shops",-35.0078838888888980,117.898964444444,1,Bus;School Bus
 0,,72695,72695,"Barrett St After South Coast Hwy","",-35.00136944444440,117.861226666667,1,Bus
 0,,72696,72696,"Rutherford St After Lower King Rd","",-34.95781944444440,117.932479444444,2,Bus;School Bus
@@ -13349,10 +13343,10 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,74109,74109,"Denison Link After Surrey Link","",-33.30597944444450,115.739645555556,2,Bus
 0,,74111,74111,"Eaton Dr Before Jindalee Wy","",-33.29933333333330,115.730418333333,2,Bus
 0,,74112,74112,"Eaton Dr After Jindalee Wy","",-33.29896111111110,115.730392777778,2,Bus;School Bus
-0,,74113,74113,"The Boulevard Bvd Before Golden Beryl Av","",-33.288940,115.739056666667,2,Bus;School Bus
-0,,74114,74114,"The Boulevard Bvd Before Quartz Dr","",-33.28955722222220,115.739210,2,Bus
-0,,74115,74115,"The Boulevard Bvd Before Carina Lane","",-33.28726055555560,115.739222222222,2,Bus
-0,,74116,74116,"The Boulevard Bvd Before Zircon Wy","",-33.28656444444440,115.739071111111,2,Bus;School Bus
+0,,74113,74113,"The Boulevard  Before Golden Beryl Av","",-33.288940,115.739056666667,2,Bus;School Bus
+0,,74114,74114,"The Boulevard  Before Quartz Dr","",-33.28955722222220,115.739210,2,Bus
+0,,74115,74115,"The Boulevard  Before Carina Lane","",-33.28726055555560,115.739222222222,2,Bus
+0,,74116,74116,"The Boulevard  Before Zircon Wy","",-33.28656444444440,115.739071111111,2,Bus;School Bus
 0,,74117,74117,"Brand Hwy Skipper Rd T/O","Skipper Rd Turnoff ",-29.637380,115.221070555556,9,Bus
 0,,74118,74118,"Dunsborough Lakes Dr Before Playing Fields Rd","",-33.61995944444440,115.107391666667,3,Bus;School Bus
 0,,74120,74120,"Resort Dr Before Dunsborough Lakes Dr","",-33.62307944444440,115.107781666667,3,Bus;School Bus
@@ -13773,6 +13767,12 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,72,99022,99022,"Claisebrook Stn Platform 2","Claisebrook Stn",-31.9495844444444010,115.872264444444,FTZ,Rail
 0,72,99023,99023,"Claisebrook Stn Platform 3","Claisebrook Stn",-31.9495261111111010,115.87220888888901,FTZ,Rail
 0,72,99024,99024,"Claisebrook Stn Platform 4","Claisebrook Stn",-31.9494827777777990,115.872176666667,FTZ,Rail
+0,140,99031,99031,"Perth Stadium Stn Platform 1","Perth Stadium Stn",-31.95096722222220,115.893277777778,1,Rail
+0,140,99032,99032,"Perth Stadium Stn Platform 2","Perth Stadium Stn",-31.95092166666670,115.893335,1,Rail
+0,140,99033,99033,"Perth Stadium Stn Platform 3","Perth Stadium Stn",-31.94977777777780,115.892267222222,1,Rail
+0,140,99034,99034,"Perth Stadium Stn Platform 4","Perth Stadium Stn",-31.94972388888890,115.892338888889,1,Rail
+0,140,99035,99035,"Perth Stadium Stn Platform 5","Perth Stadium Stn",-31.95072055555560,115.893581666667,1,Rail
+0,140,99036,99036,"Perth Stadium Stn Platform 6","Perth Stadium Stn",-31.95067833333330,115.893642222222,1,Rail
 0,33,99041,99041,"Burswood Stn Platform 1","Burswood Stn",-31.959795,115.89991555555601,1,Rail
 0,33,99042,99042,"Burswood Stn Platform 2","Burswood Stn",-31.95979722222220,115.89998777777799,1,Rail
 0,48,99051,99051,"Victoria Park Stn Platform 1","Victoria Park Stn",-31.9715877777777990,115.902121111111,1,Rail
