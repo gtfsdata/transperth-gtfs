@@ -7383,7 +7383,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,19192,19192,"Sackville Tce After Woodside St","",-31.8878570834,115.7844311380,2,Bus
 0,,19193,19193,"Sackville Tce After Ravenscar St","",-31.8878752649,115.7864371330,2,Bus
 0,,19194,19194,"Sackville Tce After Ravenscar St","",-31.8880071626,115.7855186050,2,Bus
-0,,19195,19195,"Sackville Tce After Woodside St","",-31.8879848162,115.7831787170,2,Bus
+0,,19195,19195,"Sackville Tce After Woodside St","",-31.887985,115.783178888889,2,Bus
 0,,19196,19196,"Sackville Tce Before Alice St","",-31.8879737051,115.7816648670,2,Bus
 0,,19197,19197,"Sackville Tce After Gritten L","",-31.8879525387,115.7792676040,2,Bus
 0,,19198,19198,"Sackville Tce After Herbert St","",-31.8879381495,115.7772671310,2,Bus
