@@ -370,15 +370,15 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10427,10427,"Adelaide St After Parry St","",-32.0513839181,115.7493459440,2,Bus;School Bus
 0,87,10428,10428,"Fremantle Stn Stand 1","Fremantle Stn",-32.0520794810,115.7454554640,2,Bus;School Bus
 0,87,10429,10429,"Fremantle Stn Stand 2","Fremantle Stn",-32.05194055555560,115.745593888889,2,Bus
-0,87,10430,10430,"Fremantle Stn Stand 3","Fremantle Stn",-32.05184277777780,115.745686666667,2,Bus
-0,87,10431,10431,"Fremantle Stn Stand 4","Fremantle Stn",-32.05162444444440,115.745908333333,2,Bus
+0,87,10430,10430,"Fremantle Stn Stand 3","Fremantle Stn",-32.05178888888890,115.745740,2,Bus
+0,87,10431,10431,"Fremantle Stn Stand 4","Fremantle Stn",-32.05163611111110,115.745893888889,2,Bus
 0,87,10432,10432,"Fremantle Stn Stand 5","Fremantle Stn",-32.05152222222220,115.746010555556,2,Bus;School Bus
-0,87,10434,10434,"Fremantle Stn Stand 7","Fremantle Stn",-32.051985,115.745699444444,2,Bus
+0,87,10434,10434,"Fremantle Stn Stand 7","Fremantle Stn",-32.05206388888890,115.745637777778,2,Bus
 0,87,10435,10435,"Fremantle Stn Stand 8","Fremantle Stn",-32.05189833333330,115.7458,2,Bus
 0,87,10436,10436,"Fremantle Stn Stand 9","Fremantle Stn",-32.05174944444450,115.745946666667,2,Bus
-0,87,10437,10437,"Fremantle Stn Stand 10","Fremantle Stn",-32.05164333333330,115.746031666667,2,Bus
-0,87,10438,10438,"Fremantle Stn Stand 11","Fremantle Stn",-32.051985,115.745863888889,2,Bus
-0,87,10439,10439,"Fremantle Stn Stand 12","Fremantle Stn",-32.05185666666670,115.745991666667,2,Bus
+0,87,10437,10437,"Fremantle Stn Stand 10","Fremantle Stn",-32.05159611111110,115.746101666667,2,Bus
+0,87,10438,10438,"Fremantle Stn Stand 11","Fremantle Stn",-32.05190611111110,115.745958333333,2,Bus
+0,87,10439,10439,"Fremantle Stn Stand 12","Fremantle Stn",-32.05177277777780,115.746092222222,2,Bus
 0,,10440,10440,"Phillimore St After Cliff St","",-32.05470833333330,115.742566666667,2,Bus
 0,87,10441,10441,"Phillimore St Fremantle Stn","Phillimore St / Market St",-32.0525626935,115.7450436410,2,Bus
 0,,10443,10443,"Queen St Before Adelaide St","",-32.05290222222220,115.747857777778,2,Bus
@@ -977,16 +977,16 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11127,11127,"Riseley St After Calgary St","",-32.0263826595,115.8375074510,2,Bus;School Bus
 0,,11128,11128,"Riseley St After Drew Rd","",-32.0238321177,115.8365030050,1,Bus;School Bus
 0,,11129,11129,"Riseley St Before Kearns Cr","Riseley St / Canning Hwy",-32.0215346230,115.8347785420,1,Bus;School Bus
-0,47,11130,11130,"Booragoon Bus Station   Stand D4","Booragoon Bus Stn",-32.03587277777780,115.837209444444,2,Bus;School Bus
-0,47,11131,11131,"Booragoon Bus Station   Stand D3","Booragoon Bus Stn",-32.03585944444440,115.837016666667,2,Bus
-0,47,11132,11132,"Booragoon Bus Station   Stand D2","Booragoon Bus Stn",-32.03584666666670,115.836823888889,2,Bus;School Bus
-0,47,11133,11133,"Booragoon Bus Station   Stand D1","Booragoon Bus Stn",-32.03583444444440,115.836642222222,2,Bus
-0,47,11136,11136,"Booragoon Bus Station   Stand B2","Booragoon Bus Stn",-32.036055,115.837167777778,2,Bus
-0,47,11137,11137,"Booragoon Bus Station   Stand B1","Booragoon Bus Stn",-32.03607111111110,115.837440555556,2,Bus
-0,47,11138,11138,"Booragoon Bus Station   Stand C4","Booragoon Bus Stn",-32.03599722222230,115.837286111111,2,Bus
-0,47,11139,11139,"Booragoon Bus Station   Stand C3","Booragoon Bus Stn",-32.03598888888890,115.837118888889,2,Bus
-0,47,11140,11140,"Booragoon Bus Station   Stand C2","Booragoon Bus Stn",-32.03597166666670,115.836823333333,2,Bus
-0,47,11141,11141,"Booragoon Bus Station   Stand C1","Booragoon Bus Stn",-32.03595833333330,115.836603333333,2,Bus
+0,47,11130,11130,"Booragoon Bus Stn Stand D4","Booragoon Bus Stn",-32.03587277777780,115.837209444444,2,Bus;School Bus
+0,47,11131,11131,"Booragoon Bus Stn Stand D3","Booragoon Bus Stn",-32.03585944444440,115.837016666667,2,Bus
+0,47,11132,11132,"Booragoon Bus Stn Stand D2","Booragoon Bus Stn",-32.03584666666670,115.836823888889,2,Bus;School Bus
+0,47,11133,11133,"Booragoon Bus Stn Stand D1","Booragoon Bus Stn",-32.03583444444440,115.836642222222,2,Bus
+0,47,11136,11136,"Booragoon Bus Stn Stand B2","Booragoon Bus Stn",-32.036055,115.837167777778,2,Bus
+0,47,11137,11137,"Booragoon Bus Stn Stand B1","Booragoon Bus Stn",-32.03607111111110,115.837440555556,2,Bus
+0,47,11138,11138,"Booragoon Bus Stn Stand C4","Booragoon Bus Stn",-32.03599722222230,115.837286111111,2,Bus
+0,47,11139,11139,"Booragoon Bus Stn Stand C3","Booragoon Bus Stn",-32.03598888888890,115.837118888889,2,Bus
+0,47,11140,11140,"Booragoon Bus Stn Stand C2","Booragoon Bus Stn",-32.03597166666670,115.836823333333,2,Bus
+0,47,11141,11141,"Booragoon Bus Stn Stand C1","Booragoon Bus Stn",-32.03595833333330,115.836603333333,2,Bus
 0,,11142,11142,"Queen St After Adelaide St","",-32.0528416666667010,115.74734888888899,2,Bus;School Bus
 0,,11143,11143,"Queen Victoria St Before Swan St","",-32.03834833333330,115.754021666667,2,Bus;School Bus
 0,,11144,11144,"Queen Victoria St After Harvest Rd","",-32.0350352426,115.7533028360,2,Bus;School Bus
@@ -1007,7 +1007,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11159,11159,"Wray Av Before Solomon St","",-32.0625787990,115.7587715130,2,Bus
 0,,11160,11160,"Gugeri St After Bay View Tce","Gugeri St / Bayview Tce",-31.98159055555560,115.780284444444,2,Bus;School Bus
 0,,11161,11161,"Cordelia Av After Regan St","",-32.08404555555560,115.803591111111,2,Bus
-0,,11162,11162,"Cordelia Av Before Curan St","",-32.0835536111,115.8054002870,2,Bus
 0,,11163,11163,"Cordelia Av After Coolbellup Av","Coolbellup Shop Ctr",-32.0833107578,115.8079785450,2,Bus
 0,,11164,11164,"Cordelia Av Before Tybalt Pl","",-32.0833132712,115.8105854650,2,Bus
 0,,11166,11166,"Cordelia Av After Cordelia Av","",-32.0835657561,115.8100051150,2,Bus
@@ -1178,9 +1177,9 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,21,11358,11358,"Morley Station   Stand 3","Morley Bus Stn",-31.89875277777780,115.898253333333,1,Bus
 0,21,11359,11359,"Morley Station   Stand 2","Morley Bus Stn",-31.89863722222220,115.898112222222,1,Bus
 0,21,11360,11360,"Morley Station   Stand 1","Morley Bus Stn",-31.89852222222220,115.897970555556,1,Bus;School Bus
-0,21,11361,11361,"Morley Station   Stand 6","Morley Bus Stn",-31.89887833333340,115.898146111111,1,Bus
-0,21,11362,11362,"Morley Station   Stand 5","Morley Bus Stn",-31.89874055555550,115.897983888889,1,Bus
-0,21,11363,11363,"Morley Station   Stand 4","Morley Bus Stn",-31.898625,115.897845,1,Bus
+0,21,11361,11361,"Morley Station   Stand 6","Morley Bus Stn",-31.89886611111110,115.898156111111,1,Bus
+0,21,11362,11362,"Morley Station   Stand 5","Morley Bus Stn",-31.89872722222220,115.897995,1,Bus
+0,21,11363,11363,"Morley Station   Stand 4","Morley Bus Stn",-31.89861166666670,115.897856111111,1,Bus
 0,21,11364,11364,"Morley Station   Stand 9","Morley Bus Stn",-31.89875555555560,115.897882777778,1,Bus
 0,21,11365,11365,"Morley Station   Stand 8","Morley Bus Stn",-31.898875,115.898025555556,1,Bus;School Bus
 0,21,11366,11366,"Morley Station   Stand 7","Morley Bus Stn",-31.89899166666670,115.898161111111,1,Bus
@@ -6060,7 +6059,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,17587,17587,"Broadway   After Princess Rd","",-31.98487388888890,115.814461666667,1,Bus
 0,,17588,17588,"Broadway   After Elizabeth St","",-31.98293055555560,115.814460,1,Bus
 0,,17589,17589,"Broadway   Before Edward St","",-31.9809621687,115.8144427780,1,Bus
-0,,17590,17590,"Broadway   Before Clark St","Broadway / Clark St",-31.97958666666670,115.814346666667,1,Bus
 0,,17591,17591,"Broadway  Before Cooper St","",-31.97857333333330,115.814109444444,1,Bus
 0,,17594,17594,"Cooper St After Bruce St","Cooper St / Bruce St",-31.9787158191,115.8115837930,1,Bus
 0,,17596,17596,"Bruce St After Clark St","",-31.9805545759,115.8111559020,1,Bus;School Bus
@@ -6100,7 +6098,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,17632,17632,"Bay View Tce Claremont Primary School","",-31.9855944436,115.7813386960,2,Bus
 0,,17633,17633,"Bay View Tce Before Stirling Hwy","",-31.9837517988,115.7813320490,2,Bus
 0,,17635,17635,"Waratah Av After Hobbs Av","",-31.9948707874,115.8090107350,1,Bus;School Bus
-0,,17636,17636,"Waratah Av After Browne Av","",-31.9948691508,115.8074382940,1,Bus;School Bus
 0,,17637,17637,"Waratah Av After Wavell Rd","",-31.9948667408,115.8047451170,1,Bus
 0,,17638,17638,"Waratah Av After Curlew Rd","",-31.9948581973,115.8009477780,1,Bus
 0,,17639,17639,"Waratah Av Dalkeith Shopping Centre","",-31.9948810539,115.7979006090,1,Bus
@@ -6757,7 +6754,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,18458,18458,"Whitfords Av Before Eddystone Av","",-31.7946510765,115.7642767690,3,Bus
 0,,18459,18459,"Whitfords Av After Eddystone Av","",-31.7937253390,115.7672251970,3,Bus
 0,,18460,18460,"Whitfords Av After Electra St","",-31.7940452723,115.7709169780,3,Bus
-0,,18461,18461,"Whitfords Av After Gibson Av","",-31.7959193095,115.7745496050,3,Bus
+0,,18461,18461,"Whitfords Av After Gibson Av","",-31.79586333333330,115.774452222222,3,Bus
 0,,18462,18462,"Whitfords Av After Mitchell Fwy","",-31.79783444444440,115.786047222222,3,Bus;School Bus
 0,,18463,18463,"Whitfords Av Before Timbercrest Rise","Whitfords Av / Kingsley Dr",-31.7991679738,115.7901793080,3,Bus;School Bus
 0,,18464,18464,"Whitfords Av After Timbercrest Rise","",-31.8002254007,115.7929307350,3,Bus;School Bus
@@ -7127,7 +7124,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,18906,18906,"Flora Tce After Ada St","",-31.8500101651,115.7550029140,2,Bus;School Bus
 0,,18907,18907,"Flora Tce Before Elvire St","",-31.8517236270,115.7547562470,2,Bus;School Bus
 0,,18908,18908,"Flora Tce Before Hale St","",-31.8533656907,115.7541795610,2,Bus;School Bus
-0,,18909,18909,"Flora Tce Before Castle St","",-31.8552959515,115.7541993310,2,Bus;School Bus
 0,,18910,18910,"Flora Tce Before Malcolm St","",-31.8570816666667010,115.754168888889,2,Bus;School Bus
 0,,18911,18911,"Flora Tce After Malcolm St","",-31.8566435917,115.7540353050,2,Bus;School Bus
 0,,18912,18912,"Flora Tce After Lawley St","",-31.8542235006,115.7540666650,2,Bus;School Bus
@@ -9283,9 +9279,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,21880,21880,"Quarkum St Before Elliot Rd","",-31.7621794772,115.8122587330,3,Bus
 0,,21881,21881,"Celestine St After Quarkum St","",-31.7600727186,115.8124725670,3,Bus
 0,,21884,21884,"Joondalup Dr Before St Stephens Cr","Joondalup Dr / St Stephens Cr",-31.71458333333330,115.785575,4,Bus
-0,,21885,21885,"St Stephens Cr Before Upton Wy","St Stephens Sch Tapping",-31.7163055250,115.7871205020,4,Bus
-0,,21886,21886,"St Stephens Cr Before Maryland Dr","St Stephens Sch Tapping",-31.7164605488,115.7870957690,4,Bus
-0,,21887,21887,"St Stephens Cr Before Joondalup Dr","",-31.71559722222220,115.784255555556,4,Bus
 0,,21890,21890,"Whitfords Av After Wanneroo Rd","",-31.80054277777780,115.814946666667,3,Bus
 0,,21891,21891,"Whitfords Av Before Wanneroo Rd","",-31.8003353646,115.8148133770,3,Bus
 0,,21892,21892,"Susan Rd After Gnangara Rd","",-31.8038152741,115.8230251760,3,Bus
@@ -9759,7 +9752,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,45,23382,23382,"Ellenbrook Stn Stand 1","Ellenbrook Transfer Stn",-31.79640222222220,115.962830555556,3,Bus;School Bus
 0,,23383,23383,"Lena St Before Temby St","",-32.0184837841,115.9556056510,2,Bus
 0,,23384,23384,"Joondalup Dr After Treetop Av","",-31.7621841148,115.7737083240,3,Bus;School Bus
-0,,23385,23385,"St Stephens Cr After Joondalup Dr","",-31.7156955971,115.7844490470,4,Bus
 0,,23388,23388,"Manning Rd After Elderfield Rd","",-32.0120026727,115.8781853260,1,Bus;School Bus
 0,,23389,23389,"Chittering Rd Before Maroubra Av","",-31.66731611111110,116.032232777778,4,Bus
 0,,23390,23390,"Chittering Rd After Maroubra Av","",-31.66749388888890,116.032292777778,4,Bus
@@ -10536,7 +10528,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,25944,25944,"Armadale Rd After Tait St","",-32.1468500357,116.0034814760,3,Bus
 0,,25945,25945,"Armadale Rd Near Friar Rd","",-32.1468147834,116.0080847340,3,Bus
 0,,25946,25946,"Armadale Rd Before Abbey Rd","",-32.1467870003,116.0114207270,3,Bus
-0,87,25947,25947,"Fremantle Stn Stand 13","Fremantle Stn",-32.05172444444450,115.746112777778,2,Bus
+0,87,25947,25947,"Fremantle Stn Stand 13","Fremantle Stn",-32.05162833333330,115.746233333333,2,Bus
 0,,25948,25948,"Nangar St After Flinders St","Nangar St / Flinders Square",-31.9091888342,115.8482571330,1,Bus
 0,,25949,25949,"Blythe Av After Flinders St","",-31.9014499580,115.8503676080,1,Bus;School Bus
 0,,25951,25951,"Blythe Av After Milton St","",-31.9015790113,115.8548133920,1,Bus;School Bus
@@ -10938,7 +10930,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26566,26566,"Warnbro Sound Av After Aurea Bvd","",-32.41904722222220,115.760905,6,Bus;School Bus
 0,,26567,26567,"Champion Dr Before Keira St","",-32.1316057855,116.0028739880,3,Bus
 0,,26568,26568,"Malarkey Rd After Pomera Dr","",-32.2109963002,115.9865378130,4,Bus;School Bus
-0,,26569,26569,"Malarkey Rd Before Pomera Dr","",-32.21180777777780,115.986656666667,4,Bus;School Bus
+0,,26569,26569,"Malarkey Rd Before Pomera Dr","",-32.21101111111110,115.986639444444,4,Bus;School Bus
 0,,26570,26570,"Mead St Before Millard Way","",-32.22450555555550,115.994991666667,4,Bus;School Bus
 0,,26571,26571,"Mead St Before Cranbourne Wy","",-32.224670,115.993302222222,4,Bus;School Bus
 0,,26572,26572,"Keanefield Dr After Lynnburn Pass","",-31.70645666666670,115.792988333333,4,Bus
@@ -11204,8 +11196,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26948,26948,"Yandella Prom After Waldburg Dr","",-31.7169261918,115.7966093070,4,Bus;School Bus
 0,,26949,26949,"Clarkson Av After Scarfo App","",-31.71789055555560,115.792066666667,4,Bus
 0,,26950,26950,"Clarkson Av After Scarfo App","",-31.717730,115.792532777778,4,Bus
-0,,26951,26951,"Harrington Av After Clarkson Av","",-31.71692555555560,115.790436111111,4,Bus
-0,,26952,26952,"Harrington Av Before Clarkson Av","",-31.717385,115.790718333333,4,Bus
 0,,26953,26953,"Plant St Before Tighe St","Plant La / Tighe St",-31.97263055555560,115.949049444444,2,Bus
 0,,26954,26954,"Kew St Before Burns St","",-31.97073166666670,115.948494444444,2,Bus
 0,,26955,26955,"Kew St After Burns St","",-31.970925,115.948403888889,2,Bus
@@ -11760,7 +11750,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,142,27934,27934,"Curtin Central Bus Stn Stand 7","Curtin Central Bus Stn",-32.0020844444443990,115.890925,1,Bus
 0,142,27935,27935,"Curtin Central Bus Stn Stand 8","Curtin Central Bus Stn",-32.0020844444443990,115.890722777778,1,Bus
 0,142,27936,27936,"Curtin Central Bus Stn Stand 9","Curtin Central Bus Stn",-32.00208111111110,115.890531666667,1,Bus
-0,,27947,27947,"Main St Main Street","",-31.89339722222220,115.828363333333,1,Bus;School Bus
+0,,27947,27947,"Main St After Swan St","",-31.89339722222220,115.828363333333,1,Bus;School Bus
 0,,27951,27951,"Fifty Rd After Everest Wy","",-32.30801333333330,115.818699444444,5,Bus
 0,,27952,27952,"Nairn Dr After Fifty Rd","",-32.30742833333330,115.815612222222,5,Bus
 0,,27953,27953,"Nairn Dr Before Fifty Rd","",-32.307630,115.815714444444,5,Bus
