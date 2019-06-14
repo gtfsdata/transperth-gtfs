@@ -6092,14 +6092,14 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,17626,17626,"Melvista Av After Doonan Rd","",-31.9888772455,115.7969500990,1,Bus
 0,,17627,17627,"Melvista Av After Betty St","",-31.9887766658,115.7971219180,1,Bus
 0,,17628,17628,"Bay View Tce After Stirling Hwy","",-31.98409944444440,115.781457222222,2,Bus
-0,,17629,17629,"Bay View Tce Claremont Primary School","",-31.9856686359,115.7814900210,2,Bus
+0,,17629,17629,"Bay View Tce Claremont Primary School","",-31.98551777777780,115.781512777778,2,Bus
 0,,17630,17630,"Bay View Tce Before Victoria Av","",-31.98788389,115.7814933330,2,Bus
 0,,17631,17631,"Bay View Tce After Victoria Av","",-31.9877557412,115.7813297880,2,Bus
 0,,17632,17632,"Bay View Tce Claremont Primary School","",-31.9855944436,115.7813386960,2,Bus
 0,,17633,17633,"Bay View Tce Before Stirling Hwy","",-31.9837517988,115.7813320490,2,Bus
 0,,17635,17635,"Waratah Av After Hobbs Av","",-31.9948707874,115.8090107350,1,Bus;School Bus
 0,,17637,17637,"Waratah Av After Wavell Rd","",-31.9948667408,115.8047451170,1,Bus
-0,,17638,17638,"Waratah Av After Curlew Rd","",-31.9948581973,115.8009477780,1,Bus
+0,,17638,17638,"Waratah Av After Curlew Rd","",-31.9948655949,115.8011768150,1,Bus
 0,,17639,17639,"Waratah Av Dalkeith Shopping Centre","",-31.9948810539,115.7979006090,1,Bus
 0,,17640,17640,"Waratah Av Before Shrike L","",-31.99483777777780,115.795151666667,1,Bus
 0,,17641,17641,"Waratah Av Before Robert St","",-31.9948320375,115.7934264820,1,Bus
@@ -11744,6 +11744,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,142,27934,27934,"Curtin Central Bus Stn Stand 7","Curtin Central Bus Stn",-32.0020844444443990,115.890925,1,Bus
 0,142,27935,27935,"Curtin Central Bus Stn Stand 8","Curtin Central Bus Stn",-32.0020844444443990,115.890722777778,1,Bus
 0,142,27936,27936,"Curtin Central Bus Stn Stand 9","Curtin Central Bus Stn",-32.00208111111110,115.890531666667,1,Bus
+0,143,27943,27943,"Henley Brook Bus Stn Stand 3","Henley Brook Bus Stn",-31.80446055555560,115.961710555556,3,Bus
 0,143,27946,27946,"Henley Brook Bus Stn Stand 6","Henley Brook Bus Stn",-31.80408222222220,115.961454444444,3,Bus
 0,,27947,27947,"Main St After Swan St","",-31.89339722222220,115.828363333333,1,Bus;School Bus
 0,,27951,27951,"Fifty Rd After Everest Wy","",-32.30801333333330,115.818699444444,5,Bus
