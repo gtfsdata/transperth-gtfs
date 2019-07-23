@@ -1850,6 +1850,11 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12129,12129,"Barrack St Beaufort Street Bridge Blue Cat 4","Beaufort St / Beaufort St Bridge",-31.9519638888889010,115.861517777778,FTZ,Bus
 0,10,12130,12130,"Beaufort St Museum Blue Cat 5","Beaufort St / Museum",-31.95016388888890,115.862133333333,FTZ,Bus
 0,,12133,12133,"Beaufort St After Newcastle St","",-31.94670222222220,115.864340,FTZ,Bus
+0,,12134,12134,"Beaufort St After Brisbane St","",-31.9433171214,115.8664717440,1,Bus
+0,,12135,12135,"Beaufort St After Bulwer St","",-31.9418123087,115.8674396530,1,Bus
+0,,12136,12136,"Beaufort St After Lincoln St","",-31.94053166666670,115.868255555556,1,Bus
+0,,12137,12137,"Beaufort St After Chatsworth Rd","",-31.93898444444440,115.869234444444,1,Bus
+0,,12138,12138,"Beaufort St After Harold St","",-31.936825,115.8706,1,Bus
 0,,12139,12139,"Beaufort St Before Grosvenor Rd","Beaufort St / Walcott St",-31.93516555555560,115.871645555556,1,Bus
 0,,12140,12140,"Beaufort St Before Queens Cr","Perth College",-31.93236722222220,115.873827777778,1,Bus
 0,,12141,12141,"Beaufort St After Queens Cr","",-31.9310221702,115.8749580530,1,Bus
@@ -2344,7 +2349,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12748,12748,"Oceanic Dr Before Tullow Rd","",-31.93794777777780,115.782155,1,Bus;School Bus
 0,,12749,12749,"Oceanic Dr Before Bold Park Dr","",-31.9374267984,115.77975927,1,Bus;School Bus
 0,,12750,12750,"Oceanic Dr After Kalinda Drive","",-31.9397786935,115.7689891040,2,Bus;School Bus
-0,,12751,12751,"Oceanic Dr After Marapana Rd","Oceanic Dr / Marapana Rd",-31.93997333333330,115.766400555556,2,Bus;School Bus
+0,,12751,12751,"Oceanic Dr After Marapana Rd","Oceanic Dr / Marapana Rd",-31.93997333333330,115.766400555556,2,Bus
 0,,12752,12752,"Oceanic Dr After Tumut Rd","",-31.94001222222220,115.763490,2,Bus;School Bus
 0,,12755,12755,"Oceanic Dr After West Coast Hwy","",-31.9398252163,115.7637634060,2,Bus;School Bus
 0,,12756,12756,"Oceanic Dr Before Marapana Rd","",-31.9397792819,115.7664456570,2,Bus;School Bus
@@ -3882,18 +3887,12 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,14787,14787,"Robertson St Before James Av","",-31.9020189088,115.9913607090,2,Bus
 0,,14788,14788,"Robertson St Before Bushmead Rd","Robertson St / Bushmead Rd",-31.9003125915,115.9921855770,2,Bus
 0,,14789,14789,"West Pde After Robertson St","",-31.9039607496,115.9902971660,2,Bus
-0,,14790,14790,"Waterhall Rd After Nyinda Ent","",-31.9060763019,115.9881867430,2,Bus
-0,,14791,14791,"Waterhall Rd After Karreen Wy","",-31.9086136283,115.9887129140,2,Bus
-0,,14792,14792,"Waterhall Rd After Edgar Wilkes Ent","",-31.9114833052,115.9895071480,2,Bus
 0,,14794,14794,"Waterhall Rd Before Yorgan Ent","",-31.9140886835,115.98795556,2,Bus
 0,,14795,14795,"Waterhall Rd Before Nirimba Cl","",-31.9159140243,115.9870324550,2,Bus
 0,,14796,14796,"Waterhall Rd Before Wundu Ent","Waterhall Rd / Wundu Ent",-31.9171230493,115.9834595210,2,Bus
 0,,14797,14797,"Waterhall Rd After Wundu Ent","Waterhall Rd / Wundu Ent",-31.9171485204,115.9844906610,2,Bus
 0,,14798,14798,"Waterhall Rd After Nirimba Cl","",-31.9159385283,115.9868883840,2,Bus
 0,,14799,14799,"Waterhall Rd Before Yorgan Ent","",-31.9141437890,115.98780845,2,Bus
-0,,14800,14800,"Waterhall Rd After Edgar Wilkes Ent","",-31.9108459552,115.9892136380,2,Bus
-0,,14801,14801,"Waterhall Rd Before Karreen Wy","",-31.9086611376,115.9886227190,2,Bus
-0,,14802,14802,"Waterhall Rd After Karreen Wy","",-31.9061772624,115.9881365520,2,Bus
 0,,14803,14803,"Hamersley St After North St","",-31.8844289986,116.0134795770,2,Bus
 0,,14804,14804,"Hamersley St Before Margaret St","Hamersley St / Margaret St",-31.8821206857,116.0134896550,2,Bus
 0,,14805,14805,"Hamersley St Before George St","Hamersley St / Margaret St",-31.8823782450,116.0135790820,2,Bus
@@ -3928,7 +3927,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,14846,14846,"Stewartby Cr After Harford Av","",-31.8731959158,115.9992102510,2,Bus;School Bus
 0,,14847,14847,"Sefton Av After Stewartby Cr","",-31.8750956796,115.9984101930,2,Bus;School Bus
 0,,14848,14848,"Harford Av After Ashby Tce","",-31.8741659714,115.9976278540,2,Bus;School Bus
-0,,14849,14849,"Eveline Rd Swan District Hospital","Eveline Rd / Great Northern Hwy",-31.8747665825,116.00777282,2,Bus
 0,,14852,14852,"Toodyay Rd Before Holding St","",-31.8710382769,116.0198059380,3,Bus
 0,,14853,14853,"Toodyay Rd After Patterson Dr","",-31.8695392766,116.0230253640,3,Bus
 0,,14854,14854,"Toodyay Rd After Brown St","Toodyay Rd / Brown St",-31.8686319987,116.0249808240,3,Bus
@@ -7563,7 +7561,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,19457,19457,"Brockway Rd After John 23rd Av","",-31.9583360625,115.7913427580,1,Bus;School Bus
 0,,19461,19461,"Stephenson Av After Perry Lakes Dr","",-31.9513014958,115.7802880090,1,Bus
 0,,19462,19462,"Stephenson Av Hbf Stadium","",-31.9530551993,115.7793973210,1,Bus
-0,,19463,19463,"Launceston Av After Saltash Av","Launceston Av / Branksome Gdns",-31.9508387846,115.7604681570,2,Bus;School Bus
+0,,19463,19463,"Launceston Av After Saltash Av","Launceston Av / Branksome Gdns",-31.9508387846,115.7604681570,2,Bus
 0,,19464,19464,"Montgomery Av After Stephenson Av","",-31.9579087468,115.7760883190,1,Bus;School Bus
 0,,19465,19465,"Montgomery Av Before Regents Bvd","",-31.9598938666,115.7768363230,1,Bus;School Bus
 0,,19466,19466,"Montgomery Av After Saint Johns Wood Bvd","",-31.96252722222220,115.778072777778,1,Bus;School Bus
@@ -7911,6 +7909,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,19949,19949,"Murdoch Dr Before South St","",-32.06421277777780,115.842766666667,2,Bus
 0,,19950,19950,"Murdoch Dr After South St","",-32.0664539486,115.84205203,2,Bus
 0,,19953,19953,"Murdoch Dr Rangeview Remand Centre","",-32.0757155053,115.8429119390,2,Bus
+0,,19954,19954,"Murdoch Dr Rangeview Remand Centre","",-32.0763713884,115.8424769740,2,Bus;School Bus
 0,,19955,19955,"Murdoch Dr Murdoch University","",-32.0738179928,115.8430397310,2,Bus;School Bus
 0,,19957,19957,"Murdoch Dr Before South St","",-32.0667449033,115.8416045140,2,Bus
 0,,19958,19958,"Murdoch Dr After South St","",-32.0643430056,115.8423664160,2,Bus
@@ -9287,7 +9286,6 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,21903,21903,"Kingsway   After Carlingford Dr","",-31.8131757110,115.8442797880,2,Bus
 0,,21904,21904,"Kingsway   After Ashdale Bvd","",-31.8132597140,115.8435936730,2,Bus
 0,,21905,21905,"Kingsway . After Carripan Rd","Kingsway Christian College",-31.81326666666670,115.838177777778,2,Bus
-0,,21906,21906,"Kingsway   Before Regency Av","Kingsway / Hartman Dr",-31.8132544014,115.8341363360,2,Bus
 0,85,21907,21907,"Clarkson Stn Stand 6","Clarkson Stn",-31.69018611111110,115.737111111111,4,Bus;School Bus
 0,85,21908,21908,"Clarkson Stn Stand 5","Clarkson Stn",-31.69034444444450,115.737157222222,4,Bus
 0,85,21909,21909,"Clarkson Stn Stand 4","Clarkson Stn",-31.69050333333330,115.737203333333,4,Bus
@@ -11729,8 +11727,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,27917,27917,"Viva Bvd Ridgeway Senior High School Stand 3","Ridge View Secondary College Stand 3",-32.36010166666670,115.818352777778,5,Bus
 0,,27918,27918,"Viva Bvd Ridgeway Senior High School Stand 4","Ridge View Secondary College S4",-32.35992055555560,115.818352222222,5,Bus
 0,,27919,27919,"Badgerup Av Coastal Lakes College Stand 2","",-32.4675141396,115.7632996780,7,Bus
-0,,27920,27920,"Badgerup Av Coastal Lakes College Stand 3","Coastal Lakes College Stand 2",-32.4677102806,115.7632458070,7,Bus
-0,,27921,27921,"Badgerup Av Coastal Lakes College Stand 1","Coastal Lakes College Stand 1",-32.46673666666670,115.763479444444,7,Bus;School Bus
+0,,27920,27920,"Badgerup Av Coastal Lakes College Stand 3","Coastal Lakes College",-32.4677102806,115.7632458070,7,Bus
+0,,27921,27921,"Badgerup Av Coastal Lakes College Stand 1","Coastal Lakes College",-32.46673666666670,115.763479444444,7,Bus;School Bus
 0,,27923,27923,"Paterson St After Keirnan St","",-32.28283888888890,115.990472777778,5,Bus
 0,,27924,27924,"Central Av After Dunreath Dr","",-31.93500833333330,115.949556666667,2,Bus
 0,,27925,27925,"Central Av Before Dunreath Dr","",-31.93514111111110,115.949988888889,2,Bus
