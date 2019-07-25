@@ -13348,7 +13348,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,74167,74167,"Stillwater Av After Waterfront Cir","",-28.668575,114.615035555556,2,Bus
 0,,74168,74168,"Stillwater Av After The Quarterdeck","",-28.67059444444440,114.614986666667,2,Bus
 0,,74263,74263,"Lockyer Av Before St Emile Wy","Lockyer Av / St Emilie Wy",-35.01971833333330,117.883759444444,1,Bus
-0,,74264,74264,"North Rd After Sanford Rd","",-35.00884388888890,117.884402777778,1,Bus
+0,,74264,74264,"North Rd After Sanford Rd","",-35.00884388888890,117.884402777778,1,Bus;School Bus
 0,,74265,74265,"Edward St After Beaufort Street","",-35.00124166666670,117.872236666667,1,Bus
 0,,74266,74266,"Chester Pass Rd Before John St","",-34.99016055555560,117.875040,1,Bus
 0,,74267,74267,"Viastra Dr After Mercer Rd","St Ives Village",-34.98706611111110,117.877893888889,1,Bus
@@ -13369,7 +13369,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,74282,74282,"Middleton Rd After Campbell Rd","",-35.01727944444450,117.891359444444,1,Bus
 0,,74283,74283,"Albany Hwy After Meyers Wy","",-35.01747944444450,117.878280555556,1,Bus
 0,,74284,74284,"Albany Hwy After South Coast Hwy","",-34.99943222222220,117.861416111111,1,Bus
-0,,74285,74285,"Albany Hwy After Edinburgh Rd","",-34.98738666666670,117.853394444444,1,Bus
+0,,74285,74285,"Albany Hwy After Edinburgh Rd","",-34.98738666666670,117.853394444444,1,Bus;School Bus
 0,,74286,74286,"Mcgonnell Rd After Edinburgh Rd","",-34.98874944444450,117.847452777778,1,Bus
 0,,74287,74287,"Le Grande Av After Abercorn St","",-34.99570944444450,117.849897222222,1,Bus
 0,,74288,74288,"Lurline St After Minor Rd","",-34.99917055555560,117.852813333333,1,Bus
@@ -13385,7 +13385,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,74302,74302,"Katoomba St After Le Grande Avenue","",-34.99794444444440,117.850579444444,1,Bus
 0,,74303,74303,"Galle St Before Grandis Way","",-34.99895166666660,117.882309444444,1,Bus
 0,,74304,74304,"Lockyer Av Before North Road","",-35.01146277777780,117.886708333333,1,Bus
-0,,74305,74305,"Lockyer Av After North Road","",-35.01156277777780,117.886900555556,1,Bus
+0,,74305,74305,"Lockyer Av After North Road","",-35.01156277777780,117.886900555556,1,Bus;School Bus
 0,,95000,95000,"Armadale Stn Armadale 1","Armadale (Rail)",-32.15377166666670,116.012988333333,4,Bus
 0,,95001,95001,"Armadale Stn Armadale 2","Armadale (Rail)",-32.15377833333330,116.013023333333,4,Bus
 0,,95002,95002,"Byford Stn Byford 1","Byford (Rail)",-32.2252633333333020,116.006801111111,4,Bus
