@@ -76,7 +76,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,103,10080,10080,"St Georges Tce Stand T - Before Barrack St","",-31.9562965820,115.8610525780,FTZ,Bus
 0,103,10081,10081,"St Georges Tce Stand M - Before Barrack St","",-31.9561841288,115.8607351910,FTZ,Bus
 0,103,10082,10082,"St Georges Tce Stand N - Before Barrack St","",-31.9559776129,115.8601019830,FTZ,Bus;School Bus
-0,111,10084,10084,"St Georges Tce Stand P - After Barrack St","",-31.9555300725,115.8587792060,FTZ,Bus
+0,111,10084,10084,"St Georges Tce Stand O P - After Barrack St","",-31.9555300725,115.8587792060,FTZ,Bus
 0,112,10085,10085,"St Georges Tce Stand R S - After Sherwood Ct","",-31.95536222222220,115.858272222222,FTZ,Bus
 0,112,10086,10086,"St Georges Tce Stand T - After Sherwood Ct","",-31.9552750592,115.8580024830,FTZ,Bus
 0,112,10087,10087,"St Georges Tce Stand M - Before Howard St","",-31.9552125491,115.8578022740,FTZ,Bus
@@ -352,7 +352,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,10408,10408,"Stirling Hwy Before Wilson St","",-31.9889507105,115.7687320310,2,Bus;School Bus
 0,,10409,10409,"Stirling Hwy Before Boreham St","",-31.9906041498,115.7679021690,2,Bus;School Bus
 0,,10410,10410,"Stirling Hwy After Airlie St","",-31.9931139865,115.7664945970,2,Bus;School Bus
-0,,10411,10411,"Stirling Hwy Before Vera St","",-31.99549555555560,115.764735555556,2,Bus
+0,,10411,10411,"Stirling Hwy Before Vera St","",-31.99495555555560,115.765118333333,2,Bus
 0,,10412,10412,"Stirling Hwy Before Clapham L","Stirling Hwy / Leake St",-31.9983596477,115.7627222790,2,Bus
 0,,10414,10414,"Stirling Hwy After Keane St","",-32.0020379546,115.7606868010,2,Bus
 0,,10415,10415,"Stirling Hwy After Johnston St","",-32.00406222222220,115.759822222222,2,Bus
@@ -1165,7 +1165,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,11350,11350,"Coode St Before Mills Av","Bayswater Stn / Coode St",-31.9179948111,115.9107987140,1,Bus
 0,,11351,11351,"Coode St After Francis St","",-31.91543944444440,115.907816666667,1,Bus
 0,,11352,11352,"Coode St After Belham St","",-31.9106729047,115.9022182520,1,Bus
-0,,11353,11353,"Coode St Before Catherine St","",-31.90610111111110,115.896883888889,1,Bus
+0,,11353,11353,"Coode St Before Catherine St","",-31.9062030387,115.8970237530,1,Bus
 0,,11354,11354,"Coode St After Walter Rd","",-31.8991821527,115.8887931410,1,Bus
 0,,11355,11355,"Rudloc Rd Before Drake St","",-31.9025299104,115.8957773180,1,Bus
 0,,11356,11356,"Russell St After Barnett Ct","John Forrest Secondary College",-31.90237777777780,115.901456666667,1,Bus
@@ -1849,6 +1849,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,12116,12116,"Centenary Av Before Manning Rd","",-32.01511944444440,115.899268888889,1,Bus
 0,,12129,12129,"Barrack St Beaufort Street Bridge Blue Cat 4","Beaufort St / Beaufort St Bridge",-31.9519638888889010,115.861517777778,FTZ,Bus
 0,10,12130,12130,"Beaufort St Museum Blue Cat 5","Beaufort St / Museum",-31.95016388888890,115.862133333333,FTZ,Bus
+0,10,12131,12131,"Beaufort St Museum Stop","Beaufort St / Museum",-31.9500099885,115.8622652410,FTZ,Bus
+0,10,12132,12132,"Beaufort St Museum Stand 1","Beaufort St / Museum",-31.94987166666670,115.862335555556,FTZ,Bus
 0,,12133,12133,"Beaufort St After Newcastle St","",-31.94670222222220,115.864340,FTZ,Bus
 0,,12134,12134,"Beaufort St After Brisbane St","",-31.9433171214,115.8664717440,1,Bus
 0,,12135,12135,"Beaufort St After Bulwer St","",-31.9418123087,115.8674396530,1,Bus
@@ -2990,6 +2992,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,13631,13631,"Cecil Av Before Sevenoaks St","",-32.01398277777780,115.942775555556,2,Bus;School Bus
 0,,13632,13632,"Cecil Av After Sevenoaks St","",-32.01404611111110,115.943188888889,2,Bus
 0,,13633,13633,"Cecil Av Before Carousel Rd","",-32.01504722222220,115.939921111111,2,Bus
+0,,13634,13634,"Cecil Av After Pattie St","Carousel Shop Ctr / Cecil Av",-32.01725944444440,115.936345555556,2,Bus
 0,,13642,13642,"Mills St Before Doust St","Bentley Health Service",-32.0071576132,115.9273032170,2,Bus
 0,,13648,13648,"Reginald St After Stephen St","",-32.0056612279,115.9515352410,2,Bus
 0,,13649,13649,"Reginald St Before Ayer Rd","",-32.0038182479,115.9536619680,2,Bus
@@ -3454,12 +3457,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,14254,14254,"Belmont Av Before Gabriel St","",-31.9695899859,115.9379411290,1,Bus
 0,,14255,14255,"Belmont Av Before Fulham St","",-31.9677023145,115.9356893680,1,Bus
 0,,14256,14256,"Belmont Av After Ross St","",-31.9638152212,115.9311340330,1,Bus
-0,,14257,14257,"Belmont Av Before Alexander Rd","",-31.9619513857,115.9289349210,1,Bus
-0,,14258,14258,"Belmont Av Before Esther St","",-31.9596787278,115.9262371280,1,Bus
 0,,14260,14260,"Belmont Av After Francisco St","",-31.95480722222220,115.9205,1,Bus
 0,,14262,14262,"Belmont Av After Francisco St","",-31.956170,115.922308333333,1,Bus
-0,,14264,14264,"Belmont Av After Sinclair St","",-31.9598125819,115.9266038310,1,Bus
-0,,14265,14265,"Belmont Av After Alexander Rd","",-31.96154166666670,115.928658333333,1,Bus
 0,,14266,14266,"Belmont Av After Ross St","",-31.9642162036,115.9317704810,1,Bus
 0,,14267,14267,"Belmont Av After Fulham St","",-31.9678076255,115.93600550,1,Bus
 0,,14268,14268,"Belmont Av After Gabriel St","",-31.9694946031,115.9379667060,1,Bus
@@ -3501,13 +3500,11 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,14307,14307,"Alexander Rd After Daly St","",-31.9536737079,115.9370197460,1,Bus
 0,,14308,14308,"Alexander Rd Before Arlunya Av","",-31.9553404977,115.9351390150,1,Bus
 0,,14309,14309,"Alexander Rd Before Abernethy Rd","",-31.9575811815,115.9325309360,1,Bus
-0,,14310,14310,"Alexander Rd Before Knutsford Av","",-31.96244944444440,115.926791666667,1,Bus
 0,,14311,14311,"Alexander Rd Before Saint Kilda Rd","",-31.96455055555550,115.924323333333,1,Bus
 0,,14312,14312,"Alexander Rd After Finlay Ct","",-31.9657785456,115.9229136040,1,Bus
 0,,14313,14313,"Alexander Rd Before Armadale Rd","",-31.9664587949,115.9218474130,1,Bus
 0,,14314,14314,"Alexander Rd After Acton Av","",-31.96392555555550,115.924848888889,1,Bus
 0,,14315,14315,"Alexander Rd Before Knutsford Av","",-31.9628463679,115.9261255990,1,Bus
-0,,14316,14316,"Alexander Rd Before Hutchison St","",-31.96182555555550,115.927313888889,1,Bus
 0,,14317,14317,"Alexander Rd After Abernethy Rd","",-31.9575025615,115.9323480220,1,Bus
 0,,14318,14318,"Alexander Rd After Arlunya Av","",-31.9551365889,115.9351061780,1,Bus
 0,,14319,14319,"Alexander Rd Before Daly St","",-31.9531073483,115.9374967640,1,Bus
@@ -3568,7 +3565,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,14385,14385,"Star St After Archer St","",-31.97392111111110,115.913327222222,1,Bus
 0,,14386,14386,"Star St Before Roberts Rd","",-31.9724429893,115.9116274510,1,Bus
 0,,14387,14387,"Star St After Roberts Rd","",-31.9735577106,115.9131125870,1,Bus
-0,,14388,14388,"Star St Before Archer St","Star St / Archer St",-31.9748111780,115.9145985680,1,Bus
+0,,14388,14388,"Star St Before Archer St","Star St / Archer St",-31.97481111111110,115.914598333333,1,Bus
 0,,14389,14389,"Star St After Archer St","",-31.9763517994,115.91637809,1,Bus
 0,,14390,14390,"Star St Before Asteroid Wy","",-31.9775503958,115.9177723780,1,Bus
 0,,14391,14391,"Star St After Asteroid Wy","",-31.9791546039,115.9196378860,1,Bus
@@ -3655,7 +3652,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,14486,14486,"Great Eastern Hwy After Ivy St","",-31.9236881843,115.9544734890,2,Bus
 0,,14487,14487,"Great Eastern Hwy After Fauntleroy Av","Great Eastern Hwy / Fauntleroy Av",-31.9261817743,115.9515883220,2,Bus
 0,,14488,14488,"Great Eastern Hwy Before Ben St","",-31.9278816389,115.9487155540,2,Bus
-0,,14489,14489,"Great Eastern Hwy After Coolgardie Av","Great Eastern Hwy / Coolgardie Av",-31.9293671934,115.9459892310,2,Bus
+0,,14489,14489,"Great Eastern Hwy After Coolgardie Av","Great Eastern Hwy / Coolgardie Av",-31.92943888888890,115.945852222222,2,Bus
 0,,14490,14490,"Great Eastern Hwy After Central Av","",-31.9311209592,115.9434753610,2,Bus
 0,,14491,14491,"Great Eastern Hwy Before Lyall St","Great Eastern Hwy / Tonkin Hwy",-31.9348895635,115.9373704990,1,Bus
 0,,14492,14492,"Great Eastern Hwy Before Epsom Av","",-31.93678166666670,115.934246666667,1,Bus
@@ -7909,7 +7906,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,19949,19949,"Murdoch Dr Before South St","",-32.06421277777780,115.842766666667,2,Bus
 0,,19950,19950,"Murdoch Dr After South St","",-32.0664539486,115.84205203,2,Bus
 0,,19953,19953,"Murdoch Dr Rangeview Remand Centre","",-32.0757155053,115.8429119390,2,Bus
-0,,19954,19954,"Murdoch Dr Rangeview Remand Centre","",-32.0763713884,115.8424769740,2,Bus;School Bus
+0,,19954,19954,"Murdoch Dr Rangeview Remand Centre","",-32.07581333333330,115.842417777778,2,Bus;School Bus
 0,,19955,19955,"Murdoch Dr Murdoch University","",-32.0738179928,115.8430397310,2,Bus;School Bus
 0,,19957,19957,"Murdoch Dr Before South St","",-32.0667449033,115.8416045140,2,Bus
 0,,19958,19958,"Murdoch Dr After South St","",-32.0643430056,115.8423664160,2,Bus
@@ -9144,12 +9141,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,21659,21659,"Hungerford Av Before Glencoe Pde","",-32.5457211423,115.7017381360,8,Bus;School Bus
 0,,21660,21660,"Coolibah Av Before Second Av","Coolibah Av / Pinjarra Rd",-32.5378956229,115.7382965350,7,Bus
 0,,21661,21661,"Coolibah Av Before Fifth Av","",-32.5403711471,115.73771213,7,Bus
-0,,21662,21662,"Coolibah Av After Denham St","",-32.5433319419,115.7363765450,8,Bus
-0,,21663,21663,"Coolibah Av Before Illabrook St","",-32.5459102863,115.7327481660,8,Bus
 0,,21664,21664,"Leslie St After Coolibah Av","Leslie St / Coolibah Av",-32.5478171633,115.7314638110,8,Bus
 0,,21665,21665,"Leslie St Before Coolibah Av","Leslie St / Coolibah Av",-32.5479448211,115.7314273780,8,Bus;School Bus
-0,,21666,21666,"Coolibah Av After Illabrook St","",-32.5459211751,115.7325623360,8,Bus
-0,,21667,21667,"Coolibah Av Before Gillark St","",-32.5432556033,115.7363277210,8,Bus
 0,,21668,21668,"Coolibah Av Before Third Av","",-32.5393856326,115.7378242920,7,Bus
 0,,21669,21669,"Coolibah Av After Second Av","Coolibah Av / Pinjarra Rd",-32.5374563344,115.7382775280,7,Bus
 0,,21670,21670,"Comet St After Kitchener St","",-32.5411225423,115.7280252850,8,Bus
@@ -11118,7 +11111,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,26859,26859,"Fauntleroy Av After Dunreath Dr","",-31.9287934001,115.9553690140,2,Bus
 0,,26860,26860,"Fauntleroy Av Before Dunreath Av","",-31.9287922075,115.9555234660,2,Bus
 0,,26862,26862,"Glasshouse Dr After Burma Loop","Glasshouse Dr / Burma Loop",-31.69045611111110,115.796419444444,4,Bus
-0,,26865,26865,"Yanchep Beach Rd After St Andrews Dr","Yanchep Beach Rd / Parkland Cr",-31.54882277777780,115.655552777778,6,Bus
+0,,26865,26865,"Yanchep Beach Rd After St Andrews Dr","Yanchep Beach Rd / Parkland Dr",-31.54882277777780,115.655552777778,6,Bus
 0,,26866,26866,"Soldiers Rd Before Cardup Siding Rd","",-32.2423549412,116.0011663610,4,Bus
 0,,26867,26867,"Berkshire Rd Before Berberis Wy","",-31.97881574,116.0116791370,2,Bus;School Bus
 0,,26868,26868,"Berkshire Rd After Berberis Wy","",-31.9788162426,116.0118199420,2,Bus;School Bus
@@ -11796,14 +11789,15 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,28037,28037,"West Pde After Waterhall Rd","",-31.9055,115.986563888889,2,Bus
 0,,28038,28038,"Serpentine Dr After Ord Wy","",-31.90867444444440,115.983167777778,2,Bus
 0,,28039,28039,"Serpentine Dr After Karreeen Wy","",-31.91061444444440,115.985973333333,2,Bus
-0,,28040,28040,"Serpentine Dr Before Waterhall Rd","",-31.91120222222220,115.988772222222,2,Bus
-0,,28041,28041,"Serpentine Dr After Edgar Wilkes Ent","",-31.911290,115.988331666667,2,Bus
+0,,28040,28040,"Edgar Wilkes Ent Before Waterhall Rd","",-31.91120222222220,115.988772222222,2,Bus
+0,,28041,28041,"Serpentine Dr After Edgar Wilkes Ent","",-31.91130222222220,115.988333333333,2,Bus
 0,,28042,28042,"Serpentine Dr Before Karreen Wy","",-31.91060777777780,115.985852222222,2,Bus
 0,,28043,28043,"Serpentine Dr Before Ord Wy","",-31.90864277777780,115.983001111111,2,Bus
 0,,28044,28044,"West Pde Before Waterhall Rd","",-31.90546166666670,115.986310,2,Bus
 0,10,28045,28045,"Beaufort St Before Francis St","Beaufort St / Museum",-31.94953944444440,115.862563333333,FTZ,Bus
 0,,28047,28047,"Cimarron Edge Before Camden Way","",-32.49629055555560,115.758856111111,7,Bus
 0,,28048,28048,"Dornoch Way Before Grantwood Dr","",-32.49083722222220,115.760342222222,7,Bus
+0,,28056,28056,"Karoonda Rd After Nunweek Street","",-32.03929888888890,115.838890,2,Bus
 0,,70000,70000,"Anzac Tce After Durlacher St","Anzac Tce",-28.77328222222220,114.612475555556,1,Bus
 0,,70001,70001,"Anzac Tce Before Durlacher St","Anzac Tce ",-28.77343166666670,114.612454444444,1,Bus
 0,,70003,70003,"Chapman Rd Before Mark St","",-28.76018222222220,114.615859444444,1,Bus;School Bus
@@ -12525,7 +12519,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,71862,71862,"Forrest Av After Mary St","",-33.3397927777778020,115.644783333333,1,Bus;School Bus
 0,,71863,71863,"Forrest Av After Alexander St","Bunbury Plaza",-33.3370433333332980,115.641308888889,1,Bus;School Bus
 0,,71864,71864,"Underwood St After Kinkella Dr","",-33.3622922034,115.6515813590,1,Bus;School Bus
-0,,71865,71865,"Eulalia St After Hamersley Dr","",-33.3605877777778020,115.65051388888899,1,Bus
+0,,71865,71865,"Eulalia St After Hamersley Dr","",-33.3605877777778020,115.65051388888899,1,Bus;School Bus
 0,,71866,71866,"Barr Rd After Brittain Rd","Barr St / Brittain Rd",-33.35666944444440,115.649164444444,1,Bus;School Bus
 0,,71867,71867,"Ecclestone St After Nuytsia Av","",-33.3524838888888980,115.651288333333,1,Bus;School Bus
 0,,71868,71868,"Ecclestone St After Lowe St","",-33.3506894444443990,115.65130555555599,1,Bus;School Bus
@@ -12543,7 +12537,7 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,71881,71881,"Ecclestone St After Bright St","",-33.35097722222220,115.651367222222,1,Bus;School Bus
 0,,71882,71882,"Ecclestone St After Winton St","",-33.35262388888890,115.651379444444,1,Bus;School Bus
 0,,71883,71883,"Barr Rd Before Brittain Rd","Barr St / Brittain Rd",-33.35748888888890,115.649234444444,1,Bus;School Bus
-0,,71884,71884,"Eulalia St After Hamersley Dr","",-33.3607059390,115.65062029,1,Bus
+0,,71884,71884,"Eulalia St After Hamersley Dr","",-33.3607059390,115.65062029,1,Bus;School Bus
 0,,71885,71885,"Underwood St After Pierre St","",-33.3623500261,115.6516958840,1,Bus;School Bus
 0,,71888,71888,"Ocean Dr After Mangles St","",-33.3499372222222020,115.621081111111,1,Bus;School Bus
 0,,71889,71889,"Hastie St After Ocean Dr","Hastie St / Ocean Dr",-33.3547927777778030,115.620163888889,1,Bus;School Bus
@@ -12625,8 +12619,8 @@ location_type, parent_station, stop_id, stop_code, stop_name, stop_desc, stop_la
 0,,71996,71996,"Timperley Rd After Smythe Cr","Timperley Rd / Smythe Cr",-33.35342444444440,115.634906666667,1,Bus
 0,,71997,71997,"Timperley Rd Before Smythe Cr","Timperley Rd / Smythe Cr",-33.35353166666670,115.634906666667,1,Bus
 0,,71998,71998,"Timperley Rd Before Minninup Rd","",-33.3534811111111010,115.631302222222,1,Bus
-0,,71999,71999,"Kennedy St After Brittain Rd","Kennedy St / Brittain Rd",-33.35986666666670,115.646645,1,Bus
-0,,72005,72005,"Kennedy St After Hamersley Dr","Kennedy St / Brittain Rd",-33.35983333333330,115.646481111111,1,Bus
+0,,71999,71999,"Kennedy St After Brittain Rd","Kennedy St / Brittain Rd",-33.35986666666670,115.646645,1,Bus;School Bus
+0,,72005,72005,"Kennedy St After Hamersley Dr","Kennedy St / Brittain Rd",-33.35983333333330,115.646481111111,1,Bus;School Bus
 0,,72008,72008,"Knight St Newton Moore Shs","Newton Moore Senior High School",-33.36106444444440,115.635175555556,1,Bus;School Bus
 0,,72009,72009,"Upper Esp Bunbury Shs","Bunbury Senior High School",-33.32674333333330,115.631813888889,1,Bus
 0,,72010,72010,"Allen St After Trott St","Cooinda Primary School",-33.3344211111110980,115.652749444444,1,Bus
